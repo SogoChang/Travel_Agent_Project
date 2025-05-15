@@ -1,6 +1,7 @@
 # Travel Agent Project
 
-## 🧭 專案簡介
+## 🧭 專案簡介 
+[專案連結](https://github.com/SogoChang/Travel_Agent_Project.git)
 
 本專案開發了一個旅遊代理人 AI，能夠根據使用者的偏好與需求，推薦適合的景點。透過整合景點資料與使用者輸入，系統能夠提供個性化的旅遊建議，提升旅遊體驗。
 
