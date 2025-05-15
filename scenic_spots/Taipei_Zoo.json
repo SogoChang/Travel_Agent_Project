@@ -1,0 +1,943 @@
+{
+    "name": "Taipei Zoo",
+    "tripadvisor": {
+        "location_id": "1656808",
+        "name": "Taipei Zoo",
+        "description": "The largest zoo in Asia, this was original a private zoological garden. The giant panda house, Formosan animal area, koala house and Asian tropical rainforest area are of particular note.",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13808394-d1656808-Reviews-Taipei_Zoo-Wenshan_Taipei.html?m=66827",
+        "address_obj": {
+            "street1": "No.30, Section 2, Xinguang Road",
+            "street2": "",
+            "city": "Wenshan",
+            "country": "Taiwan",
+            "postalcode": "11656",
+            "address_string": "No.30, Section 2, Xinguang Road, Wenshan, Taipei 11656 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Wenshan",
+                "location_id": "13808394"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taipei",
+                "location_id": "293913"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "24.99899",
+        "longitude": "121.581085",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 2 2938 2300",
+        "website": "http://english.zoo.gov.taipei",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13808394-d1656808-Taipei_Zoo-Wenshan_Taipei.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13808394",
+            "ranking_string": "#1 of 36 things to do in Wenshan",
+            "geo_location_name": "Wenshan",
+            "ranking_out_of": "36",
+            "ranking": "1"
+        },
+        "rating": "4.3",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+        "num_reviews": "3248",
+        "review_rating_count": {
+            "1": "38",
+            "2": "57",
+            "3": "412",
+            "4": "1252",
+            "5": "1489"
+        },
+        "photo_count": "3428",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13808394-d1656808-m66827-Reviews-Taipei_Zoo-Wenshan_Taipei.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "nature_parks",
+                "localized_name": "Nature & Parks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            },
+            {
+                "name": "outdoor_activities",
+                "localized_name": "Outdoor Activities"
+            },
+            {
+                "name": "zoos_aquariums",
+                "localized_name": "Zoos & Aquariums"
+            },
+            {
+                "name": "activities",
+                "localized_name": "Activities"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Zoos & Aquariums",
+                "localized_name": "Zoos & Aquariums",
+                "categories": [
+                    {
+                        "name": "Zoos",
+                        "localized_name": "Zoos"
+                    }
+                ]
+            },
+            {
+                "name": "Nature & Parks",
+                "localized_name": "Nature & Parks",
+                "categories": [
+                    {
+                        "name": "Zoos",
+                        "localized_name": "Zoos"
+                    }
+                ]
+            },
+            {
+                "name": "Outdoor Activities",
+                "localized_name": "Outdoor Activities",
+                "categories": [
+                    {
+                        "name": "Zoos",
+                        "localized_name": "Zoos"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "68"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "588"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "331"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "1295"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "513"
+            }
+        ],
+        "awards": [
+            {
+                "award_type": "Travelers Choice",
+                "year": "2024",
+                "images": {
+                    "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png"
+                },
+                "categories": [],
+                "display_name": "Travelers Choice"
+            }
+        ]
+    },
+    "google": {
+        "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo",
+        "id": "ChIJj4EySmCqQjQRZte0Cf0G_qo",
+        "types": [
+            "zoo",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "02 2938 2300",
+        "internationalPhoneNumber": "+886 2 2938 2300",
+        "formattedAddress": "No. 30\u865f, Section 2, Xinguang Rd, Wenshan District, Taipei City, Taiwan 116",
+        "addressComponents": [
+            {
+                "longText": "30\u865f",
+                "shortText": "30\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 2, Xinguang Road",
+                "shortText": "Section 2, Xinguang Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Maokong",
+                "shortText": "Maokong",
+                "types": [
+                    "neighborhood",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u842c\u8208\u91cc",
+                "shortText": "\u842c\u8208\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Wenshan District",
+                "shortText": "Wenshan District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taipei City",
+                "shortText": "Taipei City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "116",
+                "shortText": "116",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QP3XHXJ+C9",
+            "compoundCode": "XHXJ+C9 Taiwan, \u53f0\u5317\u5e02\u6587\u5c71\u5340\u842c\u8208\u91cc"
+        },
+        "location": {
+            "latitude": 24.9985635,
+            "longitude": 121.58098570000001
+        },
+        "viewport": {
+            "low": {
+                "latitude": 24.997407419708498,
+                "longitude": 121.57957276970852
+            },
+            "high": {
+                "latitude": 25.0001053802915,
+                "longitude": 121.5822707302915
+            }
+        },
+        "rating": 4.6,
+        "googleMapsUri": "https://maps.google.com/?cid=12321293314391594854",
+        "websiteUri": "https://www.zoo.gov.taipei/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T09:00:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 30\u865f, Section 2, Xinguang Rd, \u842c\u8208\u91cc</span> <span class=\"locality\">Wenshan District</span>, <span class=\"region\">Taipei City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">116</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 72878,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#4DB546",
+        "displayName": {
+            "text": "Taipei Zoo",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Zoo",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T09:00:00Z"
+        },
+        "primaryType": "zoo",
+        "shortFormattedAddress": "No. 30\u865f, Section 2, Xinguang Rd",
+        "editorialSummary": {
+            "text": "Large indoor-outdoor zoo in a scenic setting with a children\u2019s area, gondola & shuttle train.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMzVleWlRRRAB",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 4,
+                "text": {
+                    "text": "Probably the most affordable zoo entry we\u2019ve ever come across. We visited on Children\u2019s Day, so the crowd was intense, but we still managed to get in within 10 minutes. The zoo is massive \u2014 it\u2019s unlikely you\u2019ll cover the entire place in a single day, especially with the crowd and weather.\n\nWe appreciated how the zoo is thoughtfully categorised into different themes, making the experience more engaging. Conveniently, there\u2019s a McDonald\u2019s and several street vendors nearby, so food isn\u2019t a concern.\n\nWe rented a stroller too, the best decision ever. I believe it\u2019s 100NTD with a 1000NTD cash deposit.\n\nOverall, it was an enjoyable visit, though the heavy crowd meant certain enclosures had waiting times of up to 30 minutes. Still, it\u2019s well worth a visit if you\u2019re in the area.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Probably the most affordable zoo entry we\u2019ve ever come across. We visited on Children\u2019s Day, so the crowd was intense, but we still managed to get in within 10 minutes. The zoo is massive \u2014 it\u2019s unlikely you\u2019ll cover the entire place in a single day, especially with the crowd and weather.\n\nWe appreciated how the zoo is thoughtfully categorised into different themes, making the experience more engaging. Conveniently, there\u2019s a McDonald\u2019s and several street vendors nearby, so food isn\u2019t a concern.\n\nWe rented a stroller too, the best decision ever. I believe it\u2019s 100NTD with a 1000NTD cash deposit.\n\nOverall, it was an enjoyable visit, though the heavy crowd meant certain enclosures had waiting times of up to 30 minutes. Still, it\u2019s well worth a visit if you\u2019re in the area.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Shengyang Yu",
+                    "uri": "https://www.google.com/maps/contrib/116678951093768736283/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzdrzsAH2UgwRaVFNmn4fFs-Jkd5h-95-IljKNY7PpXmH7Bzlm=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-04-21T14:54:30.802452Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJMzVleWlRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJMzVleWlRRRAB!2m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            },
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/reviews/ChdDSUhNMG9nS0VJQ0FnTURvaklQb2dBRRAB",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "Taipei Zoo is an impressive and expansive attraction that offers something for everyone. During my recent visit with my son, we spent a full six hours exploring, and we still didn\u2019t get to see everything!\n\nThe zoo is a home to a wide variety of animals, from pandas and elephants to koalas and penguins. One of the highlights was the Dinosaurs Exhibition, which was both educational and entertaining\u2014my son loved it! The insectarium was another fascinating section, showcasing unique bugs and butterflies.\n\nDespite the long hours we spent there, we couldn\u2019t cover every exhibit, which just means we\u2019ll have to visit again. The zoo is well-maintained, with plenty of shaded areas and resting spots, making it comfortable even on a warm day.\n\nThe Taipei Zoo is a must-visit for families and animal lovers. Plan for a full day, wear comfortable shoes, and enjoy a fantastic adventure!\n\nWould definitely return to see the rest!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Taipei Zoo is an impressive and expansive attraction that offers something for everyone. During my recent visit with my son, we spent a full six hours exploring, and we still didn\u2019t get to see everything!\n\nThe zoo is a home to a wide variety of animals, from pandas and elephants to koalas and penguins. One of the highlights was the Dinosaurs Exhibition, which was both educational and entertaining\u2014my son loved it! The insectarium was another fascinating section, showcasing unique bugs and butterflies.\n\nDespite the long hours we spent there, we couldn\u2019t cover every exhibit, which just means we\u2019ll have to visit again. The zoo is well-maintained, with plenty of shaded areas and resting spots, making it comfortable even on a warm day.\n\nThe Taipei Zoo is a must-visit for families and animal lovers. Plan for a full day, wear comfortable shoes, and enjoy a fantastic adventure!\n\nWould definitely return to see the rest!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "sorlo s",
+                    "uri": "https://www.google.com/maps/contrib/113056781623862893670/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUkfrVUBe_CxOZo_wvt5IkyAkikdcpiuIIYuUm57ITD3Xbsbjy=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-22T12:24:51.058446Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvaklQb2dBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvaklQb2dBRRAB!2m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            },
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRcVpfVS1nRRAB",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Wonderful experience at Taipei Zoo. I purchased my admission tickets in advance from Klook, wasn't too expensive. Would be effective as you'll just need to show the QR to the staff at the gate & they verify the number of pax. Then he'll scan the QR with his handheld, and you'll be let in.\n\nI reached at around 1:05pm where there wasn't a queue in the entrance, nor ticketing.\n\nBut there were groups of school kids there for their excursions.\n\nToilets and water dispensers, convenient and souvenir Nahi shopes were conveniently located, I'd say one or two in each zone. And they're mostly well maintained.\n\nThe zoo is huge. But walkable for people. There's a Tram to bring you from the the bottom to the top of the zoo. Most of the attractions still needs to locate by foot.\n\nNot forgetting to add, as an adult, I'm amazed of how educational this zoo is. Information of the animals could even be found in toilets.\n\nJust a pity, the Pandas wasn't in the exhibition when we were there.\n\nDidn't see the Tigers, Capybaras, Pangolins too. It's like, they didn't came to work \ud83d\ude02",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Wonderful experience at Taipei Zoo. I purchased my admission tickets in advance from Klook, wasn't too expensive. Would be effective as you'll just need to show the QR to the staff at the gate & they verify the number of pax. Then he'll scan the QR with his handheld, and you'll be let in.\n\nI reached at around 1:05pm where there wasn't a queue in the entrance, nor ticketing.\n\nBut there were groups of school kids there for their excursions.\n\nToilets and water dispensers, convenient and souvenir Nahi shopes were conveniently located, I'd say one or two in each zone. And they're mostly well maintained.\n\nThe zoo is huge. But walkable for people. There's a Tram to bring you from the the bottom to the top of the zoo. Most of the attractions still needs to locate by foot.\n\nNot forgetting to add, as an adult, I'm amazed of how educational this zoo is. Information of the animals could even be found in toilets.\n\nJust a pity, the Pandas wasn't in the exhibition when we were there.\n\nDidn't see the Tigers, Capybaras, Pangolins too. It's like, they didn't came to work \ud83d\ude02",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "\u028d\u027e\u0274",
+                    "uri": "https://www.google.com/maps/contrib/103383404265528637492/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxICxksDBoWOljZqTWb-uotkWvr-HsC5xUuksPrhcFYJpZb8QV=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-03-07T19:46:29.137665Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRcVpfVS1nRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRcVpfVS1nRRAB!2m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            },
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZNUoyYVJREAE",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "This one super huge zoo! It\u2019s easily accessible via the MRT as it\u2019s the last stop, definitely wouldn\u2019t miss it. Buying the tickets is also very easy, we came on a weekday so there weren\u2019t a lot of people. We got our tickets from the automated machines and we got in pretty seamlessly. A lot of the animals were sleeping though. Until we reached the African animals area, they were more in the open and awake. We just managed to explore 2 areas and got quite tired and took the shuttle to the cable car area.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "This one super huge zoo! It\u2019s easily accessible via the MRT as it\u2019s the last stop, definitely wouldn\u2019t miss it. Buying the tickets is also very easy, we came on a weekday so there weren\u2019t a lot of people. We got our tickets from the automated machines and we got in pretty seamlessly. A lot of the animals were sleeping though. Until we reached the African animals area, they were more in the open and awake. We just managed to explore 2 areas and got quite tired and took the shuttle to the cable car area.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Wani Abd Ghafar",
+                    "uri": "https://www.google.com/maps/contrib/102971422989120014345/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXD3HVdtJbzeHBFtx9x5rVUtNL5HRZDBhNTr7IPGem7bJJsRMot=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-05-01T15:07:58.091587Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZNUoyYVJREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZNUoyYVJREAE!2m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            },
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/reviews/ChZDSUhNMG9nS0VJQ0FnTURJcmVqVVd3EAE",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Okay, so Taipei Zoo isn't just big, it's massive. You could easily spend an entire day wandering through all the different sections and still feel like you've missed a bunch. It's the kind of place where you keep thinking you've seen it all, and then you turn a corner and there's another whole area to explore. And the fact that it doesn't break the bank to get in? That's just a huge bonus. You get so much bang for your buck.\nBut the real magic for me was finally standing in front of animals I've only ever seen in books or on a screen. You know, those animals that feel almost mythical until you see them with your own eyes. The rhinoceroses were just these incredible, powerful-looking creatures, like something out of prehistory. And the elephants? Their sheer size is breathtaking, but there's also this calm, intelligent look in their eyes that's really something. Then there were the hippos, these huge, almost comical-looking things lounging in the water. It's hard to describe the feeling of actually seeing them \u2013 it's like your imagination suddenly becomes real. They're not just pictures; they're living, breathing beings, and you're right there, watching them. It gives you this whole new level of appreciation for how amazing the natural world is.\nHonestly, trying to cram it all into one day felt like a race against the clock. Every time I thought I was ready to move on, I'd spot another path leading to a new exhibit and think, \"Just a quick peek!\" Next thing I knew, another hour had gone by. There's just so much to take in. I left feeling like I'd seen a lot, but also knowing there was so much more waiting to be discovered. I'm already mentally planning my return trip, figuring out which sections I want to spend more time in. If you're ever anywhere near Taipei, making a trip to this zoo should be high on your list. It's not just a way to kill time; it's a genuine adventure and a chance to connect with some truly incredible animals. Trust me, it's an experience you won't forget.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Okay, so Taipei Zoo isn't just big, it's massive. You could easily spend an entire day wandering through all the different sections and still feel like you've missed a bunch. It's the kind of place where you keep thinking you've seen it all, and then you turn a corner and there's another whole area to explore. And the fact that it doesn't break the bank to get in? That's just a huge bonus. You get so much bang for your buck.\nBut the real magic for me was finally standing in front of animals I've only ever seen in books or on a screen. You know, those animals that feel almost mythical until you see them with your own eyes. The rhinoceroses were just these incredible, powerful-looking creatures, like something out of prehistory. And the elephants? Their sheer size is breathtaking, but there's also this calm, intelligent look in their eyes that's really something. Then there were the hippos, these huge, almost comical-looking things lounging in the water. It's hard to describe the feeling of actually seeing them \u2013 it's like your imagination suddenly becomes real. They're not just pictures; they're living, breathing beings, and you're right there, watching them. It gives you this whole new level of appreciation for how amazing the natural world is.\nHonestly, trying to cram it all into one day felt like a race against the clock. Every time I thought I was ready to move on, I'd spot another path leading to a new exhibit and think, \"Just a quick peek!\" Next thing I knew, another hour had gone by. There's just so much to take in. I left feeling like I'd seen a lot, but also knowing there was so much more waiting to be discovered. I'm already mentally planning my return trip, figuring out which sections I want to spend more time in. If you're ever anywhere near Taipei, making a trip to this zoo should be high on your list. It's not just a way to kill time; it's a genuine adventure and a chance to connect with some truly incredible animals. Trust me, it's an experience you won't forget.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Eivon Lauron",
+                    "uri": "https://www.google.com/maps/contrib/115643100630787273092/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUb_Jxiz3IYe9RH6u56rPMXX2wrRpSa8uawwZatdj9TsUi1vOnt=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-04-12T05:04:43.749817Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJcmVqVVd3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJcmVqVVd3EAE!2m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/photos/AXQCQNSnKc0IORzLIspcvs6ZvzV9XHjtfuep3jm7wcrXXZAZG6kp4XLq0BmjQc2Q6H4u_iotpceLWLBeL3QlpaobBneA7ALsTlHsnbXT1qe4ct1oReUCnU0Q3LG1QqRcI5o5wGru2BkNWwuCodSnunhgY3_BvjSrhe-7s5gFkhrZC27gva9kDvNF_bobY-C2nyfaagO1pkkBR-JB0jZv2KJksZGb90MvbC_zcnTWlfbK10P42S5wc9OKmHoccEXDW6D_USRnQXOwIDPXycHgDYvADHYYDSXb41jMUmvc_TCdch1l35szv6YeyltmK_Ky5EGVP7Oj25kr3jZMiAzURlScXcRp6OLcglQN3pl71DAXzYX_XmMOHLlM0AcpfpNbFxJn8vl2zEHtdI9xJdL-4q39tR1QQnGfnjjKKcM1VxPHFopLvQ",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "jack chang",
+                        "uri": "https://maps.google.com/maps/contrib/105210278478122330175",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHf84jvczIsKH2HBmvtl00KUDp1Ou3dcKz7Wcjl306JEgpNK1g=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu7dSIEQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu7dSIEQ!2e10!4m2!3m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            },
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/photos/AXQCQNQzrCN0FCZXOv-uY8pKRJuMFBcyAxv4HiwxnHl7ERWnMVlQFS4GhCKc7V0dAZf6SDmyce6NCVaNi2_F646qmLO6fUIPE3m2xckTvcuL8cl3IBmXnp3p0T68R52vFTff2n3HpOvgzfyK5Ov5mZEKIlwgL1cPdXVho1e-AVjMnmKWrPBM4wpCpEWJwIV5y6_XPDriUPjAcZJSjxWdXI0wct7ZGjj4aZBzSyPWBpa7vq3Sx7VoavRE1Q1iGr33-UugYAOR5q_7KswFzOwjlWwSUqrPelGUabU5SGKRsru1k2Hu6ur4eaTkwWWd62P__wOiC7DwZwcQypoTBD9l6GtA9ltlyoOZxbx4ddd7CN7AydJ77C8AC0L6KBxl3ehMOeAsc9XmVYe7AhqzCjQh6pLfqgysiScFBlnPkQS8RTPhtLFyrI4",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u963f\u838a",
+                        "uri": "https://maps.google.com/maps/contrib/114149063826601951327",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUIozeeNWkwjDviwsBqVhFLKnP5MMMwaEsckrsrHvohiRjtPLX8w=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRybzeogE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRybzeogE!2e10!4m2!3m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            },
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/photos/AXQCQNS3-jztl2vyXyG2yygYKpSpwTH4pQfE37Sfndwa5Q047ab6g1bCHqte_HTRzidEgGCQj027N2zuPP49EKPjFk7ZdNirX6_em-AO_shsDe48DK9MfCW7KxJp8whQxgoZyYdHbx5gjQLN1sLxgrR7Tyjn4jrkarD5z3Kmim-sCBWJCc1p15Bdb6tC9Q2XCJlVCE6aeboUBtkRjbFlmDV7Zdh8b2ZK64BkbTHGZQk_JB_mU8572Gm0Ap5zcKwGfBzlowXpw8RCVke9c7KBQ3ITNSkR2mQkRl7l_hJX2DCIeux-9fnJaeYX1DxQkAf8cz2UOIpF10kzdWvBocpW168tcRXacvkuyqzpr3cVYZsQJyWWLnA_sjEvCaTwqXWnMyGfFMO_7a1MrTmjUHem562J-QmA60tbo8_v8yHm2CRR4WwmwzNX",
+                "widthPx": 2048,
+                "heightPx": 1365,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6797\u5343\u91ce",
+                        "uri": "https://maps.google.com/maps/contrib/105667610669921712404",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX84WrN3zKggjBB7fUV705_2X7n2o7y5zSKEDzpbr9bcTP7f1H_=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDXnZKjjQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXnZKjjQE!2e10!4m2!3m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            },
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/photos/AXQCQNTczRXJusO2WjoTPBMcbHoRuAzxAC_azfJDALDI5Lf0djZtWCkpSWbEhujhkoiRN-iW5vcxjWKbGNqnQbV1pwfjyVYcT9H3Kfi4L8dAKc0ztb-_N73hWJ8Pvp87MoceMkEhxn6KtzEwW2k3mdsRBnc2ryMXNQ5YDsW_5O4D-9tUih2wNxRUtpm6YdEulejx9HN8kuhJamhg0HsFU_YEtTfcbC8c__V5k14_5Kg5APr2xga2sYpXmRW172YsMrMFkjs7h83H5GSpvbu1noGnffJueDBJv6HJnqQUvs9nNPwChunpoP8_9GXMQERgsBfMWP_jWgGvnOe-VdNOEjOZnzeQ0ms0CV6N03iPEiFMg2xSKDGNhefnb5dA_GX9dhqVn96BeHFgP--tSQ6XaoxqsvN_aF-qASrkhPatIhqYxpo",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9673\u70b3\u52f2",
+                        "uri": "https://maps.google.com/maps/contrib/103345385367914103224",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWy4DtpiISEsCw5FFSPb2rItuVCUUW95xSo9WqFRykwqnu_zsn_=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRtpjjSA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRtpjjSA!2e10!4m2!3m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            },
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/photos/AXQCQNQh4Rxo8hIoP8q4YpJ26-hUlzfnkeg6U1dCqcDGcPqc9EMLP8L6wRghCE45ygwsRDwRxO6x_Bj3e336J2u5-uiOix4jFM8dUaWy3W81EbqPXMy_HHgbkSv5RVizlzvlP9N07StJlNfQ29FBDiUYwa4VVl7W75SyyWzuX9ClQO2hpYNJWYPKWq5KHtKU_dizziM_jnkpKx5Z-VEGYvfMlii5COXmLxQUnPPtIOhsDxLcCSiFDaWVXIn4hDb4DSssOX_dRDWwv2LqHJhqzxm15EZke6ywCnXFkqEgn3aqXBMzRJm9o2GN41LGmFIJ0G4gbEAZbDByAipCQ6aGl9jP-7_FPpc6C5r8r8768l4tLQnEdlruCCqUB0iristN05Hc-tUkvEazFz928GLnC8TTDW9w9oxGjcrSoi5MeOmLsWKYDQ",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Maggie",
+                        "uri": "https://maps.google.com/maps/contrib/111129190521240327047",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtikEw7Q9tRWE_LDIHSX5rWE1O-NwR7_H5Z1GJ3eQzkjJlPIEv=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIzJvMCA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIzJvMCA!2e10!4m2!3m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            },
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/photos/AXQCQNRKBAYlz6sfvCvk3GYOMtG_Pe3VHOT7cC_--9GK6p7A-IkJQSA3H_WPhEKfkKsfWRsqT3DEE2fanuuMexM2ajmGfw91xHW9C9vLV8g6etaFo7s-xiW5i61AzBUgqOUcqJh9OYtUkq-_4l2eNDh_6reDjkaz3I-iwzW8QR4GcCq2SMiNmKlNreDglFBCrtYRReNG8XjP4VK9RoYu3ccgNg8ZLWAPPjAUQ3A9s7OwSnmSnP6xlihdMcvhNUfqbvsLkz2OSo09HmDYeH2UfjEzcbcvZZX-iq-wTzwem4p127H4mn25GMTpAOUvJpBUaMFklWR0pKtBpRZmHe2ZWTLQbSWOXbLrU5o7VVbyU105RtI7ac1UUKvGtVVaU5TC4S23RfOVhXuymPweKUz86kaVOec8oFD2QYDxqd9Arl4fzwYvBA",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "sandy lien",
+                        "uri": "https://maps.google.com/maps/contrib/112300616341152866566",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVePJJGmEEY-Yb0oaK3NbpCP0Rg4ZrwJW_6ifpLIhrXgDpd5zjtA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-rqG8dw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-rqG8dw!2e10!4m2!3m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            },
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/photos/AXQCQNQE43Frlv1P7ZyZxAeE71DG9Nx1k946l2PNsMFx0UuV0dGad5NkWYvW1zxIK_fDaoD1jCrVd80tSB5tAf2BdT6xSYHgg7sSOoGqzgWqPGJ03v5R8eUNoYx3k0QIFtkIyUGwwfhqQNX581Y-1A8bVagqwTX7kd9RZztuvh88drDH4Im2hn9ktrpRo1xXIaTh606_zz8DsuNxlW-wI602QeQHgBhQFjZqlyejJKILnvWRcDhAgXscX_9nPGVjGwGYILKW0xrHqbJjoO_rJVE_xt-5wdaoph4VDJw8SBDuGHnOGeug4g_UGE9KlSH44g0avOP_GVgoMGpan1GcqdP6lEzXEfu6rtnsdgnFSmpfjt1iTrKG2i2P7xKzmN9UeHODcMt5VOGWa4bBmO_pyaJ_rfhHBWcb-iIU8wiodImap8wR5W8",
+                "widthPx": 3000,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Ruba L.",
+                        "uri": "https://maps.google.com/maps/contrib/110808358501857303917",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRQjNTuzV8aU3uEGrn7Qi2-bJjGZTfCxI1yjMQ3nEwvEgwgMboaQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICK1OLRmQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICK1OLRmQE!2e10!4m2!3m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            },
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/photos/AXQCQNRd1IFZQA3wEB1L6RmqR1eGCGpeAIMw5VeSw6QjjUkaPL4IYsuxiRcT_SLuoaYo846b1xBFpbtm5Qux_rk178DiAFczXrbFB9IfV1AvddIoxZy0anojimrnt3Q0jhZXmmbmTdMB_vAD76LHnzRLvCXtDhQSdW7AHgoJCJ6khUcOb3L5d8afI7SXuml3EvtBjMWIUfKfQ-6HwFYcGzs3IxqBOuOX7v_l4JeoNADubESRbTnDGssln-KXi13CCLk0ZkpQCa8QHKKA9vEzZ9rVmh0-KTboRi4_3hsqi3hgVFU8b5cO6VnbaQ5cW09RGxaRrEzTEckHm56hNWcPvSTdQKvqPDpS4AoFZgnHKiL0MiyqoL2bbDzaIe4kbNqOp2UJx6l3BeZfcMgxCt_FMik3Y-dz_msb-0oKLFZvxZOQSvuaUA",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u306f\u305b\u304c\u308f\u305f\u304f\u307f",
+                        "uri": "https://maps.google.com/maps/contrib/116091105803029763335",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWN8viaEtWvXlwE6nR6DVFMnC184J47HHrnBRMZgYaumEzPJNw49g=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvzf2WVA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvzf2WVA!2e10!4m2!3m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            },
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/photos/AXQCQNSbgFYA-kQo5N0dyBwGZlJxrXhbXTsGTl-gVCZ-v7Xp5zFi6_I9d2UTAMZBlHbc6rnA7FsmIPbX3RoMIljjRzSnpdNJm37L1nFQ2cuwVocc1Tj76Y7MC8TnKZZRDHD7lF3LacLed7FZZLLlIdE51Or-EJ7CUBEHJcbGQ7P15TJKLh3cOww41x6EqO4k7CHsSlL4nfh_sZiCvmTCliBlzOqtixPqf-KvhEANQ17WMNrtmyDphPNrlhe9mZP-JijHI8gW66m-ad6xRb2XEHPOhBJV0KBLpBd3xyDr8zfL7TwLYXA7yFjhGDT35TZuP5oOv-6IdmwYHPaeCgLSaQVXfoUhKBEPjqQ63rGppDD5GE8aELaKwqG0zvxaZYe8OiLsYFpzUVm0CjT5hhdaIj1v7Td-ep7ENo0mBACv2S68qeyZQwB-",
+                "widthPx": 4608,
+                "heightPx": 3456,
+                "authorAttributions": [
+                    {
+                        "displayName": "A\u990a\u6a02\u591a",
+                        "uri": "https://maps.google.com/maps/contrib/102226897035792001826",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJpuUUbWiGiwhdwJnrDpIGojQq1KRuVRYi4NxIBnfbfGQqld4K=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICWtqjuvwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICWtqjuvwE!2e10!4m2!3m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            },
+            {
+                "name": "places/ChIJj4EySmCqQjQRZte0Cf0G_qo/photos/AXQCQNRv5AsQHKvudrpJY8tab07uLxCPjsgdeEyZBSghxFbfghU6NwuJghqTb_Mdims1Pmxc0pbAL3jXj5CbXcu4DBR2qkJ43nbIK8XU_J7wwjJmRp3PJO5yRgAg8ltyuWS9n74G5EvuKJ7hRhwlG-vIiSMKDi_cymTsQ2cDp7BQSHNQyZU0lqc_MqxZyEEJ7D4yByjLC6c82FCxmdbphyZ6ULygXsyMURzrN9eWiD4ojWp2Djavi_H7aJT1ubyQZY5bELCkgH_NOQol2fzJY74tbqWR6a6Qil8bk9R82zWZJ6eELiPTmo_MBhmW61fsEkIoXgkTLLfawKrBaeI8WcEG_7Zr0WXzP9rg_r6ML9AfDrVjW_EVcVNqrQw_J9xg2DJgwcwI6MTHKQxBln8hNzj9jxdj_BimXX8Ttq6tyaqCPtGX6jc5",
+                "widthPx": 4800,
+                "heightPx": 2700,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u90b1\u50b3\u798f",
+                        "uri": "https://maps.google.com/maps/contrib/107263732982041246827",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmfIWq7_ZKGyOAp3NLnTQYqsjmF65vWPmKC0LMXHZ645dfwlWC7A=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDsxum4xgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDsxum4xgE!2e10!4m2!3m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766"
+            }
+        ],
+        "goodForChildren": true,
+        "allowsDogs": false,
+        "parkingOptions": {
+            "paidParkingLot": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJERBOU2CqQjQRRmt01z8Kve8",
+                    "placeId": "ChIJERBOU2CqQjQRRmt01z8Kve8",
+                    "displayName": {
+                        "text": "MRT Taipei Zoo Sta.",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "bus_station",
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 81.651054,
+                    "travelDistanceMeters": 204.10667
+                },
+                {
+                    "name": "places/ChIJFSERD2GqQjQRFfhHqMtlQRc",
+                    "placeId": "ChIJFSERD2GqQjQRFfhHqMtlQRc",
+                    "displayName": {
+                        "text": "Taipei Zoo",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "subway_station",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 151.51585,
+                    "travelDistanceMeters": 191.07195
+                },
+                {
+                    "name": "places/ChIJTaYkpWGqQjQRt2xQHwVmCww",
+                    "placeId": "ChIJTaYkpWGqQjQRt2xQHwVmCww",
+                    "displayName": {
+                        "text": "Taipei Zoo Formosan Animal Area",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "zoo"
+                    ],
+                    "straightLineDistanceMeters": 89.19409,
+                    "travelDistanceMeters": 141.37125
+                },
+                {
+                    "name": "places/ChIJCUXBcIqqQjQRtTvncoYm-0E",
+                    "placeId": "ChIJCUXBcIqqQjQRtTvncoYm-0E",
+                    "displayName": {
+                        "text": "Taipei Zoo Giant Panda House",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction",
+                        "zoo"
+                    ],
+                    "straightLineDistanceMeters": 249.92593,
+                    "travelDistanceMeters": 440.18057
+                },
+                {
+                    "name": "places/ChIJn7A2qmGqQjQRT-FLNZNrb4Y",
+                    "placeId": "ChIJn7A2qmGqQjQRT-FLNZNrb4Y",
+                    "displayName": {
+                        "text": "MRT Taipei Zoo Sta.",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "bus_station",
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 103.06705,
+                    "travelDistanceMeters": 183.38744
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJj4EySmCqQjQRpVVxVylg7zI",
+                    "placeId": "ChIJj4EySmCqQjQRpVVxVylg7zI",
+                    "displayName": {
+                        "text": "Taipei Zoo",
+                        "languageCode": "en"
+                    },
+                    "containment": "OUTSKIRTS"
+                },
+                {
+                    "name": "places/ChIJr_Qd4y0AaDQRd0Sn6GxZCFc",
+                    "placeId": "ChIJr_Qd4y0AaDQRd0Sn6GxZCFc",
+                    "displayName": {
+                        "text": "Maokong",
+                        "languageCode": "en"
+                    },
+                    "containment": "OUTSKIRTS"
+                },
+                {
+                    "name": "places/ChIJU2W-N3GqQjQRgAomcKWKhuY",
+                    "placeId": "ChIJU2W-N3GqQjQRgAomcKWKhuY",
+                    "displayName": {
+                        "text": "Muzha",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3442aa604a32818f:0xaafe06fd09b4d766!3e0",
+            "placeUri": "https://maps.google.com/?cid=12321293314391594854",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442aa604a32818f:0xaafe06fd09b4d766!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3442aa604a32818f:0xaafe06fd09b4d766!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442aa604a32818f:0xaafe06fd09b4d766!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "116",
+            "administrativeArea": "Taipei City",
+            "locality": "Wenshan District",
+            "addressLines": [
+                "No. 30\u865f, Section 2, Xinguang Rd"
+            ]
+        }
+    },
+    "description": "Escape the bustling city of Taipei and immerse yourself in the verdant embrace of Taipei Zoo, Asia's largest zoo.  Nestled in the tranquil Wenshan District, at No. 30, Section 2, Xinguang Road,  this sprawling sanctuary, originally a private zoological garden, boasts a remarkable diversity of flora and fauna.  The air hums with the sounds of exotic birds, the rustle of leaves, and the occasional roar or chirp \u2013 a symphony of the natural world.\n\nThe zoo's layout is intelligently designed, categorized into themed areas that enhance the visitor experience.  Prepare to be captivated by the Giant Panda House, where these charismatic bears engage in their endearingly clumsy antics.  Feel a surge of national pride in the Formosan Animal Area, showcasing Taiwan's unique and often endangered species.  The Koala House offers a glimpse into the lives of these adorable marsupials, while the Asian Tropical Rainforest area transports you to a lush, humid world teeming with vibrant life.  Imagine walking beneath a canopy of emerald green, listening to the symphony of unseen creatures, and observing monkeys swinging effortlessly through the trees.\n\nThe sheer scale of Taipei Zoo is breathtaking.  It's"
+}

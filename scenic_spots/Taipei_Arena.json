@@ -1,0 +1,954 @@
+{
+    "name": "Taipei Arena",
+    "tripadvisor": {
+        "location_id": "6956608",
+        "name": "Taipei Arena",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13806900-d6956608-Reviews-Taipei_Arena-Songshan_Taipei.html?m=66827",
+        "address_obj": {
+            "street1": "No. 2, Sec. 4, Nanjing E. Rd.",
+            "city": "Songshan",
+            "country": "Taiwan",
+            "address_string": "No. 2, Sec. 4, Nanjing E. Rd., Songshan, Taipei Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Songshan",
+                "location_id": "13806900"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taipei",
+                "location_id": "293913"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "25.05133",
+        "longitude": "121.55299",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 2 2578 3536",
+        "website": "http://www.taipeiarena.com.tw/",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13806900-d6956608-Taipei_Arena-Songshan_Taipei.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13806900",
+            "ranking_string": "#3 of 28 things to do in Songshan",
+            "geo_location_name": "Songshan",
+            "ranking_out_of": "28",
+            "ranking": "3"
+        },
+        "rating": "4.2",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "147",
+        "review_rating_count": {
+            "1": "2",
+            "2": "1",
+            "3": "22",
+            "4": "60",
+            "5": "62"
+        },
+        "photo_count": "180",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13806900-d6956608-m66827-Reviews-Taipei_Arena-Songshan_Taipei.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "2100"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 10:30 - 21:00",
+                "Tuesday: 10:30 - 21:00",
+                "Wednesday: 10:30 - 21:00",
+                "Thursday: 10:30 - 21:00",
+                "Friday: 10:30 - 21:00",
+                "Saturday: 10:30 - 21:00",
+                "Sunday: 10:30 - 21:00"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "landmarks",
+                "localized_name": "Sights & Landmarks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Sights & Landmarks",
+                "localized_name": "Sights & Landmarks",
+                "categories": [
+                    {
+                        "name": "Arenas & Stadiums",
+                        "localized_name": "Arenas & Stadiums"
+                    },
+                    {
+                        "name": "Points of Interest & Landmarks",
+                        "localized_name": "Points of Interest & Landmarks"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "6"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "19"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "34"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "15"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "45"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg",
+        "id": "ChIJcVe4HuirQjQRWHrzxtVRImg",
+        "types": [
+            "stadium",
+            "arena",
+            "sports_complex",
+            "performing_arts_theater",
+            "event_venue",
+            "sports_activity_location",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "02 2578 3536",
+        "internationalPhoneNumber": "+886 2 2578 3536",
+        "formattedAddress": "No. 2\u865f, Section 4, Nanjing E Rd, Songshan District, Taipei City, Taiwan 105037",
+        "addressComponents": [
+            {
+                "longText": "2\u865f",
+                "shortText": "2\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 4, Nanjing East Road",
+                "shortText": "Section 4, Nanjing E Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u7f8e\u4ec1\u91cc",
+                "shortText": "\u7f8e\u4ec1\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Songshan District",
+                "shortText": "Songshan District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taipei City",
+                "shortText": "Taipei City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "105037",
+                "shortText": "105037",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QQ33H22+72",
+            "compoundCode": "3H22+72 Taiwan, \u53f0\u5317\u5e02\u677e\u5c71\u5340\u7f8e\u4ec1\u91cc"
+        },
+        "location": {
+            "latitude": 25.0506849,
+            "longitude": 121.55011989999998
+        },
+        "viewport": {
+            "low": {
+                "latitude": 25.049006619708496,
+                "longitude": 121.54829891970851
+            },
+            "high": {
+                "latitude": 25.0517045802915,
+                "longitude": 121.55099688029149
+            }
+        },
+        "rating": 4.5,
+        "googleMapsUri": "https://maps.google.com/?cid=7503649907760396888",
+        "websiteUri": "https://www.arena.taipei/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T14:00:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 2\u865f, Section 4, Nanjing E Rd, \u7f8e\u4ec1\u91cc</span> <span class=\"locality\">Songshan District</span>, <span class=\"region\">Taipei City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">105037</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 26564,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Taipei Arena",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Event Venue",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T14:00:00Z"
+        },
+        "primaryType": "event_venue",
+        "shortFormattedAddress": "No. 2\u865f, Section 4, Nanjing E Rd",
+        "editorialSummary": {
+            "text": "Contemporary venue featuring ice skating, basketball games & concerts, plus shops & dining options.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/reviews/ChdDSUhNMG9nS0VJQ0FnSURBaHNycl9nRRAB",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 2,
+                "text": {
+                    "text": "Seats are quite comfortable but the layout is off standard. The speakers hung from the ceiling blocked out some views on the main stage. Not good design. The sound quality is bad since there is strong echoes back and forth. They need to be absorbed.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Seats are quite comfortable but the layout is off standard. The speakers hung from the ceiling blocked out some views on the main stage. Not good design. The sound quality is bad since there is strong echoes back and forth. They need to be absorbed.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Muso Lee",
+                    "uri": "https://www.google.com/maps/contrib/102159679120087166059/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXFUduQ7q2_oD3S7G9hINPmRQ2fJUW-Vpi4KRGHOYL1QNjsjdO=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-02-17T09:54:20.033197Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURBaHNycl9nRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBaHNycl9nRRAB!2m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            },
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/reviews/ChdDSUhNMG9nS0VJQ0FnSURQN2IzamxRRRAB",
+                "relativePublishTimeDescription": "5 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "The last time I visited here was when I was in high school. 45 years later today, I took the MRT here. It's a modern multi-functional facility. It has a lot of commercial setups inside. Most of the time, young people know this place because of concerts... I personally think this is a good place for indoor sports events. Can see that it has been well maintained....",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The last time I visited here was when I was in high school. 45 years later today, I took the MRT here. It's a modern multi-functional facility. It has a lot of commercial setups inside. Most of the time, young people know this place because of concerts... I personally think this is a good place for indoor sports events. Can see that it has been well maintained....",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Peng Hsu",
+                    "uri": "https://www.google.com/maps/contrib/100604826165616183825/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3bn-hBCqKob3_4afaN0M1M7tiCafjkQvXi6afaUlSHyqb-V1aPw=s128-c0x00000000-cc-rp-mo-ba7"
+                },
+                "publishTime": "2024-12-04T20:19:39.562450Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQN2IzamxRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQN2IzamxRRRAB!2m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            },
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRenBmQUt3EAE",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 1,
+                "text": {
+                    "text": "The arena is nice , decent ice this is more for like practicing not for like to enjoy , sadly today I had to deal with this idiot doing tricks in the beginners area with his skate at the same high as kids faces idk what wrong with him but somone should teach him a lesson. Those skates are sharp we all know it.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The arena is nice , decent ice this is more for like practicing not for like to enjoy , sadly today I had to deal with this idiot doing tricks in the beginners area with his skate at the same high as kids faces idk what wrong with him but somone should teach him a lesson. Those skates are sharp we all know it.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Andres Tavera",
+                    "uri": "https://www.google.com/maps/contrib/107060202346262763113/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIpxv2s-EHYZOhBULc2oFQFO_Z_Pm74DOZ4LdO57eyUjzmP_oCw=s128-c0x00000000-cc-rp-mo"
+                },
+                "publishTime": "2025-03-04T10:55:24.347448Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRenBmQUt3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRenBmQUt3EAE!2m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            },
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbjdIX1h3EAE",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "Great facility , friendly staff , lots of toilets ..",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Great facility , friendly staff , lots of toilets ..",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Missy H",
+                    "uri": "https://www.google.com/maps/contrib/112938356333575299903/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIoZ3ljCUvQXkBjFDg1aj9HebHHZaBxa6j0imLUUb2RJ3kGEA=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-02-21T18:50:10.939515Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbjdIX1h3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbjdIX1h3EAE!2m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            },
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4M0wtWVNREAE",
+                "relativePublishTimeDescription": "a year ago",
+                "rating": 3,
+                "text": {
+                    "text": "It\u2019s quite a good place for pop music concerts. The quality and listening experience of concerts may vary due to the design of each team.\nAn obvious weak point is the air circulating system. With unknown reasons that often times, I found the air was moggy even before the concert started. So many people were gathered in the same area indoors, and after the concert started, audience would become excited. Would there be necessary to have fresh air? This is some thing I definitely would like the administration of the stadium to improve.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "It\u2019s quite a good place for pop music concerts. The quality and listening experience of concerts may vary due to the design of each team.\nAn obvious weak point is the air circulating system. With unknown reasons that often times, I found the air was moggy even before the concert started. So many people were gathered in the same area indoors, and after the concert started, audience would become excited. Would there be necessary to have fresh air? This is some thing I definitely would like the administration of the stadium to improve.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Gentlemen M",
+                    "uri": "https://www.google.com/maps/contrib/118202021046265773299/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFr51xESJO17-x6bHgp4nDv7IUBtzZ7ojRvHsEoUBvODr_oP4YXQ=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2023-06-04T01:36:13.862480Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4M0wtWVNREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4M0wtWVNREAE!2m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/photos/AXQCQNTJVXjIIBlbBqC9Pql-eiCtMl_GLZe3RGaL0wzNsPBH-wq8PT-NcQ1acfUs1RwIxv9TZfjwaANukKaCFNVNp51cEkWmFujkeQWAW8KDVVVXNUzEzvW9tQhB5vid95qCKhmQvcyP5Klof2fpPUeEKjBz21KtAjIio7CT9zzenIhjMqUqFk3sbAFPWxb9BPpK_En7BC_rwS7bGB2CANdM3BFoVuh9oyBd7pdaU-R5XJqOSluSmKmqUh3WmsGv3UVlIxxwlrTzSxBtPHuZv9BGXPwFyANmGfyrl4vEdvoofWWlTuTMFZb_BarPCVwSZKIaBiCzUR780jACFKOYdbipdBSRqFf1vzpK_k2pX8a623seKySeB02u3Xy1l-xwYu8_4cILgqtO7-a9i70dfvqBnRDVn0Go3bqg8F2GJktmYbzChxiJ",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "no nno",
+                        "uri": "https://maps.google.com/maps/contrib/111124089673376526501",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWK5_6BuyBYnIhXVDCELt5AwAxOin30bgtywIaSzPF8NX-lVeFUMg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRzcj2mgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRzcj2mgE!2e10!4m2!3m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            },
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/photos/AXQCQNQoyBo9qUEWtWnWGSE6SVVrDRpMK4yv9RnXONfZrhIJBP2vuEHQaqJsF0EVxgfS8irw-wSZSZT-MUDlccMUh6uJ1FmS826BPkY4fK3kXVKGyBndDK_2Xq2pkNt2VjdwB2ryW6grKoBiOlqjfuNGtEk5O9_ouEIQW-bTjdaHJGlEUiJR-540ORrfiYhWuY6YvXu9XIokaM2c2wITfFE2oGonkDezhBnLEIZvUq0hGs0pCSu2TC9jI4WsOtFZnK6QIBZtcXFuFioN9QhuPphJ4ytIV-WsVDpswjmWZgrBBenPS0JnbVisciyeTokdjGejb_3U8jbWrtVMMG8mzMT8R_MOQf0ljJak5-RpHiPvxUZVzWwJp8ZcuFZhzvaosq-Co5fMSNubSDb-iXWunaD3y40QljEBBAyPkM2jFK8TO3qP-Fzx",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "lambert Chao",
+                        "uri": "https://maps.google.com/maps/contrib/115583416224751202918",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJbwKYo2ZwXhJDvTO5tYCZc3KGH9VCJdKfXKS_gL5taGoZ5aQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICG1czNpgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICG1czNpgE!2e10!4m2!3m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            },
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/photos/AXQCQNQ5XMGOeLrXMYX057x5To-loDEnLYKcWPa_Q-caJzz_E52lc_4OZvqpKDXU6iQ6cBoVMtA6mqiOPm_PKKXaylL8jsILGNI9li0-UC5ENADR6QjtUnZkuAN6Y9-POEi6yd7KZ532EANK1taQgwKWs9yhKPn0RYK-lTQjI1B1Jps-tv3bWGYjVvx_dGe3C0icOIXQUhnwPUwbbWsEUvD1XVarVCbc-YgUfgJhw5iswBlqLSfGpP9PJr1AQM0lGhs0fgUermu7zAb5auPH0nlO8axJoInlsrH15cm83_sDy4DE-D9g00BRJqdvMFZ1xRFGNE48Ef7IT_g_2-1vxYFrDAuGEGa5wEEFd5v3ViszwQP6-etPSKmhmKK3NFQwHyVSR1IAKBVPWsvkYtn4y-DfkB8vSobLBwUN1U6DBxGMmRX7YZc",
+                "widthPx": 4640,
+                "heightPx": 3488,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6797\u5b8f\u5049",
+                        "uri": "https://maps.google.com/maps/contrib/100023975436243435159",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK5tBs0Kg3RcvM1QS3dIXRsIhyrdw7uSrVFmardVMiNa4hK9Q=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICMnMCBrAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMnMCBrAE!2e10!4m2!3m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            },
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/photos/AXQCQNS1MkQxBoXem0ugFXkRX6X7V4pNxxxp9fqrUf_KP9YRbveRSR-Cjc3O6t933oi8kEKXKoOMFy26qStsZW4ZOn5Fd14GQOZ-k3H0l4NgjvFEnObG_ALDx7izPG4t7m-B_L_I0mtezj1-7QESPEeCPo6sAicETUHsUS4FcWjdjN_Ox7-Vzt3PGbjt6qEbsr52K4IGkChWU_7zHnE8XtNiVc_LjiVvMu7_Bek6_Ilgrh-V-PuwV-xmYvvNIsidf4q9m3pFqoD3sxcbubogMM-Et6dqvQqxK2ckC7NjRJR5uTwDcrrU7RXDg2auJ7yAI233IaV9FqJk3szdtnvqEsZtPOcdTaJdhEU-rpnZgpuOGjc5NGiPhjUMBZ9n9-xcKZgi7Gqxx8B5r5s3Cm8o9ybILgfE81dzU1a0gDLFl189fs9phUU",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Justin Liu",
+                        "uri": "https://maps.google.com/maps/contrib/109069872585590102001",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXvHtO4PSI2SKI_aX1WtcBtwS_gDiHbnFbZkOxJuR9eIvLSgTBGQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOyOfEkwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOyOfEkwE!2e10!4m2!3m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            },
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/photos/AXQCQNTicSoGpYg3QqZv46picKKLMG7a_kbse614tTl7tief66RLKcdMS8SxuLYdSorL6WUWCJjwp-Ce4hl43qqDfTIjL9phF45Oo6gdw3d6cbCjDzx7vthlt2AhCdJ30Fb97nN4g3yb52ABOjRBg2kjNcBD-AdxS9nR_dlESMrcyEMBnk-0ANKVqVsiyJ2LpqFyC9_ANFrBm31Eqk-flLBsZtUJQTIlly_iM1aR-cS5hm_SnwGqzvsMJMKJMF_nYjwLcVvNY2LPpR2Af5C_UpgcPaHN4HEVa_Cciu6XaTFiabR7a3W0fPUiqTLftDks7PdJTNy2YAGJ09K5zQdVe4aEhgMkH97WRKIc_w2RMHwxcZwOtK9fU-qcdLpsD9hZDTXZSLQDVuq9VS98c0EIbFs3H6C-CQ9yGuAVmfxgc69M9sjTyhlz",
+                "widthPx": 3456,
+                "heightPx": 4608,
+                "authorAttributions": [
+                    {
+                        "displayName": "Joedy Chou",
+                        "uri": "https://maps.google.com/maps/contrib/116817871802824269790",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUu0GWN6fYNwEj9Xdp7j3pWy_b3Z2u-C4lQNLfhR1jU1ZIZ8z87=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-r9v8gAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-r9v8gAE!2e10!4m2!3m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            },
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/photos/AXQCQNQItPagmxoz3XhO3qhLCvNyGXA9e6C_kPI-lRcXIwYbBo9GG5Cwc-cYEOo0rvGfuK5sR1qCjDRVRjs9-Ek2SAwgBP2dKoE3IE7RkeSoq9YHMdnnhaR1SEMhWw4BHAAN9HV-c757KZpiX8VdWTS19V0ASApyNaUx6pm_RgJdp08xOZAHoh5WtdUmX4Z3NczVHYixMxV_Uh-Jn4hV8nmQ5BjEHwuXi3DxmW3RA9NWZQkzfPKHPEHLtLTHd3uh_3h-P0uBoteoLRfEkKVUphpEWCx-A2oPxiUQIvVd2teFWWfXk81vUTY27Gtj6HRI2AI1fbnf3Mrveki39O5UTaTy530Bu15nL8dC2UO1cVyKLvoC3k7ERNJxp8NqDkdpP2VJFwpRmeSNvAwGhzNM2xe16gb0fNs9fOtzgipthnCuEmS91w",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Paul Lin",
+                        "uri": "https://maps.google.com/maps/contrib/104010481755400365018",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtEv_R3i7mBgK4hYfJ3byzGkLDmQpIr6lKBHYAEWBE_uzSSsd3LQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICMmtzkQQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMmtzkQQ!2e10!4m2!3m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            },
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/photos/AXQCQNR9w9pcYjwhnxdGpFo4IUdkmzWoKdqpOynoyJ5YtXrPo_wRW1e4wp7wDzrF_zlHwKjSEh2mg0qRFlRj_WeAUHzoxdQy4t9IBZ597KIRZh5STT9Xd48dM9FFy70EdsYsv4B7g-YnkaYWyw56ud7vzv6oRwe3ixUAAN0d7r0ePMNBnrdrdTijmOqIBZOclBPFTKT4D9N-1RoqiCypmjg2Sa9rEq0x5eovK6kzzsRAmLo8FwGpohg3m9u7NzP17gLj4B9cbWbu4xVEXwNcaHCPZMdzvhrhwG8EE6OgtV47dRyDEF63CiOyFenVWpe4kK0sUCDlOjSbLIjf5t1bNomHWKZS2hUamlP0HXlk-Xj9cMIvKdeC0vKAMg-VmnrV9UBov0NafBA7eJD9YIQEaJhIy8CyNFdncl9Z7Gk-Q8DyV8T2eUk",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9ad8\u9e97\u82f1",
+                        "uri": "https://maps.google.com/maps/contrib/117882594581387207417",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsLjNPvSfyi0nvHhojtvbz8HeQ5Vf0aKbFMUnenoPOpAK69Rz-XA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICsrqKv1gE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICsrqKv1gE!2e10!4m2!3m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            },
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/photos/AXQCQNTJsCBeYUuQlx_NbvlEzx1nB2seKpHHOba2RqazPUyVhE-M9tWWRCsPHt8sajUZbk4SzvV91VpPHKYz91XR2Ala7bq7K3iApV6c0qXeEebn6iV_7OQMFDPO4WImsX43BrnQf8SgsA8O6biZAcE0YgYX5ixD9v9NwZf9ZWzpYtBpOswyIJxVUk9r13eVmOPsPZmv8AdpeoKc2B4q9OF7udNw4g5q8-uF6hyS1df2fp56VxZfKcKyI340MQhBhWaINtRWbSa-6Ig_7XLKME95eVrsqe-dCYqN8C3jcXL_SWJmuFaA123vjFu4sJV2Uhh3BbtU94yrcLr_YowezG3-s_oPKVp5cVsV0V8g_XfvHpjMumN2qgqU4JQh-nTFVd4hz6-r2XXT6JXZJGpeJU2CJNPwkxCP6ccmm84_iclX6rPOViuw",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Patrick YT",
+                        "uri": "https://maps.google.com/maps/contrib/107571468539319971111",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAbB8DiAWfmDvGZRYm63lif1YAT_uXDFdQtH3cYxip3mpoAo0QTA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC63vHu4QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC63vHu4QE!2e10!4m2!3m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            },
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/photos/AXQCQNQi5eNwvg0IJ_OxY7hD1pxN9Lf1LtxwmiJ8tnELPJ0TMdHfSMPuL9T5IbvbbnW5n9tnhDcgujNz8qHjzkTUULobtk4u2tazUn2bhAYtwJsmqrEhIfNpsT_z9dDC4ZbJWLZSMfBajWIYfbYxdWbQzHc0RsBUF5iAr20Lr4yp4soDlwNpkshDQhbupFAOOZAeOhDDhJaCupjK8lXmJFZTTDlK1ogjRumoOuGwgsoe8he8Yfsznong-Ik0fy1l_d_KsE_2Ldd1ORgHsJj6HTGw8jI_PyzrSzSJsT2rrw3rkmMSBjeVB1TPMySR0u99XsnI5x4kIIIApstf2KAQAp0yLH-f3li-Y6yMzaaOFAGh1C_ePL9CZLb0gV7LQYdNQgdpqEQJ4ZMDjvzza75tonA9tLzkFv32zO1cmijsc51XMGg",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Ethan Chang",
+                        "uri": "https://maps.google.com/maps/contrib/102253898830609694582",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIN6WboTI_nyAH2OXQCjRPs6upo8sEi13FjZH2AjiAa8GJ4Odv5=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICMlKbPcg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMlKbPcg!2e10!4m2!3m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            },
+            {
+                "name": "places/ChIJcVe4HuirQjQRWHrzxtVRImg/photos/AXQCQNSD--Gq0FUU_P0cFGfYeMEmXznRmUfY27D3ZW5X9pEcCzp2F2BhBW8Z5ww4leQifyRf_SRLufGFg1_uhqBxY5afIfyVE5IaWyuhh8qnz_JNfoss61r_p4pR8OP-IBrES0bi0DoOIendfdPPhhbHESUO3QOI29WgEBr1sTg23-JG-JTTuCHRr_oPxqYxOsLP3k3SkpLuvrhj75CEOxi-KnXS0LzlV2gHU8jBxx8nfFs1ic7Z8lwX50JfEwM8ZokxNbYM9IFCNDz_CgpXkmTC-FYAqcCgCF8_zo-2tf8P1-XluSkQQeAWnIMyRInKvYmTS-CritmIxgI1BOzC5DDsOmAhwUaU8IbCI35avoKIYd5XoE3T0VHJAp93dTgzCZbQKG3rvSXKLppBB5Krj3vlcbM5DYUq-eWYNQrTL32dX-yHvQ",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5f35\u6c38\u660c",
+                        "uri": "https://maps.google.com/maps/contrib/115819093812145714407",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJknG6olPa_OAopm3hz7QICB8jFf76vT0HuJ76do2q7VlYGm6Xig=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBtoPcOg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBtoPcOg!2e10!4m2!3m1!1s0x3442abe81eb85771:0x682251d5c6f37a58"
+            }
+        ],
+        "restroom": true,
+        "parkingOptions": {
+            "paidParkingLot": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true,
+            "wheelchairAccessibleRestroom": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJBXrx3MKrQjQRl2WtNu8JZ9g",
+                    "placeId": "ChIJBXrx3MKrQjQRl2WtNu8JZ9g",
+                    "displayName": {
+                        "text": "Taipei Municipal Stadium",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "stadium"
+                    ],
+                    "spatialRelationship": "WITHIN",
+                    "straightLineDistanceMeters": 190.23505
+                },
+                {
+                    "name": "places/ChIJcVe4HuirQjQRzfVzaoF5dso",
+                    "placeId": "ChIJcVe4HuirQjQRzfVzaoF5dso",
+                    "displayName": {
+                        "text": "Taipei Arena Ice Land",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 58.495945
+                },
+                {
+                    "name": "places/ChIJq3Y47HwEbjQRiJOugEYDoTo",
+                    "placeId": "ChIJq3Y47HwEbjQRiJOugEYDoTo",
+                    "displayName": {
+                        "text": "Breeze NanJing",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "health",
+                        "hospital",
+                        "point_of_interest",
+                        "shopping_mall"
+                    ],
+                    "straightLineDistanceMeters": 275.1708
+                },
+                {
+                    "name": "places/ChIJZU4TZsGrQjQRuied2-y2kok",
+                    "placeId": "ChIJZU4TZsGrQjQRuied2-y2kok",
+                    "displayName": {
+                        "text": "IKEA Taipei Arena City Store",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "furniture_store",
+                        "home_goods_store",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 248.29718
+                },
+                {
+                    "name": "places/ChIJFUhhGOirQjQRt71DYGjdh5M",
+                    "placeId": "ChIJFUhhGOirQjQRt71DYGjdh5M",
+                    "displayName": {
+                        "text": "Ace8 - Poker \u570b\u969b\u64b2\u514b\u7af6\u6280\u5354\u6703",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 152.14857
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJgYC_e8KrQjQRgy98ipicAX8",
+                    "placeId": "ChIJgYC_e8KrQjQRgy98ipicAX8",
+                    "displayName": {
+                        "text": "Taipei Municipal Stadium",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3442abe81eb85771:0x682251d5c6f37a58!3e0",
+            "placeUri": "https://maps.google.com/?cid=7503649907760396888",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442abe81eb85771:0x682251d5c6f37a58!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3442abe81eb85771:0x682251d5c6f37a58!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442abe81eb85771:0x682251d5c6f37a58!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "105037",
+            "administrativeArea": "Taipei City",
+            "locality": "Songshan District",
+            "addressLines": [
+                "No. 2\u865f, Section 4, Nanjing E Rd"
+            ]
+        }
+    },
+    "description": "Taipei Arena, a vibrant hub of activity nestled in the Songshan District of Taipei, Taiwan, stands as a testament to modern architectural design and entertainment.  Located at No. 2, Section 4, Nanjing East Road, its sleek, contemporary lines cut a striking silhouette against the city skyline.  Highly rated (4.2 on TripAdvisor, 4.5 on Google), and ranked #3 out of 28 things to do in Songshan, the arena boasts a bustling atmosphere, attracting a diverse crowd of locals and tourists alike.\n\nThe arena itself is a multi-functional marvel, hosting everything from electrifying concerts and high-octane basketball games to graceful ice-skating performances.  Imagine the roar of the crowd during a nail-biting basketball match, the pulsing energy of a live music show, or the quiet precision of skaters gliding across the ice.  Beyond the main events, the Taipei Arena offers a variety of shops and dining options, ensuring a complete and immersive experience.  The interior is modern and spacious, designed to accommodate large crowds comfortably, though some reviews mention issues with acoustics and sightlines in certain areas.\n\nOpen daily from 10:30 AM to 9:0"
+}

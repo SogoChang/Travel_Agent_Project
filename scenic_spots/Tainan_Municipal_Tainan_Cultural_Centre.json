@@ -1,0 +1,802 @@
+{
+    "name": "Tainan Municipal Tainan Cultural Centre",
+    "tripadvisor": {
+        "location_id": "8400860",
+        "name": "Tainan Municipal Tainan Cultural Centre",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13806497-d8400860-Reviews-Tainan_Municipal_Tainan_Cultural_Centre-East_District_Tainan.html?m=66827",
+        "address_obj": {
+            "street1": "No. 332, Sec. 3, Jhonghua E. Rd., East Distict",
+            "city": "East District",
+            "country": "Taiwan",
+            "postalcode": "701",
+            "address_string": "No. 332, Sec. 3, Jhonghua E. Rd., East Distict, East District, Tainan 701 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "East District",
+                "location_id": "13806497"
+            },
+            {
+                "level": "Municipality",
+                "name": "Tainan",
+                "location_id": "293912"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "22.974674",
+        "longitude": "120.22173",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 6 269 2864",
+        "website": "http://www.tmcc.gov.tw/en/index.aspx",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13806497-d8400860-Tainan_Municipal_Tainan_Cultural_Centre-East_District_Tainan.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13806497",
+            "ranking_string": "#1 of 1 Concerts &amp; Shows in East District",
+            "geo_location_name": "East District",
+            "ranking_out_of": "1",
+            "ranking": "1"
+        },
+        "rating": "4.0",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "13",
+        "review_rating_count": {
+            "1": "0",
+            "2": "1",
+            "3": "3",
+            "4": "4",
+            "5": "5"
+        },
+        "photo_count": "40",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13806497-d8400860-m66827-Reviews-Tainan_Municipal_Tainan_Cultural_Centre-East_District_Tainan.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "theater_concerts",
+                "localized_name": "Concerts & Shows"
+            },
+            {
+                "name": "activities",
+                "localized_name": "Activities"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Concerts & Shows",
+                "localized_name": "Concerts & Shows",
+                "categories": [
+                    {
+                        "name": "Symphonies",
+                        "localized_name": "Symphonies"
+                    },
+                    {
+                        "name": "Concerts",
+                        "localized_name": "Concerts"
+                    },
+                    {
+                        "name": "Operas",
+                        "localized_name": "Operas"
+                    },
+                    {
+                        "name": "Performances",
+                        "localized_name": "Performances"
+                    },
+                    {
+                        "name": "Theaters",
+                        "localized_name": "Theaters"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [
+            {
+                "location_id": "12243222",
+                "name": "East District/ Yongkang District"
+            }
+        ],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "1"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "2"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "2"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "3"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "3"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU",
+        "id": "ChIJYUOPRyd0bjQRivbrqFsMKuU",
+        "types": [
+            "cultural_center",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "06 269 2864",
+        "internationalPhoneNumber": "+886 6 269 2864",
+        "formattedAddress": "No. 332\u865f, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 701",
+        "addressComponents": [
+            {
+                "longText": "332\u865f",
+                "shortText": "332\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 3, Zhonghua East Road",
+                "shortText": "Section 3, Zhonghua E Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u5fe0\u5b5d\u91cc",
+                "shortText": "\u5fe0\u5b5d\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "East District",
+                "shortText": "East District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Tainan City",
+                "shortText": "Tainan City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "701",
+                "shortText": "701",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QJ2X6FC+WJ",
+            "compoundCode": "X6FC+WJ Taiwan, \u53f0\u5357\u5e02\u6771\u5340\u5fe0\u5b5d\u91cc"
+        },
+        "location": {
+            "latitude": 22.9747562,
+            "longitude": 120.2215652
+        },
+        "viewport": {
+            "low": {
+                "latitude": 22.9730120697085,
+                "longitude": 120.2201598197085
+            },
+            "high": {
+                "latitude": 22.975710030291502,
+                "longitude": 120.22285778029149
+            }
+        },
+        "rating": 4.4,
+        "googleMapsUri": "https://maps.google.com/?cid=16513024571522938506",
+        "websiteUri": "https://www.tmcc.gov.tw/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T09:00:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 332\u865f, Section 3, Zhonghua E Rd, \u5fe0\u5b5d\u91cc</span> <span class=\"locality\">East District</span>, <span class=\"region\">Tainan City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">701</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 6778,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Tainan Municipal Tainan Cultural Center",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Cultural Center",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T09:00:00Z"
+        },
+        "primaryType": "cultural_center",
+        "shortFormattedAddress": "No. 332\u865f, Section 3, Zhonghua E Rd",
+        "editorialSummary": {
+            "text": "Modern complex fronted by a huge metal sculpture, with a library & a hall for music & theater.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYMVBlelR3EAE",
+                "relativePublishTimeDescription": "7 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "I went to this place to watch Shen Yun show on March, that was an amazing experience, if you have a chance, you definitely should watch it live here!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I went to this place to watch Shen Yun show on March, that was an amazing experience, if you have a chance, you definitely should watch it live here!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Jasmine Nguyen",
+                    "uri": "https://www.google.com/maps/contrib/117156032412342399856/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjaMP0Y0bkO3TLueyesNcEh8i2TeNKjPSO5R2-DftC8IIt0OSB=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2024-10-13T16:41:44.362232Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYMVBlelR3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYMVBlelR3EAE!2m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            },
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJOGJhcXZ3RRAB",
+                "relativePublishTimeDescription": "3 years ago",
+                "rating": 5,
+                "text": {
+                    "text": "When you have chance to visit Tainan city, please leave two hours at least to visit the cultural center. Here you can really slow down your traveling tempo and have some cozy moments with friends in the green and natural in the city.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "When you have chance to visit Tainan city, please leave two hours at least to visit the cultural center. Here you can really slow down your traveling tempo and have some cozy moments with friends in the green and natural in the city.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "J Jazz",
+                    "uri": "https://www.google.com/maps/contrib/112301711145927279559/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUR05LYzUB6_JyswteGnaMQ0kuLaX3XF1Q-kvVqoXWf1qg4aIkqHg=s128-c0x00000000-cc-rp-mo-ba7"
+                },
+                "publishTime": "2021-10-08T00:07:31.006540Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNJOGJhcXZ3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNJOGJhcXZ3RRAB!2m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            },
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/reviews/ChZDSUhNMG9nS0VJQ0FnSURvMC1XT2ZREAE",
+                "relativePublishTimeDescription": "6 years ago",
+                "rating": 5,
+                "text": {
+                    "text": "A very great leisure place or say exhibition place in weekends for family or for people who came to see performances.\nLots of parking places and the greens which surround the cultural center was peaceful, and people often came for drawing or sketching or just wondering around.\nThere are a lots of food choices around Cannon be chosen, if you came and feel starving just walk in whatever you see, since I always did this and never feel disappointed.\nHighly recommend it if you have time and didn\u2019t know where to go for leisure time.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "A very great leisure place or say exhibition place in weekends for family or for people who came to see performances.\nLots of parking places and the greens which surround the cultural center was peaceful, and people often came for drawing or sketching or just wondering around.\nThere are a lots of food choices around Cannon be chosen, if you came and feel starving just walk in whatever you see, since I always did this and never feel disappointed.\nHighly recommend it if you have time and didn\u2019t know where to go for leisure time.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Julie Chiu",
+                    "uri": "https://www.google.com/maps/contrib/116233114769033167682/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZun4T7i8KAj2fYGFsL4YXX8POeauDHbK0WYEt1HZ2ulAQ8zGP=s128-c0x00000000-cc-rp-mo-ba7"
+                },
+                "publishTime": "2019-03-21T01:24:09.060884Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURvMC1XT2ZREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURvMC1XT2ZREAE!2m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            },
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJenFfdzVBRRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Nice place",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Nice place",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "maggie chen",
+                    "uri": "https://www.google.com/maps/contrib/113844608607581581445/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCYUonsrMxCmWwcMophsAa39CYLQJ6mTSTNpvIh4mPmL-N5xMy=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-04-02T01:24:54.049665Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJenFfdzVBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJenFfdzVBRRAB!2m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            },
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnenJmRkZnEAE",
+                "relativePublishTimeDescription": "8 years ago",
+                "rating": 5,
+                "text": {
+                    "text": "This is the place where you want to go for a symphony or any art performance. At the same time a park where you can observe ducks and geese, it is so clean that they resided in the pond within the venue. A gem in the dense city of Tainan to truly observe nature!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "This is the place where you want to go for a symphony or any art performance. At the same time a park where you can observe ducks and geese, it is so clean that they resided in the pond within the venue. A gem in the dense city of Tainan to truly observe nature!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Keith Lin",
+                    "uri": "https://www.google.com/maps/contrib/100121276572332452184/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeF0HewuVA4S16McBr98ixaOQFLpcdLH8FXNIQT98nJMYU_tlq=s128-c0x00000000-cc-rp-mo"
+                },
+                "publishTime": "2017-03-17T16:30:27.386Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNnenJmRkZnEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNnenJmRkZnEAE!2m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/photos/AXQCQNTahH2YxUT8iiwiUxV-oE9tcyWZF-rbIdluTZARbWkgv1vM4RWW9PhpBMwVNBP2tJ_usZzJzNKunCL7NsZ6jitksy4MvfW-bRs51braerEox6ZLOZRj-e3CilllXaNJozosAhunlldcwaHzLPAh0aQNeEULqWgpvqc_YHPcBk-r-lC4rBquOfDsoAQ8qohyKdLjus4-HTcVJzP0Hvl1T5XxNSqp3YLQDFds4YqGpMB6uw__69S-vpJOspkylwVPWYfvyfEx8l9bp8cvzm6mklMiqq9JWTD21qk91_evdQQZDhjncZ_7Gf7VVE_w1kOECKnLy5DJURw1CGDOmOD5mjuh9UAldtnh4OHxXaFxd7acNDh0F9JlAh33Qhk7A4hJEqdnJhmTXEUReCs0dtxMtnwXi8j_TgAo07C_IgRatlv2Ig",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8521\u65b0\u8208",
+                        "uri": "https://maps.google.com/maps/contrib/113326931922018843579",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ5M15Ff3DFY_h-T3p7MtYwM14Qp8UjoIP8yyq-_CyCWI3kvA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-i9GNHQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-i9GNHQ!2e10!4m2!3m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            },
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/photos/AXQCQNTIDQRIhmSN2pdTUo2MEt1dUMgeK2CdYF0Mtg7nDbQS8l9qN6SOqwYHFMbrKmIDF6asdNvGYwWGWmTWWbCnVMOhyaq-K02aok8X8wQHOpEBWIidZLM_Bw1gfYc94jvGWK7UmPmKDuCLw1-zYBhPRdsyFdPLMzz6-ZH-mOh4P4j5PhK_tdNsV4gigyS65quSTeMCm4jFqmfLzjCwmNLM0Ji2g3G03aleR8LHluy3M0DRfP1RYvMmaz6BPM3NVizI1y9YqHhWdGG7haxKq_9a_APHHvqeh-1nLAcvVayaCcWw-zhC4m6cllRvEhQSUAXD7vVb2-v_W6wH2iskvj4MiRNpd7bnXJAeQKhF4qKn3OpKjsqeJ-7cfPTTTDYtt59rk7LpYKe8uNnvqapc7S0XI_yAhTIYmYZxh9bpu0Q83kQ",
+                "widthPx": 4608,
+                "heightPx": 3456,
+                "authorAttributions": [
+                    {
+                        "displayName": "epstudio Lin",
+                        "uri": "https://maps.google.com/maps/contrib/105246801835692109652",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQyotLa83zDsP-bWwoCTdfsQifIQ_Nc_kMfP---CBPMavr0GdzpmA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICm-sy9Vw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm-sy9Vw!2e10!4m2!3m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            },
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/photos/AXQCQNSLBtCOer2_6BfsC6Y3cvv8b3BttuevkLFBPhcNTL6wCPLI4eDkFO2aBAXZh9S1FQeL9CQLGcRt1ee-I-IGdgUGXg55IXQUnZiP6C-OCNwkR_k2C7892jlnUszJ2eo7gNhW_h7K78z-JkaFvfYpEVKNy2k5zvt3NW3ZHPZdCLB6cppenQy6QCdQxZaJWD7F9L5Ul3eBMTvgvV7HBrmlTPKjIbHI1tq3oOAsPTZlyPJpBn6wXvY7HhjdAXcm6_Ww2El0tOgfGk3l3Totn09QeldQVQgCYD9LFw_xeOWZ9jtMh3ka1Q9CY5exoxlEGv7hdoWrqZ5whw6Z7GmHcR2lOE46KO6FkN3eAa_5i0esRjzVfINWEMb5Tfflkttq36X90wwnuNWwlmWJBHFcmGoCY7--7u7GGndG_wK0QuiovPv7MkiB",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5c0f\u660e\uff08MinGPEn\uff09",
+                        "uri": "https://maps.google.com/maps/contrib/105953623343821601799",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGhmgxub_cnYhub2qwepBrqv4ugxr-pO-DrbNmN4JlIKVLpx2s=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-yvqSzwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-yvqSzwE!2e10!4m2!3m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            },
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/photos/AXQCQNR-tY1yGbl0Px-HY4I2ChrEUmbAe6CgF7BIqSmYIX-0dMVuBUMkeGszomqAPEpXBWlOiTLZ9NTpiQOyuGaClqXZvePQLkdsr5GC6WG89L5HXcBVZ4K8fWCUFojs9LnSYmo3896AyC47KXDK1_aALaLrcks6H6-mj7dGzMYc_4agx3iLpoLAOCywfbw_5voZX4juWChj4fnaOxH0UbVFhr1nruTBniuVqOV4pXxEMI9MOagbYqMSi3Ui9z2Y5Vo_J5zBuM11ll44eDlBb33kfNX4jAUrG_8f4tM1Gb5R6CGZ5V8sLpjSoLEqJOxSRnT48R5nTfy0biuEnYlFzLxXpcVQywEs2cqq5vR4pxuU_5RA7hWq9UNOHJQwz3Ml3-MQ9U4klt0EhStiz0BqZyQqxa_tQIzQMK6NVY24Xteen-yROjY",
+                "widthPx": 4000,
+                "heightPx": 2250,
+                "authorAttributions": [
+                    {
+                        "displayName": "panpan liao",
+                        "uri": "https://maps.google.com/maps/contrib/113365086118789246053",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsDQa8B9pbdOw0EWNN0nuV_qV0ZI9xagImyqIvUySdrAvgu-nO=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID6p7vx5QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6p7vx5QE!2e10!4m2!3m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            },
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/photos/AXQCQNSqHcmCLLTSPMvtcCsFRG1BAoN17dLplPZokM4qoKxaNntJrQAzkGxtrXaFD7XtIxdMqPu7KFdfmzkRCWnZLZ9Bp-GnEY6fZuecuQs_s1H505ulb8GXWKc-ghqYMoTAhiIvcJtmWVKvZNv0MSxJf_DQo-d-L4JP7fKQTVxG2Ui_E2Ut6oRzkOHqXTQeoJD4WIYfuLshQRMp41eRIAVqcB-IWDsqJNBUrAlHfiGqrsJWDe907b6sg2vz5T04TMirsRwn39RS1NwYpzF57S6yezzJq4u1ufUzWXc2jCChB8ahc-B6xyCSQwPC-_OJTLLRpUrKE2I_T0QsYAdDVExAgq3Tmwow50py3W5xX2-cEPUqXP7wZMLSREubQY1B5XTcIGyaUrr37O8SwbbMYAAd7bxuC4WTuvg49imW9yPYIdgPYGFK",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9673\u5bb6\u9a65 Lewis",
+                        "uri": "https://maps.google.com/maps/contrib/109369036993454118976",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYf1armL9ZTT1-QqD3yWklNz6ld_2GZzS1VASay19xfQ3ADTkMNQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDF1KT2jQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDF1KT2jQE!2e10!4m2!3m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            },
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/photos/AXQCQNTNgREVXdxi2qSY4zka-WMrbUR2pfZEELZ5X6_tN0R9kfLjyyDoXEVTBNAT9DBftYEWqAv1-95EIpwdJS2ZdnlfY4PzuNRbbYWYGT6D8lirBcSBBjiJVde-opc0pJLCLkgUx8IUW-EMThAbG9270rMXujqZO4xq55VO2Sv--FWSDuCwc0MIa0bkOHxGYimHXeZVyH6Qt_wNi9LVi5IM1gqNjTIWQHcO9LNrB7haSZb9t_tlv9Iqd73WrlFDCplPU6pS1lmfkmQitU_aqiQLgaSfkUcYDVQ7pwMGrhS9laaBEA6Pjwwz7qpZZb8kHYLypIvT7iD3CBL09MsA7BbbDa08dc_V_pD10V5uYgN87AFMtrUqvX_uJM6QUnrRy7vzrDYykEpEeeQQmqtwfk-S1xWGfg56NKAuSq9NL_O6DacC4PJU",
+                "widthPx": 4624,
+                "heightPx": 3468,
+                "authorAttributions": [
+                    {
+                        "displayName": "hiroshi chang",
+                        "uri": "https://maps.google.com/maps/contrib/115019539197361302752",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcKmWShK4lSLpeStLN-TAcDzYkB-CS4SUZhQZK3aoaypWHp5J1=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICW4Y_yzwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICW4Y_yzwE!2e10!4m2!3m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            },
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/photos/AXQCQNTkgHFQ_KDH2d68VFxXbvKRtl2w1fde2i369BqwqHDKxcXOZBzq5b_eanKISIgc53sUmwwENkYBT-adw2kdCviai1j5OARTqdTbIW_zzm5logsnVnqxqy90NFxmuqzf21KTJsc4wydrEEiFAP-A4_Zsoh-oY8NBEZpnsRxqRLnBPJhpfL8sF1YwkseOJbIpQ5AAeaxRXvWhqTjexS_LqoRCIQPrVHC6k7_rfw4JvQUYAI37bW6rMF3YQsvxxCeIQVAPB32dn4SECVqzRABPN8PuEn4B0McrC_gKm3HTDoW2DtXP9z1dbUmx1ANSgiaY2Mr6Kmt9a5drW30Ql17P6BI1huShb53y1yNRlw9EV94bAey31z5aF13-JP1bRw-GZl2UPNPLYjMqM5h4m2MSdNSaoBpNUIcYo2t1tftdaqA0882v",
+                "widthPx": 4080,
+                "heightPx": 3072,
+                "authorAttributions": [
+                    {
+                        "displayName": "PP Ba WU",
+                        "uri": "https://maps.google.com/maps/contrib/116200059895142849313",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXINzP4A688A9bf_Ni1GEVQJ0YINTxMPBOyWWDO_Y3NjBQEh4Ru4A=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu3djR8AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu3djR8AE!2e10!4m2!3m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            },
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/photos/AXQCQNQkFbPbpATd9AoBta7p9u6NGGpXkDorMCeFNjqXCBpPgTMhau50n3fEqXfMsYDsazR879VTCYCr0faoP0yHRxem-B_Xn6S-zPOIkiOr15QldXszfV7OmeEdyH_iuCoy99peb9oI4Xyy0PpM33JKSHfnaKbnK4ySO5GOMYWs4Ct7JBUYNkUwmB8YbUkbXmaLiqXJqz9ufTQds9ZLKzjiVlWaIH7gph0NE49XFroDCXfmqxSCLqj9vCXjZrf4iWEbDkMoofVtCRNvuXWeaFEUJIMSG_sR90CItj6HOWbLqyuqDhCYeSfNs062yeUYicQ7jnpPU73Wzsm1vOlIpElXwk1YblKomeDB5MnuDSRPNHpr7T5Oc0xanqei3MyfYShzWgqOgL1JUV4iQnWcopFm5oeg7LXM2xrW6Ubrm0n5UU4zyj8G",
+                "widthPx": 3072,
+                "heightPx": 4080,
+                "authorAttributions": [
+                    {
+                        "displayName": "Jung Yi Wang",
+                        "uri": "https://maps.google.com/maps/contrib/101559187004588908160",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCMtMV5RpTkiLbbeuyFOJfMt9YYoc50S4Xj7PS7cuCGen1DPU0=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC5sfW9iAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC5sfW9iAE!2e10!4m2!3m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            },
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/photos/AXQCQNTUPGTcNhp-ZQiTvgSNwvAj9QI4jIbG0QeDyOhX197dc9vq4O3IH1mfRhfklpKb-rRGEEnXVhdtzzY8LvgaqHLF1cjla3GNUo62wfChahDHV0HAGqglHyDHBdW-Mt6zaWLP0x_ioLhoSrlbIC2hXQA47C3TmbGxdROexgNf7K1wZx6UtJtuUyAWug0-4z_2TlQtY38B9ZHR2n91tCit21OMmeM90z5avqk3SKyThdD0AinlYLYHUx_0xlPreF94LXIcPfFF5ntxeNc6NlY7GyEv3lg3yL8oDtpHyD0cxx68mdDCmeYUa-YUYkveruTx0ouYauPLtKZ2C8hf2hd0I4Hf4mGM5U080iJKBFFKlX706Tnc7iLl8EV7l4k4R2glVSwtum7DyeBQOHXDCaWQYCcNz8_A-jfDPFzLx1E1XKU",
+                "widthPx": 2160,
+                "heightPx": 1728,
+                "authorAttributions": [
+                    {
+                        "displayName": "Shan Chin Lu (chin chin)",
+                        "uri": "https://maps.google.com/maps/contrib/114144113651568997635",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLbBtZ0s8kyyXE2Shd8q48cSrs0EoZumZQHrnTKrXvT_8flhozA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDO8u6JBA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDO8u6JBA!2e10!4m2!3m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            },
+            {
+                "name": "places/ChIJYUOPRyd0bjQRivbrqFsMKuU/photos/AXQCQNRyPsLhXWBgatzx758vdTREKKGzYAWFLPwx4C9EMncMjmvu96xr4M8zDlBJhHDCRuPufi2kJ9pNWtvtt_IQqYSgsYKScvrRsklOQPAjJxdFXFKrj-ATZeFGsD5KyBppKTuDBmPzvwmoj5WFSv7lgcanMiIbl7MEO65t9Mdlu9hFkN2dcM5ECr3kkGW3LdImoaYo9kF6nHXgNsINXqpTBVhkSLwT20LDppoU-DBMttPTMJ5aMu37sJZBb3avvHHgvU9p-SCj7s0RLSJpaB9uZ-zf4PGy-p0W85zbrMAuEliADNIoEr2hPbPN74dZGQ2ZZuYbGbX5qZQUSdyzv-3_VPEv3dYhq3SQVtTuai8FQphsw1akieZY3rF50VEHsM1aSoD6U9z5KdCqVPW6-STouRQBq7qHDwNgTZGC2Nap3Ko",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Alice Chen",
+                        "uri": "https://maps.google.com/maps/contrib/102780277281792613895",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJ4Y1kvxgAJI89vxlPd2wrfimrUBFrZaYPZJPrP1TF-PqZcvc=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJyY-zVQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJyY-zVQ!2e10!4m2!3m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a"
+            }
+        ],
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJbVeD9Z12bjQRW7FO90U_H_c",
+                    "placeId": "ChIJbVeD9Z12bjQRW7FO90U_H_c",
+                    "displayName": {
+                        "text": "KFC",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "restaurant"
+                    ],
+                    "straightLineDistanceMeters": 174.54152
+                },
+                {
+                    "name": "places/ChIJb6goICd0bjQR1rWu9-8ymhA",
+                    "placeId": "ChIJb6goICd0bjQR1rWu9-8ymhA",
+                    "displayName": {
+                        "text": "Evergreen Plaza Hotel (Tainan)",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "lodging",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 76.518776
+                },
+                {
+                    "name": "places/ChIJMwoLNSF0bjQRPDMC-i3Tuy0",
+                    "placeId": "ChIJMwoLNSF0bjQRPDMC-i3Tuy0",
+                    "displayName": {
+                        "text": "Barclay Memorial Park",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "park",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 324.59723
+                },
+                {
+                    "name": "places/ChIJPSDdUSd0bjQRHgot8iu-vQc",
+                    "placeId": "ChIJPSDdUSd0bjQRHgot8iu-vQc",
+                    "displayName": {
+                        "text": "Cultural Center (Evergreen Plaza Hotel)",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "bus_station",
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 91.54664
+                },
+                {
+                    "name": "places/ChIJuUw0uCB0bjQRmz6vBrNtmSM",
+                    "placeId": "ChIJuUw0uCB0bjQRmz6vBrNtmSM",
+                    "displayName": {
+                        "text": "\u53f0\u5317\u5bcc\u90a6\u9280\u884c \u6771\u53f0\u5357\u5206\u884c",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "bank",
+                        "establishment",
+                        "finance",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 163.35562
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a!3e0",
+            "placeUri": "https://maps.google.com/?cid=16513024571522938506",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e7427478f4361:0xe52a0c5ba8ebf68a!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "701",
+            "administrativeArea": "Tainan City",
+            "locality": "East District",
+            "addressLines": [
+                "No. 332\u865f, Section 3, Zhonghua E Rd"
+            ]
+        }
+    },
+    "description": "The Tainan Municipal Tainan Cultural Centre, a vibrant hub nestled in the heart of Tainan City's East District (No. 332, Sec. 3, Jhonghua E. Rd., 701 Taiwan), stands as a testament to the city's rich cultural heritage and modern dynamism.  A striking modern complex, it's instantly recognizable by its imposing metal sculpture that greets visitors at the entrance.  This architectural masterpiece seamlessly blends contemporary design with the tranquil beauty of its surrounding landscape.  \n\nInside, the Centre unfolds to reveal a treasure trove of cultural experiences.  A spacious library invites quiet contemplation amongst towering shelves, while a grand hall serves as a stage for captivating musical performances, theatrical productions, and operas \u2013 a testament to its top ranking (#1 of 1) as Concerts & Shows in East District according to TripAdvisor.  The airy spaces are often filled with the lively energy of performances or the peaceful quiet of individuals lost in books. The surrounding grounds are beautifully landscaped, offering verdant spaces perfect for leisurely strolls, sketching, or simply enjoying the serenity of nature within the city.  Visitors often comment on the peaceful pond where ducks and geese reside, creating a truly unique urban oasis."
+}

@@ -1,0 +1,951 @@
+{
+    "name": "Museum Of Illusions Taichung",
+    "tripadvisor": {
+        "location_id": "20483617",
+        "name": "Museum Of Illusions Taichung",
+        "description": "The Museum of Illusions is one of the must-visit attractions in Taichung and a perfect Taichung day-trip destination. Combining illusion art and perception science, it offers an exciting interactive experience with over 50 exhibits, including optical illusions, mirror reflections, light and shadow effects, holograms, and classic illusion designs. Challenge your senses, spark creativity, and explore immersive rooms designed for fun and learning. Whether you're visiting with family, a partner, or friends, this unique experience guarantees surprises and enjoyment.",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13808397-d20483617-Reviews-Museum_Of_Illusions_Taichung-West_District_Taichung.html?m=66827",
+        "address_obj": {
+            "street1": "No. 66 Jingcheng Road",
+            "city": "West District",
+            "country": "Taiwan",
+            "postalcode": "403",
+            "address_string": "No. 66 Jingcheng Road, West District, Taichung 403 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "West District",
+                "location_id": "13808397"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taichung",
+                "location_id": "297910"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "24.155922",
+        "longitude": "120.656235",
+        "timezone": "Asia/Taipei",
+        "email": "info@museumofillusions.tw",
+        "phone": "+886 4 2329 5008",
+        "website": "http://www.museumofillusions.tw",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13808397-d20483617-Museum_Of_Illusions_Taichung-West_District_Taichung.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13808397",
+            "ranking_string": "#5 of 40 things to do in West District",
+            "geo_location_name": "West District",
+            "ranking_out_of": "40",
+            "ranking": "5"
+        },
+        "rating": "5.0",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+        "num_reviews": "31",
+        "review_rating_count": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "0",
+            "5": "31"
+        },
+        "photo_count": "40",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13808397-d20483617-m66827-Reviews-Museum_Of_Illusions_Taichung-West_District_Taichung.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1800"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1800"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1800"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1800"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1800"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "1030"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "1800"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 10:30 - 18:00",
+                "Tuesday: 10:30 - 18:00",
+                "Wednesday: 10:30 - 18:00",
+                "Thursday: 10:30 - 18:00",
+                "Friday: 10:30 - 18:00",
+                "Saturday: 10:30 - 20:00",
+                "Sunday: 10:30 - 18:00"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "museums",
+                "localized_name": "Museums"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Museums",
+                "localized_name": "Museums",
+                "categories": [
+                    {
+                        "name": "Specialty Museums",
+                        "localized_name": "Specialty Museums"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "0"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "2"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "2"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "17"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "7"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJRRh52l89aTQRRqPheccJZv0",
+        "id": "ChIJRRh52l89aTQRRqPheccJZv0",
+        "types": [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "04 2329 5008",
+        "internationalPhoneNumber": "+886 4 2329 5008",
+        "formattedAddress": "No. 66\u865f, Jingcheng Rd, West District, Taichung City, Taiwan 403",
+        "addressComponents": [
+            {
+                "longText": "66\u865f",
+                "shortText": "66\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Jingcheng Road",
+                "shortText": "Jingcheng Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u5fe0\u8aa0\u91cc",
+                "shortText": "\u5fe0\u8aa0\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "West District",
+                "shortText": "West District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taichung City",
+                "shortText": "Taichung City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "403",
+                "shortText": "403",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QP25M44+CG",
+            "compoundCode": "5M44+CG Taiwan, \u53f0\u4e2d\u5e02\u897f\u5340\u5fe0\u8aa0\u91cc"
+        },
+        "location": {
+            "latitude": 24.1560959,
+            "longitude": 120.65625730000001
+        },
+        "viewport": {
+            "low": {
+                "latitude": 24.1547007197085,
+                "longitude": 120.65498836970852
+            },
+            "high": {
+                "latitude": 24.157398680291504,
+                "longitude": 120.65768633029151
+            }
+        },
+        "rating": 4.7,
+        "googleMapsUri": "https://maps.google.com/?cid=18259292491568227142",
+        "websiteUri": "https://museumofillusions.tw/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 18,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 18,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 18,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 18,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 18,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 18,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 20,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Tuesday: 10:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Wednesday: 10:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Thursday: 10:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Friday: 10:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Saturday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+                "Sunday: 10:30\u202fAM\u2009\u2013\u20096:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T10:00:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 66\u865f, Jingcheng Rd, \u5fe0\u8aa0\u91cc</span> <span class=\"locality\">West District</span>, <span class=\"region\">Taichung City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">403</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 4336,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "iconBackgroundColor": "#13B5C7",
+        "displayName": {
+            "text": "Museum of Illusions - Taichung",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Museum",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 18,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 18,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 18,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 18,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 18,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 18,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 20,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Tuesday: 10:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Wednesday: 10:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Thursday: 10:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Friday: 10:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Saturday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+                "Sunday: 10:30\u202fAM\u2009\u2013\u20096:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T10:00:00Z"
+        },
+        "primaryType": "museum",
+        "shortFormattedAddress": "No. 66\u865f, Jingcheng Rd",
+        "editorialSummary": {
+            "text": "Perspective & gravity-defying optical illusions, plus photo ops & brain teaser puzzles, at a museum.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZNUxuRDdRRRAB",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "Definitely a must visit if you\u2019re in Taichung! Tbh I wasn\u2019t expecting much, but I was pleasantly surprised and enjoyed myself very much with the exhibition. It\u2019s 2 floors and they control the number of crowd that comes in, hence why I do recommend buying the tickets in advance at your preferred timing. I purchased mine through Klook and the redemption is seamless :) The staff were all super helpful in explaining and encouraging us to either take photos or just be mindful of blown by the illusions! They also sell some of the puzzles, do check them out!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Definitely a must visit if you\u2019re in Taichung! Tbh I wasn\u2019t expecting much, but I was pleasantly surprised and enjoyed myself very much with the exhibition. It\u2019s 2 floors and they control the number of crowd that comes in, hence why I do recommend buying the tickets in advance at your preferred timing. I purchased mine through Klook and the redemption is seamless :) The staff were all super helpful in explaining and encouraging us to either take photos or just be mindful of blown by the illusions! They also sell some of the puzzles, do check them out!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Wani Abd Ghafar",
+                    "uri": "https://www.google.com/maps/contrib/102971422989120014345/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXD3HVdtJbzeHBFtx9x5rVUtNL5HRZDBhNTr7IPGem7bJJsRMot=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-05-01T14:55:37.641024Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZNUxuRDdRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZNUxuRDdRRRAB!2m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            },
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/reviews/ChdDSUhNMG9nS0VJQ0FnTURRd3VEYXNnRRAB",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Helpful staff, English friendly, and some VERY well done exhibits. A little on the small side, and comparatively pricey for Taichung, but a solid experience and worth the money.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Helpful staff, English friendly, and some VERY well done exhibits. A little on the small side, and comparatively pricey for Taichung, but a solid experience and worth the money.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Dee Pond",
+                    "uri": "https://www.google.com/maps/contrib/115270147095873456042/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVNNUT0Zt7gs0ep3E5i6jPXBlCRTSUri-HCwZenlrFlYmwCewG8=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-03-10T00:20:59.179561Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRd3VEYXNnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRd3VEYXNnRRAB!2m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            },
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/reviews/ChdDSUhNMG9nS0VJQ0FnTURvaHJtTnhRRRAB",
+                "relativePublishTimeDescription": "2 weeks ago",
+                "rating": 1,
+                "text": {
+                    "text": "Foreign tourists be aware if paying by credit card: their dodgy card machine will force to charge your credit card's home/native currency which incurs 10% extra conversion fee with very poor exchange rate. All other shops we went were charging us in NTD. The museum is tiny comparing to the cost of tickets. The staffs are very friendly though.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Foreign tourists be aware if paying by credit card: their dodgy card machine will force to charge your credit card's home/native currency which incurs 10% extra conversion fee with very poor exchange rate. All other shops we went were charging us in NTD. The museum is tiny comparing to the cost of tickets. The staffs are very friendly though.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "R W",
+                    "uri": "https://www.google.com/maps/contrib/104685279379690875022/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLKBBhUa6yZQYUFO5YcsBKIaWGNpbuSUdX8ZdhOKO71nuYQbQ=s128-c0x00000000-cc-rp-mo"
+                },
+                "publishTime": "2025-04-24T07:17:07.817997Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvaHJtTnhRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvaHJtTnhRRRAB!2m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            },
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZckw3eC13RRAB",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "I came without expectations but I had such a fun time going through each exhibition! I laughed so hard with my friends. The staff is amazing and very kind too. Definitely worth a visit!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I came without expectations but I had such a fun time going through each exhibition! I laughed so hard with my friends. The staff is amazing and very kind too. Definitely worth a visit!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Josephine Shim",
+                    "uri": "https://www.google.com/maps/contrib/116896923719626005496/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUDuYQKdC4U-dRCygTji0QVD2czdj-1sagMmcnGDvsj1v3QpqY=s128-c0x00000000-cc-rp-mo"
+                },
+                "publishTime": "2025-05-02T05:54:07.116299Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZckw3eC13RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZckw3eC13RRAB!2m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            },
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/reviews/ChdDSUhNMG9nS0VJQ0FnTURJbW9fazZ3RRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "They have time slots for tickets so it is best to purchase tickets in advance. You can purchase tickets at the front but you may need to wait for a later time slot. The space is small and we were able to get through it all in less than an hour. They do a good job of crowd management though so it never seemed too crowded. Illusions make for good picture opportunities.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "They have time slots for tickets so it is best to purchase tickets in advance. You can purchase tickets at the front but you may need to wait for a later time slot. The space is small and we were able to get through it all in less than an hour. They do a good job of crowd management though so it never seemed too crowded. Illusions make for good picture opportunities.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Peeeterr Y. Ho",
+                    "uri": "https://www.google.com/maps/contrib/107753048957434534270/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIhU2y4PVz0vdXUrG58svzQJDll8p925A2P0LDIz8holVoM1g=s128-c0x00000000-cc-rp-mo"
+                },
+                "publishTime": "2025-04-09T01:29:25.844400Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJbW9fazZ3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJbW9fazZ3RRAB!2m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/photos/AXQCQNSG4XbMo8cyGVybIJbkzaTh8i2REFOuwm4CdixYlaouEW_fHfhJr1duQhPkCr3lklD6bAA6t3vASnxQ1PEZ2kLIC9Anx3Lw9ZhxZv7oJ3euKvAln8srLYE91kExFuh7Qk2Mn9EPZ9EHBaSQ_26w3yoRfOH1pSILfFmLJp737XD86qCpWwvRGssKrW5xmeAJnr4D1PHEuLrhqZPHw44rGrkj6_2rmlo2o28Nz-mvp2Snv8_uBa07UMBX9-ltcMUtH8ktxXj8vUDXr0Q0PpNgapTL2-haxzPiwBfWxvFX0rRWLQ",
+                "widthPx": 4800,
+                "heightPx": 3200,
+                "authorAttributions": [
+                    {
+                        "displayName": "Museum of Illusions - Taichung",
+                        "uri": "https://maps.google.com/maps/contrib/111844502943032448384",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6C8za2t67YXpM88oE1Mmq9qZ9r4tgV2bgLzy0VCJIm_eNGAI=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNzYTFxeIgKzhJJmrYMDqyM33EpOaNtlPQ3s6cH&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNzYTFxeIgKzhJJmrYMDqyM33EpOaNtlPQ3s6cH!2e10!4m2!3m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            },
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/photos/AXQCQNSWTLu4GsmpJQZc9f8zh2j5hjI5aBnTh2Xkyp6Yunh4JHL7mSOByuzWVcR1CHUoVbeVpuoWdVg3eQb8dHWGUb2XcYho9NwkycazFhvzz92wsFiHF6bHD3PB7oyXTfQBQKm4WMbmI9NyC_Qw1G7aH0r4TP2bdU3zZON9i4Ktpu0VUPx_GwaUHjxyqd0AfhBnQ4zMfHBReBsEbcVJpcZrBRC1aiIstbCpyklKnfq8hB-3yQv5cYChD4vmnBmZiybiIUGcKa4IlKs7ROF7VKUWj_aLLgegqxGuMpaS7vAhM62dVJFVl3i7oaJ7OVLD_5_gCAD25Rndax9MkvnJNXV3VzCPLD28WXB-FbE5yGJdg2m3x4MLVWV6IRmng62Jn_k84tmgHwZwCcRXNhibig1q59tsE3uLyWPQja8VE5Tfb1tvxe3p",
+                "widthPx": 4624,
+                "heightPx": 3472,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u738b\u4fca\u5091",
+                        "uri": "https://maps.google.com/maps/contrib/117154271616976138003",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlDS0k32E6lRWvMTBljohZ-xaJugoed-jVcL4MW38Zp8yx_t8=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICK2eT2xwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICK2eT2xwE!2e10!4m2!3m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            },
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/photos/AXQCQNQDdXmluXFSgtsq0IGn-u7bnK0HT7EbwHsUBR1Zc2n_JFCEq8lucyIZ2ym6g3fW2pbsRz1TBn1QGniwv0kn7Hm4G7pzrwhQaZE9fz9Tgv1WAxbWC9ZJZmKDc2ZPTUigKNbGOTGRtYVnQMGZoLAD1xOkDv0DSZXLy2ixFOuUUShu2ytHLrDtIDpZOKG44vaChZ0VFHRSnLMW07xcm3EsMh2u3Eb5jnBpXrY7VTcCrKiqtK5v8DFfuhizO-rkxzHCMUfYx-Uiw9dpU0uWHNBcJpm7rXU_Ig3DO70rXcqs7_VKAM8AyyGsPK4jjUOyVIinhxWMSan5U1G3_PbITr5CUfHd3_DFRnXf912N2-yb23WfsdoM7wNoYznOhAxD3DW5etW_XjXVDb89uUuVBYGydLKs9VanSzhGwv_a2NUuDnexpOxN",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u82ae\u82ae",
+                        "uri": "https://maps.google.com/maps/contrib/103707813794874783813",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYofWxUIScJP0xc1_e3NhuFl3QgHFKweK9CzIil6XBvXGqRTFz_Q=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICK_YuJvgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICK_YuJvgE!2e10!4m2!3m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            },
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/photos/AXQCQNTvRhpXr1hM-6f5cvmLcULOdMnkRf5FJT2cbtl4NyLWMXLZtbe97Bi2YTWy-45w3gLNkoKdSd6IYSdZTtU5LVjlxT-03eA1DNsgc8KdRfbtdyukYcIQrquSCxLK97BS9Gf2sl5mkrTULRLx0yiUIsAlVSWBv5aIxdML0eXztkJANd75oefA8huvlK_-490H7yb1S-vqwen7zaXwiq-7yPfTfd9V0hTFITJm_mEszkii85LNF1juzyauDtUNoc57d8cOBILCjVPPYSf2lZJPuW1_Yv99OoTXr4-q_3HB8A_XG3vS0S1BPk7aRTpBZgQ8KRklIDB7_BedPLRK_SHbHp5lYx8VOU_HM3ZEC5MknqxAJQkyn6LjUuBtyxV-KYMHvt2sQkX2WPFq0HJEkeaaxJWQH2BDiMUCUAzXlV3zJkjHpEhZ",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8cf4\u5c0f\u96ea",
+                        "uri": "https://maps.google.com/maps/contrib/110484612725735234656",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWF3wNzJvxf1uZfkM38_h07J766NFvkKyf88-IHoBCCm7hMgNc=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDc-uWM0wE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDc-uWM0wE!2e10!4m2!3m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            },
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/photos/AXQCQNT18HAaxIFHf7tQOPdKaMGR-FCAVGFDcacLDAyHzBmRJdETuEfmy-xtGP7AqqWlzHz0x2BkeoghR26ESATVIulzxzhO7o9nRyLUwfzZ1P3eIqQftjmlHoLpprBZ_cQOruaV8o29QKSr8VAXs7th7fSBPnC4WpBZZsvT85nKiVc33ai82aHHw5Mbrn8PJA6ukMpqzPzYqzbjcTEYKhVIBQV6H0uQLnR3UbCdP21JUGDQUTbKK7oCNINFebVoTPZRqTMB7bDIs0hH5dQxxhM0d6sTyIiBotvutqIQaSncLIHB6TcXJhJgkmdXliu0pCAsmAlY9CxshxtI-XD2T1Q3RwHBJ6MpLltT37te4ClOiqA-8VjJy_Dn5aCK_9xB0kL6xQCO-IdzmxRXNA0pqrfcyOuKcequw1xQCbpWKw-SwuCk580",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Frank Su (\u6cd5\u514b\u7a4c\u7a4c)",
+                        "uri": "https://maps.google.com/maps/contrib/107744681246443725091",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvNtPCL1DaGqoAan8ZkI3G50WJ5ii5jqf2j1qhbn-kK1dmilrs=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICB5tCuhAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB5tCuhAE!2e10!4m2!3m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            },
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/photos/AXQCQNQDAaPwvYEVer1PQ-skjnxCMbyVEIPWDwuFJfffGmMqLnkQX0ZakUaPqyO5GTtklr2M5OTWaSJN4-cL4ZykIL43chTKxToNtVPxlNvLeR9LbMb8Z4KtNUFKUbbnPTTIs5_1YrKE4GUd60P89urqtiJGgs9LwGdKydezU6iIfJNt_N3h_ECufU78jtw0_nWYi2W6yhQvn8wVnUPYLwj0ExVWFt306SWkd7sxF_gGIbxVMb3fNitF8KkbSXsp1UeAmNsKO2HhQ3pttA4kvoXWLHAzl976-1reDkz3aPjbm5vlZcwkiCQ9vdxTXfRb-WyDZPO6geHupgQBFt17DsDXy4h-dh2wSEVGiQ8jeeOmDmH971tnlDTw9LfR4R5AVAuBjsfx0yWoG_NDQsMT8rxpA84CmO_M3ipAv38YRHyygdT50sGf",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "nianci liu",
+                        "uri": "https://maps.google.com/maps/contrib/110956964387314727620",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzvUDzsaFJQzxveKLHRnJxZ-VfmoOj1YPXqNVSTQJdDcxyp8OevQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDd26CHqgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDd26CHqgE!2e10!4m2!3m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            },
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/photos/AXQCQNSxBkGZrHqf3PTdD5SJvrZDd0JOoG6R7s2h_WT2Svuc3WauFkIYwHWPlzBnlLYjowrI0SgPqHe76QG6KN-Caoseb0dm_geWn6lVCAywGLwpWtkjbw0uFb3TSh5U_AB19-mf5Uk8q297Wew7ryXB-JIYWk7q8WQfX8xhvECceF7WtBJpydZvTV0YmDK_4B_TV-5NfBJbQgASMSEAhB65rFxaA7Q7X-p-_Msx1-Z8i1SclAKcafj4dD6RXGUnb9GEZzpUkZnTDm21ZZkGS4nB4svavdWAOu00Ypr_YvOOkbl7ru4nn66ic1PwSRBo6OFAiIt1ZKHcABfYqsOfNY3ocGDSHA97vZ-LfWvcDvSANhojIyYfScO2a262-O7Sek6YxcCXADpm-36G9xAPnwk2DZpZw5fUxYF8o6B9JM-XjUODOg",
+                "widthPx": 4096,
+                "heightPx": 3072,
+                "authorAttributions": [
+                    {
+                        "displayName": "Mirabelle Chen",
+                        "uri": "https://maps.google.com/maps/contrib/108041124950357731517",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRhW-KRRNrAmridIkBYpimPpd8f1GpoKGGKlypyNDkGec0THWjfg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICmgcabcg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmgcabcg!2e10!4m2!3m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            },
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/photos/AXQCQNQ-6TOApUvpkgNsA400Byy877THCKFjjVgHha6lr5bUrxXZcQfUbHgdzVGus2sEREJly4WsZcGMMRWAAbFk5x8Y8QYP1c-qfzYbOkDdjRKMsV9ZfDusb71QRfgTxOH0DdgoqI4jXjRY9NXT0ikBYoEDesPaPBPiFffmJAVJuF2Ym3r_dqqGE6lwUzveSkGtuJEO-9lMhT3z07CW9umEoGAWZIIBUBWtZXXxxdY2TBfdb0gyJVTfrPpoU8TgI2RIaizAgCzaADxxdLfbmwZBDER66CaqjFsiuaFTGprD-2Gu6PfCXsw6bnYs0L1Ew3lBc63nWwzfMLGDWQIYmBdN05zYKvsgFydqdY_LYz_Iiwt27RL5hVUgBfwoWxdVtDKqOoFi0du_0Kg5zcJ7W-tNY2JVam9kvNFhSXrtb3BjD1hTvXtq",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Hsi-Chieh Lin",
+                        "uri": "https://maps.google.com/maps/contrib/103960935337998168410",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrMxy85Q3QaPEK3IlWt-m0kX3jfVRxz6E9QCr52L4wFkhSPq81Mw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJz6y1_wE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJz6y1_wE!2e10!4m2!3m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            },
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/photos/AXQCQNSLyzuOZZeRB_WcAvUGCKAAKIt-RHamMRzrqV6EGL4zF8fZ2-dkcPLNBGMupVVWSdqzEL7RMQGnsF1whiIpPxd_7QyT5qzuGFIxLuHkC7V81rUdyikPc72WeLei2iqnOaq7hFTM2R88is--8GZNLaq1mklzAH7OuBdCgBBtQ1BBw7n2YwuAXT8LgHpMtN9K7H7qg008ivAn3qluCd8rnoAKAGUPplDUPLWpi2yfl_w9k3T7cumJAjFUlfalP-NjZ3oHODkKSJpvxEdemEaLf_-OFYw2UhOZbNzREI5f2mFQ6WhTmeTnfe_T74NhkxOBjZ3v1C2c2qW3OGSGliQCwSS-GAzDv0TBYaM0tkrxKytV97nRC0D_1C6acQb334qy3W62k8dktX1XTfOJcHF1zpkub8Hd9lopn8ARTz_fCUtf0g",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9867\u4e43\u73a0",
+                        "uri": "https://maps.google.com/maps/contrib/114978016277147345764",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKt5wdALmEPO7dkPsyJIWyt6PA67rd1XINQXLyoNJh8lICNsw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICK5v3Pag&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICK5v3Pag!2e10!4m2!3m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            },
+            {
+                "name": "places/ChIJRRh52l89aTQRRqPheccJZv0/photos/AXQCQNQ2NHBiKGJ-sN2nBtFqPwSrltsWKhIslx69wJoZWH_J7PDHVaFnA60Scn57MsDa4YDSAJyJ148c6tDxRUtd4MKVJj5KfeitU0yEuUglWU5fHjk_vji-HRpg0MTfUHgGlkYxkSMpW58cn5HcJphDo3_iPZhoZzVwA1HUvA-f57EaYDHCKYFoMZ26c8gWlw2IRcAqagNo9fmpZJy76FIw1Ysicg6nQhuGKtb5GvH41XxMmi7dbgDbY6vDgIyPlFWGOujWB0uLQBsttwKP6ea6luPtmX3-kQcr_uC4c8UotqQ0F7rmp8Et8L76tfwezJDUYm7efCAvNCRzP21d9Tgl85JPpjC7EUde_IHtrwFaDkd8q2LQeHltz0BTzl4G2qH6-QiN9KcdjAg8O9l1AnyOvWIImtEtFj-ynVO4Vp5T6TI",
+                "widthPx": 3472,
+                "heightPx": 4624,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u738b\u4fca\u5091",
+                        "uri": "https://maps.google.com/maps/contrib/117154271616976138003",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlDS0k32E6lRWvMTBljohZ-xaJugoed-jVcL4MW38Zp8yx_t8=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICK2dSXPA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICK2dSXPA!2e10!4m2!3m1!1s0x34693d5fda791845:0xfd6609c779e1a346"
+            }
+        ],
+        "goodForChildren": true,
+        "restroom": true,
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": false,
+            "wheelchairAccessibleEntrance": false,
+            "wheelchairAccessibleSeating": false
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJMfvh5Zo9aTQRtRHf16BO6oE",
+                    "placeId": "ChIJMfvh5Zo9aTQRtRHf16BO6oE",
+                    "displayName": {
+                        "text": "\u9b54\u9aee\u90e8\u5c4bMore Fun House - \u79d1\u6280\u5047\u9aee - \u53f0\u4e2d\u65d7\u8266\u5e97",
+                        "languageCode": "zh"
+                    },
+                    "types": [
+                        "establishment",
+                        "hair_care",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "spatialRelationship": "ACROSS_THE_ROAD",
+                    "straightLineDistanceMeters": 37.979374,
+                    "travelDistanceMeters": 31.82111
+                },
+                {
+                    "name": "places/ChIJ_1l4h5o9aTQR6GNSJZGVHwk",
+                    "placeId": "ChIJ_1l4h5o9aTQR6GNSJZGVHwk",
+                    "displayName": {
+                        "text": "do it yourself",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "bakery",
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "spatialRelationship": "DOWN_THE_ROAD",
+                    "straightLineDistanceMeters": 61.2563,
+                    "travelDistanceMeters": 79.11229
+                },
+                {
+                    "name": "places/ChIJ_5nZnZo9aTQR45Tg359SLno",
+                    "placeId": "ChIJ_5nZnZo9aTQR45Tg359SLno",
+                    "displayName": {
+                        "text": "Dongxing Parking Tower",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "parking",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 194.68501,
+                    "travelDistanceMeters": 273.5799
+                },
+                {
+                    "name": "places/ChIJi1pa8Zo9aTQReeYyDNJGCU4",
+                    "placeId": "ChIJi1pa8Zo9aTQReeYyDNJGCU4",
+                    "displayName": {
+                        "text": "7-ELEVEN \u7cbe\u660e\u9580\u5e02",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "atm",
+                        "convenience_store",
+                        "establishment",
+                        "finance",
+                        "food",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "spatialRelationship": "ACROSS_THE_ROAD",
+                    "straightLineDistanceMeters": 39.85776,
+                    "travelDistanceMeters": 36.150604
+                },
+                {
+                    "name": "places/ChIJVdEF21U9aTQR8wijyaIxm5s",
+                    "placeId": "ChIJVdEF21U9aTQR8wijyaIxm5s",
+                    "displayName": {
+                        "text": "\u6cd5\u5927\u70b8\u96de Fukdup Fried Chicken - \u7cbe\u8aa0\u7e3d\u5e97",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "meal_takeaway",
+                        "point_of_interest",
+                        "restaurant"
+                    ],
+                    "spatialRelationship": "ACROSS_THE_ROAD",
+                    "straightLineDistanceMeters": 29.880198,
+                    "travelDistanceMeters": 4.2718563
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34693d5fda791845:0xfd6609c779e1a346!3e0",
+            "placeUri": "https://maps.google.com/?cid=18259292491568227142",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693d5fda791845:0xfd6609c779e1a346!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34693d5fda791845:0xfd6609c779e1a346!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693d5fda791845:0xfd6609c779e1a346!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "403",
+            "administrativeArea": "Taichung City",
+            "locality": "West District",
+            "addressLines": [
+                "No. 66\u865f, Jingcheng Rd"
+            ]
+        }
+    },
+    "description": "Step into a world of wonder at the Museum of Illusions Taichung, a captivating attraction nestled in the vibrant West District of Taichung City, Taiwan.  Located at No. 66 Jingcheng Road, this highly-rated (#5 of 40 things to do in West District!) museum boasts a perfect 5.0 rating on TripAdvisor, based on 31 glowing reviews.  Prepare to be amazed by over 50 interactive exhibits that cleverly blend illusion art and the science of perception.\n\nImagine yourself walking through rooms that defy gravity, where floors seem to tilt precariously and walls morph before your eyes.  Optical illusions play tricks on your sight, making you question reality itself.  Mirror reflections create infinite perspectives, while expertly crafted light and shadow effects transport you to ethereal realms.  Holograms shimmer and dance, adding a layer of futuristic magic to the experience.  Classic illusion designs, cleverly updated, offer a delightful mix of nostalgia and innovation.\n\nThe museum's two floors are thoughtfully designed for both fun and learning.  Whether you\u2019re trying to master a mind-bending puzzle, snapping Instagram-worthy photos in cleverly designed sets, or simply marveling at the artistry, the Museum"
+}

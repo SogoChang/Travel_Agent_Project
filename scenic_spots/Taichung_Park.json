@@ -1,0 +1,748 @@
+{
+    "name": "Taichung Park",
+    "tripadvisor": {
+        "location_id": "6956351",
+        "name": "Taichung Park",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13806775-d6956351-Reviews-Taichung_Park-North_District_Taichung.html?m=66827",
+        "address_obj": {
+            "street1": "No. 65, Section 1, Shuangshi Road",
+            "city": "North District",
+            "country": "Taiwan",
+            "postalcode": "404",
+            "address_string": "No. 65, Section 1, Shuangshi Road, North District, Taichung 404 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "North District",
+                "location_id": "13806775"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taichung",
+                "location_id": "297910"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "24.144842",
+        "longitude": "120.68447",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 4 2228 9111",
+        "website": "https://travel.taichung.gov.tw/zh-tw/Attractions/Intro/28/%E8%87%BA%E4%B8%AD%E5%85%AC%E5%9C%92",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13806775-d6956351-Taichung_Park-North_District_Taichung.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13806775",
+            "ranking_string": "#3 of 25 things to do in North District",
+            "geo_location_name": "North District",
+            "ranking_out_of": "25",
+            "ranking": "3"
+        },
+        "rating": "3.9",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "183",
+        "review_rating_count": {
+            "1": "3",
+            "2": "2",
+            "3": "52",
+            "4": "75",
+            "5": "51"
+        },
+        "photo_count": "340",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13806775-d6956351-m66827-Reviews-Taichung_Park-North_District_Taichung.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "2359"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 00:00 - 23:59",
+                "Tuesday: 00:00 - 23:59",
+                "Wednesday: 00:00 - 23:59",
+                "Thursday: 00:00 - 23:59",
+                "Friday: 00:00 - 23:59",
+                "Saturday: 00:00 - 23:59",
+                "Sunday: 00:00 - 23:59"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "nature_parks",
+                "localized_name": "Nature & Parks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Nature & Parks",
+                "localized_name": "Nature & Parks",
+                "categories": [
+                    {
+                        "name": "Parks",
+                        "localized_name": "Parks"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "6"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "36"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "54"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "35"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "31"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA",
+        "id": "ChIJ5SQWm2s9aTQRO9CRyPBXThA",
+        "types": [
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "04 2228 9111",
+        "internationalPhoneNumber": "+886 4 2228 9111",
+        "formattedAddress": "No. 65\u865f, Section 1, Shuangshi Rd, North District, Taichung City, Taiwan 404",
+        "addressComponents": [
+            {
+                "longText": "65\u865f",
+                "shortText": "65\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 1, Shuangshi Road",
+                "shortText": "Section 1, Shuangshi Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u65b0\u8208\u91cc",
+                "shortText": "\u65b0\u8208\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "North District",
+                "shortText": "North District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taichung City",
+                "shortText": "Taichung City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "404",
+                "shortText": "404",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QP24MVM+WQ",
+            "compoundCode": "4MVM+WQ Taiwan, \u53f0\u4e2d\u5e02\u5317\u5340\u65b0\u8208\u91cc"
+        },
+        "location": {
+            "latitude": 24.1448185,
+            "longitude": 120.68447619999998
+        },
+        "viewport": {
+            "low": {
+                "latitude": 24.142175169708498,
+                "longitude": 120.6819527
+            },
+            "high": {
+                "latitude": 24.1448731302915,
+                "longitude": 120.6860244
+            }
+        },
+        "rating": 4.2,
+        "googleMapsUri": "https://maps.google.com/?cid=1174973244459044923",
+        "websiteUri": "http://travel.taichung.gov.tw/zh-tw/Attractions/Intro/28/%E8%87%BA%E4%B8%AD%E5%85%AC%E5%9C%92",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 0,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ]
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 65\u865f, Section 1, Shuangshi Rd, \u65b0\u8208\u91cc</span> <span class=\"locality\">North District</span>, <span class=\"region\">Taichung City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">404</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 19669,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "iconBackgroundColor": "#4DB546",
+        "displayName": {
+            "text": "Taichung Park",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Park",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 0,
+                        "minute": 0,
+                        "truncated": true,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 23,
+                        "minute": 59,
+                        "truncated": true,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ]
+        },
+        "primaryType": "park",
+        "shortFormattedAddress": "No. 65\u865f, Section 1, Shuangshi Rd",
+        "editorialSummary": {
+            "text": "Urban park, the oldest in Taichung, offering a manmade lake, track, tennis courts & playground.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/reviews/ChdDSUhNMG9nS0VJQ0FnTURvcTVMNTlnRRAB",
+                "relativePublishTimeDescription": "2 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "It is a beautiful place to relax, in the early morning it is good, cool weather , The locals are performing their exercise, plenty of life in the park. Beautiful trees and pieces of nature in the busy city of taichung, The park dates back from 1903 and got Japanese influence. Awesome place and kept clean and serene.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "It is a beautiful place to relax, in the early morning it is good, cool weather , The locals are performing their exercise, plenty of life in the park. Beautiful trees and pieces of nature in the busy city of taichung, The park dates back from 1903 and got Japanese influence. Awesome place and kept clean and serene.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "P Jo Von Dutch",
+                    "uri": "https://www.google.com/maps/contrib/111279891924596252403/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXm5-FSbuJUn0IiM-O6PWCc_ZQUVWzldqqNuNDADDybA9pXzptCUw=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-04-29T00:16:16.860301Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvcTVMNTlnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvcTVMNTlnRRAB!2m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            },
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3d2MzMll3EAE",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "One of the most beautiful parks in Taichung, it is quite spacious with a lake in the center and various facilities such as restrooms and a playground. There is also a bridge \ud83d\udc4d\ud83c\udffb\n\nThere are quite a lot of animals here, such as birds, squirrels, and fish \ud83d\udc39\ud83d\udc26\ud83e\udebf\ud83d\udc36\ud83d\udc31\ud83d\udc1f\n\nIt is very child-friendly and accessible for people in wheelchairs.\n\nOne of the recreational spots I highly recommend \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "One of the most beautiful parks in Taichung, it is quite spacious with a lake in the center and various facilities such as restrooms and a playground. There is also a bridge \ud83d\udc4d\ud83c\udffb\n\nThere are quite a lot of animals here, such as birds, squirrels, and fish \ud83d\udc39\ud83d\udc26\ud83e\udebf\ud83d\udc36\ud83d\udc31\ud83d\udc1f\n\nIt is very child-friendly and accessible for people in wheelchairs.\n\nOne of the recreational spots I highly recommend \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Aldi Salvianto",
+                    "uri": "https://www.google.com/maps/contrib/104329357639291950747/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVbuf9fHHK1VPgYHK0AGEkv-BYJfXqgBpLxWSnWsl0N-sQpoHH-tw=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-03-19T08:35:06.315691Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3d2MzMll3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3d2MzMll3EAE!2m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            },
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3eHVhYTlRRRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Safe green haven in the frenzy city. Lovely place to chill and relax, possibly tasting some snacks, delicious street food / fried chicken whatever, Taichung has wide choice. Just sit in the shade, feed the birds, look the squirrels, enjoy the lake, read a book, to recover your mood",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Safe green haven in the frenzy city. Lovely place to chill and relax, possibly tasting some snacks, delicious street food / fried chicken whatever, Taichung has wide choice. Just sit in the shade, feed the birds, look the squirrels, enjoy the lake, read a book, to recover your mood",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "METAL FOTO",
+                    "uri": "https://www.google.com/maps/contrib/109602730667258541654/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzNufVpHRaI67zaMoCBbqRYJscNYG4KM6xD3aIe18kl6afGfjs=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-03-18T13:22:25.044956Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3eHVhYTlRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3eHVhYTlRRRAB!2m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            },
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2eHVlazNRRRAB",
+                "relativePublishTimeDescription": "5 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Taichung Park is a beautiful urban oasis that blends natural charm with cultural significance. Its serene lake, arched bridges, and lush greenery make it an ideal spot for relaxation or a leisurely stroll. The historic pavilion adds a touch of elegance and a glimpse into Taichung\u2019s heritage. Well-maintained paths and peaceful surroundings make it family-friendly and perfect for photography. A visit here provides a refreshing escape from the bustling city.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Taichung Park is a beautiful urban oasis that blends natural charm with cultural significance. Its serene lake, arched bridges, and lush greenery make it an ideal spot for relaxation or a leisurely stroll. The historic pavilion adds a touch of elegance and a glimpse into Taichung\u2019s heritage. Well-maintained paths and peaceful surroundings make it family-friendly and perfect for photography. A visit here provides a refreshing escape from the bustling city.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Priyanka Sharma",
+                    "uri": "https://www.google.com/maps/contrib/111714486158477092063/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVI1pthxWVrFTjLYhNgCZOumiy1mPle6mKDi1pofNVU64II6Ys=s128-c0x00000000-cc-rp-mo-ba2"
+                },
+                "publishTime": "2024-12-10T13:59:09.686784Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2eHVlazNRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2eHVlazNRRRAB!2m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            },
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvcjRPcnZRRRAB",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 4,
+                "text": {
+                    "text": "After we checked into a nearby hotel and before our dinner, we took a stroll here in the park. It was a weekend and there was an activity going on in the park for kids, it was unusual busy. The park was beautiful.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "After we checked into a nearby hotel and before our dinner, we took a stroll here in the park. It was a weekend and there was an activity going on in the park for kids, it was unusual busy. The park was beautiful.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Patrick Xu",
+                    "uri": "https://www.google.com/maps/contrib/107967947415131653371/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKyyCqk52NOdQc0MLWa3cFX9sXN-f7SSc_AS80MZeesKfWrUg=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-20T23:07:38.977318Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvcjRPcnZRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvcjRPcnZRRRAB!2m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/photos/AXQCQNTi4f29aSrCGJq2A0FmDC_1ptZ8Q-o9pjHOVoiHfRci0PDNy10a10Frwyi4zI7H4D_X0LfV7L7_YxeEe_yPU4Xm58hwvxErNMEjasny6Ow4huxQAH9ObN1mYQRzjG8ngYBN2TfmvxQJKdCi1oVI-JddisEiyvwn3DJLV1r8hCkLYAM1z2um0xeoX9x-NlVJMaZero8ZI3nLprcgl0dTg6vy5kBQARJCQKdX74c1d993JKD9RVwXsKNZQoF3S22hzkfOxviJTHFnGBTiize6pekBNOiPKZyoBe_WKmuQu1aEOmTHBL-zKj2o1MY3Cgqyerxr-TVA6JWc9E2XZAzVDTLtr4UcTv9w0nsNNg5Ss6ijyMZTUY9oDLw4RdAsh0-bv_X6fTO5nC1VuZ8G1v9U9J4kvuyl2fj_gxjdPizzFeg9yA",
+                "widthPx": 2592,
+                "heightPx": 1940,
+                "authorAttributions": [
+                    {
+                        "displayName": "Frank Lin",
+                        "uri": "https://maps.google.com/maps/contrib/113696549803590358737",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLj81RzGInmcYwKWkV1w3ccogfg3OfV3ylIdxykjyk5cXCS9cYo=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDy8_XSGA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDy8_XSGA!2e10!4m2!3m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            },
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/photos/AXQCQNRxMniEyd0N_FI-MufA8vMidjl4GkjQMiymMi47Sdg84osFOiM3uEMcm4zUCTunGqrBxsYH2pamqUvoWjhLzo1Jt5WsihdfV6tSSCX7NJU4wgUNNlRTpHI29aLkDC4f1wnuYaLw5nmlRd8WHfsvLCqiInZjyzZpH7VN5EatWjk_Gaz4RCxlsbPCZ5l-EFcUt-vLpedkoocjI-EwvzjkHLjjEkqgJ71wZdgeQs-XdYQeFR7U4qcJCr-lbPDnEBcG2C90b2G0C8ie_L66lH24iBNi0K_qAuwyIdsl9slcLor3W9E4wtpNLebg5QwZkWQgz8nJIkP4PPRi7goTambSJaBYFeBemtjbdJDJvigGKxq9MSwvrOIQnpkQerskaTymOu8gtQgg7M9qC4ruEU9kvOg2xzEbCn0s-FWkJPu7RthClA0",
+                "widthPx": 3000,
+                "heightPx": 2000,
+                "authorAttributions": [
+                    {
+                        "displayName": "iaan ryu",
+                        "uri": "https://maps.google.com/maps/contrib/114743446446029047341",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzRongMevGBDLOCS4Xv2paCnPzXXbDEej8E4eehJ_UqRJcedFO=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTtszqjwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTtszqjwE!2e10!4m2!3m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            },
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/photos/AXQCQNQZnSAGW6Ua13qt-Wfw7bBaoOveD0aRht-zxK5A-uj5a6jTXVax7VjgvYSPiL1mT1igxZlJvlIReEObC1gik4K4JcCGTREVodawnNV_Zbg5EiVJhcAa35VUgQmxllYWFVWVczicDcHERLiTF0kYSl1jt1PjaTr1Gz81TW7mTsPPTLRu9N0Pp3P4ii4MqqsPkDYFdK9Nu4pyvsWNvVKjJZe2paHTR_puMBlka2wAaIp1knUvkkWVwMlPAii8W56buR3Vm7IJVCGCqVRYOHF-qRS4I0U1tIYmKKFF0MLbtT1Ujy5-KgaQRm_oWORxd6qEJtDc_6tyhXiwuSWq1mExnta6zxvQIky8TCuieW5xAAC8xMujpJeT2ChPJRpAduwONCPqXKvqAENlEHSJvLXcHisfLm8N7cZfAprAf9-42Uc",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Albert Liu",
+                        "uri": "https://maps.google.com/maps/contrib/102907878723151183635",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWZQIIeLLfTkgWw-YBBILifd5zoookb3qEC4ksQi7oF-rBq5UB=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDtpDMcA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDtpDMcA!2e10!4m2!3m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            },
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/photos/AXQCQNQjxobguPKpNPCuCe9tPk1cLe5lt6yCV1n2JsIyWBY1HO1rTXNlbGxsf5G0z9gs4-_oMJ5hfUKuicluD9-OpBmcPansTbPjtTI9uAS1UJF41Xp2w1bjJt0NFzv-eAVTHGl7bbRv5IWumyRkCEG2DZk4_iKTflJN-ODx3S7ZOKa2y8YZ5f9z1TGkCSyCeD5yQmru4FZjKfkhsLjSZ4ZrG5M4J2dwDp3yNLvwukJsLzCMA9EUxFwY9sLylZYWVC2xm1L0J49-r_X-7Z4pgLs1L3OwmMuKFzvLqCXJ7WpCP7idyGLy1i9fNupAoMuRS5oEfb2SRf8eipTCWpt3F3NP5M3UWW2vY9bny3Lf3taX9iAXAPF8tRoWN2ikSplBFl6bcDij51yZzohncNZb5-zL--WNt66FNJDNJIVm4C-QnXXFyLAT",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Austin Kou",
+                        "uri": "https://maps.google.com/maps/contrib/102080464146736496116",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLLtEOzWn5BEyaFHeQjr7IYXl9eU2cUCtNb1atkfaf1dnnivQ62g=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDeiYb0igE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDeiYb0igE!2e10!4m2!3m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            },
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/photos/AXQCQNRO2VYp2vlIgoOJUCf-14Agz6UCbwkh-hBXznpvcxJnO9UUt9jsiTgL6QlIgNg_da4vuWEZxC53n7G4CPmDcibHQc_kFKT2PB3xfyOO0QgHgBDtDGoskiS59Hx--lKMnjjE7chQ-5W8f7V1uS71hBaw2uRDlVjkQkkCNt8FWRCKaISA3RJF3aS3T8cLAYM7Huq5xu13Lz_5czI4F75f1aBEr_UWJda_wbvSo3fAr-svIsmCkGk477y2rCZyHVpMxbOf3oYQp-VwafP6WABPGx1pObirNdh2qc5DuuHkA1KCrK_9_KM_E_vQ5dYM8Gbo_q9mYcBnwhpYivhgM44ecPMMI4kGGQXsjSC1K1csU7RwqTGGDOxG1gJOqwokjAgcpVNVVN1hKWVKmOHBjMSXo-ZiV6ssjngQQ3zAaINy08oFMjpU",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Becky Lin",
+                        "uri": "https://maps.google.com/maps/contrib/106418295527178788237",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXKy7_CGfVGMV8hEns64KZ0xTLdJsKyQrSd8U9g6Jk0F_yWey3=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDynKGQhAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDynKGQhAE!2e10!4m2!3m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            },
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/photos/AXQCQNQscySSwWv7ReKsD_Al5FN7TQVRkz8g_cJiOOLSiORdpT3HqVVnr4DGYf2BOZQY0sf276uV0QD6ATVJ3AwhnAiEOOvcFW7kfXOYRQkIbmvesY6mEF0basALGWhV_jmrW6Q8FZSZvkuUPLa5dcpzC_jv9lNQ0NvDkwgM7GktlVfk8wl5O_s1Qc0P55-_adU7h1SGmAo6tuIVN5Fne0y3uesFndeUurN9vfjzjMK_DmM26coO_xCdUpFlN7duQAHCjq7L2dyeSJqRNlqXkxuRZR2HSL_d-XilvRshz7Co7RQLpNmmCmgcyJaXMexv0Hp7BMAvKQunfvLmYLmlD6TNch4tDckNEn7BW_ODq2BnzwLj1EErWvWPWN3xRyraxjNEdlC5AYmunLehVSP2OTvoINmgwWeUyQFhAYT47-6BN3E",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6e05\u84bc",
+                        "uri": "https://maps.google.com/maps/contrib/116778344446932501917",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3T6KXZ2VkSE1uTHN35fugYsZ9ScOcfZt8nnvREpWxFaup34Rb_w=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDetJG6RA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDetJG6RA!2e10!4m2!3m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            },
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/photos/AXQCQNQgxqi4DEb42Exp2rKtGyVgMpyyPhpJ8WZwuLiMVMeOFGdOa7_q6LOX5CEsXqYYbfJIxdTtVapKi45bVqlQ_akjr9y24xWAKSBBRZuXj1iYXI7EMtpfU_E7DBYLWMoJndSM8t_FDpfwnBla0ITpUw4o48CDkytLhmd5kK0QxEZQpsyNxaK9gz2S3Sww0X7OTvfgucM-zNtVpGnisWzKb25ifBo2osnYIt74aroi2HYY2lnpjsCsQvCnzVxJeS-7Pnyp4GnTLRHKnpR_g3LqH78JxnB8tqGQZFWNSyA69VZXwcR9KBMpsyAFmsVOKGENbWnT4kn_hmbKlhPzwEbSb2386bfr4O0h482W3ACv98xrqF7y9KSsArEeFQK9zQYE_5XHZq3_rYsJMt66oOndqHj-BD8Ahc6A9MWum1Rh0KM",
+                "widthPx": 3600,
+                "heightPx": 4800,
+                "authorAttributions": [
+                    {
+                        "displayName": "Robert Thomas",
+                        "uri": "https://maps.google.com/maps/contrib/117672276629258771204",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX88SDskkkot1N2Td5Q-pBul9cnrlXThZLj-BpSNzV1HTNn8o-A=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIChj8OsOA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChj8OsOA!2e10!4m2!3m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            },
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/photos/AXQCQNTAR-11k2nBiFvwzub5q0KuehSopjMhnj4ho0lfxJFvxSh4Nt-zRUHsrkEJg45WnXhi6FqRfUBqw59_x5MkTclTbkkwoXcRgaFabXTbzm4VAFTfLnwReywbxg0fUACYZswPIg2HxkApjqHWiKRZ94UM5XSr6sV-GdpKvLproIn3AGEP2uWf7ZjLN4UQHEKK8nqdSE3iPCYVhpXwP2HGpkJjWjjt7ZAmzepgclTEXnlxESA8KDW1fhsIZLD-n6b_9LJctwVK8yzJk1B_tTa9le7Gna-h9l2ksXovEZy9t82OsUCT18Y1L1pQJeXgHkSmcmc4Md7mYKHcIdlGi7b4k98mnH0DZmUcickApsv7TAFr-6iiWg4RE_8GT47YcYnia09ZxBcrTICetIbv7oMmDjPfy4ekmDniADAKPsCgid1kxwbS",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u912d\u7fa9\u8208",
+                        "uri": "https://maps.google.com/maps/contrib/117346303378098667520",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXy1s_PVezKv5R4KSBqoyYaXeyv9aLbuNxyIfMQO7TxnC2jzDwx=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICh-qHJ7wE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh-qHJ7wE!2e10!4m2!3m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            },
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/photos/AXQCQNSYA3gPrJVhSWwPLj0ulzMEreWg9PWno1cAIVwjR9nGGaRFiKuSNIo22eJqBZ9gcpcczEZogZy194slflPCrGx4fGMz2r09tkFHz9Ogm5S7r_PU8ls5bMNO6xwA2bYVgVhptvFONlEfUzauUkRw4Esr3XK4FzET42SBux-uTsCCIDYSmEru0PUAXNmbdBnR4UpW8CKVQzvCZQzDMAekfQBo9voqwuhP1pSGqEyq43Ay_ZvMRUjpdXBUYBn716o96_oqoe9yg-yLdexuUUSQWbNFLpgFrLtsGlDDxIqbeoGeY11ShPcP4kHUlVuZ7Gm6Ad1VXDDIKqMWjavZUBlTriNDoNvXgmsc096RltKwwq5YfmjaJxh2FWH2WNipbOllXeIssS3YkJtqK9PilJjaOEoJfecPedTZVGRmUu9evm8",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u660e\u660e\u5c31\u662f\u52c7\u6562\u7684",
+                        "uri": "https://maps.google.com/maps/contrib/100094333602124117749",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUD5rZfVWBE_uj5SFKik-V5-_eGICk_DwnhWOgMBVisMyuLxGa9Kg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR4rK3JA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR4rK3JA!2e10!4m2!3m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            },
+            {
+                "name": "places/ChIJ5SQWm2s9aTQRO9CRyPBXThA/photos/AXQCQNSJlrDvfwrhi8b0u-2fsCchWz6p39sQgBI3CrT-l16d-huCCaCfvr3cf4wgDgUQGLffOuPOkGOiivQPVh9WHV-UPIH_1DZDASkORTNsb-BdpLnxM5KExMsGoSSqCmmJN-HJcN1MM20_2_5oGlytthOnwjaRKyJuJTz4M6P9GwFPAkX5U_uRgpSyDeP8bDsomb7jfMICqw7OO6tsUd9Koutu_rjYL6DHbh4eWTZorXypnjg61xjqR_Ostqg82LXhPhesT9bP4ZiTWcGohLTa_ydNdusxyZJKGXhRYBnZsL6mytgUIeb9WL5b_J_nNeVWUbhFWGTiXChGO4zjKlr79mOxLVTCcHF6e5vn1MRrtOO6E8JRtDLj0Tq3p9lq51gO3Dpt8sgcPfN4m3LBTTWT4IviMWhYQqlBoAzqdlzLGe4YUVRrAkjwWPA4aRCBCQgk",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "SK Y",
+                        "uri": "https://maps.google.com/maps/contrib/113219935668993820822",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_43VSbgJqtI3V40f1JrjzQpaT00rb9Rb2lMdDaZYHTiyZXtAxjw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbyfQ7jHAE2e5aXoAB73C&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyfQ7jHAE2e5aXoAB73C!2e10!4m2!3m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b"
+            }
+        ],
+        "goodForChildren": true,
+        "allowsDogs": true,
+        "restroom": true,
+        "paymentOptions": {
+            "acceptsNfc": true
+        },
+        "parkingOptions": {
+            "paidParkingLot": true,
+            "paidStreetParking": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true,
+            "wheelchairAccessibleRestroom": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJeZhxjmg9aTQRu4ClJlnbzHk",
+                    "placeId": "ChIJeZhxjmg9aTQRu4ClJlnbzHk",
+                    "displayName": {
+                        "text": "Yizhong Street Night Market",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 347.02002,
+                    "travelDistanceMeters": 431.1074
+                },
+                {
+                    "name": "places/ChIJm5E2EGs9aTQRmDTYYsr3mGs",
+                    "placeId": "ChIJm5E2EGs9aTQRmDTYYsr3mGs",
+                    "displayName": {
+                        "text": "Sunshine Plaza Outlet",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "shopping_mall"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 262.05045,
+                    "travelDistanceMeters": 275.56
+                },
+                {
+                    "name": "places/ChIJAUT322w9aTQRiS7E-dng8AY",
+                    "placeId": "ChIJAUT322w9aTQRiS7E-dng8AY",
+                    "displayName": {
+                        "text": "\u4e9e\u6d32\u9280\u6a13\uff5c\u91d1\u5143\u5bf6\u5c08\u8ce3\u5e97\u3001\u9ec3\u91d1\u91d1\u8c46\u3001\u53f0\u4e2d\u9280\u6a13\u3001\u9ec3\u91d1\u8cb7\u8ce3\u3001\u7d50\u5a5a\u91d1\u98fe\u3001\u5f4c\u6708\u91d1\u98fe\u3001GIA\u947d\u6212\u3001\u73e0\u5bf6\u5e97\u3001\u9ec3\u91d1\u5ba2\u88fd\u5316",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "finance",
+                        "jewelry_store",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 437.58444,
+                    "travelDistanceMeters": 553.43634
+                },
+                {
+                    "name": "places/ChIJd4ZLdms9aTQRNvhSHJDrebA",
+                    "placeId": "ChIJd4ZLdms9aTQRNvhSHJDrebA",
+                    "displayName": {
+                        "text": "Taichung Park Pavilion",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 130.64468,
+                    "travelDistanceMeters": 229.88548
+                },
+                {
+                    "name": "places/ChIJC4IJrms9aTQRqGR5vbJivl8",
+                    "placeId": "ChIJC4IJrms9aTQRqGR5vbJivl8",
+                    "displayName": {
+                        "text": "Taichung Park (Shuangshi Rd.)",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 149.63774,
+                    "travelDistanceMeters": 212.15796
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJwfyid2s9aTQRm8I01YVtld4",
+                    "placeId": "ChIJwfyid2s9aTQRm8I01YVtld4",
+                    "displayName": {
+                        "text": "Taichung Park",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34693d6b9b1624e5:0x104e57f0c891d03b!3e0",
+            "placeUri": "https://maps.google.com/?cid=1174973244459044923",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693d6b9b1624e5:0x104e57f0c891d03b!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34693d6b9b1624e5:0x104e57f0c891d03b!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693d6b9b1624e5:0x104e57f0c891d03b!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "404",
+            "administrativeArea": "Taichung City",
+            "locality": "North District",
+            "addressLines": [
+                "No. 65\u865f, Section 1, Shuangshi Rd"
+            ]
+        }
+    },
+    "description": "Taichung Park, nestled in the heart of Taichung's North District, is a vibrant urban oasis, a testament to the city's rich history and dedication to green spaces.  Located at No. 65, Section 1, Shuangshi Road, this sprawling park, consistently ranked among the top attractions in the district, offers a tranquil escape from the bustling city life.  With over 340 photos on TripAdvisor showcasing its beauty, and a 3.9-star rating based on 183 reviews, it's a popular destination for locals and tourists alike.  Google reviews, boasting a higher average of 4.2 stars and a staggering 19,669 user ratings, further solidify its reputation.\n\nThe park's charm lies in its harmonious blend of nature and human design.  A man-made lake, shimmering under the Taiwanese sun, forms its centerpiece, reflecting the lush greenery and the graceful curves of arched bridges that span its surface.  These bridges, reminiscent of traditional East Asian architecture, offer picturesque vantage points for serene contemplation or captivating photographs.  The surrounding landscape is a tapestry of vibrant green, with mature trees providing ample shade and a sense of calm"
+}

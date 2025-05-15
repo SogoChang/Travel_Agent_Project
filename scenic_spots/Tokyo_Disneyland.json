@@ -1,0 +1,998 @@
+{
+    "name": "Tokyo Disneyland",
+    "tripadvisor": {
+        "location_id": "320634",
+        "name": "Tokyo Disneyland",
+        "description": "Tokyo Disneyland\u2014the Kingdom of Dreams and Magic. This is one of the world\u2019s largest theme park with great access from central Tokyo, located only 15 minutes away by train from Tokyo Station. You\u2019ll find numerous exciting attractions that will sweep you away into the world of the Disney films, enthralling entertainment that will take your breath away, adorable food and merchandise themed to the Disney Characters, and so much more. Don\u2019t miss this opportunity to spend an amazing day at a Disney theme park that you won\u2019t find anywhere else!",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g14134868-d320634-Reviews-Tokyo_Disneyland-Maihama_Urayasu_Chiba_Prefecture_Kanto.html?m=66827",
+        "address_obj": {
+            "street1": "1-1 Maihama",
+            "street2": "",
+            "city": "Maihama",
+            "state": "Chiba Prefecture",
+            "country": "Japan",
+            "postalcode": "279-0031",
+            "address_string": "1-1 Maihama, Maihama, Urayasu 279-0031 Chiba Prefecture"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Maihama",
+                "location_id": "14134868"
+            },
+            {
+                "level": "Municipality",
+                "name": "Urayasu",
+                "location_id": "298162"
+            },
+            {
+                "level": "State",
+                "name": "Chiba Prefecture",
+                "location_id": "298157"
+            },
+            {
+                "level": "Region",
+                "name": "Kanto",
+                "location_id": "298156"
+            },
+            {
+                "level": "Country",
+                "name": "Japan",
+                "location_id": "294232"
+            }
+        ],
+        "latitude": "35.632835",
+        "longitude": "139.88039",
+        "timezone": "Asia/Tokyo",
+        "phone": "+81 45-330-5211",
+        "website": "https://www.tokyodisneyresort.jp/en/index.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g14134868-d320634-Tokyo_Disneyland-Maihama_Urayasu_Chiba_Prefecture_Kanto.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "14134868",
+            "ranking_string": "#1 of 15 things to do in Maihama",
+            "geo_location_name": "Maihama",
+            "ranking_out_of": "15",
+            "ranking": "1"
+        },
+        "rating": "4.3",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+        "num_reviews": "7144",
+        "review_rating_count": {
+            "1": "232",
+            "2": "217",
+            "3": "618",
+            "4": "1864",
+            "5": "4213"
+        },
+        "photo_count": "9347",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g14134868-d320634-m66827-Reviews-Tokyo_Disneyland-Maihama_Urayasu_Chiba_Prefecture_Kanto.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "0800"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "2200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 08:00 - 22:00",
+                "Tuesday: 08:00 - 22:00",
+                "Wednesday: 08:00 - 22:00",
+                "Thursday: 08:00 - 22:00",
+                "Friday: 08:00 - 22:00",
+                "Saturday: 08:00 - 22:00",
+                "Sunday: 08:00 - 22:00"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "amusement_parks",
+                "localized_name": "Water & Amusement Parks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Water & Amusement Parks",
+                "localized_name": "Water & Amusement Parks",
+                "categories": [
+                    {
+                        "name": "Theme Parks",
+                        "localized_name": "Theme Parks"
+                    },
+                    {
+                        "name": "Disney Parks & Activities",
+                        "localized_name": "Disney Parks & Activities"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "45"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "1138"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "214"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "3360"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "1001"
+            }
+        ],
+        "awards": [
+            {
+                "award_type": "Travelers Choice Best of the Best",
+                "year": "2024",
+                "images": {
+                    "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2024_L.png",
+                    "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2024_L.png",
+                    "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2024_L.png"
+                },
+                "categories": [
+                    "AmusementWaterParks"
+                ],
+                "display_name": "Travelers Choice Best of the Best"
+            }
+        ]
+    },
+    "google": {
+        "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ",
+        "id": "ChIJszdHEQN9GGARy9MJ1TY22eQ",
+        "types": [
+            "tourist_attraction",
+            "amusement_park",
+            "amusement_center",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "045-330-5211",
+        "internationalPhoneNumber": "+81 45-330-5211",
+        "formattedAddress": "1-1 Maihama, Urayasu, Chiba 279-0031, Japan",
+        "addressComponents": [
+            {
+                "longText": "1-1",
+                "shortText": "1-1",
+                "types": [
+                    "premise"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Maihama",
+                "shortText": "Maihama",
+                "types": [
+                    "sublocality_level_2",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "ja-Latn"
+            },
+            {
+                "longText": "Urayasu",
+                "shortText": "Urayasu",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Chiba",
+                "shortText": "Chiba",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Japan",
+                "shortText": "JP",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "279-0031",
+                "shortText": "279-0031",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "8Q7XJVMJ+55",
+            "compoundCode": "JVMJ+55 Urayasu, Chiba, Japan"
+        },
+        "location": {
+            "latitude": 35.6328964,
+            "longitude": 139.8803943
+        },
+        "viewport": {
+            "low": {
+                "latitude": 35.6328964,
+                "longitude": 139.87584769999998
+            },
+            "high": {
+                "latitude": 35.637120599999996,
+                "longitude": 139.8803943
+            }
+        },
+        "rating": 4.6,
+        "googleMapsUri": "https://maps.google.com/?cid=16490271119724106699",
+        "websiteUri": "https://www.tokyodisneyresort.jp/tdl/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:00:00Z"
+        },
+        "utcOffsetMinutes": 540,
+        "adrFormatAddress": "<span class=\"street-address\">1-1 Maihama, Urayasu</span>, <span class=\"region\">Chiba</span> <span class=\"postal-code\">279-0031</span>, <span class=\"country-name\">Japan</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 112414,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Tokyo Disneyland",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Amusement Center",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:00:00Z"
+        },
+        "primaryType": "amusement_center",
+        "shortFormattedAddress": "1-1 Maihama, Urayasu",
+        "editorialSummary": {
+            "text": "Tokyo offshoot of the iconic theme park known for its rides, live shows & costumed characters.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZMXVfWTRnRRAB",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "Magical destination, beautiful theme, and attractions. Experienced quite a long waiting line around an hour or two for some rides. Even the fast priority lanes would take over 30 minutes. However, we still managed to enjoy more or less three rides and explored the less crowded areas of the park. Overall, it is a fantastic place. Be prepared for potential queues if you're only here for the rides. \ud83d\ude4f\u2764\u2665",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Magical destination, beautiful theme, and attractions. Experienced quite a long waiting line around an hour or two for some rides. Even the fast priority lanes would take over 30 minutes. However, we still managed to enjoy more or less three rides and explored the less crowded areas of the park. Overall, it is a fantastic place. Be prepared for potential queues if you're only here for the rides. \ud83d\ude4f\u2764\u2665",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Rayan Bigay",
+                    "uri": "https://www.google.com/maps/contrib/104975300312216302467/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDUfx3nKY9zcSwroeqZeWLRaOXBkofXfSvSPfstSuhigJS_hzC=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-05-04T05:23:44.977371Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZMXVfWTRnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZMXVfWTRnRRAB!2m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            },
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURvcGZ6TUNREAE",
+                "relativePublishTimeDescription": "2 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "An Unforgettable Experience at Tokyo Disneyland!\n\nOur visit to Tokyo Disneyland was absolutely magical from start to finish. The park is immaculately clean \u2014 every corner is beautifully maintained, making the entire experience feel even more special. The staff were some of the friendliest and most welcoming we've ever encountered, always ready with a warm smile and helpful advice that made us feel truly cared for throughout the day.\n\nThe rides were incredible, offering a perfect balance of classic Disney magic and thrilling adventure. Every attraction we experienced felt thoughtfully designed and incredibly immersive. While the queues were long at times (which is to be expected at such a popular destination), they were very well managed, and the atmosphere in the lines often made the wait feel much shorter.\n\nA big tip for anyone planning a visit: definitely get comfortable using the Tokyo Disney Resort app. It made navigating the park so much easier \u2014 from checking wait times, to booking entry for popular rides, to ordering food \u2014 it really helped us maximise our day and avoid unnecessary waiting.\n\nTokyo Disneyland exceeded every expectation. It's a must-visit for anyone looking for a magical, well-organized, and joy-filled experience. We can't wait to come back!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "An Unforgettable Experience at Tokyo Disneyland!\n\nOur visit to Tokyo Disneyland was absolutely magical from start to finish. The park is immaculately clean \u2014 every corner is beautifully maintained, making the entire experience feel even more special. The staff were some of the friendliest and most welcoming we've ever encountered, always ready with a warm smile and helpful advice that made us feel truly cared for throughout the day.\n\nThe rides were incredible, offering a perfect balance of classic Disney magic and thrilling adventure. Every attraction we experienced felt thoughtfully designed and incredibly immersive. While the queues were long at times (which is to be expected at such a popular destination), they were very well managed, and the atmosphere in the lines often made the wait feel much shorter.\n\nA big tip for anyone planning a visit: definitely get comfortable using the Tokyo Disney Resort app. It made navigating the park so much easier \u2014 from checking wait times, to booking entry for popular rides, to ordering food \u2014 it really helped us maximise our day and avoid unnecessary waiting.\n\nTokyo Disneyland exceeded every expectation. It's a must-visit for anyone looking for a magical, well-organized, and joy-filled experience. We can't wait to come back!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Luke Storey",
+                    "uri": "https://www.google.com/maps/contrib/110368331989466620447/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVo1OUj25zCGCV19lkZy8IcoquiXy04Qb4gotDZ0C3ALd366-R=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-26T23:46:57.999089Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvcGZ6TUNREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvcGZ6TUNREAE!2m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            },
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZNEoyR01REAE",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "Happiest place on earth! Celebrated my birthday here. Loved the place, the magic and the fun! Make sure to come in your cutest ootd! The foods are nice and cute. The stuffs are all so cute that made me bring home a lot \u263a\ufe0f\n\nI'll definitely come back again soon! Love Japan",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Happiest place on earth! Celebrated my birthday here. Loved the place, the magic and the fun! Make sure to come in your cutest ootd! The foods are nice and cute. The stuffs are all so cute that made me bring home a lot \u263a\ufe0f\n\nI'll definitely come back again soon! Love Japan",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Armi Shane Salvatierra",
+                    "uri": "https://www.google.com/maps/contrib/107906624073669823596/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBaeMjaTyJjWb1FAcUI_TrlqIHsLfSJslTAxTlPVcNw36sKm4Q=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-05-03T10:09:08.263506Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZNEoyR01REAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZNEoyR01REAE!2m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            },
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZLXEtTF93RRAB",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "Absolutely one of the most amazing Disney adventures I have ever had. Both parks are wonderful and fun. Everything is so clean and well maintained. The staff is amazing, friendly, and helpful. The guests are very courteous as well, everyone lines up nicely and takes turns. The popcorn is on a whole other level here. Use the app to find the popcorn locations and know what one is open when. Snack foods are super good, and all the quick service food we got was great. Do use the app to order your food, it's super convenient and fast.  I highly recommend going to Tokyo Disney. It is likely less expensive than you think, and depending on where you live, may be less than traveling to the other parks. Our entire two week trip to Japan cost about half what a one week trip the WDW would have cost, and we stayed in a suite on property.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Absolutely one of the most amazing Disney adventures I have ever had. Both parks are wonderful and fun. Everything is so clean and well maintained. The staff is amazing, friendly, and helpful. The guests are very courteous as well, everyone lines up nicely and takes turns. The popcorn is on a whole other level here. Use the app to find the popcorn locations and know what one is open when. Snack foods are super good, and all the quick service food we got was great. Do use the app to order your food, it's super convenient and fast.  I highly recommend going to Tokyo Disney. It is likely less expensive than you think, and depending on where you live, may be less than traveling to the other parks. Our entire two week trip to Japan cost about half what a one week trip the WDW would have cost, and we stayed in a suite on property.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Chris Gay",
+                    "uri": "https://www.google.com/maps/contrib/107307345312024888750/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzLyj1VSPcHG3mQ12hdDkX06raCzXnsVq7JL5jnSjQGh3KwafT=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-05-03T19:59:08.494673Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZLXEtTF93RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZLXEtTF93RRAB!2m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            },
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURvLTRHQXlnRRAB",
+                "relativePublishTimeDescription": "2 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "Great experience, even though it was the first day of golden week, it wasn\u2019t insanely busy or crowded. A couple of rides that were over an hour wait but it was to be expected. Staff were very friendly and enthusiastic about their jobs. Personally think it was better than Disneyland Paris. Google said that it opened at 8 so we were there at 8am but it actually opened at 9am which threw us off a bit. Overall amazing experience",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Great experience, even though it was the first day of golden week, it wasn\u2019t insanely busy or crowded. A couple of rides that were over an hour wait but it was to be expected. Staff were very friendly and enthusiastic about their jobs. Personally think it was better than Disneyland Paris. Google said that it opened at 8 so we were there at 8am but it actually opened at 9am which threw us off a bit. Overall amazing experience",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Jakob Morgan-Ranui",
+                    "uri": "https://www.google.com/maps/contrib/111979760820882775363/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKELFPoLRTMUSHbRPfgUAVhvuPLaA02IH0MBZrtV8bztlUFeA=s128-c0x00000000-cc-rp-mo"
+                },
+                "publishTime": "2025-04-29T10:40:29.957096Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvLTRHQXlnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvLTRHQXlnRRAB!2m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/photos/AXQCQNSHwaxNC-uxrnwkpjs4Qhit8ygRPdpL8EeFtQlN7KW6o4a-qHts8sxpxpvsgK93HvU3kyI7KwHYYJEwdJHO9xtUbskW7YFO5zbf4pf0V6D4a_tuB0ZtuMbh5B-Jx3Mrtd9vVbViFAVrFBRtAe6RzywhtWyhJFPljnrc66G4cmN8MSXaIRGn5ytd2NuS6Y_6qSgH2crpLd-N3Sc2RQt6mOYGmlCgWLBAOMtu2VTc85ykxNgeuRgB2FpxCVuIGquMvo__RrCd4FDR0UYATpTS3px97IzzuwUYnxTFDTEADwy_ZIosbKsqpcYBfoUePAyUkc-jkYSQpDUvacBzsQhGZSqMnRVshL00O0scU7aTIwulAfQQF7OfHhgwr_MnVk9capMqzTsKJFOVJ3RLk78JEyz4b_pzLZ22HeUTnTHhUeIrgg",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u540d\u7121",
+                        "uri": "https://maps.google.com/maps/contrib/102485309220406344171",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIVNLgTPUf7ADd-qGfg2Ow_RVy9HKoWux5k0RcCoXJyWJ2UFMQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGy_nqEg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGy_nqEg!2e10!4m2!3m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            },
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/photos/AXQCQNQJkduYjDRLDhr3ZsPyyxtXFJXnMcukPa0IoenI_JcILH_o8qu8Kpt70W0e9fH7D1E4rq2A3bcC_Vt8zsCRQQYPXkBwVPd2oh5pDvxfImSyA0KYsgptPi_v7DVPNi1wR7xDPzxebycGGqqKXOEZvrrP0nnuCdeZeMS2CVAzo4ecZVpdQ1dMwlLaIRr08bGwzdOLY2v6TSneQsmtSfMq7TKymgBsbt77hUXhaToEoUTDZPcv1a72LWQgu07PKfcWCdW41hKfxOyWjdv5k_bDF01yK_91HW5-JYDnED7TKNDjbd94xH81e7W3X4zyFVBLSDOR9mAipEdteZ9oCs4Y9sMn8Z3u1H0-3BQXjJXylwos0hiVRXKDQ2ilBjZgTzmNtuNLuHK6Tq9FCaKTgAr9CeJw3HmyA2KpwWEalEhzZeE0Uw",
+                "widthPx": 1273,
+                "heightPx": 928,
+                "authorAttributions": [
+                    {
+                        "displayName": "Kenny Stokes",
+                        "uri": "https://maps.google.com/maps/contrib/117843790272353465139",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXrgtFkl-_WgfsZu_xKgxs0kEkQdHJ-iZ_ca6W6Iv-DD6iHRU=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOnqehQg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOnqehQg!2e10!4m2!3m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            },
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/photos/AXQCQNSYrYQyaM9fltt7BtOw4fNnaaoOHWeIrQxmGH7BAUfm5LKDpfX_-WwNSgtHP4OtHWZAsxBT7WSO1vI_lk_GV0IvyRg1oPQnRYc7M3YqbV2crAt1I5tLJ3qRb5qgF1mxbN-JgYerkbdcx0d1EUgvE1qumANAAx-c9HlQDlSmGikhddujHKGPtdHWpfQx_kgDQKOs13sQs38wkaD_cqTfEjRBAoP6vvVC92RuYJhLka1kmDPvFG6fG21AK15FhyawCMuRH5rOeNuLSHORoUb46LHVAmMBLynuSPlDiu60HTGD6SNP9esqvk2k8tTvlVqjU990Re45-wRdv4cjVchWX6hF8EZCmu2XMiNOYsdQtfXHMbBghNvM7AkODD1BLAC1MrwCOay40Zmaq3OPktld0JZVRvT1qt4QhNv6cfJlr-Kq_Q",
+                "widthPx": 824,
+                "heightPx": 565,
+                "authorAttributions": [
+                    {
+                        "displayName": "Sato Alinne",
+                        "uri": "https://maps.google.com/maps/contrib/114975408784711547520",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuF1WxXhIELTB0_gVBHi2et3s0Mm1RmDo0f3ULpMNB56q80b8e=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICCjJecMQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICCjJecMQ!2e10!4m2!3m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            },
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/photos/AXQCQNRonRatuGd7CoKYGnSgMyjmNa8UkkhhYjnESylLpCT3WvqXAMztErjWIj_8MvXVj5zys3p1cW0NYAw1ETqi3Qi2xkr4YkiNq7SoCP2pQm212J_IyFFjkogylLrozWgz0R-2fIoqGtBcn8UgyH1_G7k85FssfmuNH7MsCO7z7yVLIHYTBkd5BWBD8hEn49Q9gX2hnoGmpM98Wh-BrtVTdfoXB94i4VUj_D_lO34qTpIT0LU8VDmYvKkwy79DAyJuyzecuj3PcnQot-Dx09sOxTq3Rl63dehrmgtFqzTiULb5CG4OYfkTXJOVdTT3aMyWjrCmscixZjijfdaRIMOIsRutVf34SwaUIdBLE8rceFj-KIddW7d_h8xHAy7Yr3jaM_RGWy03ES1OmGsVA93bi95l8wFSYN96mVJ7hHdOnzJBmB-v",
+                "widthPx": 1284,
+                "heightPx": 929,
+                "authorAttributions": [
+                    {
+                        "displayName": "Kenny Stokes",
+                        "uri": "https://maps.google.com/maps/contrib/117843790272353465139",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXrgtFkl-_WgfsZu_xKgxs0kEkQdHJ-iZ_ca6W6Iv-DD6iHRU=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOnqehwgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOnqehwgE!2e10!4m2!3m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            },
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/photos/AXQCQNRztYeVwA2qKiiP2oSRMtEB8EhCNdTeeHMP6Fs_DAKXzW6E6FPNEqOfhP_VpjM_c0cNoet5JKJrvjHrXR9ceRl15eMJfeYZDbhMrclT_h7KO48WPWDN03m1FtnuVN9CDSKVX97pHjWyLmmfsy9SYRPPlXIYzI-OpUTETJoJCNxXbBfS7aicuCj4sIu-ruyi-YCwj9qbbCO1a4h44m3iOzjSZT0tBFCIKp2pBTpNAjkkuuOw1GXHzvI3W1jkNMHAfUU8PM5y54ysA5GGB2KML3r4TlbOcx91OeYo6eJ-8c4w9UAeFDewoY6-14y_D9Kn9iv9WPfXD04_ySnJGhKB2K6iw898nJak1fzao7HbIooxYzkxE2Wz-PtpiVPnZBjUW3p8uLAyRmggKP5TtLdfSsL46PO55CVdvqx6qgcz7cbmCQ",
+                "widthPx": 3853,
+                "heightPx": 2889,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u0415\u0430\u043b\u0438\u043a\u0438\u043d\u043e \u0410\u0431\u0438\u043d\u043e\u0440\u0435\u0430\u043b",
+                        "uri": "https://maps.google.com/maps/contrib/114610628376887622359",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzFeN5szOu18BplA6qAWO3grHsUaEO_fJmMf-TDuxgXMTsIiRY=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfnIrDSA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfnIrDSA!2e10!4m2!3m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            },
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/photos/AXQCQNQqCZvzGLftiJTUYa_VV_kVN3j9zilW39-rmhWe5K26PU-st-RkrLSzql-nbcgm-aWlxaNm26Lp4ybjT3m2vVzYIVYhhXuuQP6QC5U0kq54D8N5EHHAABuX_uTfHwj1i8rkzIOitNoDd-4Mh9s1qIsq6GXYGRn3HoGDerGRZKTAuBTDOMxgNpGdZj5LBL5yqjLer2jzKt0u_Xfb9U02OBuGdNrAF5aEiOb9jhqdvJOViIrZCPtGO1usJWEvnMyfk8lBy56S0PCj0mnhSDbeLk2YidCKQpCpx6ZwOZXv_F7vUW6hyEJeVt8VXCxK4BpRVFsY9ZDuQg-dM8DG0nzVHFjdFCRfBOzWuBZVacWAZWJlBk7J-iqNQFnPtUgbHJmwZ4moe7iwvmJhvk_-ZYvcuqduHQc9ST1SanlAKKHZFvM",
+                "widthPx": 4800,
+                "heightPx": 3200,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u7a7a\u8c46\u592a\u90ce",
+                        "uri": "https://maps.google.com/maps/contrib/105257451912294944118",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBPXdu3AaStELzc4Gde7GfxCv2BbBed9-zR1cCp07DZBc2QIfl=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC6763ONg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6763ONg!2e10!4m2!3m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            },
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/photos/AXQCQNTaUZYH8OkQQaCP6lTE_OHjIV5c0UMbrltObJFDDabkD3yCCRtQJGK2eRgwt7R4iOsyLvOquJyLVAQ1otv9bVQHzECTBy23LXSiSFxSo5NyfWkNmKBifov2RMkC-zITJwseqDxRhXsGDgZC32fmrg-oXIUYRE_myzp-9iW1XCad0OdEQMxgfeizqz62m90TDniChEjsxbadnr7SxRQWNmlPYaQwkUL8KpSWTka237sqYJPPOriIKUkkaGQzc12wzTL0y8Ak-boXoL4-pPP3iuyolYTWa68Fhfh8X6s9CVAcwS9hAkdFn6paXnfy9mEB3H5zpwpZ6JG8owWX0GyPNd4ah6B3a0wy0p7Fniv7gjE4pD9p52sGMLbT1tAlSD18ljAzsPD1H1f9zHSILrvF8BKaNm1MtQC1DBbLDrJ6ibx1mBY",
+                "widthPx": 4032,
+                "heightPx": 2268,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u307e\u3086\u307f",
+                        "uri": "https://maps.google.com/maps/contrib/111753278927358651997",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRZALn7x6qYFQ16Ok_PljF1QvmMNOtO3IN3DorG2qg_s1IAw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxy4DeywE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxy4DeywE!2e10!4m2!3m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            },
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/photos/AXQCQNSHMLTbIlKlUSAYFp5OI2GCmZH6iVO9AKRhwOYzy430Xybc71G0R4I9gK3pRtkmwoqujEWuKZtdA4m8EIskq8S8vuD_POnaVn7RFZD5UYX0JaMDDiHLEQGbeOaLev8RSMtKT_YIsQC6QpFP8ZuBg3FKP5PlSRoIlG6_WmPzD2hgo6WdM9oSZGgrcstiprRoPuRgzyhl2XAaVwcqeioqd-0Ocwdjoi0LNBWSjJE4H9gSYRnvDS6rfi6Rk1Wm8HPsKM1ffWnYY9eShw7-WShthca5KLI48ZWxG3MNXn7aWp7WdjKiYpxXo7YxUMyK8KRSVewfKREBuXsZix_XZ1RZCxgT8m00_9ozfw7TQ34lkStCmKfww3U_H9tiVIw95fU7nehuXYUXjR1md6WwCNvtWAP20SHGBjm035hurbxP1f_DSQ",
+                "widthPx": 4032,
+                "heightPx": 2268,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8cb4\u53f2",
+                        "uri": "https://maps.google.com/maps/contrib/111167901073586010760",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxKubVsxnK5FlaYTIU8aagNpGmJi_aMJTgYqxGrEYQXrvbHoz37w=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIChvbWiXg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChvbWiXg!2e10!4m2!3m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            },
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/photos/AXQCQNQ1v_S_k0uaU8L6txvtp_cSCtQhiwQkWxvihmNl7E_LjulX0eevGjvGOHZWVtrII19F3UZFBby56HZv-Z-7sHlKg_D_FXtdlsagb00c9t8fA3vtoshgPC16PRvncypqBEv16RfTgyp2cHHkqlEe_wtfsR6VJRKlB9EgfGRGRV4YruMcPe4ti8FUSGaSisjxpp2wEo3dkGBA5Qn8tm6U4wBad0Tv52lx000utqG72PcqUo8Ydvc3BWrMcpp9tTnhfiZDWSZe8DTsPWsAZpCCRPjhPx98T3OGcgUWKd-Wu_35NjDebQOCTR6wDSQBFRAikOUxQgLQ_uc__riAVyxL9Uah-J_z6QzTwWhr8kRWe3jKVvFGRCHCRa7obqE4gqX3jrSCC776UqTcsotaDLh7DEGvHLjD3zKaPnBpLbiGG1gQXIWg",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "carl hong",
+                        "uri": "https://maps.google.com/maps/contrib/110192953860290877064",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCPACkiKkg6a9NqQyr1Ncpe-bPH3qA47nAdTBQu9-_YUhQKXuZYw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx4LXC3gE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx4LXC3gE!2e10!4m2!3m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            },
+            {
+                "name": "places/ChIJszdHEQN9GGARy9MJ1TY22eQ/photos/AXQCQNRRXRBd0-VsMa5izm2LgOXSGNErsWifhwK-MF_x9I3Sh78NxEUMdj-8IGXE6pm1EdG2OMuR4fHR0qDtNJl6p3KHjmTrDQRwaAxBlC9_uFAHaVhQhm3h5JCP59ga6bNk_nyCXQcoqoTy9Cu8a8R9T_y2lYeFxANCZJxDierW6_W99_H9yCJQ0_Bh8A7pUqLvTm9ydvD79nBlWJiii56DJHw7dpVRdMXDCzBa9wH1hOuFP--BUIl9f6AzmyCT2tECGS-wGkqb2DmdEEZOKWJ2x3bpxG581QRfBTmrgJp4y1DMO1vJBpvgUAOl7GWYdu6njLmghvtxzI8kd3PE7ItrhvXxNyYpG23MGIrlK9O_XxvwhXHbH_2kq5OKIJd9HPZkk_VLrdAiQtJO6Ltz8VIrLuVr0X9-hzDBKTD2AegwBk1zqw",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u56fd\u898b\u7950\u6cbb",
+                        "uri": "https://maps.google.com/maps/contrib/117696521251365794593",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEc9NNKnOgmilNQEiMhFDgCdcfLvqXbJj_0nXiC9Kj1CtZUDu__A=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICB967fHA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB967fHA!2e10!4m2!3m1!1s0x60187d03114737b3:0xe4d93636d509d3cb"
+            }
+        ],
+        "goodForChildren": true,
+        "restroom": true,
+        "parkingOptions": {
+            "paidParkingLot": true,
+            "paidGarageParking": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true,
+            "wheelchairAccessibleRestroom": true
+        },
+        "containingPlaces": [
+            {
+                "name": "places/ChIJzaLT0Bl9GGARX3OJ1IrbKdo",
+                "id": "ChIJzaLT0Bl9GGARX3OJ1IrbKdo"
+            }
+        ],
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJzaLT0Bl9GGARX3OJ1IrbKdo",
+                    "placeId": "ChIJzaLT0Bl9GGARX3OJ1IrbKdo",
+                    "displayName": {
+                        "text": "Tokyo Disney Resort",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "amusement_park",
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "spatialRelationship": "WITHIN",
+                    "straightLineDistanceMeters": 334.66162
+                },
+                {
+                    "name": "places/ChIJhUZMkBZ9GGARnvKZBZtGrPg",
+                    "placeId": "ChIJhUZMkBZ9GGARnvKZBZtGrPg",
+                    "displayName": {
+                        "text": "Monsters, Inc. Ride & Go Seek",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 210.8026
+                },
+                {
+                    "name": "places/ChIJgyhXyBB9GGARszGoxZ7fIaw",
+                    "placeId": "ChIJgyhXyBB9GGARszGoxZ7fIaw",
+                    "displayName": {
+                        "text": "Cinderella's Fairy Tale Hall",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "amusement_park",
+                        "establishment",
+                        "landmark",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 112.31425
+                },
+                {
+                    "name": "places/ChIJ8-dSHxx9GGAR_Oi0-JIz1Cg",
+                    "placeId": "ChIJ8-dSHxx9GGAR_Oi0-JIz1Cg",
+                    "displayName": {
+                        "text": "Mickey's House and Meet Mickey",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 334.4604
+                },
+                {
+                    "name": "places/ChIJcdxg5BZ9GGARaO-ece9Lq5A",
+                    "placeId": "ChIJcdxg5BZ9GGARaO-ece9Lq5A",
+                    "displayName": {
+                        "text": "Space Mountain",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 245.36725
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJd4-Zihp9GGARel3OXwdllbE",
+                    "placeId": "ChIJd4-Zihp9GGARel3OXwdllbE",
+                    "displayName": {
+                        "text": "Tokyo Disneyland",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                },
+                {
+                    "name": "places/ChIJKySbihp9GGARFw1GUiMdC-s",
+                    "placeId": "ChIJKySbihp9GGARFw1GUiMdC-s",
+                    "displayName": {
+                        "text": "Tokyo Disney Resort",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                },
+                {
+                    "name": "places/ChIJR1yDRxB9GGARGPTXxJULYok",
+                    "placeId": "ChIJR1yDRxB9GGARGPTXxJULYok",
+                    "displayName": {
+                        "text": "Maihama",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x60187d03114737b3:0xe4d93636d509d3cb!3e0",
+            "placeUri": "https://maps.google.com/?cid=16490271119724106699",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x60187d03114737b3:0xe4d93636d509d3cb!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x60187d03114737b3:0xe4d93636d509d3cb!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x60187d03114737b3:0xe4d93636d509d3cb!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Tokyo"
+        },
+        "postalAddress": {
+            "regionCode": "JP",
+            "languageCode": "en-US",
+            "postalCode": "279-0031",
+            "administrativeArea": "Chiba",
+            "addressLines": [
+                "1-1 Maihama",
+                "Urayasu"
+            ]
+        }
+    },
+    "description": "Step into the Kingdom of Dreams and Magic at Tokyo Disneyland, a sprawling wonderland located just a 15-minute train ride from Tokyo Station.  This isn't just a theme park; it's a meticulously crafted immersive experience, consistently ranked #1 among Maihama attractions.  Arrive at the gates and be greeted by a vibrant tapestry of color \u2013 the iconic Sleeping Beauty Castle, resplendent in its fairytale grandeur, dominates the landscape, its spires reaching for the sky against a backdrop of meticulously manicured gardens and whimsical architecture.\n\nThe air buzzes with excitement; the cheerful chatter of visitors blends with the upbeat melodies of Disney classics drifting from hidden speakers.  Costumed characters, from Mickey Mouse and Minnie Mouse to beloved princesses and villains, weave through the crowds, readily posing for photos and creating unforgettable moments.  The sheer scale of the park is breathtaking, encompassing themed lands that transport you to the heart of your favorite Disney films.  Explore Adventureland, a lush jungle teeming with exotic sights and thrilling rides, or journey to Fantasyland, where classic fairy tales come alive with enchanting attractions and captivating shows.\n\nThe attention to detail is astonishing.  Every building, every garden, every prop feels authentic to its themed environment,"
+}

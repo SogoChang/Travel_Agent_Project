@@ -1,0 +1,970 @@
+{
+    "name": "Chihkan Tower (Fort Provintia)",
+    "tripadvisor": {
+        "location_id": "490834",
+        "name": "Chihkan Tower (Fort Provintia)",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13808400-d490834-Reviews-Chihkan_Tower_Fort_Provintia-West_Central_District_Tainan.html?m=66827",
+        "address_obj": {
+            "street1": "No.212 Section 2, Minzu Road, Zhongxi District",
+            "street2": "",
+            "city": "West Central District",
+            "country": "Taiwan",
+            "postalcode": "",
+            "address_string": "No.212 Section 2, Minzu Road, Zhongxi District, West Central District, Tainan Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "West Central District",
+                "location_id": "13808400"
+            },
+            {
+                "level": "Municipality",
+                "name": "Tainan",
+                "location_id": "293912"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "22.99713",
+        "longitude": "120.2026",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 6 220 5247",
+        "website": "http://www.twtainan.net/zh-tw/Attractions/Detail/674/%E8%B5%A4%E5%B5%8C%E6%A8%93",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13808400-d490834-Chihkan_Tower_Fort_Provintia-West_Central_District_Tainan.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13808400",
+            "ranking_string": "#4 of 92 things to do in West Central District",
+            "geo_location_name": "West Central District",
+            "ranking_out_of": "92",
+            "ranking": "4"
+        },
+        "rating": "3.9",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "1013",
+        "review_rating_count": {
+            "1": "4",
+            "2": "22",
+            "3": "259",
+            "4": "465",
+            "5": "263"
+        },
+        "photo_count": "1476",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13808400-d490834-m66827-Reviews-Chihkan_Tower_Fort_Provintia-West_Central_District_Tainan.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "0830"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "2200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 08:30 - 22:00",
+                "Tuesday: 08:30 - 22:00",
+                "Wednesday: 08:30 - 22:00",
+                "Thursday: 08:30 - 22:00",
+                "Friday: 08:30 - 22:00",
+                "Saturday: 08:30 - 22:00",
+                "Sunday: 08:30 - 22:00"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "landmarks",
+                "localized_name": "Sights & Landmarks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Sights & Landmarks",
+                "localized_name": "Sights & Landmarks",
+                "categories": [
+                    {
+                        "name": "Historic Walking Areas",
+                        "localized_name": "Historic Walking Areas"
+                    },
+                    {
+                        "name": "Historic Sites",
+                        "localized_name": "Historic Sites"
+                    },
+                    {
+                        "name": "Architectural Buildings",
+                        "localized_name": "Architectural Buildings"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [
+            {
+                "location_id": "12243217",
+                "name": "West Central District/ North District"
+            }
+        ],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "16"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "211"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "207"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "212"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "195"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI",
+        "id": "ChIJbYl7d2F2bjQRnFdvyMBuZfI",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "06 220 5647",
+        "internationalPhoneNumber": "+886 6 220 5647",
+        "formattedAddress": "No. 212, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700",
+        "addressComponents": [
+            {
+                "longText": "212",
+                "shortText": "212",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 2, Minzu Road",
+                "shortText": "Section 2, Minzu Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u8d64\u5d4c\u91cc",
+                "shortText": "\u8d64\u5d4c\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "West Central District",
+                "shortText": "West Central District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Tainan City",
+                "shortText": "Tainan City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "700",
+                "shortText": "700",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QJ2X6W3+X2",
+            "compoundCode": "X6W3+X2 Taiwan, \u53f0\u5357\u5e02\u4e2d\u897f\u5340\u8d64\u5d4c\u91cc"
+        },
+        "location": {
+            "latitude": 22.997477999999997,
+            "longitude": 120.2025433
+        },
+        "viewport": {
+            "low": {
+                "latitude": 22.996002819708497,
+                "longitude": 120.20134681970849
+            },
+            "high": {
+                "latitude": 22.9987007802915,
+                "longitude": 120.20404478029147
+            }
+        },
+        "rating": 4.3,
+        "googleMapsUri": "https://maps.google.com/?cid=17466488504101853084",
+        "websiteUri": "https://historic.tainan.gov.tw/index.php?option=module&lang=cht&task=pageinfo&id=46&index=3",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 8,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 8,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 8,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 8,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 8,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 8,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 8,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Saturday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Sunday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:00:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 212, Section 2, Minzu Rd, \u8d64\u5d4c\u91cc</span> <span class=\"locality\">West Central District</span>, <span class=\"region\">Tainan City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">700</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 24381,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Chikan Tower",
+            "languageCode": "en"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 8,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 8,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 8,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 8,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 8,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 8,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 8,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Saturday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Sunday: 8:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:00:00Z"
+        },
+        "shortFormattedAddress": "No. 212, Section 2, Minzu Rd",
+        "editorialSummary": {
+            "text": "Built in the 17th century by Dutch colonists, this former military fort is notable for its history.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJM3AtOENnEAE",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 2,
+                "text": {
+                    "text": "I don't mind if the historic building is under renovation, I applaud them taking steps to maintain their heritage.\n\nHowever, still charging full price 70NTD entrance ticket is abit absurd. Considering most of the building is still under renovation, and there's only a small part of it was opened for visitors.\n\nIn it's current state it's definitely not worth spending 70NTD to go in. Wait until the renovation is done if you wanna visit inside.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I don't mind if the historic building is under renovation, I applaud them taking steps to maintain their heritage.\n\nHowever, still charging full price 70NTD entrance ticket is abit absurd. Considering most of the building is still under renovation, and there's only a small part of it was opened for visitors.\n\nIn it's current state it's definitely not worth spending 70NTD to go in. Wait until the renovation is done if you wanna visit inside.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Yuhng Yeap",
+                    "uri": "https://www.google.com/maps/contrib/107760262695028103651/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1ly4jQkN0eNplOB-cw7hTivV98Nlrh9w7Dlc3McOtciQMi6lc=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-02T08:41:37.575433Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJM3AtOENnEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJM3AtOENnEAE!2m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            },
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/reviews/ChdDSUhNMG9nS0VJQ0FnTURROU56aGlBRRAB",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "Former Dutch outpost that is open quite late at night. It's been turned into a historic site but is still under construction.\n\nNot much to see inside, but one can head to the 2-story tower but also check out all the koi fish in the pond!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Former Dutch outpost that is open quite late at night. It's been turned into a historic site but is still under construction.\n\nNot much to see inside, but one can head to the 2-story tower but also check out all the koi fish in the pond!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "James",
+                    "uri": "https://www.google.com/maps/contrib/108054114834581884385/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqV7s1ERcFGfwshWd43fVj2drCe4Q_9Q7yrW7t1yUcOV4l1RPe-Q=s128-c0x00000000-cc-rp-mo-ba7"
+                },
+                "publishTime": "2025-03-09T08:24:11.903333Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURROU56aGlBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURROU56aGlBRRAB!2m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            },
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRbktfOFJnEAE",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "Rich history, part of it was under construction, still worth the visit! Took us about 1 hr to go around, can take longer if read through everything carefully.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Rich history, part of it was under construction, still worth the visit! Took us about 1 hr to go around, can take longer if read through everything carefully.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Esther Tsai",
+                    "uri": "https://www.google.com/maps/contrib/102179386033308429327/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhn6IKASuikG9XzoZ2rt4bPfO0VGHlcxe6-wtDR2Viu1tXdcmEdw=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-03-02T21:18:16.176300Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRbktfOFJnEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRbktfOFJnEAE!2m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            },
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/reviews/ChZDSUhNMG9nS0VJQ0FnTURvenRIWVFnEAE",
+                "relativePublishTimeDescription": "2 weeks ago",
+                "rating": 4,
+                "text": {
+                    "text": "Decent for a quick visit; Clean and maintained\nStill, there was maintenance and some of the historical content was in Chinese-only the last time I visited",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Decent for a quick visit; Clean and maintained\nStill, there was maintenance and some of the historical content was in Chinese-only the last time I visited",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Craig Bossley",
+                    "uri": "https://www.google.com/maps/contrib/100662311680296276670/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVbn-NJxR6HaRBN6lG_LU-KFaDRBWEB5IHURw_dq2gpDvf3mDm42g=s128-c0x00000000-cc-rp-mo-ba7"
+                },
+                "publishTime": "2025-04-24T23:32:17.966332Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvenRIWVFnEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvenRIWVFnEAE!2m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            },
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/reviews/ChdDSUhNMG9nS0VJQ0FnSURmMmR5b2pRRRAB",
+                "relativePublishTimeDescription": "4 months ago",
+                "rating": 3,
+                "text": {
+                    "text": "The Chikan Tower was under renovation when I visited in early Jan 2025 and the main building you see on posters was closed and under maintenance. I was hoping for some historical info or some old photos on display, but also none of that.\n\nThe only impressive side is the koi pond. Beautiful.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The Chikan Tower was under renovation when I visited in early Jan 2025 and the main building you see on posters was closed and under maintenance. I was hoping for some historical info or some old photos on display, but also none of that.\n\nThe only impressive side is the koi pond. Beautiful.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Tony L",
+                    "uri": "https://www.google.com/maps/contrib/112722680960003443072/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBCzerEshpHDM0LZCZGV8QNkNt5-tkPDCbU2209ytkm9Ar83C-=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-01-08T06:01:53.644349Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmMmR5b2pRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmMmR5b2pRRRAB!2m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/photos/AXQCQNTM2fSfly5fs4Lm91q_iDVTSM3cMkrTpZGMN-9AKdnRIYmw3t26LFSt0vu8pRYqZ9Dejx_2qIk6-_cmpwfzDSEZCbV_TnwD_T7t9juHH2W3-La0ssDfRKUlkHnV3trpNrKXkyIi0aTfPaG9X9tHC7VYe9DfW4G3bXpPbPM2322PETKuZmY2TggUhuuhJGP8siwceLN8fyyWI6ikz2Wks2lIyy3EY7cvosEFd8Mt8KnqS8FVOM1aXhhmPxNyO_xAXL5rtRpkP3nX_4zPn1jFCAg1AGojWux6Cih6Iwe6ZoBaHQ",
+                "widthPx": 1024,
+                "heightPx": 682,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8d64\u5d01\u6a13",
+                        "uri": "https://maps.google.com/maps/contrib/112546264912628277208",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIpNnt00hkL31FbxKHGLjczB8m2adRZxKZjfWEyj2I7P3svaA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOvOj3HfscQNeD7gUkMeNTLpyOsUCjyt8KXvluN&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOvOj3HfscQNeD7gUkMeNTLpyOsUCjyt8KXvluN!2e10!4m2!3m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            },
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/photos/AXQCQNT0nTq_CXYDgOzLjiQLo40msJEVnE-zOAEOYNmKBV5dLRtDpOjUpofbHt7gAIcpDAc9CQWx2ovIS0VsPuIdbTEGRWfbXlqja-5Nte_PSGHTbKVyvfsZVx2Zo8lKaKFn5CraFJUDblPDzrcfIRmBtStC4OTceeA8SBrcLzVqQBvz4zu3yyXneK_IlM12tD-XFRgYMNgwNIFsJe4uqxii02cbUsabM6KqWIbpQlznBCcJzmm_dgHESZXw0zUavizEjmkIV8plczlDKYEaroEWu2EK4qxEH9LdFtXEO-LHSKorRguJXaJgsqdMompgD97jQFyozWeuXfQShNyvcMOAlnPrMLI4nWfReKXGlKJ5OojopZmFQ8h65OAo_s56gEyxut0GZP5HgP1QBjmFl0MUfgKcCGhhpu7LhpziJYHKivsK1Q",
+                "widthPx": 4800,
+                "heightPx": 2708,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u53f0\u5317\u9673\u6167\u654f",
+                        "uri": "https://maps.google.com/maps/contrib/117872153670189203358",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIkLyBlaiTvvcB-J-voTxMwsVgmGFrcxrBxAMcheDbTanfoJA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICm5ovCdA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm5ovCdA!2e10!4m2!3m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            },
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/photos/AXQCQNS8IeDzhErbIsydLzzLyNTKRwykZgZLuit75kPCuRHE8V0SHOZvnpCtCAUgHFQQ9nAmukcZCTtDxj_0HJOz30Iddr1MlYftLEP2d7tRCW3R41bLg4Nd-N8TGKi99Dr2ZP5O7hZuO2MYJ4985R_EimwLXsvzyb4DVjyfViWVZ8XT1I1iwy5ja6hczCkYhNQG01Y9g9OUKUdOkh_z19tRyyw1-WrOpT1OK0WbGZ0RLeFtKA7_Z_iMwqU1IIEpBv8EMKYxEB6VM3ME9fKDeseqQpITazu-MYLbtDrPQ2eaHSKsZT_p1uKFeqJWQWaD8rIArA0aAj33wTor6xZjQ4m-0AAnsJHCKFwxDFdDXzw6p7HarWTqjO9A7nb-1IWORd7l4wLgHFpBUj6BdfrBwCFKvr9nZuOQ0-JZf7gXpbh1UGyBEQRg",
+                "widthPx": 4080,
+                "heightPx": 3072,
+                "authorAttributions": [
+                    {
+                        "displayName": "Kenshu Moto",
+                        "uri": "https://maps.google.com/maps/contrib/114935551395531649522",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf5AAu_aduI14CfUGQ4y4tCXXYRi4U8-ZMBvNJVRDI_pG1hIHSMQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC1tvn_xwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC1tvn_xwE!2e10!4m2!3m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            },
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/photos/AXQCQNTr05O16XR6PmZ8tPAZFrMHZGme-3rVJbgdfMZXqEHkxH28X-9_WpKrNgQEYY3_X17IkU2x-jYpj-2jojXW-62EtKIGrVSuQ2r_XB_bCxC5HvHzhpWWFKIOYobrfDfS17CUhJwFDgZ4cwe4UgVZB8hQ6IZGo-ymkLBLMbEctkutRibiKRndjlMQTiJcoydFuYHYwdxTAiZlsj7JtTXU8JmmXlU7lmngNSdLjT9z8pnSdWuxw6gEaXPHPzuft5Hf5XXeAIEds4HNs2AI4HpWz9vqoSgqobcx_iNnXfz3cGCwcvDTgpJbBbEvRLXtmN3XEjxRHhakr-yn6wEuJgDL-sN0nS73ByNMcCOl7KWogYGlwmEua3Cw-uBrhUGYFjcMOR-PyDJUTaC8x_TevnK_XN8tEWWsVXkPLmut7midQBRyHYuV",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8a79\u9298",
+                        "uri": "https://maps.google.com/maps/contrib/104941888082920487748",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXey3EXQXLPEOrds_p9erNPdVInPXqvtRQvqnwIb_V1R8hyNb4k=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICs-dnfoAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICs-dnfoAE!2e10!4m2!3m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            },
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/photos/AXQCQNR3uAviq6MeupFwvBZiirahFbaSvwpuZ1X2hOiB9s-_hdmruCOU_R3yCu9cS5cggWu09BNXq1tdLPyIeBm4UfqWhP3nMyqK3SR4-4-LTNtqNBJutyYx-452LuJAE4v4CfceS1Tao2XsQKTIKqzKOO8yQSeh7CqYjDq5_plhBmtCzI-YsmKYBn7YS7RNzAMP3aD4HwqcdPUWCrj0dol3oDB17F7MveokIzb-Wvb4wH4vLrROKcm8wjqYN5A1kSWZxdfsYjlymuKIqAsbPlOtGNZSG8ThKiPLPKzVZYi63uJL8uxUaO-xC45_k8Gk_FBFM1Wx4bb-_KjQPm1oJoHCrIXaTdpzUx0-EleiCLlAQOgrwAi8sFs8ThzhIcb1dJ2vSj7G5W64YmStm5UhXflk2F6LKZkdoiO8Fu8JoASwoXXiMGTG",
+                "widthPx": 2048,
+                "heightPx": 1364,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6f8e\u6e56\u5b50\u5b6b.\u8a31\u5b89\u5b89",
+                        "uri": "https://maps.google.com/maps/contrib/116733947165890113415",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWy973KJSGdeLsYMZoi18p2vkp9jCQzsFfvjD2K6jPGUKhbWkLM=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID61Z3H7QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID61Z3H7QE!2e10!4m2!3m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            },
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/photos/AXQCQNSMOFDJEF33NR519pRGKpZrQGBg87AXmSuSv4ZH5bio6mcdbP9x3RU9Q7FtLdXIjAmM7QiSie2yHFOK1o7_GFPbxxJM25TOiYprqiaDmMbzNzcngRZw03BAfMugxJ7n4JvCjrwlBJLFM9L8EEvP60Tfgu5o-4eS_ZUaxrWdHQLYosj-KugQfPFU1HLMC5tiAEPZ56AbSLZqV859WaEJd_JQ_RxHIGDXXRU7U7UQy-QK98W4fdO9TpQdefzjxtHZ9VkqvOTHtswUYI35oy6e2I_6n2eIZn9aSMrh9kFQithWNG59l-GMjEfTqsEaAHQ4R6_ASkYLfue7M_UpApwMQUAOwJZU5lukdnlB_OK8IJ9tfyoHgDbpvZqtJaZDiX5jraYRPiD6duC7eIA8xkW4LeWX6JTiTTmM6oAmPvl9lu4",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5433\u5b97\u52f3",
+                        "uri": "https://maps.google.com/maps/contrib/102166141186034845233",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQCwGvGFXVsks-Blr9V607jVzJqqUvG5zCYt1IJaA_r8Yvp8LL=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw4-yYSA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw4-yYSA!2e10!4m2!3m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            },
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/photos/AXQCQNQBZ0KRR_6sAI8_l_YL6vaj72driW1VL95W6yfYK_IRkVNFSprVuHgbVAve-x3O45eeO3HJrJWybZ3BTZX_r0_m65i3O1IwROzeHhSwxKP68adOZH5bHSH8lAfz3WNMYwT3xYVXNR2W94KppyCMkcNmprnnucS15JGNso6K-JWuQExj4DF2rSNMk2osQqLfM1tHWF_sIS56AmZ59gHjuSybtNcJt6ipnkAJ_-FxAxjC4IJdR1TTL6WB5aVqeXx8Jrkm7roEDC9v8-3fr8FmrhWsiGC6T5MlQ4hewwvpR3F4S-q6y8Rhl0C9FDIaVOPYCH_RlIUbbSHH6GQfgPhehNh2ez8JFWnxHcwMwlaPRRzBAAIfnVGMlQa5GFQ6bgCbwjRpcDWPf81FvrdujLqXlfd2GQhO3AzyKs43BBammDqEq8n8",
+                "widthPx": 2798,
+                "heightPx": 2165,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6c5f\u5b9c\u84c1",
+                        "uri": "https://maps.google.com/maps/contrib/111581661085849546137",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJxTlOpC0Mko8mvXDXZbkv35CFrDwgGsYbBbwUJxDCXjtWlzw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDKyvvxyAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKyvvxyAE!2e10!4m2!3m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            },
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/photos/AXQCQNShroblmmkFZ0yIi54gLLMPVfG9b1x73f_CN_sHr1lDA_vqTUI0kdxsRt83gP_LAoZ_ftxcCK0sePLK4oGfSfnpxiovBUZ5hlmwg6If9g34g2pdljvrf9F9XP3ljaeNV1KKHG3aQS38raz1awD-jEdz40yv_MgUOu4Bfb_O2FCpDFZck8jxhcqBWvQYQQ918iYvOfDzr5vN1WSZahvQcfiTjoWkRxZMj_j7JVvA0i827JvVvhrwHyC0Ml8FjXr39MAN_dBUSVRVr235GjMvnh9_Sb6Oq5pZ7JZhcKDgIfNdTnYSJciixdC_el8aeD_6Y8Fw2tQNVE8Aqmgvn6dF4FMvDYafxCZ5jqp3cn1oajhFlKwqMgg5NKPWHl_BWKzY2KtN75EDblUyPN6EVsi8LNp1hN8vHqz7hIA8O-GoxXDsKA",
+                "widthPx": 2047,
+                "heightPx": 1165,
+                "authorAttributions": [
+                    {
+                        "displayName": "Enrico Lim (\u8fcb\u5549\u8129\u6915)",
+                        "uri": "https://maps.google.com/maps/contrib/116005181067002497670",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXACDqjxcxpItJUjzCN3CiWxo-GZ4_n-z0oP_naSrlmNOJgjCRCGg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-tvboEg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-tvboEg!2e10!4m2!3m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            },
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/photos/AXQCQNQAEMZT_xx6dUblz1eqGRsSgTwcGz9uvfNC6_l7EpUjrrEjbgkDlSxfxDDq1ZC7vt6YPadqL2lvYzjaKqyF7WALBc5jlZuBXwIVHCyUEdMUgQHFrspu-iyOUHmh3o-V1J37_5UF5urBarOtv4i1KHbXESQFdS4cW6GL-UiZnSeD7YFSaj3EWwYp6hPXpyDTglfb_NeDIKfIU_uPIb7CNDY7pMoq4Khgg5E0skL7urQSAC7RlwNrL5P4iqVMNt8KZdMyY6JqjojgKMNBiQKxKXXADBLYgSDA-sF4_q5zKn6_R42zbdTTsrVWwdWOH4yz9fZIwdBX8P9dxxCFDvVtRik1-0kSYOgAydtwTya5jdDNBl9tAjZHEgL1zfNgjx1Ijj2EsUd-sdJGzbq4MA_yEGdcKMUQs1elzeog8wfZKyoRVA",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Jerry Kang",
+                        "uri": "https://maps.google.com/maps/contrib/105627068248631835400",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxVu3j6CMUg78CwsJaC6QwdWF3ONyCt-v0jgmhoP4YFnZopZlj=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDh5MePbA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh5MePbA!2e10!4m2!3m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            },
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI/photos/AXQCQNTgatmYNtjF7lxMJGuzIgCDcNffQiTQYXbmzPDF1sL0JZENhMWzYu560cHQd2Y7SlTA1bJ_dcUJ0tAOunLG9XSbht-GJWoPBj_RmUuFnvSzdFTBv5C7Ny1bhilvoMJeWvOwWAB4Qzaj6WlGmY1Qdfm3uot6XS42u0ZpKlUOBf9w7pwGJf_396riRpDE1pbiu9rpBpneeBy2FtL4rKf0KlCHERTCaYzzOaK-5n2WFCHeOADxrAjKVG5pa9-I1C8Be9q8No4ejontmDUXXS1b3LLiqylh6YveFhHOjREGOc-64NX_fq7YTfS4eefODPa2dEM9o0TJ9tAoSpgfnrAyMYJglCulzklL2Pt94-12XMFI85tBFoOABv6uYkq0TRwtAyAoyhvY-bWYx-MJ6soTChE1i95xBYzU7wFPOFHWiFypcQ",
+                "widthPx": 4608,
+                "heightPx": 3072,
+                "authorAttributions": [
+                    {
+                        "displayName": "Chlotus",
+                        "uri": "https://maps.google.com/maps/contrib/109732344105936496117",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIPbxHES7onMRbfNmaXcq15JqcoSotFOtT8FFTiwaYe95uTRRo=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqkquMNg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqkquMNg!2e10!4m2!3m1!1s0x346e7661777b896d:0xf2656ec0c86f579c"
+            }
+        ],
+        "goodForChildren": true,
+        "parkingOptions": {
+            "paidParkingLot": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleEntrance": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJY_KXhGF2bjQRZXEHXtObnOQ",
+                    "placeId": "ChIJY_KXhGF2bjQRZXEHXtObnOQ",
+                    "displayName": {
+                        "text": "7-ELEVEN \u8d64\u5d01\u9580\u5e02",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "atm",
+                        "convenience_store",
+                        "establishment",
+                        "finance",
+                        "food",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 60.788303,
+                    "travelDistanceMeters": 70.58833
+                },
+                {
+                    "name": "places/ChIJje2QZmF2bjQRR6NbMsm6hTY",
+                    "placeId": "ChIJje2QZmF2bjQRR6NbMsm6hTY",
+                    "displayName": {
+                        "text": "Tainan Grand Mazu Temple",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "place_of_worship",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 144.27098,
+                    "travelDistanceMeters": 249.96283
+                },
+                {
+                    "name": "places/ChIJ_3sZgmF2bjQRJqNT18Vuoa0",
+                    "placeId": "ChIJ_3sZgmF2bjQRJqNT18Vuoa0",
+                    "displayName": {
+                        "text": "Tainan Sacrificial Rites Martial Temple",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "place_of_worship",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 96.07571,
+                    "travelDistanceMeters": 133.55844
+                },
+                {
+                    "name": "places/ChIJbYl7d2F2bjQRFn6Bt4T-r0Y",
+                    "placeId": "ChIJbYl7d2F2bjQRFn6Bt4T-r0Y",
+                    "displayName": {
+                        "text": "Chihkan Culture Park",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 50.161327,
+                    "travelDistanceMeters": 105.82472
+                },
+                {
+                    "name": "places/ChIJr1I4Ivp3bjQRgASigcRc04k",
+                    "placeId": "ChIJr1I4Ivp3bjQRgASigcRc04k",
+                    "displayName": {
+                        "text": "\u5cf6\u5165\u51b0\u5e97\uff08\u4e00\u4e8c\u516c\u4f11\uff09\u63a5\u55ae\u523017:50",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 39.091305,
+                    "travelDistanceMeters": 130.47218
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJYTHknmF2bjQR_ZMwALu7FVI",
+                    "placeId": "ChIJYTHknmF2bjQR_ZMwALu7FVI",
+                    "displayName": {
+                        "text": "Chikan Tower",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                },
+                {
+                    "name": "places/ChIJa5F1sWF2bjQR7_VrZQB4zpc",
+                    "placeId": "ChIJa5F1sWF2bjQR7_VrZQB4zpc",
+                    "displayName": {
+                        "text": "\u81fa\u5357\u5e02\u4e2d\u897f\u5340\u6210\u529f\u570b\u6c11\u5c0f\u5b78",
+                        "languageCode": "zh"
+                    },
+                    "containment": "NEAR"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x346e7661777b896d:0xf2656ec0c86f579c!3e0",
+            "placeUri": "https://maps.google.com/?cid=17466488504101853084",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e7661777b896d:0xf2656ec0c86f579c!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x346e7661777b896d:0xf2656ec0c86f579c!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e7661777b896d:0xf2656ec0c86f579c!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "700",
+            "administrativeArea": "Tainan City",
+            "locality": "West Central District",
+            "addressLines": [
+                "No. 212, Section 2, Minzu Rd"
+            ]
+        }
+    },
+    "description": "Chihkan Tower (Fort Provintia), a captivating historical landmark nestled in Tainan's West Central District, Taiwan, stands as a testament to the city's rich past.  Located at No. 212, Section 2, Minzu Road, this iconic structure boasts a 3.9 rating on TripAdvisor, based on over 1000 reviews, and a higher 4.3 rating on Google, with over 24,000 reviews, solidifying its position as a must-see attraction (#4 out of 92 things to do in West Central District).  Open daily from 8:30 AM to 10:00 PM (note that some sources list closing time as 9:00 PM and 22:00),  Chihkan Tower invites visitors to journey through centuries of history.\n\nImagine stepping back in time as you explore this former military fort, originally constructed in the 17th century by Dutch colonists. Its sturdy architecture, a blend of Dutch and later Chinese influences, speaks volumes of its past significance. Though currently undergoing some renovations (as of late 2025),  a significant portion remains open to the public,"
+}

@@ -1,0 +1,657 @@
+{
+    "name": "Tokyo Central Railway Station",
+    "tripadvisor": {
+        "location_id": "550327",
+        "name": "Tokyo Central Railway Station",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g14129528-d550327-Reviews-Tokyo_Central_Railway_Station-Marunouchi_Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html?m=66827",
+        "address_obj": {
+            "street1": "1-9-1",
+            "street2": "",
+            "city": "Marunouchi",
+            "state": "Tokyo Prefecture",
+            "country": "Japan",
+            "postalcode": "100-0005",
+            "address_string": "1-9-1, Marunouchi, Chiyoda 100-0005 Tokyo Prefecture"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Marunouchi",
+                "location_id": "14129528"
+            },
+            {
+                "level": "Municipality",
+                "name": "Chiyoda",
+                "location_id": "1066443"
+            },
+            {
+                "level": "Region",
+                "name": "Tokyo",
+                "location_id": "298184"
+            },
+            {
+                "level": "State",
+                "name": "Tokyo Prefecture",
+                "location_id": "1023181"
+            },
+            {
+                "level": "Region",
+                "name": "Kanto",
+                "location_id": "298156"
+            },
+            {
+                "level": "Country",
+                "name": "Japan",
+                "location_id": "294232"
+            }
+        ],
+        "latitude": "35.681553",
+        "longitude": "139.76544",
+        "timezone": "Asia/Tokyo",
+        "website": "http://www.tokyostationcity.com/",
+        "write_review": "https://www.tripadvisor.com/UserReview-g14129528-d550327-Tokyo_Central_Railway_Station-Marunouchi_Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "14129528",
+            "ranking_string": "#2 of 62 things to do in Marunouchi",
+            "geo_location_name": "Marunouchi",
+            "ranking_out_of": "62",
+            "ranking": "2"
+        },
+        "rating": "4.2",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "4303",
+        "review_rating_count": {
+            "1": "23",
+            "2": "51",
+            "3": "561",
+            "4": "1911",
+            "5": "1757"
+        },
+        "photo_count": "3207",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g14129528-d550327-m66827-Reviews-Tokyo_Central_Railway_Station-Marunouchi_Chiyoda_Tokyo_Tokyo_Prefecture_Kanto.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "landmarks",
+                "localized_name": "Sights & Landmarks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Sights & Landmarks",
+                "localized_name": "Sights & Landmarks",
+                "categories": [
+                    {
+                        "name": "Architectural Buildings",
+                        "localized_name": "Architectural Buildings"
+                    },
+                    {
+                        "name": "Points of Interest & Landmarks",
+                        "localized_name": "Points of Interest & Landmarks"
+                    },
+                    {
+                        "name": "Historic Sites",
+                        "localized_name": "Historic Sites"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [
+            {
+                "location_id": "7278765",
+                "name": "Ginza / Tokyo Nihonbashi"
+            }
+        ],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "373"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "948"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "1025"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "751"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "599"
+            }
+        ],
+        "awards": [
+            {
+                "award_type": "Travelers Choice",
+                "year": "2024",
+                "images": {
+                    "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png"
+                },
+                "categories": [],
+                "display_name": "Travelers Choice"
+            }
+        ]
+    },
+    "google": {
+        "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA",
+        "id": "ChIJC3Cf2PuLGGAROO00ukl8JwA",
+        "types": [
+            "transit_station",
+            "subway_station",
+            "train_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "formattedAddress": "1 Chome-9 Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",
+        "addressComponents": [
+            {
+                "longText": "1 Chome",
+                "shortText": "1 Chome",
+                "types": [
+                    "sublocality_level_3",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "9",
+                "shortText": "9",
+                "types": [
+                    "sublocality_level_4",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Marunouchi",
+                "shortText": "Marunouchi",
+                "types": [
+                    "sublocality_level_2",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Chiyoda City",
+                "shortText": "Chiyoda City",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Tokyo",
+                "shortText": "Tokyo",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Japan",
+                "shortText": "JP",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "100-0005",
+                "shortText": "100-0005",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "8Q7XMQJ8+GR",
+            "compoundCode": "MQJ8+GR Chiyoda City, Tokyo, Japan"
+        },
+        "location": {
+            "latitude": 35.681299599999996,
+            "longitude": 139.76706579999998
+        },
+        "viewport": {
+            "low": {
+                "latitude": 35.67735,
+                "longitude": 139.7632219
+            },
+            "high": {
+                "latitude": 35.6835733,
+                "longitude": 139.7691484
+            }
+        },
+        "rating": 4.3,
+        "googleMapsUri": "https://maps.google.com/?cid=11114180190203192",
+        "websiteUri": "https://www.tokyoinfo.com/",
+        "utcOffsetMinutes": 540,
+        "adrFormatAddress": "<span class=\"street-address\">1 Chome-9 Marunouchi, Chiyoda City</span>, <span class=\"region\">Tokyo</span> <span class=\"postal-code\">100-0005</span>, <span class=\"country-name\">Japan</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 13392,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Tokyo Station",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Transit station",
+            "languageCode": "en-US"
+        },
+        "primaryType": "transit_station",
+        "shortFormattedAddress": "1 Chome Marunouchi, Chiyoda City",
+        "reviews": [
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NWZ1UTN3RRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "As usual, you can depend on Japan train punctuality. The inside was very clean, seat was comfortable with good reclining angle. Wide overhead space to store your belonging. Please be reminded for first timer getting on a Shinkansen, it has its own platform. And, especially for big station like Tokyo Station, moving from your origin station to designated Shinkansen platform can be quite far, so please be mindful on your schedule.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "As usual, you can depend on Japan train punctuality. The inside was very clean, seat was comfortable with good reclining angle. Wide overhead space to store your belonging. Please be reminded for first timer getting on a Shinkansen, it has its own platform. And, especially for big station like Tokyo Station, moving from your origin station to designated Shinkansen platform can be quite far, so please be mindful on your schedule.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Riyan P. Kusumah",
+                    "uri": "https://www.google.com/maps/contrib/116997440888472186048/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVe4bzMgxRwqj9X1KVNsPyDXL_CHQ4-8DfyWS5DbsT1Af-7S74qKQ=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-03-27T07:28:00.885778Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3NWZ1UTN3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3NWZ1UTN3RRAB!2m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            },
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwZzQtQnBnRRAB",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Tokyo Station is a large and bustling transportation hub with a lot to offer. It's easy to get lost in the station's labyrinthine structure, but the ample English signage and helpful staff make navigation easier. There are a mind-boggling number of shopping and dining options available. The red brick building and the Tokyo Station Hotel are worth checking out for their architecture.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Tokyo Station is a large and bustling transportation hub with a lot to offer. It's easy to get lost in the station's labyrinthine structure, but the ample English signage and helpful staff make navigation easier. There are a mind-boggling number of shopping and dining options available. The red brick building and the Tokyo Station Hotel are worth checking out for their architecture.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Ry Pen",
+                    "uri": "https://www.google.com/maps/contrib/117371471754283625320/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKS2TTl962vk6eu3Gec2adlhD5KEP3TVQ-evIE5hZ3-4RfyqdY=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-03-02T18:42:06.365299Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNwZzQtQnBnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwZzQtQnBnRRAB!2m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            },
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/reviews/ChdDSUhNMG9nS0VJQ0FnTURRemFtdmxRRRAB",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "I've had friends warn me that Tokyo Station is difficult to navigate, but when I went in 2025 winter for a holiday I found it very tourist-friendly. From the main concourse, you can easily find and access your platforms (the entrance to the platforms are all arranged in parallel). The Shinkansen entrances are also conspicuously located. On top of all that, it's extraordinarily clean. For such a huge station, I think it deserves praise.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I've had friends warn me that Tokyo Station is difficult to navigate, but when I went in 2025 winter for a holiday I found it very tourist-friendly. From the main concourse, you can easily find and access your platforms (the entrance to the platforms are all arranged in parallel). The Shinkansen entrances are also conspicuously located. On top of all that, it's extraordinarily clean. For such a huge station, I think it deserves praise.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Jeremy YEN",
+                    "uri": "https://www.google.com/maps/contrib/104221687323850461174/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3ncUdNgb1I7lTqXU4UDonF6exwP3bbx8M_pjvo4hsUk1S=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-03-13T02:05:41.735771Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRemFtdmxRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRemFtdmxRRRAB!2m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            },
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZNHVUOWZnEAE",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "Outstanding connectivity, excellent maintenance, and seamless access to nearly every part of Japan. The signage system is the best, you\u2019ll find helpful signs at every step, making navigation incredibly easy.\n\nMy return flight was from Narita Airport, which is quite a distance from Haneda Airport. I took the Narita Express from Tokyo Station. It was super convenient and dropped me directly at Narita Airport Station, which is connected to the terminals. The frequency is good, and it\u2019s one of the best options compared to taking a taxi or a bus.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Outstanding connectivity, excellent maintenance, and seamless access to nearly every part of Japan. The signage system is the best, you\u2019ll find helpful signs at every step, making navigation incredibly easy.\n\nMy return flight was from Narita Airport, which is quite a distance from Haneda Airport. I took the Narita Express from Tokyo Station. It was super convenient and dropped me directly at Narita Airport Station, which is connected to the terminals. The frequency is good, and it\u2019s one of the best options compared to taking a taxi or a bus.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Tanzim Khan",
+                    "uri": "https://www.google.com/maps/contrib/115862190077801545056/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyil2Ye_5ast9nRkCsiBetQnsWyXL1EGlTZPomQYX8poXuiZly=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-05-02T22:23:45.375318Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZNHVUOWZnEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZNHVUOWZnEAE!2m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            },
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/reviews/ChdDSUhNMG9nS0VJQ0FnTURvMGZuZ3pRRRAB",
+                "relativePublishTimeDescription": "2 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "This station is HUGE! most trains will somehow go here. The shinkansens here were a wonderful experience to ride, and the Narita express was nice and quiet. Lots of food and shopping in this station too, in the heart of Tokyo.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "This station is HUGE! most trains will somehow go here. The shinkansens here were a wonderful experience to ride, and the Narita express was nice and quiet. Lots of food and shopping in this station too, in the heart of Tokyo.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Gabe Agnew",
+                    "uri": "https://www.google.com/maps/contrib/106039048900811360276/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBi-9EqFQB0Y10WrQjUHr3BNll6U9GpnhpTVTC_nZq4qZaMyRILg=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-25T23:38:11.547804Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvMGZuZ3pRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvMGZuZ3pRRRAB!2m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/photos/AXQCQNQaxtgKn4-9OZcbXVEFyQI4i769xpJW7fJgnImZlu7dpiNHF87-KbHLNaZ2vvIeK7tsYnCTL4JP8dQEZfm9alj0PBOPGRVZ_UdAlqSMiRKkOFAG7iOKNymri7960g_IEnziW8yikwe3hOKy8_abDPi_3aIvnM5IATUciinUSHzM8qGpplP1TpdL8Q89PYGeI3vU5jh6S5M02cFHekuP19J2ZRXclLo5CqP6RtPFm50NMg-eDvQbHEOd_uOrTZqI11ATqjfBtMGVaihJ2ae4Fj366vqjTqqL5NrZBncm28fIprJx_FDWIqr3qoIWH87pDwp7iQzJqOu3WoT7O4Pp3i32O83UEA8AHZ8nltSTQB7TwthKSE6cK6NirHkpuHdGJqjxJYEUr9mYIKwgU5f3EPEcDC34OvbPf0PfBA",
+                "widthPx": 3456,
+                "heightPx": 3456,
+                "authorAttributions": [
+                    {
+                        "displayName": "Goi \u00b7\u035c\u00b7 \u1577",
+                        "uri": "https://maps.google.com/maps/contrib/115193093006561370200",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPxZBOvuznQL2ZBrhgTTRyMTtB6zUCOTlW-vxDr72HrU6zwz9tVA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDq39Y8&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq39Y8!2e10!4m2!3m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            },
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/photos/AXQCQNTmizpOJPwpPmD7-cDg73ejXXWWlLHnaCPlvdRSQEgiExibvXfuZJ2uNJuHTG5GKfcWU2di43o8GQW2y00lnAvnBHNgS7vZSG6PyNbXiNEEkrsHNl5ngqtAJeumO7dP3Qf79Qukf1uEkniTCkWQPu9DVSfyrVnVTsSFxZ2s8ZeFvaBWS3ZalJEBMMSG8UP3libc_sCTW3pwE5YtFKCjmmXFfKLK4XZQvGV1oFLxuWrLQDRqpxXNvW88Z8DAtDK4OHYKQu1SThGytQoQBWZItl0IeyiM1bMblIaT_qBqbEn1PuJ-ZDVV48mhyucviboyrEsSVNPuUUJVQIkyGZez13vXb-0L2spLzUYRV1xcVvcSj6bBAPkkHMMitJxEooydCQW5L9u6uoI-NiNs6f8X_Le_xKs5fO6P7_kn37LvQFzCHQ",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Piccinini Pellegrini",
+                        "uri": "https://maps.google.com/maps/contrib/106319641687319928795",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXj7UyjKKCr5LVSmoOscgCjtn6FMjf-Qq9w9_XM_OWjoTP3NPWF9g=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDO34DRWw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDO34DRWw!2e10!4m2!3m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            },
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/photos/AXQCQNTc2j4w-90SbSCueuFxvqUGdj28aE40m0c9C4aRmssAyGEdIR9bmp-Hyw-PKRH0z19GvSRcHe5i35jybrWf3TOTqRglZ9qCdDO8OmCpyGLzNj_ijkv4haAecZycZuPJTseEOQylFjzOwWVHoGb5PORzqrmV129dsnVvAC0aRkyizDwyshcXUFAOCRCa_99e1pVrHj9WZqLgCM-ZDkV1rtp87zUVL7q6fo0WUALVt6zmmormlKWm00ui9YQzT0VrrjnpRDeC1AR649OnMup62zpEP_XoLBm9AfSTWLkEQeDv1sdmPYNJmD3cENFCc60G_umH5tUk_9wRHhcYBlD1lVl6pTlHE81TDJO8VFOlk2g1LOyDdxtcV21b2xruLdtF_w7RP3Y2nJ5oObeLeHgLJNHpl1N9bVvjkdBbqT9rtVJfdFY",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Samurai Panda",
+                        "uri": "https://maps.google.com/maps/contrib/106190727803816762912",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0ZKm-_aa12YijsFE_pkgu2O7Uiy_HYYHeeWZtJEcT8xQO25Y=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID6krHjqQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6krHjqQE!2e10!4m2!3m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            },
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/photos/AXQCQNQqzioQXo86H6FjlvVjDWaEi-L8kE8xMNAVo1qV5-yT_RLGJZWU4mYRtGzMv9LpdLe1l1lyPtUIThfIJMGDqSeguNQ9F_SykGPoQTJc5sLtfkbUkNHK3HJboMFLlQFCCwutNz7AceHyx9QVQYdIMGVDXV2SemSINP_8SCvEcZaztVwwBo52zTU43OPEXwKcTvVLUI-d9Q9-FFu0IAMA1KBbW1wcXjLVzzHjh1-8MY4xyJp6j9Pu0RuE3uBOQLkiOlqrfvC7j8-5rFNnyr6Z9ixCIHN0MdcgIdeWmovNO9zbYQKbvXUOPCN9Rrh69CRGl6V0SkHab_o5HXST5iA-FpReabk1L0yPRFCCj_NacBaYsOfTs99H18SsvsbNSFI4JxxOiKxAX077sYOfq7O-aXXRlVe9Z6mTTS5wlbXPJUTVBjI",
+                "widthPx": 3000,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Sora Shinoda",
+                        "uri": "https://maps.google.com/maps/contrib/117430687331163130457",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKVGiYx9jG83wQRxEmHdu6HxZQPpURWSnoGW1msp4UXFRXWOnE=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDO3uqOkAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDO3uqOkAE!2e10!4m2!3m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            },
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/photos/AXQCQNQKv1RHxaYJ-1acjyxw3dDTclrIhFP0MwbKelFZMIITmMkz8GGnGoZ9ajBbHkWHpG604-xHajL1aq0ldBTuSqBF4-fRkHMmyjNL_o52v1AbmIbBzCXRz95jQIQ8RgPJW8tV98JLWMI7S2yqlekv88YQDdtB35HDTJDSZtm6E1-eFwCox7XVQwD7hVkg9yRQg1aUoIGDg8reRz8k849TkUPzUXBC_xae9pnFodL3Bg6Efr0z1w9xxIMcPzm5JzuEgQ9sYT0bO12gS2_j2vWvVgU8E7cotpe8EeUwNkEhtzMQBPWNijWpl4Fg9y2PrSEJEt8GcYOHXS9POEZ1YsfSEswt9oDNKH8mWkCyi1IShQNQM1FVIbjG9YlrhLyDx4KAuHUB7cd6e62XYXjMJVGexxl6zdAI-5pMcp3aouj9b5bDnxYQ",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6e21\u9089\u5149\u96c4",
+                        "uri": "https://maps.google.com/maps/contrib/103350241827448994538",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEQfe5b7Cv90xI9-nMa0tUj6mqkcbvxB79cOhOnPETr54j120E=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR6Jed-gE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR6Jed-gE!2e10!4m2!3m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            },
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/photos/AXQCQNQJMto-UkHwWlV2uZwMrN-DpoQkYoDnGbC3C5vqUQcm2H3B8YMjZLIQSNCXx1L7imGEx3gmOjQUJvfq8nwL3QMYg3qalY698urgVNDmgY5LFiWsiPguNe5J4K6OeQIkeJ4T5o9lT9RvXaudyr8LwpYNq0aPR0_CRgwEG-ivzgur_Y324fn5ra8CbuLHD1tL2ZPjeCtnEJWQeOxwIG82MRt6iQU3ukHEpwZwjWFeNb21s4wWeC3jE9YLnYjfaYmGGb3fR2yzdxgbLBcBkUJl44LDHGw3zN_-Q-E6dV7_dKVuIyZXIFMh1EM0iPl7ytQbOnOQJkYOAAxMgDjRM9m2M3G1T3WFonhfz3LWc1Q9MuaVzH0t2ZjIzm-jlTnYbayVzHXq3WDiZ8qx4qTqno6PPPi3inUgM5DbvIRGjG2l5Sr863l2",
+                "widthPx": 1920,
+                "heightPx": 1080,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6b66\u5185\u307e\u3055\u308b",
+                        "uri": "https://maps.google.com/maps/contrib/115337005933689553806",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvw2TT0qn6hFjw1aJ15xBlbigpz56fXP7IHJ4lIYr-ZSyK7MvLrQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICK-vOo6gE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICK-vOo6gE!2e10!4m2!3m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            },
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/photos/AXQCQNTynhZKm1cUWkgQIonvkGqwK02e7CxhYYUMwMwENPoEOBwewQ9n18sfUybvAeSFCzTP0aX3DkvLDSZb4l5DIsw9UEHvdlquap4l-VKwbDbKL2lXFVWtIKDtHpaL95DRu3EqSMOVwIIVQl5oKAOlwiCbjmiX0S4Zx83jJZPgSrpv3OsoMNbGEe-sX5uWyNHqmgKAbGiPmLodvVINez1YyqaDuxxFVPblddgjZDWTPG7Axa2-lvzFpT0KixbrCK8tG1nCUfZ5i98nxzuQzFbhJ_gh_2SsbE01W_yn8QJLUiBy8coAeFwXmlnwNtLI7cMzsu_3MNgSrBanbvCcnbEoNeVY7bL45Y5zIBzS_TSGul-uk1zeEGK2TfVNMVWxZ361fQbs_10Pip4GOA_7ebR5FA5l0l0OAUG6TufJ2lnNPyo",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5c0f\u51fa\u5eb7\u5f18",
+                        "uri": "https://maps.google.com/maps/contrib/115180789237699666952",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwWueqMDNRVC7QR3Ks0jUHztBWknsGkp0Ix2I18jxaiSlGx4TwjA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC6x8rHOQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6x8rHOQ!2e10!4m2!3m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            },
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/photos/AXQCQNTgXMJL3fkYCzJpyXWd4uXRzQJy1-82E4bDJIeGZbs9SS_CWHppjBH4k_dVPWv2a9aRW0G74vAbiMGlimnrtMfuFDv_7dUXKLzK7i87Hh4UKD7OyCU6qWAs0z3o400fZl00mHFYeKEyDvCUnX2g_3J3FeyFCcM79Wp_cHRt-OuYzAcCmOBUaiIdMOUMl9hua_81UKh-7M2V1uQ5qQf4IMqb84sjTouLe80qrbBg-82f9J7WKVNhB9FiEjcHuaYEFh4foDQ6Ax-KKAvw2scFha-vwbfMFjF3wuhhaLSxMbEKxZXSD5ghm34wIjsgxUnatFetnjII_BGsjCaV5FUUWvB50OXXUO9DPnlJq6ubDb9WSZ4dauBR-cbEPj-4NJzEoPhE167n9nMYw3xS1vmQbQanM0rais9D8ofzBWolBbY",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Reiji Tanaka",
+                        "uri": "https://maps.google.com/maps/contrib/101588629073293303128",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLs81P2VToFB2Wkbd56aSGZiNnA1udxyRObI9O8hQ6kfl0Ewg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICuw-OUdA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICuw-OUdA!2e10!4m2!3m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            },
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/photos/AXQCQNRVz-gS20rvQtbPGRirybKQkPzAMERno3Pn5Ikk-PHW4DQHiPBGlf5KlW5vxY1EMF6Nsx9NwavlBaLGO30RJyCPQn-OiXLq_Jn50D7YJK0E-q-oLHKXj_nU6wOM6BEvRihM3TKEtpoIvL8TElIPJsJrHn42IQfgJSQmY7LGM3nlMpl1ANgyc0GJsBtW8ZmmYZmw9xvST225JdnsSU6zKb7S2IWD55wON6KZIy_eLcGmr2e5HHczCAFViKF0pKD_UqFX_bkNGjBJGULFlObSVOzcIGK1og8TTAFCYti-J8sjrxXDMKsVSz0F3gjcrN4zYlw2wSK81ESXgc_iCgD3dvhs6Nn0ysANVnNqRvbwRgtrA2vEYCYtS45ASOPvWJDSzoYl2I4_1XXyu8mwU2i3xY4PQKQwIXoFg0rqvD7lqpzYHRlm",
+                "widthPx": 4800,
+                "heightPx": 2587,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u59da\u51e1",
+                        "uri": "https://maps.google.com/maps/contrib/116477622963601177436",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLaN-RoJIPbi7ltoN4JYaTUm6OjrPe-exAt8dbRcLfzC9fF1Q=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-r7_9tQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-r7_9tQE!2e10!4m2!3m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            },
+            {
+                "name": "places/ChIJC3Cf2PuLGGAROO00ukl8JwA/photos/AXQCQNSAjF0rNM-jm_JAl-ux7mE5kUUeJo2SBFZ-XrMZOwNYHVB2hlvqY9Ixq2TXt66jOdyIU4hXEkCDjOmA42xxjMb_XBtXcelPJID8_UgGv6NiT5x7Wh-1cvShlR8xcPO7dkfAXCQ7tU_Vc4iuSezVyGQLIRGf2G-Avgw0LCJGzRAgEV7-VESbbtBOj8XmDH_OnjB_SW8R1dkxw3Wr91Qvt9GP5elNsvIupAb588F7tFiZF9o0GmQd2-mwft_DlcVppSbFMYoqegwERqPzsugHkFkiTU1eyKmXv4uRog5xXEmIAw9RMXxY1PNYaQGUsQHYu4civcrjM08p9EA77swTiCWxFFP5--iHBlYgIWYDrBqrdY7X0BGdpl8kXjCQTKMX56XV0IPtNX7M3mdzop5bq-Wm972WlldefAEOKMxkPLM61oDy",
+                "widthPx": 3980,
+                "heightPx": 2984,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u3084\u3093\u3046\u308b",
+                        "uri": "https://maps.google.com/maps/contrib/112528196783574496004",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRQUuMWO7C6v0tqksWtaMuei1fwbvNqsJaESvwqdpJrYU2H8EJ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICy55i-iQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICy55i-iQE!2e10!4m2!3m1!1s0x60188bfbd89f700b:0x277c49ba34ed38"
+            }
+        ],
+        "restroom": true,
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true,
+            "wheelchairAccessibleRestroom": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJu2cU7vuLGGART-M-fm6LD0E",
+                    "placeId": "ChIJu2cU7vuLGGART-M-fm6LD0E",
+                    "displayName": {
+                        "text": "Tokyo Station",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 35.54684
+                },
+                {
+                    "name": "places/ChIJ9-LJdPyLGGARZeSwNOHJv3I",
+                    "placeId": "ChIJ9-LJdPyLGGARZeSwNOHJv3I",
+                    "displayName": {
+                        "text": "Gin no Suzu",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 30.398333
+                },
+                {
+                    "name": "places/ChIJtxODuv6LGGARGHePjyb8m-0",
+                    "placeId": "ChIJtxODuv6LGGARGHePjyb8m-0",
+                    "displayName": {
+                        "text": "Daimaru Tokyo",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "clothing_store",
+                        "department_store",
+                        "establishment",
+                        "food",
+                        "grocery_or_supermarket",
+                        "point_of_interest",
+                        "restaurant",
+                        "shoe_store",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 169.9389
+                },
+                {
+                    "name": "places/ChIJGeYlX_mLGGARx_4HVNDXOxA",
+                    "placeId": "ChIJGeYlX_mLGGARx_4HVNDXOxA",
+                    "displayName": {
+                        "text": "Tokyo Character Street",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "shopping_mall",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 165.10576
+                },
+                {
+                    "name": "places/ChIJAylxefmLGGARmouNFJGoD3E",
+                    "placeId": "ChIJAylxefmLGGARmouNFJGoD3E",
+                    "displayName": {
+                        "text": "Marunouchi Square",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "park",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 146.42018
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJSdGgkvuLGGARUVSCP-9EzFA",
+                    "placeId": "ChIJSdGgkvuLGGARUVSCP-9EzFA",
+                    "displayName": {
+                        "text": "9",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                },
+                {
+                    "name": "places/ChIJLdASefmLGGARF3Ez6A4i4Q4",
+                    "placeId": "ChIJLdASefmLGGARF3Ez6A4i4Q4",
+                    "displayName": {
+                        "text": "1 Chome",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                },
+                {
+                    "name": "places/ChIJdUl5zfuLGGARyfYneysknCM",
+                    "placeId": "ChIJdUl5zfuLGGARyfYneysknCM",
+                    "displayName": {
+                        "text": "Marunouchi",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x60188bfbd89f700b:0x277c49ba34ed38!3e0",
+            "placeUri": "https://maps.google.com/?cid=11114180190203192",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x60188bfbd89f700b:0x277c49ba34ed38!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x60188bfbd89f700b:0x277c49ba34ed38!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x60188bfbd89f700b:0x277c49ba34ed38!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Tokyo"
+        },
+        "postalAddress": {
+            "regionCode": "JP",
+            "languageCode": "en-US",
+            "postalCode": "100-0005",
+            "administrativeArea": "Tokyo",
+            "addressLines": [
+                "1 Chome Marunouchi",
+                "Chiyoda City"
+            ]
+        }
+    },
+    "description": "Tokyo Central Railway Station, a majestic hub ranked #2 among Marunouchi's attractions, pulsates with the energy of a modern metropolis while whispering tales of its rich history.  Its iconic red-brick facade, a stunning example of architectural prowess, immediately commands attention.  This isn't just a station; it's a landmark, a testament to Japanese engineering and design, earning it a 2024 TripAdvisor Travelers' Choice award and boasting over 4,300 TripAdvisor reviews (averaging 4.2 stars) and 13,000+ Google reviews (averaging 4.3 stars).\n\nStepping inside, you're enveloped in a vast, airy space.  High ceilings soar above a carefully orchestrated labyrinth of platforms, concourses, and walkways, a testament to the station's capacity to handle the enormous daily influx of commuters and travelers.  The sheer scale is awe-inspiring, yet surprisingly well-organized.  Clear signage, both in Japanese and English, guides you effortlessly through the intricate network, making even first-time visitors feel comfortable.  This ease of navigation is frequently praised in online reviews.\n\nThe architectural grandeur extends beyond the exterior.  Inside,"
+}

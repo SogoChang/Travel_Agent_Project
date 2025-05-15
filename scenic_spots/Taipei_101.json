@@ -1,0 +1,508 @@
+{
+    "name": "Taipei 101",
+    "tripadvisor": {
+        "location_id": "552573",
+        "name": "Taipei 101",
+        "description": "At 101 stories high, Taiwan's tallest skyscraper boasts spectacular views and high-end shopping boutiques including Gucci, Prada, and Louis Vuitton. There's also a Din Tai Fung on the basement level.",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13808515-d552573-Reviews-Taipei_101-Xinyi_District_Taipei.html?m=66827",
+        "address_obj": {
+            "street1": "No.45, Shifu Rd., Xinyi Dist.",
+            "city": "Xinyi District",
+            "country": "Taiwan",
+            "postalcode": "11049",
+            "address_string": "No.45, Shifu Rd., Xinyi Dist., Xinyi District, Taipei 11049 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Xinyi District",
+                "location_id": "13808515"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taipei",
+                "location_id": "293913"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "25.033863",
+        "longitude": "121.56383",
+        "timezone": "Asia/Taipei",
+        "phone": "+886-2-8101-8800",
+        "website": "https://www.taipei-101.com.tw/",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13808515-d552573-Taipei_101-Xinyi_District_Taipei.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13808515",
+            "ranking_string": "#1 of 66 things to do in Xinyi District",
+            "geo_location_name": "Xinyi District",
+            "ranking_out_of": "66",
+            "ranking": "1"
+        },
+        "rating": "4.1",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "12313",
+        "review_rating_count": {
+            "1": "104",
+            "2": "344",
+            "3": "2314",
+            "4": "4962",
+            "5": "4589"
+        },
+        "photo_count": "11870",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13808515-d552573-m66827-Reviews-Taipei_101-Xinyi_District_Taipei.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "landmarks",
+                "localized_name": "Sights & Landmarks"
+            },
+            {
+                "name": "shopping",
+                "localized_name": "Shopping"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Shopping",
+                "localized_name": "Shopping",
+                "categories": [
+                    {
+                        "name": "Shopping Malls",
+                        "localized_name": "Shopping Malls"
+                    }
+                ]
+            },
+            {
+                "name": "Sights & Landmarks",
+                "localized_name": "Sights & Landmarks",
+                "categories": [
+                    {
+                        "name": "Architectural Buildings",
+                        "localized_name": "Architectural Buildings"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "1042"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "2386"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "1555"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "2714"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "2495"
+            }
+        ],
+        "awards": [
+            {
+                "award_type": "Travelers Choice",
+                "year": "2024",
+                "images": {
+                    "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png"
+                },
+                "categories": [],
+                "display_name": "Travelers Choice"
+            }
+        ]
+    },
+    "google": {
+        "name": "places/ChIJH56c2rarQjQRphD9gvC8BhI",
+        "id": "ChIJH56c2rarQjQRphD9gvC8BhI",
+        "types": [
+            "premise",
+            "street_address"
+        ],
+        "formattedAddress": "Taipei 101, No. 7, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+        "addressComponents": [
+            {
+                "longText": "Taipei 101",
+                "shortText": "Taipei 101",
+                "types": [
+                    "premise"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "7",
+                "shortText": "7",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 5, Xinyi Road",
+                "shortText": "Section 5, Xinyi Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u897f\u6751\u91cc",
+                "shortText": "\u897f\u6751\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Xinyi District",
+                "shortText": "Xinyi District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taipei City",
+                "shortText": "Taipei City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "110",
+                "shortText": "110",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "location": {
+            "latitude": 25.033976,
+            "longitude": 121.56453889999999
+        },
+        "viewport": {
+            "low": {
+                "latitude": 25.032492119708493,
+                "longitude": 121.56316601970849
+            },
+            "high": {
+                "latitude": 25.0351900802915,
+                "longitude": 121.56586398029148
+            }
+        },
+        "googleMapsUri": "https://maps.google.com/?cid=1298933283718762662",
+        "websiteUri": "http://www.taipei-101.com.tw/index_en.htm",
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "Taipei 101, <span class=\"street-address\">No. 7, Section 5, Xinyi Rd, \u897f\u6751\u91cc</span> <span class=\"locality\">Xinyi District</span>, <span class=\"region\">Taipei City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">110</span>",
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Taipei 101",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Building",
+            "languageCode": "en-US"
+        },
+        "primaryType": "premise",
+        "shortFormattedAddress": "No. 7, Section 5, Xinyi Rd",
+        "editorialSummary": {
+            "text": "Towering, 106-floor modern skyscraper with light effects, shopping, dining & an observation deck.",
+            "languageCode": "en"
+        },
+        "photos": [
+            {
+                "name": "places/ChIJH56c2rarQjQRphD9gvC8BhI/photos/AXQCQNSrxDOA38FH2cfi_uc9tttsYxg1c10y2HMyoK7VzSUVjvnTd037Qx7qSegO5xviVNmrJd4IZJe6svCLNmdDGGEZQ6t-nw2G1sgDEp8KKWmpxRavpJ1k_uwrhFZktY6-_GUdKbmIdijvXNemyKSEzL93zdv-9yPtBtrrHmOEMbF7c3E58Nen5BrXEYhw98Jetrk_js2t4Lh8TJryUEv1wz_DgM58aZ4ikvCdrNuLSI14Fulh8Wy4WJo1s0OCsNBqWUbCSFN4VS6y5HU0FdmZmOdJ24EQd7vyZvXZDxwYXrK5QPO9G5acJ-4IGdvkF-caaAbO0OD1xskQmtbZoG8N8zsNBsX0RzRGOtw2bBwRgn1rM_GONBDI5w2fXL8F0zoQo05-YEKKXp4uqk4dG1Kax0bIKPr8K2to_g3g9_XjIaVUat8Pc3V_XJNspGSxkg",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Cheng Hwee Chee",
+                        "uri": "https://maps.google.com/maps/contrib/109299096293261941993",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmTAxQgzrIAQuMhWO4IN70IOXnrrGrApHmDU8s6lrxgxR43R8IXA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5UVQ6xD2fER5MAC8Xs&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UVQ6xD2fER5MAC8Xs!2e10!4m2!3m1!1s0x3442abb6da9c9e1f:0x1206bcf082fd10a6"
+            },
+            {
+                "name": "places/ChIJH56c2rarQjQRphD9gvC8BhI/photos/AXQCQNSmwi-_i5ZE3RiNoeT9ycTUseeK0NFQWswQwIn6GxbgGRHhnnb3F5-CfK-xazObmS-lpRH5cTASWYU2sXmcqL4SlcV7PyS06z_Utm5KKI008_-eb1WvFH0tdEaQGNStNqXVpZxWS_ig6teP8LhND6SnC1vwImgO_oTDIBxA23X2e-IzVt_04SkLRhFwW2oyFdrWcZGXWBsXfIaWxpjZcqlulQx-EPZvxyo8YAUNXLcotqAMAFotzbw0RjzkaHzrU7HV1qWA7A48YoX73fvrSL4JOjuBasdUnu3xhftp34lvKsguttXBjVQgcV3AH7buzKgyP49FAXTtRGdGb3D_B83VUTEE-av2TdJGxNBc5V9TKa9wIcwrueddXD5OkRdL-la-paPw7tXZADng5qFGdOpZlMTQGlOGiHp15UXUDH-4Dg",
+                "widthPx": 3000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Max Hou",
+                        "uri": "https://maps.google.com/maps/contrib/104024181521452651706",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW25hJ778DbPhTK3YfiLDDo_7S1fA72FISp8Op2rERWBfrrPmUK=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDcqoqpWw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDcqoqpWw!2e10!4m2!3m1!1s0x3442abb6da9c9e1f:0x1206bcf082fd10a6"
+            },
+            {
+                "name": "places/ChIJH56c2rarQjQRphD9gvC8BhI/photos/AXQCQNQWPXR6M2vy9fbu9Ydlu3ZpNcVY37guVXMKBSnKTKnj-rNzgY0ojvQDpmtEJJO-0xbN4sCYugFhoF4noTJTw2Sg0Iw5_WXYWpZtk6IRoakt-Vf-fuhULS0Xm7O3qy5puCBgkmSd_zyfIDLawwKy0tpIdC679LrED2G6CqLdBX_LrYHXnCOYiV5jJ0rD1lN9EyEdcRV-KFdzHyveJ74cPsHxd02pvG3FVPAeOB_Ke7_QLhE2cbcfV4FaRETNMFDT5HlavZnpNXMyi_nOO1I6Ljn24KIUM03FejK2ffKQDKMA-a-pjlZEpTVk-HtUBHxCGDkTpnvjg9fuTdgHQ_qlBLcNNpQ9pEk1blwQC17sUDo_K8_wqf9XxGeOviDB6r4pEzGnwpC57J0kbvhb4FdNh-VGHVDBAjaPpwpjlXSF3Cu77Q",
+                "widthPx": 1200,
+                "heightPx": 1617,
+                "authorAttributions": [
+                    {
+                        "displayName": "Akshay Patil",
+                        "uri": "https://maps.google.com/maps/contrib/114064708522369276474",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJQDCaZNzmYXi3xLO-baB-Ibuk1WECcq3d9omOjVfMzgexS8izL=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDKoL3LSw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKoL3LSw!2e10!4m2!3m1!1s0x3442abb6da9c9e1f:0x1206bcf082fd10a6"
+            },
+            {
+                "name": "places/ChIJH56c2rarQjQRphD9gvC8BhI/photos/AXQCQNSTK6-BfA9Rxq_L0D_2iQ2nk340bYhX5sAapoT62QR9rv8rSpBFu4xMeQ_CkzXE6udfCyEIyhJQKj1L4BPo1jUcxVYVbSAx1JBCHgDixGFtzp3UrTY_d9uYlLXPoEmNIDk3DyOiQSNmuxA3x3dSdnl5sBHwaMxcCShfYEXc0NKTgf1uwO5A9nJwMABRC2vpk0ozDT__H4RsObcJPPRaRxe99_OpF1AwJypUxyqhMm3ZhDlLTzIoIhi_y7T5Unbn4_UG-P4DWEP0EU7mQ9MgVwq5JrgfgxX3prXh4JeSZAIRO9fsk0JSFcw_U7ckrzBbDWWwssxIeqpBs5JbPFUVOQGbilbnavwSgqo84_xlIYT1IVwqVEgRmprYy_LmKtI_Ypgr7yIQueund81ptKstuxGqj11qO0m8zsB1alDRcGy0tg",
+                "widthPx": 4800,
+                "heightPx": 3195,
+                "authorAttributions": [
+                    {
+                        "displayName": "Y.T C",
+                        "uri": "https://maps.google.com/maps/contrib/108842552176886367646",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOkP9lL0Hf86WxhRVPmK4tuX7vor3kUBN280vZpSh-qj925RSrWg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4_57MPg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4_57MPg!2e10!4m2!3m1!1s0x3442abb6da9c9e1f:0x1206bcf082fd10a6"
+            },
+            {
+                "name": "places/ChIJH56c2rarQjQRphD9gvC8BhI/photos/AXQCQNTZPL3bqTBOWuK5WKGOwtelioO_tUZwgUjL0Q31OkSy4SOYrUglWkPZ56GMZD0yUNzuuxsw6USDINMBrtJvAdGmadYtD4bIdAEaAq4_5nb3w6M5bRtDoEYeCZOZ-6zv12KrI_J_PVNOi69E7TrFxLHFRyQERiUiIBzZG5PWuQx8yEww2avJWkzyF32NZy03waYh7wCppoQQi3Mjqd8TFRuOJS7iN_MNFxV2R2ZpqSY1R5qElqVwG5lDtpOcNpbvPxP5-yQegtFzqa7AlWZQoVqzSfzRXCsLBcGRiLEYZy0JcN6rs0xbwWBEdTWRrmV-OoNgpTINj4_E8Pxx1HFXi719HZkE4zPLQO47woz9dPg_sH-rw3_hBNjKbo5CPoDETYG0AbJ1es6tOCulsxwEb3z5ruVK7f19NjNpSJemVtkjVw",
+                "widthPx": 3648,
+                "heightPx": 2736,
+                "authorAttributions": [
+                    {
+                        "displayName": "Calvin Huang",
+                        "uri": "https://maps.google.com/maps/contrib/108912757334509049966",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJkp01DPfrxHzMYo_VEoKQMv6SnMr8VAY7jEwHtnVX9RRO_Tw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICywKT4Nw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICywKT4Nw!2e10!4m2!3m1!1s0x3442abb6da9c9e1f:0x1206bcf082fd10a6"
+            },
+            {
+                "name": "places/ChIJH56c2rarQjQRphD9gvC8BhI/photos/AXQCQNQ-VtjZeJgxTBKq_fTGqRe0Q_dxu2a3ZuHTRjspxmaS1FRdV1JGi9lOEQF4XzHLV3-oxOAM1H5g6lnLSXLLKw6uG33oTYaH7uTKqar5uGxWoPB2hSNti9pjJzf1_tXq9hUuCF5pG3Vfdyyjd4f4rVdhBvRi2xHhorbtavPpeHk0VnV9wQFFx7jDIe_p-kWeDbX2xHhY5vyX8_8ewBdU2ZIK1cCOxxsLUQLbMrygJOd6YUOkRuRqBCLs6C88QfAoLU8ZKAk4EXGV74vmVyxly6t2JhHlqC_zlfoEReVirRDSKajPH8TXKVeXPZscBSug-bm4Xun0qNDdFwcNJ62Q6C-pIYIKLImjH7goAhYeepZqkaHyQ9WpBDxJAHUSBd7WtmSgvJwiIH9LlX6OvnefRbFd2E2rAHrLkl496O_FBEM",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u50b2\u6162 Leon \u504f\u898b",
+                        "uri": "https://maps.google.com/maps/contrib/115114867585093374325",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5faVRaJp39kakp2_a5P_c2ojUk7-cfrl879TaMz5sUv_aMBlLEg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDSperRKQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDSperRKQ!2e10!4m2!3m1!1s0x3442abb6da9c9e1f:0x1206bcf082fd10a6"
+            },
+            {
+                "name": "places/ChIJH56c2rarQjQRphD9gvC8BhI/photos/AXQCQNTBZqZkdQsp3DkZmDFpMu4B8CuemA60zfeDtOrKN8nADfj0HytZQEik_TftH9zcihbhtEZGDaecqcfqblI2bqFWLw6-jOrHem_JLLvfmKwa_4unYXBa_wJf396bSGRlNQvS4hnoDdKi7UynOajis2HymDV5r-49-z8hi2xNJBP9FBU_w_O1k2ch8vuGImXF_uiVBz2a3Mp-U3_-Ku9f1LWUv25MFJALo1NKgN9ZFKC9lDTNIaekFwOVzauEUhVE41xUSlZfwHNv3D-azcSaTEBzAtNH91MmdZ8o-W_x9Ikm4EgeeHlq4bkb0q2uGy8KW5vgNPsZKT14k90CACGkaidI4XnNmgSxTeUKv0VnngZ0XA2Gah4YJJlbB8XebviT6NXC-VY62mhdbC9XhQXCsK-uvZbTQHl2CqNBn2_EylDb12w",
+                "widthPx": 4800,
+                "heightPx": 2708,
+                "authorAttributions": [
+                    {
+                        "displayName": "irene wei",
+                        "uri": "https://maps.google.com/maps/contrib/102151784839027244913",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMYBYNuF2OV53G-X939aaED7_6OdfD5ZteZ-8Oi66hlRw1kdc7=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDMhZCaqAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMhZCaqAE!2e10!4m2!3m1!1s0x3442abb6da9c9e1f:0x1206bcf082fd10a6"
+            },
+            {
+                "name": "places/ChIJH56c2rarQjQRphD9gvC8BhI/photos/AXQCQNTO50TUGzOvVTcwW984UCbmnznw0QItOlLS-lSmhSpivx27Nn1Izn7_SyE8g1UN9phHX189qHA4-rGBdvImR6J6n69j70PSiw6KL5TvHJKtqfA_mktNjbAczdyAAZEEtzw0QYXdaZVmNkXRqYhWjPS-FccOBj1qH3ckbQjtWg0bdrIJIdxn1XWpfZd1uaSLKwFeg2Nz55iBpYNB_1G53rjZJaDVtAXuJxS65x6gBIyQNX34D6MO2aZyPywHpHAChNWarA58sLr7SIQAqGBsB45kDo0GxD0oTDYIUaZINcVqnuq_CALSW1BXsuqii-WhRhwd6kM-CS_CE8KiYAktb19ymL4cXNjyJ8OOZuSeLGGdalTkTeMiwyNZ8V3wbiyi8XxKr--MbywX3PHPyr51hJg_uhHpOBWI3Dm1sPTKeG0",
+                "widthPx": 3648,
+                "heightPx": 2736,
+                "authorAttributions": [
+                    {
+                        "displayName": "John Tsao",
+                        "uri": "https://maps.google.com/maps/contrib/108117484686562418352",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWpbxrnChC2YRAssC_TfrcsNUDkRv6_Mpw-r3FljbCQcao-q_iHA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcwr_ncg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcwr_ncg!2e10!4m2!3m1!1s0x3442abb6da9c9e1f:0x1206bcf082fd10a6"
+            },
+            {
+                "name": "places/ChIJH56c2rarQjQRphD9gvC8BhI/photos/AXQCQNTbE94T3cMLjIOEcbccs8Zo15JvRxjQF44fS-KUITd4Te0sS7UfXrawhXXhEPKm5qIHgKkhFmHFQ9-pdprxlJax73AjC6N8egwjjXN08Ojak5sE2Xes9pwM1Gg8FeVXyivQQUrBmLjma_yYThpRj80YpIS-nvyDU3yS5JAyU-3DI6PXHurYAqivuf5Upc97-19qDdmEBRTRnPXW1dF3NctZkz_F3hvCiFTFKC6hqXzM7TaiH8rU2cpGU43Ic6XeBjZYO1ejc4spkC-QB_uLXGNcLGj_6RbChkAUhE8sgfAeoGFIfwuGSq5WmaZ6JVZvk0JiOtDHZWOzhhILEl2FEhWSl55eAkskP2gn-PPmbW50M0R2AElT9EMHdwRpAbf2-CsbVsFNl7Tnr4kgiozL0zET8IrzC6vaQgHgN25MI7dUnA",
+                "widthPx": 4800,
+                "heightPx": 2700,
+                "authorAttributions": [
+                    {
+                        "displayName": "kazuaki toya",
+                        "uri": "https://maps.google.com/maps/contrib/118429957540885810034",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ6p1oe8pHLijuGOOMJC0tB2szXZmXciCtxXyoZyvcAtEy3EA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICUutvUDg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUutvUDg!2e10!4m2!3m1!1s0x3442abb6da9c9e1f:0x1206bcf082fd10a6"
+            },
+            {
+                "name": "places/ChIJH56c2rarQjQRphD9gvC8BhI/photos/AXQCQNR6YE6NvCdvCbOZ5W01sTIQC2HPCXCEIAZeFsLLvyU-E-xDk0dZ5m65d_ZEdrsbq3XuX-0t0eahOrx_Mp1TxsqbulBJl1oGkyvBFH1gCl5jYyxBRzuLVnombS1Dd3CiydjnACyjFeyaGFir5NN7yhbuLDxSTmsiAaTqXSz5ONRN85ULQ-oEiTa6MjSjCVg9Z_c2pVAcEKBv6O99iOOXMz5ovI6k_AXSZEOxWMmnGr-a7MtQH7zNDAHAYoTqwUi38naKDfx04Gzb3enzKQ4j1G2m-wLaTp6sAngzFyu5RY9u4yugk5XYrYtq9jZLIl8nNMZwicHHBjkUxqFIwEbGlABbesg0wFybRFR8SAg1iL-U4GzLFA5tUozbb-1Bg2PZSq6MMwDP7yXDUxbUG_rrDfPW8C42ik65iSgAWT0ftRp_BWHe",
+                "widthPx": 1080,
+                "heightPx": 1080,
+                "authorAttributions": [
+                    {
+                        "displayName": "Vineesh Ghai",
+                        "uri": "https://maps.google.com/maps/contrib/115800667844021118994",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhTUsQASb9p2uT7EOqGFlbG31Or3erJmrvJREcLNFtFNceleF2Wg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDs9Prs8QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDs9Prs8QE!2e10!4m2!3m1!1s0x3442abb6da9c9e1f:0x1206bcf082fd10a6"
+            }
+        ],
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJy-qHObarQjQRdukyRsgZ-Xw",
+                    "placeId": "ChIJy-qHObarQjQRdukyRsgZ-Xw",
+                    "displayName": {
+                        "text": "Taipei World Trade Center",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 224.6134
+                },
+                {
+                    "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU",
+                    "placeId": "ChIJSTLZ6barQjQRMdkCqrP3CNU",
+                    "displayName": {
+                        "text": "Taipei 101 Observatory",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 48.179768
+                },
+                {
+                    "name": "places/ChIJjfzEsLCrQjQRsd6k1mO2-WA",
+                    "placeId": "ChIJjfzEsLCrQjQRsd6k1mO2-WA",
+                    "displayName": {
+                        "text": "ATT 4 FUN Xinyi Store",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "department_store",
+                        "establishment",
+                        "point_of_interest",
+                        "shopping_mall",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 212.58867
+                },
+                {
+                    "name": "places/ChIJraeA2rarQjQRPBBjyR3RxKw",
+                    "placeId": "ChIJraeA2rarQjQRPBBjyR3RxKw",
+                    "displayName": {
+                        "text": "Taipei 101 Shopping center",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "shopping_mall"
+                    ],
+                    "straightLineDistanceMeters": 54.632545
+                },
+                {
+                    "name": "places/ChIJLVgF7AirQjQRYDwyA8yU1U4",
+                    "placeId": "ChIJLVgF7AirQjQRYDwyA8yU1U4",
+                    "displayName": {
+                        "text": "Breeze Nan Shan",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "shopping_mall"
+                    ],
+                    "straightLineDistanceMeters": 147.39873
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJ-4X7MrGrQjQRLORFjBrnUoc",
+                    "placeId": "ChIJ-4X7MrGrQjQRLORFjBrnUoc",
+                    "displayName": {
+                        "text": "Xinyi Plaza",
+                        "languageCode": "en"
+                    },
+                    "containment": "NEAR"
+                },
+                {
+                    "name": "places/ChIJxz3NwrCrQjQRq9zMUQ_FPdI",
+                    "placeId": "ChIJxz3NwrCrQjQRq9zMUQ_FPdI",
+                    "displayName": {
+                        "text": "Taipei Nanshan Plaza",
+                        "languageCode": "en"
+                    },
+                    "containment": "NEAR"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3442abb6da9c9e1f:0x1206bcf082fd10a6!3e0",
+            "placeUri": "https://maps.google.com/?cid=1298933283718762662",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442abb6da9c9e1f:0x1206bcf082fd10a6!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "110",
+            "administrativeArea": "Taipei City",
+            "locality": "Xinyi District",
+            "addressLines": [
+                "No. 7, Section 5, Xinyi Rd"
+            ]
+        }
+    },
+    "description": "Taipei 101, a shimmering titan of steel and glass, pierces the Taipei skyline, its 101 stories a testament to human ambition and architectural prowess.  Ranked #1 among Xinyi District's attractions, this iconic skyscraper isn't just a building; it's a vibrant hub of activity, a captivating blend of modern elegance and bustling urban life.\n\nFrom street level, its sleek, polished exterior reflects the city's energy, a kaleidoscope of light and shadow that shifts throughout the day.  The building's distinctive bamboo-inspired design, a nod to Taiwanese heritage, is subtly visible in the intricate facade, a visual harmony between ancient tradition and cutting-edge technology.  The address, No. 45, Shifu Rd., Xinyi Dist., Taipei 11049, Taiwan, hints at its location within the sophisticated Xinyi District, a neighbourhood known for its high-end shopping and modern architecture.\n\nInside, a world of luxury awaits.  High-end boutiques, including the likes of Gucci, Prada, and Louis Vuitton, beckon shoppers with their alluring displays. The air hums with a sophisticated energy, a symphony of hushed voices and the"
+}

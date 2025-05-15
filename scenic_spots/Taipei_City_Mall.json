@@ -1,0 +1,948 @@
+{
+    "name": "Taipei City Mall",
+    "tripadvisor": {
+        "location_id": "2049208",
+        "name": "Taipei City Mall",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13806451-d2049208-Reviews-Taipei_City_Mall-Datong_Taipei.html?m=66827",
+        "address_obj": {
+            "street1": "B1,No.100, Section 1, Shimin Avenue",
+            "street2": "",
+            "city": "Datong",
+            "country": "Taiwan",
+            "postalcode": "",
+            "address_string": "B1,No.100, Section 1, Shimin Avenue, Datong, Taipei Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Datong",
+                "location_id": "13806451"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taipei",
+                "location_id": "293913"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "25.049875",
+        "longitude": "121.51193",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 2 2559 4566",
+        "website": "http://www.taipeimall.com.tw/album/view.php?titid=8&sn=1",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13806451-d2049208-Taipei_City_Mall-Datong_Taipei.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13806451",
+            "ranking_string": "#6 of 63 things to do in Datong",
+            "geo_location_name": "Datong",
+            "ranking_out_of": "63",
+            "ranking": "6"
+        },
+        "rating": "3.8",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "705",
+        "review_rating_count": {
+            "1": "8",
+            "2": "28",
+            "3": "211",
+            "4": "311",
+            "5": "147"
+        },
+        "photo_count": "362",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13806451-d2049208-m66827-Reviews-Taipei_City_Mall-Datong_Taipei.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2130"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2130"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2130"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2130"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2130"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "2200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 11:00 - 21:30",
+                "Tuesday: 11:00 - 21:30",
+                "Wednesday: 11:00 - 21:30",
+                "Thursday: 11:00 - 21:30",
+                "Friday: 11:00 - 21:30",
+                "Saturday: 11:00 - 22:00",
+                "Sunday: 11:00 - 22:00"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "shopping",
+                "localized_name": "Shopping"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Shopping",
+                "localized_name": "Shopping",
+                "categories": [
+                    {
+                        "name": "Shopping Malls",
+                        "localized_name": "Shopping Malls"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "14"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "113"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "169"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "151"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "131"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow",
+        "id": "ChIJ6cxPB22pQjQRLik_97hS8Ow",
+        "types": [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "02 2559 4566",
+        "internationalPhoneNumber": "+886 2 2559 4566",
+        "formattedAddress": "100, Taiwan, Taipei City, Zhongzheng District, Section 1, Shimin Blvd, 100\u865fB1",
+        "addressComponents": [
+            {
+                "longText": "B1",
+                "shortText": "B1",
+                "types": [
+                    "subpremise"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "100",
+                "shortText": "100",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 1, Shimin Boulevard",
+                "shortText": "Section 1, Shimin Blvd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u9ece\u660e\u91cc",
+                "shortText": "\u9ece\u660e\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Zhongzheng District",
+                "shortText": "Zhongzheng District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taipei City",
+                "shortText": "Taipei City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "100",
+                "shortText": "100",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QQ32GX7+RF",
+            "compoundCode": "2GX7+RF Taiwan, \u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u9ece\u660e\u91cc"
+        },
+        "location": {
+            "latitude": 25.0495017,
+            "longitude": 121.5136386
+        },
+        "viewport": {
+            "low": {
+                "latitude": 25.048114219708495,
+                "longitude": 121.5123294697085
+            },
+            "high": {
+                "latitude": 25.050812180291498,
+                "longitude": 121.5150274302915
+            }
+        },
+        "rating": 4.2,
+        "googleMapsUri": "https://maps.google.com/?cid=17073237141737122094",
+        "websiteUri": "http://www.taipeimall.com.tw/zh-TW",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:30:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"postal-code\">100</span>, <span class=\"country-name\">Taiwan</span>, <span class=\"region\">Taipei City</span>, <span class=\"locality\">Zhongzheng District</span>, <span class=\"street-address\">\u9ece\u660e\u91cc Section 1, Shimin Blvd, 100\u865f</span>B1",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 21978,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "iconBackgroundColor": "#4B96F3",
+        "displayName": {
+            "text": "Taipei City Mall",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Shopping Mall",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 11,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 11,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 11,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 11,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 11,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 11,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 11,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:30:00Z"
+        },
+        "primaryType": "shopping_mall",
+        "shortFormattedAddress": "Section 1, Shimin Blvd, 100\u865fB1",
+        "editorialSummary": {
+            "text": "Sprawling underground shopping center with stores arranged by category, plus parking & a food court.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/reviews/ChZDSUhNMG9nS0VKZnNrWlAydi12OEx3EAE",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 4,
+                "text": {
+                    "text": "Underground mall connect to the train station that\u2019s also has a Taiwan tourist stamp at the information center!\n\nFun underneath the train stations and walking underground to connect multiple stations.\n\nUnfortunately it\u2019s a bit too bright \ud83d\ude42\u200d\u2195\ufe0f so I think it\u2019s fun to see for a little bit to get souvenirs but I\u2019m not a big fan of hanging out here for long. Might not be the best if you get overwhelmed easily as it can be a little crowded.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Underground mall connect to the train station that\u2019s also has a Taiwan tourist stamp at the information center!\n\nFun underneath the train stations and walking underground to connect multiple stations.\n\nUnfortunately it\u2019s a bit too bright \ud83d\ude42\u200d\u2195\ufe0f so I think it\u2019s fun to see for a little bit to get souvenirs but I\u2019m not a big fan of hanging out here for long. Might not be the best if you get overwhelmed easily as it can be a little crowded.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Irene Tang",
+                    "uri": "https://www.google.com/maps/contrib/104134620558242924486/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEIp7GLV5y0MoLkTCUh6MNNwgufl3SFexN44gxgkIVAivCQE4j7w=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-05-07T03:54:49.503705Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VKZnNrWlAydi12OEx3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VKZnNrWlAydi12OEx3EAE!2m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            },
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBb2Vibjl3RRAB",
+                "relativePublishTimeDescription": "3 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Highest rating because of accessibility to MRT station bound to different parts of Taiwan!\n\nYou want affordable things to buy in Taiwan? Taipei city mall is the best! A lot of stores are here! From food to clothes, toys almost everything! You can also bring your luggage bot a problem because the mall is mostly flat.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Highest rating because of accessibility to MRT station bound to different parts of Taiwan!\n\nYou want affordable things to buy in Taiwan? Taipei city mall is the best! A lot of stores are here! From food to clothes, toys almost everything! You can also bring your luggage bot a problem because the mall is mostly flat.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "JB Alvari\u00f1o",
+                    "uri": "https://www.google.com/maps/contrib/112535662748001103690/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1R0cjzyZdDXFvcNahpKDTHfpmi0RkaI_bLGog_Tf4VDz9fi2c=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-02-01T13:43:35.785796Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBb2Vibjl3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBb2Vibjl3RRAB!2m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            },
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/reviews/ChdDSUhNMG9nS0VJQ0FnSURIME9tVTRBRRAB",
+                "relativePublishTimeDescription": "8 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "Many stores, some of them repetitive, but it's still a great place to walk and explore. The underground mall is also connected to other underground malls like K Underground Mall.\n\nThings are reasonably priced and you can find many food options alongside shopping ones. I was also pleasantly surprised to see that the public bathrooms in the underground mall is relatively clean.\n\nThe underground mall is a great respite from the summer heat, and an easy way to get around other part of Taipei!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Many stores, some of them repetitive, but it's still a great place to walk and explore. The underground mall is also connected to other underground malls like K Underground Mall.\n\nThings are reasonably priced and you can find many food options alongside shopping ones. I was also pleasantly surprised to see that the public bathrooms in the underground mall is relatively clean.\n\nThe underground mall is a great respite from the summer heat, and an easy way to get around other part of Taipei!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Yvonne L",
+                    "uri": "https://www.google.com/maps/contrib/112312342260921185532/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7FNWgYgDKXYVgFUZMI4oywCmsN7y2HE-uOr9kc34v9J7IyaHO=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2024-09-11T13:16:34.986339Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIME9tVTRBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIME9tVTRBRRAB!2m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            },
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/reviews/ChdDSUhNMG9nS0VJQ0FnSUNua2QyS3lnRRAB",
+                "relativePublishTimeDescription": "7 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "The mall was underground & it\u2019s pretty heaven for gacha lovers!! The mall is very unique, as for the layout underneath. I love how the mall was pretty comforting and the goods placement was placed in an eye-catching way. Overall, it\u2019s a nice mall to visit!!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The mall was underground & it\u2019s pretty heaven for gacha lovers!! The mall is very unique, as for the layout underneath. I love how the mall was pretty comforting and the goods placement was placed in an eye-catching way. Overall, it\u2019s a nice mall to visit!!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Vivian Lucia",
+                    "uri": "https://www.google.com/maps/contrib/117218309374584140929/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWh81wg7h-UgbinZA9PzcGIcmBkSuY5j50HH_dQ4oLDHU0UNxn7yQ=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2024-09-27T02:06:54.010550Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNua2QyS3lnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNua2QyS3lnRRAB!2m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            },
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIcHVTbVdnEAE",
+                "relativePublishTimeDescription": "8 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Really great variety of different shops at the basement underground network of the Taipei Main station. The best part is being able to walk around without worrying about rain or hot weather during certain time of the year. They sell food products, clothes, toys and many other items for everyone in the family.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Really great variety of different shops at the basement underground network of the Taipei Main station. The best part is being able to walk around without worrying about rain or hot weather during certain time of the year. They sell food products, clothes, toys and many other items for everyone in the family.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "L",
+                    "uri": "https://www.google.com/maps/contrib/117457359674578731574/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIDZqQPfa7YF0n8iM3Cpq7VPAKo2hHeLWUawgXedwgU0AYVJQ=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2024-09-04T10:50:40.167178Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIcHVTbVdnEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIcHVTbVdnEAE!2m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/photos/AXQCQNQ1ZqiCMOuzHPhNvZCyCVP4mKgp8GhYeQrthAlth9jMSMnxJxrW8Namgnlott_pM2v4psvl1qTsIo1TXWPuR2BE9w0Rq11MLmW78ZbWyaa5PR0Z-xMATrZteXyI_I8NzlM_fwWkzPc6LmhO1sspDksfgBSo8YD3mFv-T7Y6L3fM7cav8I_c61l0Ve6Op1UNxRZIgtZvKwqiin6L0vDPgIu39Ow9TCpcph4RWExyGz64DiuVsRboQDmsINDFOtGB43jpd_CRRklz067EYdqM6DyXS1rLRTQrxlSH9ahYPM2rblGD2xPvf24OdZi4w6rvegzVB660_e9njaceRs8lnGHV1fbrAPcJXfMS3JQU-X78KhzjsxI3oM6nHSx_tQyl23H2qGXv56D2ZcKdpyeif6Ks-YrlOf2hZZXMOjbj-Uuk5g",
+                "widthPx": 3264,
+                "heightPx": 1836,
+                "authorAttributions": [
+                    {
+                        "displayName": "Faii Bamrungthai",
+                        "uri": "https://maps.google.com/maps/contrib/100422786054129251788",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1rXpR2M_f5LrN7au0bk5jO1Yb6NtV6p1BfnEoHj2oFLAt8-Z8=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4rqanKQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4rqanKQ!2e10!4m2!3m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            },
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/photos/AXQCQNR9h62TKl2THnd1c4JvzbEl-ZOS2n39Z2debgEo2-wlQNKuRhnCjolY4RYCR2Qyf8nWxAn-Gl4W06MaiKX8zl31QAU-u7YTpOYEIkUhdbp81n1EWCmLpTqM8Ru4KutomdYPy36gBh0Ryfsw64B3-9XcgCAC6B5IM6Lf0XjTcnrpzn9EmAjH8poxaDNjnpcz2sc9l8YxqjY8_U9_uVGYdyevq6W8UdloOuJM1-423lBMXY-hJbJ168s-GwXzAFQKez2aJTJxfaaFm7gGq-JJRP0J-3Xjz9qDVViOLRNhvvt4oWzi7iak4vtUmvMsN38ZSuNLeadKafO0hWYeMbsLMwHO7Y3KJTknekGl9xZlVuqwkCCOkLXowf-XXhwi9OO4GmPYLtkVs5nt4Kx6O0YJaGIPdn9PYj9hlmGKFcAA6p27QOYlXtKMqF4vsSDqzAIi",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Tsung-ying Wu",
+                        "uri": "https://maps.google.com/maps/contrib/109667486008642853828",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWj8g1QrRnKvypOQTEpUGI9T6KDZ1viXLnlhpVae8cPsOLI1YgW=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbzaqQSdmOmgOMwMACRGI&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzaqQSdmOmgOMwMACRGI!2e10!4m2!3m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            },
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/photos/AXQCQNQobwQLuAbXZycKBQR9dKmTGKLh05-AbCdRfGGJxliDPcqj8O-43GAf4hLAesJjXFGd-LWVDzS2NLuDKQAg6h3UPr6MnKDnQOjF-afmbZVFUjumy0cVmF_VGy-oL_oFponX1IDRjll1OM5WkUohdMziRkiaDBbiAtvRk0VIC9D3oI7dEfQ_z0kHyOwSURrUyQYRgqN0eqIDkaxGlrojfodeTGHesKqpw_c8sMgvMN05CZPKJQq75Y96Iz_J7Slwmr9ICx-ZA7Hte9NocQVRwXQSWAeJPL4AwZqP3wSXoXmWZR_zgKn5aFHKZloele-4tiajlCN8tLmiU-UDPIms4mXmtkkhstz1L5VYqhQPRQp1VUNWZKqZK9bqmnzUIAnTo36XsFeVJGVn8agFT9DDIANS47pfZfTk6-ZxIDKabxL2lA",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9673\u5065\u96c4",
+                        "uri": "https://maps.google.com/maps/contrib/104620915678541976006",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVafI4nOw0bDvg6K-98mLv9ti2NmU3xh7l77_XSqFYgFeGupflQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICm-KrNRA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm-KrNRA!2e10!4m2!3m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            },
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/photos/AXQCQNQzPsoUlCIGWK7pHFf9ZFBFBM9zvC91-uOuY5-x34H8CEWFI3FEcYPf-xlYPqSSni2d6by6JpqMSkGrbY0qjxOVoP8Swz9ikW0n-KxXqdl8cf2glWv2ksc0cURpYgQu9ui_9FUr73r_NNqDlMZZP6Plew3JDHDwyw-kerTO2Yqvn3bz6veJHhAFwc_ujQXBgWyWKF-BSc58I9vdUVkiG2lCyFey7Wa7VQG8ke2IbvdoGWDFtl_kUdcg0Bb2u1pEXwca5ZzCx4VnxmULHvXhKm0oEZrV7CJTCsVjbPGJyFJJ-oRGiYPqWPCD7oUfKvSb6c8WelxmeD1wSMhSOBQkB1y4VFU4Zey3NE3I9JHzbV9RwKm4XeamtnQUkyT1XuRvw5t-LgO2GE7ZzeU52qGJZ8kji-7GTwmU17TmlRXLRUDAbg",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Jameson Lee",
+                        "uri": "https://maps.google.com/maps/contrib/105186953904806263681",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUis05cn9DQs8GjbxNR-OEEGHoq6h6wUmuHJ-lEkYGbmu6yNF8v=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEl-Tbeg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEl-Tbeg!2e10!4m2!3m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            },
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/photos/AXQCQNQ9A-iO_EK-Sue-oid_8O0g6E9WBdXTVbU1Z1K7p9gxA4ayzfEjRJKYOZbXQSRPm2WMcXZTmyoV52OIRVgMIlDW4EO9F0o5ODtQESSMh3qnlfmctToTyf9Q9pHgQnc8IeFRD1GOT6Fm0ORgmBt3sBq_TtDSioGjVo-ypN5weshO_ArH2IJI7hND1qHQUzDRVSjMQa_r1wsGJv-vqeqYztjHiIC_V956USyEZE5BTfVx-HzDru_GkzyvMzfqBd2JkXeZIjl-n4Y-bJuicq9lUOMucqxW09bLEoGiX5q97BTuyWQhKGpkE-339pqLgBEPBw6cVPHJPS6WFxi6vzfWegBXxdZDZaPPvHf5R0Yft_UYiyZx6elU6BpIcbLXk2LD4KCxz7gaxGs_wCXK9snWZr2q9kjnYTvq_KEySljlGSmu2N7J",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u795e\u79d8\u5ba2",
+                        "uri": "https://maps.google.com/maps/contrib/116689782956899881155",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWE4IeiXozvxXDq9hrl0ZWYkTL1a1v-bAhkbumX3xs_--ezrgoc=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_tYbhzwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_tYbhzwE!2e10!4m2!3m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            },
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/photos/AXQCQNRZFqH6jDD8C1AbtEeeEw-HtQipw6hi3JPwU0ngC-b5wDmGHkJoFN20X-v_YQs6RwtlbddRK2p32nSxPA4LzjgUHz7kYi_trUNx_ljPEcYD8Vb0sQGMwbGVxCTi2ke-4TmmIb8sUaTgyHS5ILoCfvpjvt2NjIsWJ7vMUPHaHa7KUJ9h2NYheeNp3AEwsnILzv5j1AUxJe-fF1AA_MoaTQpfZABsl8hgcDcU6PLjHlI8TTBMztkDpkhfOWMUJwwbCc2GL2JzcM7QuD9jhQqDV4gUnBM6fYXObwnmm7hVO2JHC4HhgyskWaQEfmjxyF3zVE84a03UpOykCoLf2Ecceznkz7qSV1jAE27IuJihKMSylFuurJO_pbX-bo4Q0y_vSwoAFSk0liwktFxtL64s8nFBGP6yIimcyc6uY7m2e3NFug",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u795e\u79d8\u5ba2",
+                        "uri": "https://maps.google.com/maps/contrib/116689782956899881155",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWE4IeiXozvxXDq9hrl0ZWYkTL1a1v-bAhkbumX3xs_--ezrgoc=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgwrHdKQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgwrHdKQ!2e10!4m2!3m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            },
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/photos/AXQCQNRA4od6VG-l7eugy1tXNjqm44cHJhHWJCVOrUU6nVqkX1O0b9kuAUQMhLFX_4rewATVXOfsBJx1-MzfseoGZziT6jhdLqVNjshZ1kxZ6bGiVArVwpKl0LlQV_e-Gv2Bpx5syR4rxU2lMdwBJvh4NvsxBpoRoHE0K2mqWtDBxdGZT49AcFEyYarfGJY7nmp_THS7b7_45M8sOgG1Sqws7j-rV6KpRp3wMFON3SYSjVRjYnev2mkbtH3hIO3HTSCNE15SQM5WTZbj-0QkU_kTOjdypSqja09n4d3BX2vTuba7dinOAjBY7sl9vuWPJyseFrTMOCP1K8JTMwfodU7AHfRxkFWBr0pEnOL1xn-shkW4mbJhCAzN39PBiylaDW9XerrS8krAyrXzzxqN7FSw-p2J4LMWS2JMQUW5wtClPOljjFJ4",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Bing Chiu",
+                        "uri": "https://maps.google.com/maps/contrib/106106506433183301937",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOnsKqs-cd5NiuKRTxb2WdQa6Ny3RXlofb-0WFKW_L5SlNIjlf=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkuYP8swE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkuYP8swE!2e10!4m2!3m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            },
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/photos/AXQCQNR7w3Kokqu3L-O3deKV1gXPpd8rNQOX5I7coWu15EGfEShgFWPEBI7CQmt9OIRshYJ_NZOfxrkfTgNaiHL-4-ti7gZKnn4na69gX6CNIq5FKiUeYjuyRwS9vK8TnF3sLVLSSHCD_JSeSyUtGtDxEru-S92T_z_2svRdWtP5z3M__esfxMbllQLZg1RBZIIrJRvw0zwJ_HPFU_9cRGyPtRZe1JEMuNR0LXazNoce8nDWUHCJWDO_CB6lapE-P0Zadxr5XCyID-DLoMKIFaiztBBm7Jn7grxt3UUSJNtZ2DLtUw9VnV38EWDdXnZGK_joK3uznN-JUPAsDaojHw3VQUHn1XxVZ8WXNqebjR3BjnybxS7ssi6FrQbN5Z5rQKq7Mdi_1EEsKHTZu8dwQUCPBu4lAPMMkwZI7Wgpy9VV-RnJr9Yh",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u795e\u79d8\u5ba2",
+                        "uri": "https://maps.google.com/maps/contrib/116689782956899881155",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWE4IeiXozvxXDq9hrl0ZWYkTL1a1v-bAhkbumX3xs_--ezrgoc=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_tYbh9wE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_tYbh9wE!2e10!4m2!3m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            },
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/photos/AXQCQNRUSE02PWD2CibQF8MP1Ql2ZHpg_6sfNqvnbCLojalozSMXAN6Ewa4BN2XvZok2V-phU2PI9ulWOpltCaDkfXPzG01z7iqf3xKNHIe57Ny1sjFCh3IOPgKTHf-67Yij_ZtOkGOO8Bw71QlzUTppqcGjBKaLbWQPB0y6Hn6k0XLAZSJfT1gno5tdJdn_GoLA4rLshRaY910IsjJFQHRxlBg2xj7yccZTrqsZUviBiw1YjEQhbyRKqWDks0VSWNKbDEzTBhlxXnoM4n1X-XYjq88WYNbH1htK-B6t8-ysZi_oSas-MzmX7vToRZCXXqMWJ6GCDYvyCArHAdLWfSCe_EosxiyyVpYAwhjzk7EiQqn4b-dw0NydznObgF_v2HqRGBWv8Dmwb60qVR1hoAa8ZVv50sWdkneH4eDlrEAX5e3o2r0e",
+                "widthPx": 4800,
+                "heightPx": 2700,
+                "authorAttributions": [
+                    {
+                        "displayName": "Mick Bai",
+                        "uri": "https://maps.google.com/maps/contrib/115735114061574652500",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0isbtwANix_3p-Poskoz-w2t8_JeRDEKHA5rrJASp9tZqQyDa=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEis7YyAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEis7YyAE!2e10!4m2!3m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            },
+            {
+                "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow/photos/AXQCQNTM7BJ4m98rUGXjMUL1KnjdsvLU8ZyKKy6xvcRPwAnoByUPqIk3MEG4UJDAeltz21OJ3nlzfY-zUx6t1vyOwaELBSjTC5rtvCAxgDp0iU0C6ZTi-OeQGN7tqKvNO8aqEEoqs-pIiwAJjo89XLUyNSMfbIPQ9omQeJsWmwR7CktI7shWbOf_w2Q-Xq5cUiVdQf4uOT0s38Ig4D0OPIBpqhUZuy3A240pDNofoE4TmxT-exNW2p-A2KOMmZAZtwqZHW2Xyv2lURAFD-gRXqcLLcZsaMa3UlnG4qSmW-p880H-cHRIlUqBmjPHO7EcDoQfSpsxuOFsY0OKUynTrikHG7MMtmSZJKrBBSYyjDSmKmTUuIVPxwCWKgkI0b7K18eI8qHahdUTF_CqBSIAdkr5CNljq6fCjBtxzAIZbzbWpkuKJg",
+                "widthPx": 3264,
+                "heightPx": 1836,
+                "authorAttributions": [
+                    {
+                        "displayName": "Stanley Lin",
+                        "uri": "https://maps.google.com/maps/contrib/100354054016519544709",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyfKqtXqpQuBQdkDIWCHlJ36x2m_GP-6kKKmDrTHMjHGtjSstW=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDKjvb8KQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKjvb8KQ!2e10!4m2!3m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e"
+            }
+        ],
+        "parkingOptions": {
+            "paidGarageParking": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJCZEzfnKpQjQRy75KOs4xSsM",
+                    "placeId": "ChIJCZEzfnKpQjQRy75KOs4xSsM",
+                    "displayName": {
+                        "text": "Taipei",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "train_station",
+                        "transit_station"
+                    ],
+                    "spatialRelationship": "ACROSS_THE_ROAD",
+                    "straightLineDistanceMeters": 373.06418,
+                    "travelDistanceMeters": 2.8210893
+                },
+                {
+                    "name": "places/ChIJneUTn3KpQjQRGGR7w7CKOQg",
+                    "placeId": "ChIJneUTn3KpQjQRGGR7w7CKOQg",
+                    "displayName": {
+                        "text": "Taipei Main Station",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "subway_station",
+                        "transit_station"
+                    ],
+                    "spatialRelationship": "ACROSS_THE_ROAD",
+                    "straightLineDistanceMeters": 523.5839,
+                    "travelDistanceMeters": 3.4414907
+                },
+                {
+                    "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w",
+                    "placeId": "ChIJlWImqHKpQjQREk5-6lec4-w",
+                    "displayName": {
+                        "text": "Taipei",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "subway_station",
+                        "transit_station"
+                    ],
+                    "spatialRelationship": "DOWN_THE_ROAD",
+                    "straightLineDistanceMeters": 70.24785,
+                    "travelDistanceMeters": 85.66555
+                },
+                {
+                    "name": "places/ChIJK-qnyXKpQjQRVxEbZHtGepI",
+                    "placeId": "ChIJK-qnyXKpQjQRVxEbZHtGepI",
+                    "displayName": {
+                        "text": "Taipei Station",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "bus_station",
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 246.86978,
+                    "travelDistanceMeters": 353.19263
+                },
+                {
+                    "name": "places/ChIJ-dlEoW2pQjQREfI7Yhirqsc",
+                    "placeId": "ChIJ-dlEoW2pQjQREfI7Yhirqsc",
+                    "displayName": {
+                        "text": "Q Square Mall",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "shopping_mall"
+                    ],
+                    "straightLineDistanceMeters": 350.44073,
+                    "travelDistanceMeters": 374.94592
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3442a96d074fcce9:0xecf052b8f73f292e!3e0",
+            "placeUri": "https://maps.google.com/?cid=17073237141737122094",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442a96d074fcce9:0xecf052b8f73f292e!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3442a96d074fcce9:0xecf052b8f73f292e!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442a96d074fcce9:0xecf052b8f73f292e!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "100",
+            "administrativeArea": "Taipei City",
+            "locality": "Zhongzheng District",
+            "addressLines": [
+                "Section 1, Shimin Blvd, 100\u865f",
+                "B1"
+            ]
+        }
+    },
+    "description": "Descend beneath the bustling streets of Taipei City, and you'll discover Taipei City Mall, a sprawling subterranean shopping haven.  Located conveniently beneath Shimin Avenue in Datong District, this underground world, ranked a respectable #6 out of 63 things to do in Datong according to TripAdvisor, offers a unique and surprisingly vibrant shopping experience.  With over 362 photos on TripAdvisor showcasing its diverse offerings and a 3.8-star rating (based on 705 reviews), the mall consistently draws both locals and tourists.\n\nImagine a labyrinthine network of shops and corridors, bathed in a surprisingly bright and airy light, defying its underground location.  The layout, as described by Google reviews, is categorized for easy navigation, allowing you to quickly find what you're searching for, whether it's clothing, toys, souvenirs, or a satisfying meal at the food court.  Many reviewers praise the convenient connection to Taipei Main Station, making it an ideal pit stop for travelers exploring the city. The mall itself is mostly flat, making it easily accessible for those with luggage.\n\nThe atmosphere is lively, bustling with activity yet comfortable enough to allow for leisurely exploration. While some reviewers note a repetitive selection of stores"
+}

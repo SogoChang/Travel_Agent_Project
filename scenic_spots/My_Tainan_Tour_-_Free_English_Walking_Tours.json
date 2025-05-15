@@ -1,0 +1,841 @@
+{
+    "name": "My Tainan Tour - Free English Walking Tours",
+    "tripadvisor": {
+        "location_id": "12011503",
+        "name": "My Tainan Tour - Free English Walking Tours",
+        "description": "This FREE walking tour is coordinated by Tourism Bureau of Tainan City Government as an effort to make Tainan a more English-friendly city. We have a group of hospitable locals to give you in-depth English introductions. With us, you will not only see the city, but through locals' eyes. There are two routes which are Local and Classic. You can refer to our website to get the further information! Looking forward to hearing from you~ Note: Need to book 7 days in advance.",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g293912-d12011503-Reviews-My_Tainan_Tour_Free_English_Walking_Tours-Tainan.html?m=66827",
+        "address_obj": {
+            "city": "Tainan",
+            "country": "Taiwan",
+            "postalcode": "70801",
+            "address_string": "Tainan 70801 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "Municipality",
+                "name": "Tainan",
+                "location_id": "293912"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "timezone": "Asia/Taipei",
+        "email": "feliciawu.work@mail.tainan.gov.tw",
+        "phone": "+886 6 390 8897",
+        "website": "http://mytainantour.weebly.com/",
+        "write_review": "https://www.tripadvisor.com/UserReview-g293912-d12011503-My_Tainan_Tour_Free_English_Walking_Tours-Tainan.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "293912",
+            "ranking_string": "#1 of 20 Tours in Tainan",
+            "geo_location_name": "Tainan",
+            "ranking_out_of": "20",
+            "ranking": "1"
+        },
+        "rating": "4.9",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+        "num_reviews": "53",
+        "review_rating_count": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "5",
+            "5": "48"
+        },
+        "photo_count": "56",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g293912-d12011503-m66827-Reviews-My_Tainan_Tour_Free_English_Walking_Tours-Tainan.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "1700"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 09:00 - 17:00",
+                "Tuesday: 09:00 - 17:00",
+                "Wednesday: 09:00 - 17:00",
+                "Thursday: 09:00 - 17:00",
+                "Friday: 09:00 - 17:00",
+                "Saturday: 09:00 - 17:00",
+                "Sunday: 09:00 - 17:00"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "sightseeing_tours",
+                "localized_name": "Tours"
+            },
+            {
+                "name": "activities",
+                "localized_name": "Activities"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Tours",
+                "localized_name": "Tours",
+                "categories": [
+                    {
+                        "name": "Walking Tours",
+                        "localized_name": "Walking Tours"
+                    },
+                    {
+                        "name": "Cultural Tours",
+                        "localized_name": "Cultural Tours"
+                    },
+                    {
+                        "name": "Private Tours",
+                        "localized_name": "Private Tours"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "1"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "14"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "17"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "6"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "8"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA",
+        "id": "ChIJeTWyDP93bjQR314wtWLvLYA",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "02 7756 5056",
+        "internationalPhoneNumber": "+886 2 7756 5056",
+        "formattedAddress": "No. 212, Sect, \u6c11\u65cf\u8def\u4e8c\u6bb5\u4e2d\u897f\u5340\u53f0\u5357\u5e02 Taiwan 700",
+        "addressComponents": [
+            {
+                "longText": "\u6c11\u65cf\u8def\u4e8c\u6bb5",
+                "shortText": "\u6c11\u65cf\u8def\u4e8c\u6bb5",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "\u4e2d\u897f\u5340",
+                "shortText": "\u4e2d\u897f\u5340",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "\u53f0\u5357\u5e02",
+                "shortText": "\u53f0\u5357\u5e02",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "700",
+                "shortText": "700",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QJ2X6W3+X2",
+            "compoundCode": "X6W3+X2 West Central District, Tainan City, Taiwan"
+        },
+        "location": {
+            "latitude": 22.9974831,
+            "longitude": 120.20259279999998
+        },
+        "viewport": {
+            "low": {
+                "latitude": 22.9958392197085,
+                "longitude": 120.20120131970852
+            },
+            "high": {
+                "latitude": 22.998537180291507,
+                "longitude": 120.2038992802915
+            }
+        },
+        "rating": 5,
+        "googleMapsUri": "https://maps.google.com/?cid=9236301618032434911",
+        "websiteUri": "https://www.likeitformosa.com/tainan-downtown",
+        "regularOpeningHours": {
+            "openNow": false,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 12,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 12,
+                        "minute": 30
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u200912:30\u202fPM",
+                "Wednesday: Closed",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u200912:30\u202fPM",
+                "Friday: Closed",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u200912:30\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u200912:30\u202fPM"
+            ],
+            "nextOpenTime": "2025-05-17T02:00:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "No. 212, Sect, <span class=\"street-address\">\u6c11\u65cf\u8def\u4e8c\u6bb5</span><span class=\"locality\">\u4e2d\u897f\u5340</span><span class=\"region\">\u53f0\u5357\u5e02</span> <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">700</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 40,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#13B5C7",
+        "displayName": {
+            "text": "Tainan Downtown Free Walking Tour Meeting Point - Like It Formosa",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Tourist Attraction",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": false,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 12,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 12,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u200912:30\u202fPM",
+                "Wednesday: Closed",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u200912:30\u202fPM",
+                "Friday: Closed",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u200912:30\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u200912:30\u202fPM"
+            ],
+            "nextOpenTime": "2025-05-17T02:00:00Z"
+        },
+        "primaryType": "tourist_attraction",
+        "shortFormattedAddress": "No. 212, Sect, Section 2, Minzu Rd",
+        "reviews": [
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/reviews/ChdDSUhNMG9nS0VJQ0FnSURmd1llejd3RRAB",
+                "relativePublishTimeDescription": "4 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "On the second day, I joined another free walking tour in Tainan City with the same guide, Michael, and it was just as amazing as the first! This time, we explored iconic landmarks such as Chihkan Tower and the Confucius Temple.\n\nMichael once again impressed us with his in-depth knowledge and passion for history. His storytelling brought the sites to life, sharing fascinating details about the cultural and historical significance of each location. He explained the evolution of Tainan as Taiwan\u2019s historical capital, making the experience both informative and enjoyable.\n\nWhat I appreciated most was Michael\u2019s attentiveness\u2014he made sure everyone in the group was comfortable and always took the time to answer questions. His enthusiasm and clear explanations made the tour truly memorable.\n\nIf you\u2019re visiting Tainan, I can\u2019t recommend these walking tours enough. It\u2019s a perfect way to immerse yourself in the city\u2019s rich history and culture with an excellent guide like Michael!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "On the second day, I joined another free walking tour in Tainan City with the same guide, Michael, and it was just as amazing as the first! This time, we explored iconic landmarks such as Chihkan Tower and the Confucius Temple.\n\nMichael once again impressed us with his in-depth knowledge and passion for history. His storytelling brought the sites to life, sharing fascinating details about the cultural and historical significance of each location. He explained the evolution of Tainan as Taiwan\u2019s historical capital, making the experience both informative and enjoyable.\n\nWhat I appreciated most was Michael\u2019s attentiveness\u2014he made sure everyone in the group was comfortable and always took the time to answer questions. His enthusiasm and clear explanations made the tour truly memorable.\n\nIf you\u2019re visiting Tainan, I can\u2019t recommend these walking tours enough. It\u2019s a perfect way to immerse yourself in the city\u2019s rich history and culture with an excellent guide like Michael!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "gre",
+                    "uri": "https://www.google.com/maps/contrib/105007087285597753452/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2YxRD07ahXECEcSY52Rn_upbm-mxB84jUJ2ZKhdNVqwjulQ=s128-c0x00000000-cc-rp-mo"
+                },
+                "publishTime": "2025-01-07T10:09:17.495619Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmd1llejd3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmd1llejd3RRAB!2m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            },
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJenBfeHV3RRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Had a great walking tour around Downtown Tainan with our guide, Zoy. This walking tour is a perfect choice for a first-timer or for those who want to know the rich history of Tainan.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Had a great walking tour around Downtown Tainan with our guide, Zoy. This walking tour is a perfect choice for a first-timer or for those who want to know the rich history of Tainan.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Maria Anggita Kusalasari",
+                    "uri": "https://www.google.com/maps/contrib/110019442576932002195/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMKukZRyyoHlC8qBK6mgZJ88w-YGOIDCvz_SQ9qYbuwmM8qvT1VA=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-04-02T01:34:37.880342Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJenBfeHV3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJenBfeHV3RRAB!2m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            },
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYd01TZnFRRRAB",
+                "relativePublishTimeDescription": "7 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Michael gave a really nice, educational, informational tour of the area, teaching many things about local history and customs. We went to a lot of unique spots and I really enjoyed my time. Highly recommended!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Michael gave a really nice, educational, informational tour of the area, teaching many things about local history and customs. We went to a lot of unique spots and I really enjoyed my time. Highly recommended!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "O",
+                    "uri": "https://www.google.com/maps/contrib/111416603055324939463/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXALhg66ubo-aTjA0yzBdGvg3qLZA5_F7M3UV-xwQ7w-B__958n=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2024-10-12T04:58:21.055404Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYd01TZnFRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYd01TZnFRRRAB!2m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            },
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/reviews/ChdDSUhNMG9nS0VJQ0FnSURYZ19qRTJBRRAB",
+                "relativePublishTimeDescription": "6 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "We had a wonderful walking tour with Jill! She was enthusiastic, friendly, and shared a lot of interesting history about Taiwan and Tainan. As Dutch visitors, we appreciated the references to Dutch history she made along the way. Jill also took us to see temples and houses that are still in use, which was a great touch. At the end, she recommended some fantastic restaurants. Highly recommend her tour!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "We had a wonderful walking tour with Jill! She was enthusiastic, friendly, and shared a lot of interesting history about Taiwan and Tainan. As Dutch visitors, we appreciated the references to Dutch history she made along the way. Jill also took us to see temples and houses that are still in use, which was a great touch. At the end, she recommended some fantastic restaurants. Highly recommend her tour!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "David Clarisse",
+                    "uri": "https://www.google.com/maps/contrib/104323079229979362360/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTutjr0XDE2elNytLjqCKBy12yLinN6SolZLiKOAF13UE0JAA=s128-c0x00000000-cc-rp-mo"
+                },
+                "publishTime": "2024-10-30T13:44:59.238508Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYZ19qRTJBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYZ19qRTJBRRAB!2m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            },
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJNlozYkZBEAE",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "I signed up for this tour on a whim and am very glad I did \u2014 it was one of the highlights of my trip around Taiwan! Our guide, Jill, was very friendly and knowledgeable, took her time, and taught me a lot about the local history of Tainan and Taiwan, the culture, religion, and foreign influences (including the Dutch colonial past). Highly recommended as a fun and educational way to explore the busy downtown area of Tainan. Thank you!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I signed up for this tour on a whim and am very glad I did \u2014 it was one of the highlights of my trip around Taiwan! Our guide, Jill, was very friendly and knowledgeable, took her time, and taught me a lot about the local history of Tainan and Taiwan, the culture, religion, and foreign influences (including the Dutch colonial past). Highly recommended as a fun and educational way to explore the busy downtown area of Tainan. Thank you!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Wik Vlaarkamp",
+                    "uri": "https://www.google.com/maps/contrib/114893566017642291156/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnWqkdZYnNXQbiBBQ1ZvM-YW6up9d-doE0BenqpsMLAoiEWxBl=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-04-03T06:47:31.909416Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJNlozYkZBEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJNlozYkZBEAE!2m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/photos/AXQCQNSo8gLLwqA_CaZZmZ6mQh3OpKXqRwsX81eKoe8u07WGerTEZ6SKKYzl1R3WnxJu3KMS-7bSiPRTKkUdeOKyEgxwUaulsgBhOoukA5YeUTbJu49d4ktxJ_syYLC9MxqSVLfgonuLebrEfIzEqfssdBOb4Kz437Bq0fa8gTkkdXVJkZdyzB2mPTqY0y7VhR6ZzMHsY-JI6LGADx9epU4WeA2OOGJTJR6VufovevWWjLLley2OgJevyk9n7SK5EqLiI8QwBkjmV3idRvb5ghpJ_qOa2x-MScrf2gmFXghM5ERyY5Zl_PfjpfOUyqeKJooL8heJyy1fW2WBQy6c--P2WVIvJTpCEbhrocW7OBAT8qjUUaMN3GyAK7mSCh9HmBr3otGK9E_ol0O8r7MS6DnfAN9So09dA9E36ySxzvZIZAyjFk5Z",
+                "widthPx": 3000,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Maria Anggita Kusalasari",
+                        "uri": "https://maps.google.com/maps/contrib/110019442576932002195",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMKukZRyyoHlC8qBK6mgZJ88w-YGOIDCvz_SQ9qYbuwmM8qvT1VA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIrqD_kAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIrqD_kAE!2e10!4m2!3m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            },
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/photos/AXQCQNSx1II37bw4A4hkB4ROEBsSq-GE-FUTOb5Rq3qAdBXZahmUME5rzctfEha39MU0bpes0ym8CKgxVMl0wfDGL8G-2FTdWKq6TCH2Ea1L2caQIJxhx17adA01NtOOGFlvZmKUPDpkCgoAHoNJA5cjWKzERM-Ql_xPCFT4OPpO9tra_00OiYhgPu6jrf0NN_A0Ql_Lbn7sj7IQIISPZKu4z8hOPiLo-FuAkn7Z18cAlX6Ii48ED7m0VhTD4aXtzAmglmOe8q8jwtrWU0AMhPy4PD6pEa8EfE7v7Nu6zOxM6VJ0HHJ3PDhUi2nyd7n9EmH29idBkDJr2XQ05q3ZcsS0u8HLROj057KyTQySyaj8t8rQgwqcSXYfojweD-K4CtiDk2Xro4Lq-UDQxKUDw8U20RZhskVGY0w6OgUHrmYu_nQfMeDo",
+                "widthPx": 3072,
+                "heightPx": 4096,
+                "authorAttributions": [
+                    {
+                        "displayName": "O",
+                        "uri": "https://maps.google.com/maps/contrib/111416603055324939463",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXALhg66ubo-aTjA0yzBdGvg3qLZA5_F7M3UV-xwQ7w-B__958n=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXwMSf2QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXwMSf2QE!2e10!4m2!3m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            },
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/photos/AXQCQNTj7PTdevs9iPhRCG975OY9iL3MOwCYLhYqVqjdZR5PnAY-PA-ASP2EN8QrSo-PNM2kpKi5RQvq_s3YITNZsesYF6OuHyIWLby-4h0O-L4lYstxGwZBC-xwbNMW81RfxIg6iPWMQ6YIhsHUlPtCdHzfcoqg9H-PsllgUTP-vutx4ud21f-TBgmJGkaTLCw1oV9alH5Z3HiConeOp0UwqM5qpuKmqj-zJh5msncFuy4ynDXUQC3FLO2yUKmdTodDSPJbsgyslDNEai9kL7-n13Mg5STEGTPU6aEO_fPYCGimAjcPPBJu9bv4KWEfSIy6RT4RFc-IQ9gTlH4mbF0dB7YfZMwGvX3ot6JleS_HbXhavTWV0HbHPeja4gVmX5ynLC9v5RmuNeLsoMrRYmwRTQfuRGlYMavDNk7A1aLemAj71Q",
+                "widthPx": 3000,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Maria Anggita Kusalasari",
+                        "uri": "https://maps.google.com/maps/contrib/110019442576932002195",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMKukZRyyoHlC8qBK6mgZJ88w-YGOIDCvz_SQ9qYbuwmM8qvT1VA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIzp_xRw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIzp_xRw!2e10!4m2!3m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            },
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/photos/AXQCQNSTmu4lf377W5aX6DH31_i_LeVyzhAAOINL6khvxs3VPiqSGQYqgIShBFzdxfUxtXtfbLOBQ2W7ybSf-awDoF02cu5JlxuX4-g7K-_YQ_vX-GPeZwAKW420mGn_TozzUoqOIeQge4fI1r_GNFrmI7UHITC8g1sGF90MdVwBvNwFC_RUXiwqnXsudes5IcR4fojaX48eWezdo5p-97tngrCmcbJ5_iB9o9r1SvpMw7ZgZJO91tH2mLt7F55NgzgOMn0r5WHELaubU_mDYG5u71AK4-V7nvEwY1V8rjaihBBlzHfwMbf3YWa-jByy94hLZ-PnY7JK_IOiOaRgnpeOe4mvRlf4tvM1R3SaWEO0rG6kmy5JjtL2GEECGE9yhAvadvm6rzOkRc7oOrlaKrARit7-E_h5D3ItYTeDzdREQjQ",
+                "widthPx": 4032,
+                "heightPx": 2268,
+                "authorAttributions": [
+                    {
+                        "displayName": "gre",
+                        "uri": "https://maps.google.com/maps/contrib/105007087285597753452",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2YxRD07ahXECEcSY52Rn_upbm-mxB84jUJ2ZKhdNVqwjulQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDf4eaxTQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDf4eaxTQ!2e10!4m2!3m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            },
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/photos/AXQCQNSoryDva1-HaEzX4KXmzSM010fRNhNK4G_ZI47jmGX_a9fEex-Uqo1Cln47UVJ3igcTpwmiXgYKomCAEHVV08gu0vn2zW6dHWMeujxoIyPoxdPoi2TFEOkL-AI8RRQVjkMe8Rz-cKQ4NyqRoVwlI9m4vHkbX320tsifcMJA0bOZ-38d3UTFGhkm4N_nrxmSsbH4RMAuEcJ2AsB1u71CaEspz4PlLiOS8Gd215jWHzbbjs9jFWf4UiwNDaT0L13H6Yw_oLm12zVcCkbne-hGaInUP9KfIDJqK_8GWNbLcPRRFu4oRecKvWNhKqSr373kCJ743KZzijIosDvo3vYqy_yOjzUf53mSwRfi-D_4tOeGDq-GzEGusgYMYL4eZnjx_4QcWVJaUf3HsoQBkA1DdG0XbuC0Smu8jBxCI4mSZ6I",
+                "widthPx": 4800,
+                "heightPx": 2700,
+                "authorAttributions": [
+                    {
+                        "displayName": "gre",
+                        "uri": "https://maps.google.com/maps/contrib/105007087285597753452",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2YxRD07ahXECEcSY52Rn_upbm-mxB84jUJ2ZKhdNVqwjulQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDf4eaxLQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDf4eaxLQ!2e10!4m2!3m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            },
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/photos/AXQCQNS2S5vdcggbMTns8nWscoda1SA8U0JKekNLqJY2eW1a_m3h_ml50cofpdg_n6LazbpdMkPVsOQEGpDSoghpXi8kIfGivVGGs_SrOI-k_mJQaf71ei26r6j6z9ud4leB1T0WmiO84YyZdLIierP69iJMdwAmVe79eIk2YtPYFyxcghDCsBukxPGV132c8gtcECsA2clty0b1Qe7QZoAdMPIzS135KICG2n-1x5J1CJFUkeWngfO3t-EaMnBywEUJIyRwI-1fj3t50OqGYfT8zDtzHIXDSvXK3uG4lvHs4Lll7zibKsx6Ue6s4-MsPfhkzOzIXTfBY2-eB8Uxk4C-PG-5fQ-hs0VKeIOH-v1iyKUBtc3kYDs7_MKl6p33uY3b_CO-pSvWGGKU9raRiJW8YRC4edBFKKtWzRbcap9K5m1dd45a",
+                "widthPx": 1868,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Haitham Ezzy",
+                        "uri": "https://maps.google.com/maps/contrib/113699705675401210340",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJM8rgw6kAB15CvYPzDVtwRFy93UW9q3rEdB0VSKuKlzi_ph2w=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_yMX53QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_yMX53QE!2e10!4m2!3m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            },
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/photos/AXQCQNSXF6ZXPCMn_5W0hGr_0mVv-_CDVJkkra9ruWoza2aMHr-I-5JZ5v5n_E69SyLVUJqX8Ki88KA7IY-VRgW9RdjFy-X_e6jyzgMiwfq3tdnwhU7CT273D6a4UYIeZKP1srlNJVY1Ce1iYJ1kM2AR0o5FgHs81jiBa16ypoupAwD700xcpJfplQLTMUgc3oIrR6K_MD6Ym9o3nohb6cWlEiR1m_bqNWaraAbpaIGBXGUrmQsQcVbffNIVCkR1dIw3CFHTmQBroX3TY10bVR604iBL3VYU6_ABN6aK-xVKAtUo8-_BLvwDv8-NFAu_qO589-4BeZpN2hYNndSRncIysJUtlrAo1ueyqymNMLJHvswuAWUxFo09hhkKYzwwAe8A-jR5PPg3OrJNHjItM0ypS-GULk3dqURzxIQ3Ahr0kbzmWdM",
+                "widthPx": 1920,
+                "heightPx": 1080,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u66c9\u73b2",
+                        "uri": "https://maps.google.com/maps/contrib/103043701113351570075",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLvlXYQRp7n9t2I7rPiS5Q0eYpS4muQAocPUVYexfKaMJDSAUV7=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7oqrKgQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7oqrKgQE!2e10!4m2!3m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            },
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/photos/AXQCQNRCh1HQQTZOkRDcoh_81EO_uTfxJNSrGTARvStasnRIJ2JXF3pCNEyuVXsJfilwAC2kkoqxGchajLuXGYnvs8frZOh2wLJLd_DjzbdfHSasjMfsIBAJaPjkPnvMm9w1TZFXfpWtILDxSl3vv5yjAUROuuFSWdOi4bTh311s7aWFs9E-azBOIF8VdZTPVnaBJaA7LAFvVRDI0qQD8pjSXTHetM392POD6AJUaEKAkgUlT3NGOWm_ozSOgaz71gEGoEuEGPW4yGgb7QQxV9a3ugrnLXzQ5FCEGdbs_loNbRWFDnnrTufnelpwi40VRTjTO8Fl_m258IrwjQyAHOkGfl0TRz1oN1XwQAGkTbt1JcPA1UBB8XKF3pLL3sdAiRzeShZSkTi7bEH1i1jWyG_FDKcOzJfhBKC22lP_eUkdBnAGCUw",
+                "widthPx": 4800,
+                "heightPx": 2700,
+                "authorAttributions": [
+                    {
+                        "displayName": "gre",
+                        "uri": "https://maps.google.com/maps/contrib/105007087285597753452",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2YxRD07ahXECEcSY52Rn_upbm-mxB84jUJ2ZKhdNVqwjulQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDf4eaxzQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDf4eaxzQE!2e10!4m2!3m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            },
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/photos/AXQCQNRjSQ22Cvz61IcawW5kLvrkizpnQO8QkH_U9W61jG0Lqdr7PuQgSHW9TruUv0nE5CxyjQOqdBxdQxdeYY8xBR85vHvaLa91bdyqCKxbKc0wfJ_vUrInw8TH23CosS94Jxk7JE_ce_YNw9MF7Ej2M0MGe88xT8-Zjd2aMMaEHwcfCaPx4sApO8W32heJjSBtIZ6hrDbahHZ_mwIDHQt9Bi7MW1Hxd-9O_fP7TgU22gerewSi-ZyIHK6X5loE0iwXZ0KqzvWh7tCyh96q1zzD20UrNk5amjfDnUUbNqHH3Kfm3NNhEYWG5o4OCsH-1ah99rJqvPdEDTup_ZpqbZok-cpqHF-uafGHWWuckRmpBFk-Y3ZuqTvpw3JyZ5efTGwbr0BbvhIf1JcOedrr0QfeD5nZPXwtoGpNmwArZtAaLWs",
+                "widthPx": 3072,
+                "heightPx": 4096,
+                "authorAttributions": [
+                    {
+                        "displayName": "O",
+                        "uri": "https://maps.google.com/maps/contrib/111416603055324939463",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXALhg66ubo-aTjA0yzBdGvg3qLZA5_F7M3UV-xwQ7w-B__958n=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXwMSfWQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXwMSfWQ!2e10!4m2!3m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            },
+            {
+                "name": "places/ChIJeTWyDP93bjQR314wtWLvLYA/photos/AXQCQNTlV8iOv6bYUk09O6RBquEdi86gY28WbSFWKqQ6964P2IecqOcVyQl6V5RNx6g7xLKXh6lB5nCNR1df0snuqbrZM-Cz0UELyFyL5azNpCOrM90fBcm-CNzz1V6cP2Y8oIEMnN_2haJVEbzVdx1tSQpRvYVY0U6hTcgRoxX4AGANWW4VS10PNRbAxvR0d5wwnZLuyrHtFouhDgTPV0ozTFluwGMt9v7k2MWQK3HUS8FN-DZfSprRQkjKvzh7c8j4_zS3WVrm6sBBCn33Pfl3JsWdHRmMdz9KQLhIsvEXxcdw73Qr4NkNit9gVMBIex1sBx41UL4p-KexFMCVDQPhOqPBBKxCSdkV1ED2rM8WyGm9XwXS8WEDzBC0w4yWyPOTqNFqRTs39V-PyBK--iwXietViMEk_B2hzSfE2gM0Uq-XBYI",
+                "widthPx": 3000,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Maria Anggita Kusalasari",
+                        "uri": "https://maps.google.com/maps/contrib/110019442576932002195",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMKukZRyyoHlC8qBK6mgZJ88w-YGOIDCvz_SQ9qYbuwmM8qvT1VA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIzp_xhwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIzp_xhwE!2e10!4m2!3m1!1s0x346e77ff0cb23579:0x802def62b5305edf"
+            }
+        ],
+        "goodForChildren": true,
+        "containingPlaces": [
+            {
+                "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI",
+                "id": "ChIJbYl7d2F2bjQRnFdvyMBuZfI"
+            }
+        ],
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJbYl7d2F2bjQRnFdvyMBuZfI",
+                    "placeId": "ChIJbYl7d2F2bjQRnFdvyMBuZfI",
+                    "displayName": {
+                        "text": "Chikan Tower",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "spatialRelationship": "WITHIN",
+                    "straightLineDistanceMeters": 5.0983357,
+                    "travelDistanceMeters": 189.86896
+                },
+                {
+                    "name": "places/ChIJG5YLCGF2bjQRu7IfqYZl_Xk",
+                    "placeId": "ChIJG5YLCGF2bjQRu7IfqYZl_Xk",
+                    "displayName": {
+                        "text": "The Senior's Handmade Egg Rolls",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "bakery",
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 56.248077,
+                    "travelDistanceMeters": 179.93211
+                },
+                {
+                    "name": "places/ChIJbYl7d2F2bjQRFn6Bt4T-r0Y",
+                    "placeId": "ChIJbYl7d2F2bjQRFn6Bt4T-r0Y",
+                    "displayName": {
+                        "text": "Chihkan Culture Park",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 56.98801,
+                    "travelDistanceMeters": 84.25438
+                },
+                {
+                    "name": "places/ChIJje2QZmF2bjQRR6NbMsm6hTY",
+                    "placeId": "ChIJje2QZmF2bjQRR6NbMsm6hTY",
+                    "displayName": {
+                        "text": "Tainan Grand Mazu Temple",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "place_of_worship",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 140.78621,
+                    "travelDistanceMeters": 244.2078
+                },
+                {
+                    "name": "places/ChIJ_3sZgmF2bjQRJqNT18Vuoa0",
+                    "placeId": "ChIJ_3sZgmF2bjQRJqNT18Vuoa0",
+                    "displayName": {
+                        "text": "Tainan Sacrificial Rites Martial Temple",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "place_of_worship",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 107.20039,
+                    "travelDistanceMeters": 132.55365
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJYTHknmF2bjQR_ZMwALu7FVI",
+                    "placeId": "ChIJYTHknmF2bjQR_ZMwALu7FVI",
+                    "displayName": {
+                        "text": "Chikan Tower",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                },
+                {
+                    "name": "places/ChIJa5F1sWF2bjQR7_VrZQB4zpc",
+                    "placeId": "ChIJa5F1sWF2bjQR7_VrZQB4zpc",
+                    "displayName": {
+                        "text": "\u81fa\u5357\u5e02\u4e2d\u897f\u5340\u6210\u529f\u570b\u6c11\u5c0f\u5b78",
+                        "languageCode": "zh"
+                    },
+                    "containment": "NEAR"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x346e77ff0cb23579:0x802def62b5305edf!3e0",
+            "placeUri": "https://maps.google.com/?cid=9236301618032434911",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e77ff0cb23579:0x802def62b5305edf!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x346e77ff0cb23579:0x802def62b5305edf!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e77ff0cb23579:0x802def62b5305edf!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "700",
+            "administrativeArea": "Tainan City",
+            "locality": "West Central District",
+            "addressLines": [
+                "No. 212, Sect",
+                "Section 2, Minzu Rd"
+            ]
+        }
+    },
+    "description": "Immerse yourself in the captivating history and vibrant culture of Tainan City with My Tainan Tour \u2013 Free English Walking Tours, a top-rated experience consistently earning a 4.9-star rating on TripAdvisor from over 53 enthusiastic reviewers!  Ranked #1 out of 20 tours in Tainan, this initiative, coordinated by the Tainan City Government Tourism Bureau, is a fantastic way to experience the city through the eyes of its friendly and knowledgeable local guides.\n\nChoose from two engaging walking routes: \"Local\" and \"Classic,\" each promising a deeper understanding of Tainan's rich past and present.  Explore charming streets, ancient temples, and significant historical sites, all while benefiting from insightful commentary and engaging storytelling.  Discover hidden gems and lesser-known anecdotes that bring the city's evolution to life, from its beginnings as Taiwan's historical capital to its modern-day dynamism.  Guides are passionate about sharing their city, ensuring a truly memorable and informative experience.\n\nTripAdvisor reviewers consistently praise the guides' attentiveness, depth of knowledge, and ability to make the history come alive.  Many highlight the unique perspectives and personal touches offered by the local guides, providing an authentic Tainan experience. With"
+}

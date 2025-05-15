@@ -1,0 +1,901 @@
+{
+    "name": "Chimei Museum",
+    "tripadvisor": {
+        "location_id": "1975815",
+        "name": "Chimei Museum",
+        "description": "Founder of the Chi Mei Group, Mr. Wen-Long Shi, was very fond of his childhood visits to a local museum that he was inspired to build a museum for everyone to enjoy. The museum was first established and housed in the administration building of the Chi Mei Corporation in 1992, relocated to the Tainan Metropolitan Park in 2014, and reopened in 2015. The museum is here so that people of all ages and social backgrounds can have easy access to Western culture and arts without having to travel abroad. The collection at CHIMEI Museum consists mainly of Western art, musical instruments, arms and armour, animal taxidermy and fossils, exhibiting approximately 4000 items, which is about one-third of the complete CHIMEI collection. Founder Shi expressed that, \u201cGood works of art are not to be kept just for oneself to enjoy, but to be shared with the public; and",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13806829-d1975815-Reviews-Chimei_Museum-Rende_Tainan.html?m=66827",
+        "address_obj": {
+            "street1": "No 66, Sec. 2, Wenhua Rd.",
+            "city": "Rende",
+            "country": "Taiwan",
+            "postalcode": "71755",
+            "address_string": "No 66, Sec. 2, Wenhua Rd., Rende, Tainan 71755 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Rende",
+                "location_id": "13806829"
+            },
+            {
+                "level": "Municipality",
+                "name": "Tainan",
+                "location_id": "293912"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "22.934525",
+        "longitude": "120.22639",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 6 266 0808",
+        "website": "http://www.chimeimuseum.org/",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13806829-d1975815-Chimei_Museum-Rende_Tainan.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13806829",
+            "ranking_string": "#1 of 10 things to do in Rende",
+            "geo_location_name": "Rende",
+            "ranking_out_of": "10",
+            "ranking": "1"
+        },
+        "rating": "4.6",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+        "num_reviews": "1377",
+        "review_rating_count": {
+            "1": "7",
+            "2": "7",
+            "3": "69",
+            "4": "395",
+            "5": "899"
+        },
+        "photo_count": "2160",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13806829-d1975815-m66827-Reviews-Chimei_Museum-Rende_Tainan.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "0930"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "1730"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 09:30 - 17:30",
+                "Tuesday: 09:30 - 17:30",
+                "Wednesday: Closed",
+                "Thursday: 09:30 - 17:30",
+                "Friday: 09:30 - 17:30",
+                "Saturday: 09:30 - 17:30",
+                "Sunday: 09:30 - 17:30"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "museums",
+                "localized_name": "Museums"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Museums",
+                "localized_name": "Museums",
+                "categories": [
+                    {
+                        "name": "Specialty Museums",
+                        "localized_name": "Specialty Museums"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [
+            {
+                "location_id": "12240349",
+                "name": "Nanguan Area"
+            }
+        ],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "39"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "266"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "128"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "434"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "350"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg",
+        "id": "ChIJq6qqqnp0bjQRpvTHZeYTjKg",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "06 266 0808",
+        "internationalPhoneNumber": "+886 6 266 0808",
+        "formattedAddress": "No. 66\u865f, Section 2, Wenhua Rd, Rende District, Tainan City, Taiwan 717015",
+        "addressComponents": [
+            {
+                "longText": "66\u865f",
+                "shortText": "66\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 2, Wenhua Road",
+                "shortText": "Section 2, Wenhua Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u6210\u529f\u91cc",
+                "shortText": "\u6210\u529f\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Rende District",
+                "shortText": "Rende District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Tainan City",
+                "shortText": "Tainan City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "717015",
+                "shortText": "717015",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QJ2W6MG+RC",
+            "compoundCode": "W6MG+RC Taiwan, \u53f0\u5357\u5e02\u4ec1\u5fb7\u5340\u6210\u529f\u91cc"
+        },
+        "location": {
+            "latitude": 22.9345608,
+            "longitude": 120.2260268
+        },
+        "viewport": {
+            "low": {
+                "latitude": 22.9331542697085,
+                "longitude": 120.22149479999999
+            },
+            "high": {
+                "latitude": 22.935852230291502,
+                "longitude": 120.2260268
+            }
+        },
+        "rating": 4.7,
+        "googleMapsUri": "https://maps.google.com/?cid=12145104175382394022",
+        "websiteUri": "http://www.chimeimuseum.org/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 17,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 17,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 17,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 30
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Tuesday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Wednesday: Closed",
+                "Thursday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Friday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Saturday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Sunday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T09:30:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 66\u865f, Section 2, Wenhua Rd, \u6210\u529f\u91cc</span> <span class=\"locality\">Rende District</span>, <span class=\"region\">Tainan City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">717015</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 65650,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "iconBackgroundColor": "#13B5C7",
+        "displayName": {
+            "text": "Chimei Museum",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Museum",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 17,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 17,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 17,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Tuesday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Wednesday: Closed",
+                "Thursday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Friday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Saturday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Sunday: 9:30\u202fAM\u2009\u2013\u20095:30\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T09:30:00Z"
+        },
+        "primaryType": "museum",
+        "shortFormattedAddress": "No. 66\u865f, Section 2, Wenhua Rd",
+        "editorialSummary": {
+            "text": "Displays of Western art, antiquities, natural history & a notable stringed-instrument collection.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdU5HUk13EAE",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "I loved the museum - the exterior and the surrounding park was well maintained. This set a beautiful scene for any visitors. There was also music playing in the park and the park looked dazzling during sunset. There is also an adequate number of accessibility measures taken by the museum and including wheelchair ramps and accessible toilets (indoors and outdoors). The art and collection is self more carefully curated but I think the key highlight of coming to this museum would still be the environment and the wonderful architecture. Deeply enjoyed the experience and this would be a great place for a family trip even though it is quite far from everything\u2026",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I loved the museum - the exterior and the surrounding park was well maintained. This set a beautiful scene for any visitors. There was also music playing in the park and the park looked dazzling during sunset. There is also an adequate number of accessibility measures taken by the museum and including wheelchair ramps and accessible toilets (indoors and outdoors). The art and collection is self more carefully curated but I think the key highlight of coming to this museum would still be the environment and the wonderful architecture. Deeply enjoyed the experience and this would be a great place for a family trip even though it is quite far from everything\u2026",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Joyee",
+                    "uri": "https://www.google.com/maps/contrib/109808893891430862001/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIxIGdbDR21QyM5xjaSpRukwrdV0JIkSE4VEsPgPS_pwhupVta1=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-03-30T04:47:13.200315Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJdU5HUk13EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJdU5HUk13EAE!2m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            },
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvdnE3eUhREAE",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 3,
+                "text": {
+                    "text": "An amazing place\u2026. I would still recommend people to travel to Europe to enjoy but I do admire how the founder has such a rich collection of arts, armory, violins, animals etc\u2026. The story behind it is more interesting to me than the exhibit itself\u2026. The architecture is grand as well, integrated with local community - local who walk their dogs, after dinner walk, photo shoot, basketball play schoolers\u2026. So much to offer to travelers and local",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "An amazing place\u2026. I would still recommend people to travel to Europe to enjoy but I do admire how the founder has such a rich collection of arts, armory, violins, animals etc\u2026. The story behind it is more interesting to me than the exhibit itself\u2026. The architecture is grand as well, integrated with local community - local who walk their dogs, after dinner walk, photo shoot, basketball play schoolers\u2026. So much to offer to travelers and local",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Ash Y",
+                    "uri": "https://www.google.com/maps/contrib/106157565331627685733/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVFEwdzR1RxXMTh7FPo78hKS0DWXT3n5jkje0NtmmkTpbJs6yc=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-04-17T09:44:04.637826Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvdnE3eUhREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvdnE3eUhREAE!2m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            },
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRNmZyeDFRRRAB",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Excellent place to visit. Very clean and so many unique art pieces. You can either walk to the museum from Bao'an train station or take a bus, so close by the way.  Outdoor fountain shoots out water every hour and indoor in the music pavilion, every hour the played different concert pieces. Outdoors area is a great gathering place for everyone, relaxed atmosphere in Spring time that is. It is a huge space. Recommend at least spend a whole day there. So many interesting things to see. Don't forget to visit the museum shop for gifts or souvenirs! Spring or Fall is a great time to visit.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Excellent place to visit. Very clean and so many unique art pieces. You can either walk to the museum from Bao'an train station or take a bus, so close by the way.  Outdoor fountain shoots out water every hour and indoor in the music pavilion, every hour the played different concert pieces. Outdoors area is a great gathering place for everyone, relaxed atmosphere in Spring time that is. It is a huge space. Recommend at least spend a whole day there. So many interesting things to see. Don't forget to visit the museum shop for gifts or souvenirs! Spring or Fall is a great time to visit.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Yen Chen",
+                    "uri": "https://www.google.com/maps/contrib/103950213404757113298/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLs33BX88VFIcj966LL1z1xIuv-j2X0LZUD0i_CN4sMushNaA=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-03-05T15:46:22.129060Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRNmZyeDFRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRNmZyeDFRRRAB!2m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            },
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3Z0xiTm9BRRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Best museum I have ever been to!! We went on a Saturday afternoon and it wasn't too busy at all. Lovely restaurant inside and a great gelato place outside too. Lots of places to sit in the grass and relax in the park around the museum, and the exhibitions are just beautiful. Would recommend around 2 hours to look around the permanent exhibition, more if you wanna see the temporary ones too :)",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Best museum I have ever been to!! We went on a Saturday afternoon and it wasn't too busy at all. Lovely restaurant inside and a great gelato place outside too. Lots of places to sit in the grass and relax in the park around the museum, and the exhibitions are just beautiful. Would recommend around 2 hours to look around the permanent exhibition, more if you wanna see the temporary ones too :)",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Jessica Daisley",
+                    "uri": "https://www.google.com/maps/contrib/114997454866040297925/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNyKl6xRt0SwW3lH5Mr3ECISAIT-BJScqN0dG3xa6WYMdu_4hk=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-03-22T12:49:03.205141Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3Z0xiTm9BRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3Z0xiTm9BRRAB!2m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            },
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/reviews/ChZDSUhNMG9nS0VJQ0FnTURJLXJ5bE9nEAE",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Big, beautiful, price for permanent exhibition is very reasonable. Very informative. Pretty grounds to walk around, and the building is very pretty inside. There's a 711 and Starbucks on site too, recommend getting lunch and sitting on the grass outside.\nWasn't too busy, no wait.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Big, beautiful, price for permanent exhibition is very reasonable. Very informative. Pretty grounds to walk around, and the building is very pretty inside. There's a 711 and Starbucks on site too, recommend getting lunch and sitting on the grass outside.\nWasn't too busy, no wait.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Hayden Davis",
+                    "uri": "https://www.google.com/maps/contrib/114318588597451187196/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWre6PHshd5EL2sz8ohRE6dcj3xUZEtc03cv4QjPug3ct6cWuyqJA=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-04-09T05:20:23.606414Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJLXJ5bE9nEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJLXJ5bE9nEAE!2m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/photos/AXQCQNS0Fi1-A7QxBNce1hGCofXTbstJFJ6CggwodyXGV_12HscqyfPgO0ow5t4FKDXwAeEbFhPXWugQh_2NySbSSZf0JsCJj6maZHOquxCU7T8FVct2nsZYR1B-PtQqPC6TvXA6FH_Am8nZSxvueLDVaSBZbGWXT8sSkHExJYuLjklu3oigFomaD-cRuQxZYeVgAgCGLVi_3WCqFoZUSz1ONhanrRRZE571QkWzia4-XyRL2kwYVxA8MC4egTtEaALb65L9gI3luQKQ008teoYFsBnvTqXDtFLIsHsRcSPG9e2DLord9-x4MnEFovMQwCeVVkwCLrpLa7CHp_Ecv3cOjJXUlH9V-m_bFF5hQ-Hf-OC0HOWS-LKeoW4WFURKucOz8S0iuQPFr2VaLpZjJNaDj-L6uF8ta8jC4lc-zPkntAuxyg",
+                "widthPx": 4608,
+                "heightPx": 3456,
+                "authorAttributions": [
+                    {
+                        "displayName": "Chen \u9673Wei-Hsin \u7dad\u65b0",
+                        "uri": "https://maps.google.com/maps/contrib/113097178196216322120",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWU1HuJzLCocewo6dO2TrInIkMWKFUd5NR1SuHbixtCkFAlbcDaWw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICWrrO8GA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICWrrO8GA!2e10!4m2!3m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            },
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/photos/AXQCQNQdHZH9Pgcn598UaESDpBzJf8RTDQyV1FTxGmtB2C2tSx4ckNugCYxbh-rrGpoPP3skpFV2fEI9YFTkWh8FPzTV6-U3JvV2TBpFOmhzbYg2tsepHtkFQRlWK5KpYxInrU_8APCflLYyUM37LG_5kAT0z-QvYVYC92_p63wdhlqwDqdwBj6hNKp-x-fRxgznDe7C4uxh_EIUyiqf7VzoygZ6jD0pQsCyn_oSaO8OzkI5RJ8imWkLmqR9Y7DzkjNd9wuDaRzt5aXjjkrtl30VQlfs4j9eOnoyTPze9UNkoOB6vLblBoEXqYysWtEqGU-6RKaiTk1DCV25a7FkbmGl6L2e0FjhZnGfGSZADJeo5C66Au__KE5SfYq3kEcDCn30Q9YVUnfQ0W0Gcs9yit94Kp59uSxI5ZU1AlBMzqvsrWeJ3E0S",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Jerwei Lin",
+                        "uri": "https://maps.google.com/maps/contrib/100807562168496261682",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK6BQkMkaw2LWu5X41QD0_kzub7HdiCoM1iFlnB2azr-NqwAg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-iufR5gE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-iufR5gE!2e10!4m2!3m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            },
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/photos/AXQCQNQGTUDi5WTogDEHPu1b4Jg270CqBUmF9RX9eVy_ZK7DYs1vjoeGjQ_oHYKpfQwpkaYnqmWhS89_qYW0N67UXHWy8OKtU2YBayC36RhVoc_kncM_51A3gQJU0TJZiYcn5wKhS-XRMvjlfYP7JB44tdAyKbJTk2FsBAi80wXPbBX-PNU4HnQOg0AJChmq7rHy7Vz01Vk-9E-ZJEH01MduQmrvqAf9MXcVHWSpvz7DWWTP5jkgZ1EvSh9Haz9ofYPWQ5nZbI_g5FnMRU-54EFYZO7G8C7nfix1PB_25hNnCvmR9ewuVa97TiD1z9k19lvADh6pOdlFoVIDdEcZeM-6PJ99YBlsi6pToFvnzob4u5iLoQLwP8LB_fPIpBP9pBlU42jY84bE3LP_dkWAk4gsDlFi2SDfAfwDWftDMx0tL25LJgw",
+                "widthPx": 4501,
+                "heightPx": 2534,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u694a\u6df3\u5b89",
+                        "uri": "https://maps.google.com/maps/contrib/116341855063008119940",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPGann3HAmjek8CmFdKG0Dgk_4FO9QIeLKLHQDAm3zeKUCXf8rLQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICy3ZX4tQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICy3ZX4tQE!2e10!4m2!3m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            },
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/photos/AXQCQNRZ6ZjyHnqWzzl2qm1DhY2awfx36CXLi5ycaUlimX4e7YIoeEyLOvoJnjmM0NsgZnB011Ovu7bBTtoN9aKg9_wVhmgoastz-MrQDiW22iek0s6aziDyNG4pmETMFGnEo9iG66-UvsthLrzlZD9EisQDqOzv1zq6t-blmu2nFXizM-tlfMnPT7rS0ACdHU6B_Xpj-rCIdEhM0KKy9kEAlmKGlSklZhDE9GqxlKbi0P6hPcMHApfEcXP-T7W2ywNlODBBwj1kN5hnx7TrzdJ_lrhkYXzhWZXTNk2EhDPjsy-EnKJdLr2aVVemFAAr58q3XSncZXJgzF4amuG06CAVROWElQneL-4E1atuchGyY1l68mvBKAf2U8Zb4IWQ0EqP5ViYHwZO2Y11Pq8tqPT6y7TXTeMSK9rztgK304HizKHeOMsS",
+                "widthPx": 4224,
+                "heightPx": 3136,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5eb7\u6674\u6674",
+                        "uri": "https://maps.google.com/maps/contrib/105921819031572637898",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUT9EpSBILFGOlKNRyv2Wlo0n7sdmitRSjXElO2ju100tVuPMQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDyt63TwQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDyt63TwQE!2e10!4m2!3m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            },
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/photos/AXQCQNSgDtFcpQBcmPQFeVJabp5Q6W3IKYqz0tWuuRzSnfnPqFcbOFyqh2GGc6DVy8ZNyshlAav8EruEh7PKIaYcEHckcMlCcQm40oDv-lmmUT7riLiBvVotopr68K9V1uzmOtPfhz7uEboEgeel5oqPWT2Jwk7H_PwCIlDvU7T5F9U3oKTqi9AYDA6i8_2Y-c0gZo75n7iRGdiNMO_Fq3FMUdToByhY2133jdFQOJTgL5NelfAzOGkRJCi-8fWSKvIDxF21NzKRsEJfIAcX6IWj7eCIOlru467wUbOxqxU9UOxQSiL2Od10KfgSUVbCiH0QKs34UVYA1rV5iJ5bEIfxPGM-QhjRG0jn156w8XgsDW7v3gwAMTW_xFURAmywJLEilwULhpR7HPeNEDZVU-sLn5BYpKe0kwUk0i3Zgi9LaTc",
+                "widthPx": 2787,
+                "heightPx": 3716,
+                "authorAttributions": [
+                    {
+                        "displayName": "KL Lee",
+                        "uri": "https://maps.google.com/maps/contrib/111618923369240872284",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXE3j99f0xBwmfwyPkzxUKolrj16vKJFB5v0djloI03XUnYkLnchA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOuYa8Rg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOuYa8Rg!2e10!4m2!3m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            },
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/photos/AXQCQNTYDX5s_AWz7EReIiRUc_2QFadzllgqXivfcZJhrcWY5hgcvCbuEvooS3TTgRS5duYEojJb3loIWuXT44tOPKdnjYR8bFeW9Rrz-oNThvmdB9mPH-Z-461S28RT6h7IslDiDjXTybVA9wA-abOYWENYh5CMgef0O6zBXTbfpvrPrubo7BUTZACuNb0njHf0vErpDUx5oHRCysCFt4pE18e0wAAteEwNIMGF_DWOhqZ_36cxM1qDqDn6sXprk5Hy9GIxn0KXeavt7AV78zKYqrsnsIVqA11Pc77yVKN2X7Xwb2OuqcELnX0XJ43lJDb84ZvKPtdh1Pqecn_vK5HF7cPn2rQpbgwW2QfbKArOlm6OB1RfQqRQ4CUndFG9cxmT-26Bdgt5aEPo1mscdCkkEb8Z3rrkKX0hYuKHlaD-aN8",
+                "widthPx": 2400,
+                "heightPx": 1600,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9673\u5c0f\u6771",
+                        "uri": "https://maps.google.com/maps/contrib/116732638160806997071",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiz8wiNgjbuu0VbrxrkXkH27goo_kwHQk0cEGGcR0lIL_9G2GA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDp7ovpBQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDp7ovpBQ!2e10!4m2!3m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            },
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/photos/AXQCQNRa-X42g8fbZpfOCT44ENw63WFw8J_QhokEvX-2uPUr8dqy68IFHI_r49G2DSR-SQ0M67QDqyggHw4RKFIbpV4ZZF98AewmipOwZm8U13p9y237UCFy9GEQtOQByApNPIpwdCclF8qAqBC5Jz2_E8R4J5mNykUWoaWsqhI-JXl9JQexbXfHUkzGGu2JuHsLh2pXwv7-buM8uouKqTmGpxhjjJV1f6jcbOyNUjGRX7FW686ds0sCc91kIZGdo-kSdKjEC4_gLAJNMgeeLRf1n5JiLuzflSQgG6iTbbjJ6JscbXLtEQp_EehrSuiW-U5nOHEXWXskNACwphUi7g2At8KHx5GscKIwbEISv1-Qla0e-eirsO-TvVkhPYmKEMeiwx_wTz11Q63UkX5MieWrKv4VGlxjc5sEitjbfIaygExugGIs",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5b89\u541b\u5085",
+                        "uri": "https://maps.google.com/maps/contrib/115225425226192934234",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLMKtMh6KeFXZf6Vpo8kdRItkymUR1W9uD83a7bPoAyBAs3Ag=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDW8fi41wE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDW8fi41wE!2e10!4m2!3m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            },
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/photos/AXQCQNQ90ka-CTzDrEbxs5EXwtC90qxLYuQ3jMU9lE863qhMBFG-VpRmh85lnru17po7osgMpfjkrUVPS4J_BZq98HhAbFlsPxfTVnQlsPPMZi_yJNnbq3oui_HvI88UZ6osGL4wgqO6drPZYOY_FzqqC8WUYI3u721-EWuvjma9ktmATTvcO1q9eutundLpFN8lPiplfQFxREpeyEHDe7nZaqJg7m75UyW5sUrIiNzMnbmTDS6s2HK-u06632CXfyZNaM3NZ02nCPdTrjQmLoEmlt0fkevvD_3OZLwzmT793hlcRjV4ysNR6jfIwDlAdshRRLb8t_vKqEprNVHGbWnfaZ8RpucSNZacQaXp40STqP0hDqN1qkXs5MCBdz4hj2539OvVpB_0QvMcFmFtXuYl34SrVWPLcVaoNdM2nFQhMqRKkBA",
+                "widthPx": 4000,
+                "heightPx": 2250,
+                "authorAttributions": [
+                    {
+                        "displayName": "Yuh-Juan Sheu",
+                        "uri": "https://maps.google.com/maps/contrib/105924170021790613071",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXIbUJlokrSlDmktMcYR-K9WyslE2DwRYwjccGhLbBafE_aUMqUZA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-zY2dggE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-zY2dggE!2e10!4m2!3m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            },
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/photos/AXQCQNTJLfUoVZ15tU0-Ez0l5uF8Qy81AE_pnkMY1Dt9GTCK5o2QV7Crm_0tPynucW9qGYmKdmxNuZUcW2Ajea9Ru2RvlWUMQuVwjffPuZetoj3tm5Jqkk-iDOWNzP8H1zdpnFjbHeywmocVhKYmQDJBILk6niKHsbRgaPSC3kVWRqhDwmf7WTeVcaIOsoMKg_2qwVMercoUPq9Q-HFLWcCgMZow5WNqAxaIaO3_-85QnhfRt4iVQmlvBE3DWkEl53TiJb5SaFlMeiayVNquncZ6Vwax60bBgHfmuRBJ-o7NnvOd2puvMVf7Ua4ETntRfX6uw44ikk9skYDmXWJNhzGUyzQ4xbDm6HJGDzs9E2orjI1m7vktww8bA-aDW065jLBfoB_uJIhFq7HEXxDhytLAxrvySoBwed1mj4go8CH18rrn54bD",
+                "widthPx": 2268,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "peta Wang",
+                        "uri": "https://maps.google.com/maps/contrib/113238138944545096970",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcWgC1ZAqqIDeomWyHE6jsUfZqMloGyGJyjG3OtC4BXH5MvuAP3Q=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDyypbC_gE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDyypbC_gE!2e10!4m2!3m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            },
+            {
+                "name": "places/ChIJq6qqqnp0bjQRpvTHZeYTjKg/photos/AXQCQNQOQUrU-jvTDERxWZtB5iDuinApCohMr5xSaawovu39V0fm3QpvVRxLan4lLr_I-Bfor2DFPF7giNZmXvKPDQugo8T20CfE8aNAhQw_zRckCvxa9pu0mTzaKu5q2w5sitrRs6wreScQYf3sUntAV09fGNrwiA2MxMBAUPuIcBYE49_bOBrKOQ-7EDoevdL-yo-Kq9dpYiUm1w_Nm65KkbrqYMdgs_Qon7T7-X7lP9OaSLwtUBnOGUbhhmP4IinOmpxVOws7jGdJzQPRU0i93hWZmHr9RgmkXMKqMzpU4ORoF5ozmWOTUap8jSuXSA1wFQY_BYNkQRTpK_9QlhnsDjNAstH9Y8u-dqIS352z0lvdtKrBdNAgVLFU591v5bidNa_gGMCCVg2K-eIaK-J7h4dsdWjkQsW2WcRvVSDo2orLKA",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u962e\u660e\u66f8",
+                        "uri": "https://maps.google.com/maps/contrib/109719802559475227112",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWclM4STaI5R4DGtL4Hf3lP3ape03W61ro8Ie-CZk8M1xykTzY=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-l6Cxeg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-l6Cxeg!2e10!4m2!3m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6"
+            }
+        ],
+        "goodForChildren": true,
+        "restroom": true,
+        "paymentOptions": {
+            "acceptsNfc": true
+        },
+        "parkingOptions": {
+            "paidParkingLot": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true,
+            "wheelchairAccessibleRestroom": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJ8e6-5Xp1bjQRz20tcTf4tAU",
+                    "placeId": "ChIJ8e6-5Xp1bjQRz20tcTf4tAU",
+                    "displayName": {
+                        "text": "STARBUCKS Chimei Museum Shop",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 52.112885
+                },
+                {
+                    "name": "places/ChIJvfxlG150bjQRWeqHwsd1oHU",
+                    "placeId": "ChIJvfxlG150bjQRWeqHwsd1oHU",
+                    "displayName": {
+                        "text": "Chimei Museum",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 290.2167
+                },
+                {
+                    "name": "places/ChIJhwQWqF90bjQRbTaHzCxBZBA",
+                    "placeId": "ChIJhwQWqF90bjQRbTaHzCxBZBA",
+                    "displayName": {
+                        "text": "Muse Plaza",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 101.25256
+                },
+                {
+                    "name": "places/ChIJp9z-Qid3bjQRbuGsTtgQffQ",
+                    "placeId": "ChIJp9z-Qid3bjQRbuGsTtgQffQ",
+                    "displayName": {
+                        "text": "ISABATI \u7fa9\u85a9\u82ad\u8482",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "restaurant"
+                    ],
+                    "straightLineDistanceMeters": 45.820076
+                },
+                {
+                    "name": "places/ChIJX7_CoGt0bjQRVHcIzYvO8D4",
+                    "placeId": "ChIJX7_CoGt0bjQRVHcIzYvO8D4",
+                    "displayName": {
+                        "text": "Tainan Metropolitan Park",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "park",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 247.25024
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6!3e0",
+            "placeUri": "https://maps.google.com/?cid=12145104175382394022",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e747aaaaaaaab:0xa88c13e665c7f4a6!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "717015",
+            "administrativeArea": "Tainan City",
+            "locality": "Rende District",
+            "addressLines": [
+                "No. 66\u865f, Section 2, Wenhua Rd"
+            ]
+        }
+    },
+    "description": "The Chimei Museum, nestled in Tainan Metropolitan Park in Rende, Taiwan (No. 66, Sec. 2, Wenhua Rd., 71755), stands as a testament to the philanthropic vision of Mr. Wen-Long Shi.  Inspired by his childhood museum visits, he created this magnificent institution to share his vast collection of Western art, music, and history with the world.  Opened in 1992 and relocated to its current stunning location in 2015, the museum is easily accessible, bringing the wonders of Western culture to all ages and backgrounds.\n\nImagine stepping into a world of breathtaking beauty. The museum's architectural design seamlessly blends into the surrounding park, creating a harmonious landscape.  The building itself is a visual masterpiece, a modern structure that complements the timeless beauty of the artifacts within.  Inside, over 4000 items from Mr. Shi's personal collection await discovery \u2013 a captivating journey through Western art, showcasing masterpieces spanning centuries. The collection isn't limited to paintings; you'll encounter an impressive array of musical instruments, their intricate details gleaming under the soft lighting, a formidable collection of arms and armor, silent witnesses to history,"
+}

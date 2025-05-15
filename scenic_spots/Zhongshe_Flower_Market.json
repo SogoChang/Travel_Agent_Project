@@ -1,0 +1,849 @@
+{
+    "name": "Zhongshe Flower Market",
+    "tripadvisor": {
+        "location_id": "6681412",
+        "name": "Zhongshe Flower Market",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13806624-d6681412-Reviews-Zhongshe_Flower_Market-Houli_Taichung.html?m=66827",
+        "address_obj": {
+            "street1": "No.469-13 Sanfeng Road, Houli District",
+            "city": "Houli",
+            "country": "Taiwan",
+            "address_string": "No.469-13 Sanfeng Road, Houli District, Houli, Taichung Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Houli",
+                "location_id": "13806624"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taichung",
+                "location_id": "297910"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "24.335081",
+        "longitude": "120.72864",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 4 2557 6926",
+        "website": "http://www.flowerjs.com.tw",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13806624-d6681412-Zhongshe_Flower_Market-Houli_Taichung.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13806624",
+            "ranking_string": "#1 of 5 Shopping in Houli",
+            "geo_location_name": "Houli",
+            "ranking_out_of": "5",
+            "ranking": "1"
+        },
+        "rating": "4.2",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "155",
+        "review_rating_count": {
+            "1": "2",
+            "2": "2",
+            "3": "22",
+            "4": "60",
+            "5": "69"
+        },
+        "photo_count": "712",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13806624-d6681412-m66827-Reviews-Zhongshe_Flower_Market-Houli_Taichung.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "shopping",
+                "localized_name": "Shopping"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Shopping",
+                "localized_name": "Shopping",
+                "categories": [
+                    {
+                        "name": "Gift & Specialty Shops",
+                        "localized_name": "Gift & Specialty Shops"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "2"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "22"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "13"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "52"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "45"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs",
+        "id": "ChIJG8k0XaMaaTQRLsko2uoD5Rs",
+        "types": [
+            "tourist_attraction",
+            "market",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "04 2557 6926",
+        "internationalPhoneNumber": "+886 4 2557 6926",
+        "formattedAddress": "No. 333\u865f, Section 5, Sanfeng Rd, Houli District, Taichung City, Taiwan 421",
+        "addressComponents": [
+            {
+                "longText": "333\u865f",
+                "shortText": "333\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 5, Sanfeng Road",
+                "shortText": "Section 5, Sanfeng Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u516c\u9928\u91cc",
+                "shortText": "\u516c\u9928\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Houli District",
+                "shortText": "Houli District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taichung City",
+                "shortText": "Taichung City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "421",
+                "shortText": "421",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QP28PMH+VX",
+            "compoundCode": "8PMH+VX Taiwan, \u53f0\u4e2d\u5e02\u540e\u91cc\u5340\u516c\u9928\u91cc"
+        },
+        "location": {
+            "latitude": 24.334676599999998,
+            "longitude": 120.72999949999998
+        },
+        "viewport": {
+            "low": {
+                "latitude": 24.333421869708495,
+                "longitude": 120.72870166970851
+            },
+            "high": {
+                "latitude": 24.3361198302915,
+                "longitude": 120.73139963029149
+            }
+        },
+        "rating": 4.2,
+        "googleMapsUri": "https://maps.google.com/?cid=2010017115908131118",
+        "websiteUri": "http://www.flowerjs.com.tw/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 18,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 18,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 18,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 18,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 18,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 18,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 8,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 18,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T10:00:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 333\u865f, Section 5, Sanfeng Rd, \u516c\u9928\u91cc</span> <span class=\"locality\">Houli District</span>, <span class=\"region\">Taichung City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">421</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 17649,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#13B5C7",
+        "displayName": {
+            "text": "Zhongshe Flower Market",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Tourist Attraction",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 18,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 18,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 18,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 18,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 18,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 18,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 8,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 18,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T10:00:00Z"
+        },
+        "primaryType": "tourist_attraction",
+        "shortFormattedAddress": "No. 333\u865f, Section 5, Sanfeng Rd",
+        "editorialSummary": {
+            "text": "Big flower market & popular photography spot featuring landscaped garden beds with colorful blooms.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3OU9LbWF3EAE",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 4,
+                "text": {
+                    "text": "Paid 1280 NTD for 3 people for the Garden + BBQ package. Went on a Sunday so there was a crowd, but we went in early so we were able to get a lot of photos first. The garden is not that big as the internet suggests, but still aesthetically pleasing. The bbq is so-so. It\u2019s quite far from the train station so it\u2019s much better to arrange for a service beforehand to avoid getting scammed by the taxis there.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Paid 1280 NTD for 3 people for the Garden + BBQ package. Went on a Sunday so there was a crowd, but we went in early so we were able to get a lot of photos first. The garden is not that big as the internet suggests, but still aesthetically pleasing. The bbq is so-so. It\u2019s quite far from the train station so it\u2019s much better to arrange for a service beforehand to avoid getting scammed by the taxis there.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "EM CF",
+                    "uri": "https://www.google.com/maps/contrib/114208574037435300441/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4b_GZ0lLDK2oR7HSOUN-ySyAAF-lRmtqL8hb0XGshRgb4WNOk=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-03-24T01:03:39.369571Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3OU9LbWF3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3OU9LbWF3EAE!2m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            },
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNndXFUNGpRRRAB",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "The flower garden is a stunning and well-maintained place filled with vibrant colors and fresh fragrances. The variety of flowers creates a breathtaking view. The pathways are clean, and the atmosphere is peaceful, making it a perfect spot for relaxation or photography. The garden\u2019s layout is thoughtfully designed, allowing visitors to explore different floral arrangements with ease. Beautiful garden ornaments are scattered throughout, adding charm to the scenery.\n\nWe took the train to get there, and a 20-minute walk from the station. For a more convenient trip, I recommend taking a taxi or renting a bike. Another option for commuters is to take the Fengyuan bus, which provides easier access to the garden. For those driving, there is a large parking area available, and parking is free.\n\nThe garden also offers plenty of seating, with benches and tables placed throughout for visitors to rest and enjoy the surroundings. There is a food area where you can grab a meal, as well as vending machines for quick snacks and drinks. Entry to the general garden area is free, but there is a fee to access the designated flower fields zone. If you're looking for a place to go to or looking for a peaceful escape, this garden is a great place to visit.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The flower garden is a stunning and well-maintained place filled with vibrant colors and fresh fragrances. The variety of flowers creates a breathtaking view. The pathways are clean, and the atmosphere is peaceful, making it a perfect spot for relaxation or photography. The garden\u2019s layout is thoughtfully designed, allowing visitors to explore different floral arrangements with ease. Beautiful garden ornaments are scattered throughout, adding charm to the scenery.\n\nWe took the train to get there, and a 20-minute walk from the station. For a more convenient trip, I recommend taking a taxi or renting a bike. Another option for commuters is to take the Fengyuan bus, which provides easier access to the garden. For those driving, there is a large parking area available, and parking is free.\n\nThe garden also offers plenty of seating, with benches and tables placed throughout for visitors to rest and enjoy the surroundings. There is a food area where you can grab a meal, as well as vending machines for quick snacks and drinks. Entry to the general garden area is free, but there is a fee to access the designated flower fields zone. If you're looking for a place to go to or looking for a peaceful escape, this garden is a great place to visit.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Jasper Cesar Bago",
+                    "uri": "https://www.google.com/maps/contrib/103617491411457454745/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjCIrodLn9CYUoRF0winqN87BX4JXwkdT6tejUZxV9shGBdLs=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-02-24T11:21:34.020002Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNndXFUNGpRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNndXFUNGpRRRAB!2m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            },
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3MHVTdDJ3RRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Beautiful place to take photos with flowers. There's strawberry farm inside too but to harvest \ud83c\udf53 will need to check with the farmers if it is right season to do so only about 100 NT for the fee. If not there are some fruits harvested selling there to enjoy : strawberry, red and yellow tomatoes. Recommended to try especially yellow tomatoes, it's very juicy and sweet!!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Beautiful place to take photos with flowers. There's strawberry farm inside too but to harvest \ud83c\udf53 will need to check with the farmers if it is right season to do so only about 100 NT for the fee. If not there are some fruits harvested selling there to enjoy : strawberry, red and yellow tomatoes. Recommended to try especially yellow tomatoes, it's very juicy and sweet!!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Aurora Poh",
+                    "uri": "https://www.google.com/maps/contrib/108057917187815536389/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0DHd_SuwNk50v5wowp4y09YEFDQ0rbqCyaQpZuK6Ud1RUw_u_=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-03-25T02:45:55.124589Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3MHVTdDJ3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3MHVTdDJ3RRAB!2m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            },
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3eTczX1dREAE",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 4,
+                "text": {
+                    "text": "A lovely place with a decent-sized garden featuring a wide variety of flowers. The views are beautiful, and it\u2019s a great spot for photos. You can also find small strawberries to enjoy. A nice place to visit if you love flowers and nature!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "A lovely place with a decent-sized garden featuring a wide variety of flowers. The views are beautiful, and it\u2019s a great spot for photos. You can also find small strawberries to enjoy. A nice place to visit if you love flowers and nature!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "joel ooi",
+                    "uri": "https://www.google.com/maps/contrib/109499948690720179894/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKc95h5PxW1m4YKk6IB3hVVpUnZ1_rO7LvQb3Fq_razv9ao5IIf=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-03-28T08:51:41.524264Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3eTczX1dREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3eTczX1dREAE!2m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            },
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvdzZxR3JRRRAB",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "Visiting this park in late March and we saw so many tulips and cala lilies bloom. We came around 15.00 in the afternoon and enjoyed the park around 1,5 hours. The weather was good and not to many visitors during the weekday. The ticket was fair enough 150 NTD for adult and 75 NTD for children. They also sell several plants and flowers in the front area of the park. Should put this park on your list when you are around Taichung, worth to visit",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Visiting this park in late March and we saw so many tulips and cala lilies bloom. We came around 15.00 in the afternoon and enjoyed the park around 1,5 hours. The weather was good and not to many visitors during the weekday. The ticket was fair enough 150 NTD for adult and 75 NTD for children. They also sell several plants and flowers in the front area of the park. Should put this park on your list when you are around Taichung, worth to visit",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "agtifa primadani",
+                    "uri": "https://www.google.com/maps/contrib/101893782132608002160/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXur_ch1bpUQU4w_45Ye3QcuLGGWSTZEQUTxJoeIwnlkZFzdnkq=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-19T12:57:05.398158Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvdzZxR3JRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvdzZxR3JRRRAB!2m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/photos/AXQCQNQ7zZquHHcEjRANdzlJALOO7zTSZLF_gyI27PpgQLGpXNzDK4U_7kydkF6h5S1FEb_6qNnXeDQCgup_mUB0FerUiJrv6FTqBuvDyyXaahjnk6YpBLjUAdpczp-MzhyPK86Q5eX-vqzetlqYzbMfT-_vpleBxIV-5WOFJttxhgwixf5fK89xz7UoI2KJIXMRYEEgq0D8FmrHlB2ZFyE5UfPhLMgogCMB3mVDHg50YxszXviGhWmHI3sm_UGdHN24aSn-T8fnzzDz-xTW1lvc16qoc7CkhASJMlnMtBm4gSlyO8zCgoj_kDNeg4qOD4SSiZ1FnbSfbWcQfygz3z0KUPOCAsv8llrUvWon1mm14HqQ2y5Vg-Y4MvY_ocT_mRDjgzqgs06NM8VB0-UzL01M2o4M3SzcRpK3L0GxwhvyRJ68jes",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5289\u6c11\u6dfb",
+                        "uri": "https://maps.google.com/maps/contrib/106634882850270785926",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLPgp_jW0Nu4i_NTsKTzYFbeLcWIq0yn2XjiXy_Xat6TT4gDQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDGxfmYpgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGxfmYpgE!2e10!4m2!3m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            },
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/photos/AXQCQNRvW-Azmr9W1hSnnb5DxlOil11fZKF1csy7_YiXpNYL-unqBl_OBmMO_HcLNAkYmm8FIoxHhHhXoKomp8egIR6WWYY-MVVb3EppCjxIBzuqJL6D8J7SPJoKBmZ1JZO0snJaTsqZ-dp9EprVY8hYxLC6gD3Uwvx6Gkp1eUkHhGUOlvmZIh2s-2mgE5-uE79MJa3wtUUZLmOuDuoG5EPWFGn74qZv5d4ksIEec1MRtTEy6d3c6KrwpNBi4gW_ejA-b_5BJbFE1eSYtcmu0CZC3RN9f4yVPVBR69VjvD9BBw29oHijk3EvtTXMuxmq1xYd7BD4lSeBnRvU2Jr0VjalQS4eqihymM1w3xM9RkjixBjf66LUfst0d_plvxfi_GgB_I-u7hPRZ6A92MSzdiNO_l061ogl4MtupYME4c49h_fLVA",
+                "widthPx": 4032,
+                "heightPx": 2268,
+                "authorAttributions": [
+                    {
+                        "displayName": "Eric CHEN",
+                        "uri": "https://maps.google.com/maps/contrib/104828867931094315710",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfXCFYL_Di17mQ_6MBYwLL5XedmR58uQZBllUb-fNKGaswVA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxpYvCBQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxpYvCBQ!2e10!4m2!3m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            },
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/photos/AXQCQNQAMsjQTJRd6sfgLa0IM7FmXRvtSf2_eWJXa66_g19X6jJH8hYvpoAlAhHS5T3OWWiimHtuik5L2FRV_6ZRzABw77G5APl0cA7vNP2_g4hA1V11WsiFuPRYOjJdzcVJNhQON6NEu77P0e3448J-kEsiiCpZGeAORj5cljYGwmzdqwf8d9NrxB3GTfJb4vjNt_Hlsg2J67H6ItOD9QYMEggmiQF6zRC2yJxNzuDCD_7lXufyzE6K_u6MHcp70K_PctahTRCbBqQLZxfrO_Jz5XhLjgHTBn5hq-ryzn2ghLci9MTWQteg5DQTVbcnLthLtFmyBNPLOGgXwVkroUYSBLhM5yzCLXhJbccapWhcpCoK-ddgAI7nY6jpCeQKhofJ5rwnyHAqW-J8O8vYOT9Z2gMYeJrPK8piyJVP6UDw1pb01Q",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Ivan Liou",
+                        "uri": "https://maps.google.com/maps/contrib/116360637070749253206",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDRnnPLG11fli1ODOzUD3j4Wnp4ERZOKn5MUGAbBp1PzgONZlROA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC2oMLGag&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2oMLGag!2e10!4m2!3m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            },
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/photos/AXQCQNToKnAc-_bucWj3BmX0ISQheJ1sFNbPH_QS9jna9TqDj_Fs9esXYKqftHIbXmI96zsoNClqI5gN9b_euyFMlsR0fZ6g7i-MZsePV6_c8cXbHfLlLReX96QlBJDjzsq-Kg2fVnfTL4SDuwJEf4nrk6KBCIGt4xKppGVQ9REc3Eic7J49zQNs3zoFw_XcMs0gZuKUi3RVqX5ARAGCU6AGQvlCKyhUrFSugyJE8aS0rokU2JkTXrG3Uf0aan5YvZU5ofXW0Ln8PasUHdTJM4_o9vBj4Id69oC1EY7hCZk6Ng4epubQqnK6lUKmB-E45FN2ifT_rbL3qjUJnzl04g1hCP-tHDQBFK0-QiiZAH3FYwdRwTZHoQ3tge3MfQlDuEB53VPUD3HTdQZhaui76w8pfG3hgGPW_KJ8SfMc6ejS8E92aw",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Jack",
+                        "uri": "https://maps.google.com/maps/contrib/106288565584051666357",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAz__X8LkfzCSM6CtMEV009262f_gpetU5m9GJjEGYH28gnOyv=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICv8eWpRw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv8eWpRw!2e10!4m2!3m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            },
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/photos/AXQCQNQX-5XGkSSvkBUxi1ondwdAdbeLMGEihsE6A01OkTD9tkyzT2_HAbyfvQJYzH46z_URiTapHW7MctT6gk130XjAFntnqF5X8Vwtn__hkUVs6vUc3wfPb05lH2TnkWoRoCzE7vpwqP1H5JaUwMPgWbXN1oheAzMn6QZI_q_t9L8pimWMryc9whfVO2jyxWAk6_ZPuTeBa75YsGFAYHHBY1cyKo8OhK67b02Ca-hDqToSp_nkK-SgL36CijDRLoyoAdzPznpHinwmylpl5p-0KZt2YxHAk4vg2iXGpXQ1xMhCGKQHy5eIAvnUWrkOBZL39fTjJBo3NgELns-r_5mwhsPXss8IK1e7S47QXN925cyW9N6KmsFIg5xS6hrdmaoxt3P5PObtZ-ocoyQ_jYwmxJJuhKo5_xtpWKT90gSr3Hwl0UVc",
+                "widthPx": 4608,
+                "heightPx": 3456,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u7c21\u5fc3\u6e1d",
+                        "uri": "https://maps.google.com/maps/contrib/117007632704056515492",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULLAytiwMEltLmgPFfs-3fKfoIKJ1u-lz_diYab2lw3gkZI1i2=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICN8NPTrAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICN8NPTrAE!2e10!4m2!3m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            },
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/photos/AXQCQNT6QzvVlri0EJjAqVGOY4jsRqOcOukN81J8kxoZpxe5zmt06mmFvpThaTdrS9CQxu-fCrZWxMHH348gj3MnW788TgNV8iQyaFS2qs2sBvdHwivPzQ06ozsh-nmfPlznb5I1Hcvsva7GTsAQMD9rWX9dPHu6RCv7EuLQv8AtnPy1Fe9qZKNARc42jjEO2SreGQxh0g20CDIQ2eGPV1MTvGdFtFDuKHjaxQCedKRsf8Eo-QYjX8Vv70XhRkd0D2rulRYaGK1a4-P9Cw-ZI3nsc9Y8efUZJpXoK3Jr0pbozc8HlVEYj_VeDyAWE62CW5ERwtlx75n75xnWKU5oMCNFmbZkZ3aK-MCLSdq5-NgF8iK9yxmYk4vQq3L6Nibyhk9ulVaffbs2co9j-qhmigl_nau0TtV2e1ubK_ex5xhPDfMwAg3R",
+                "widthPx": 4800,
+                "heightPx": 3599,
+                "authorAttributions": [
+                    {
+                        "displayName": "alex chen",
+                        "uri": "https://maps.google.com/maps/contrib/108938676310268681030",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAWq8XyeJ9eqDlcMiKdeCmQ7T4ilg36gqa_NFcDQizbepaq73t=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICewsySwQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICewsySwQE!2e10!4m2!3m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            },
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/photos/AXQCQNT_1cBl2COSRLsN4YXHpTHDS7N2l40b3112kYSPCVyOAdwPo8z9DedceN4M2OwyYFNMCQ4Yb0xm3R4EvXHvsCQgn996xNotqxMx-ALMAYYJJyP1RFp6H33abIiC2kUY4Z9icZNcc_LvxnJ_GFfvc_HLTBmEanSnaZyN_gD0ttWhCA96z7GfraqKSreJ83efRI13EB5g-BmLaJnj_aAjiSwjmAeTqhyX_b9zUTTtXeLCEGXh7jXh6lXrRXi1Zg-WZR1mh2EIZ-v5gALPx4wwYFobNpm-0oN8Eq0FUA21HLOmmwFbZ2OQrEwEWq9uBlhoLcZWjLqk1dMUoxSj2SkfZSzmo1zcsRsOxGHeHNOTgZ4oKQNvIXtEylNTtwbijTrTZ3hXCiw16axnXWksHb5Tj8KMSzZJyzVVYR6rddCv1vZFLKg",
+                "widthPx": 4800,
+                "heightPx": 3201,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6797\u5b87\u8ed2",
+                        "uri": "https://maps.google.com/maps/contrib/106481741262547438319",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjgnNgQawNaHcmHh8q2Vk-FErnCW7UWLGe3SLGsA62qCMDSIyFjQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBrMDUgQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBrMDUgQE!2e10!4m2!3m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            },
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/photos/AXQCQNR81MP4yNdABSzILbmPe5L9rzC-mXTpgIInci_vsc9CqimV3iU0_o2eB5A4iseNSDNW_yIc7h5EBQjULB0_U5O0wzb_N34C58cbk0EAb52QGDgRuA7As66lheX64DHwkTgz3tfh_fu0U0LnkcKwwwqEDT2mM2YTx5xNHoV9hRwh00PZCl1Hd2j687lkpSjgv0UsbPVH7vqp9_gwTDb8nxOUS_ICz8V7ZH-Tx3aU9A1fep13l1wNaBUDlGqEqjtccO0GiT70qs1lrjhm3tIkVlXqAOgG5z2Ie33rmChZnyrOzTRxQ4Ym0IndQI3WD2hGcsnUOdQHs0loADM6biBXVT5v7qm-ZIorKZEiXOP-yz8yCWzpqUfeVuepZi3PQDwqe6CQwOsbpqgguBBmwth4WtOIXYOB8ZoHimHKS-rqzuoj4w",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Stanley Wang",
+                        "uri": "https://maps.google.com/maps/contrib/113224907863101083550",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJj8ty-NL3R-6E0yeA-gts2YGil_S4bNd9Z93hs-j4M0buSgw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu0tmqJQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu0tmqJQ!2e10!4m2!3m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            },
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/photos/AXQCQNTq-vnBU2fzGw66etOgG7wlKfgl5kAd1m_Zewz2w58kG3WlQbWe1iwUgVeKR7fs3mj1T2L9nQx0SLLPJpBbMu__FW4wp_YBgLkQmS3QYyDVgJILPLoUR5X3lLSOZaIGZyzKeQjf50kwGnDd-xoWZphO4G_XIYqqI1DvMk8nA3gDo1X_HuuwCD4K1Q1PSeI32uWMrtlnYQBvcIZWr_ha1OBhiWgX63T7jlnfCh0EceXzBo4diu81332JfoQi2FRokoEEFIAu1gwj4rL4xW66uX9ptd1dqaVOMrTf9f-FVR6v5VI6jMkEup63s7uSyJwELyhy1S6VNitg29DRWT1MPugw6QgN5hIRolReb8WcRNgI8U0jdGlfJhy1gWXxnGNhw-bid-9-IhZVoi8b3GF7gTiAgMQkOMWdn8eUUPAlN3gf-A",
+                "widthPx": 4800,
+                "heightPx": 3199,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u660e\u54f2",
+                        "uri": "https://maps.google.com/maps/contrib/109659646949364223418",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWpZE2WKHdHcfBW0gHGUVb06-ke6UCW3z7qMNIJ0ctwql0C0Ov=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICc1pG_OA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICc1pG_OA!2e10!4m2!3m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            },
+            {
+                "name": "places/ChIJG8k0XaMaaTQRLsko2uoD5Rs/photos/AXQCQNTYYDZR39ie5DRODr-tV5e3ADLlK-DdtcK82epZECqnk1rEfpy9f_JIk75LwKdf9I_ey8Dq8FbaEXI4lD_WKfsCRhQ9Ur6laSQyCRLNpmfmHMx6TbtbHCzh7Vjfw_5oY8SQQV0o_RmOpKkymQE5PHK_7VvXJd62equv2iuL_HsDB-R5jtMLBdDW8zHbd_4w1M-1otNp9BhysKCDb_3WxE0Od2iGDLCXmaA7rGZtiOWyzTV1ARor_pQYBVN53ZjO4TWYduZreJ6TfeFSdRoXQVqQdjFlw7DaDESRN5lllERCyObLANpOfgaSHBX2DDZUtu3mgS_mzB53-hZbVZVG6Gmw4Bvuor6HGLT-TlRZHQEd4B-NITW-3lWaS2dBnBQRUwWbpa8U7rY0v2weP438cXbUh4toqEQ3jkbv4K-E7jA",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9ec3\u747e\u6f84",
+                        "uri": "https://maps.google.com/maps/contrib/105119237010125587537",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpqVhFSXOG1wq1mh1I4cM3dn-Ntr-jPEH2Xx1zfonWT-AiIHOXIQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR74XtFw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR74XtFw!2e10!4m2!3m1!1s0x34691aa35d34c91b:0x1be503eada28c92e"
+            }
+        ],
+        "goodForChildren": true,
+        "restroom": true,
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleRestroom": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJ1XCHjWEFaTQR-n8QPsmLfsI",
+                    "placeId": "ChIJ1XCHjWEFaTQR-n8QPsmLfsI",
+                    "displayName": {
+                        "text": "\u540e\u91cc\u9999\u9999\u8349\u8393\u5712",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 95.2441,
+                    "travelDistanceMeters": 122.84208
+                },
+                {
+                    "name": "places/ChIJYaEHx0gFaTQRqJ7ip3BkUZM",
+                    "placeId": "ChIJYaEHx0gFaTQRqJ7ip3BkUZM",
+                    "displayName": {
+                        "text": "Meng Fang Flower Market",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "florist",
+                        "park",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 380.51364,
+                    "travelDistanceMeters": 416.98117
+                },
+                {
+                    "name": "places/ChIJmxO4wlYFaTQRYz7t7jcn2Ow",
+                    "placeId": "ChIJmxO4wlYFaTQRYz7t7jcn2Ow",
+                    "displayName": {
+                        "text": "\u5609\u6069\u570b\u8853\u9928",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "health",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 202.8011,
+                    "travelDistanceMeters": 234.65112
+                },
+                {
+                    "name": "places/ChIJqedmiBAFaTQR9bdfzzklj_c",
+                    "placeId": "ChIJqedmiBAFaTQR9bdfzzklj_c",
+                    "displayName": {
+                        "text": "\u963f\u83ef\u65e9\u5348\u9910",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "restaurant"
+                    ],
+                    "straightLineDistanceMeters": 420.43964,
+                    "travelDistanceMeters": 453.68402
+                },
+                {
+                    "name": "places/ChIJ6wyafMcFaTQR02-edke2-4w",
+                    "placeId": "ChIJ6wyafMcFaTQR02-edke2-4w",
+                    "displayName": {
+                        "text": "\u6e05\u5fc3\u798f\u5168\u540e\u91cc\u4e09\u8c50\u5e97-\u73cd\u73e0\u5976\u8336\u624b\u6416\u98f2\u6599\u5c08\u8ce3\u5e97",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 337.36063,
+                    "travelDistanceMeters": 369.42636
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34691aa35d34c91b:0x1be503eada28c92e!3e0",
+            "placeUri": "https://maps.google.com/?cid=2010017115908131118",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34691aa35d34c91b:0x1be503eada28c92e!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34691aa35d34c91b:0x1be503eada28c92e!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34691aa35d34c91b:0x1be503eada28c92e!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "421",
+            "administrativeArea": "Taichung City",
+            "locality": "Houli District",
+            "addressLines": [
+                "No. 333\u865f, Section 5, Sanfeng Rd"
+            ]
+        }
+    },
+    "description": "Zhongshe Flower Market, nestled in the heart of Houli District, Taichung, Taiwan, is a vibrant spectacle of color and fragrance, consistently ranked #1 among Houli's shopping attractions.  Located at No. 469-13 Sanfeng Road (though Google Maps suggests a slightly different number, No. 333), this isn't just a market; it's an immersive experience.  Imagine strolling through meticulously landscaped gardens bursting with a kaleidoscope of blooms.  Rows upon rows of tulips, cala lilies (especially vibrant in late March, according to recent reviews), and countless other varieties create a breathtaking panorama that changes with the seasons.  The air hums with the gentle buzz of bees and is thick with the sweet perfume of countless flowers.\n\nThe market itself extends beyond the gardens, offering a wide array of plants and flowers for purchase.  From delicate orchids to robust sunflowers, there's something to capture every eye and ignite every green thumb.  Beyond the floral bounty, visitors can often find supplementary treats, like freshly harvested strawberries (seasonal) and juicy, sweet red and yellow tomatoes, adding a delightful culinary dimension to the experience.\n\nGoogle reviews paint a picture of a well-"
+}

@@ -1,0 +1,557 @@
+{
+    "name": "Sea of Flowers in Shinshe",
+    "tripadvisor": {
+        "location_id": "3648973",
+        "name": "Sea of Flowers in Shinshe",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13808508-d3648973-Reviews-Sea_of_Flowers_in_Shinshe-Xinshe_Taichung.html?m=66827",
+        "address_obj": {
+            "street1": "No.30 Xiexing Street",
+            "city": "Xinshe",
+            "country": "Taiwan",
+            "postalcode": "426",
+            "address_string": "No.30 Xiexing Street, Xinshe, Taichung 426 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Xinshe",
+                "location_id": "13808508"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taichung",
+                "location_id": "297910"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "24.201614",
+        "longitude": "120.8105",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 4 2582 5466",
+        "website": "http://flowersea.tw/",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13808508-d3648973-Sea_of_Flowers_in_Shinshe-Xinshe_Taichung.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13808508",
+            "ranking_string": "#2 of 16 things to do in Xinshe",
+            "geo_location_name": "Xinshe",
+            "ranking_out_of": "16",
+            "ranking": "2"
+        },
+        "rating": "4.0",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "178",
+        "review_rating_count": {
+            "1": "4",
+            "2": "4",
+            "3": "47",
+            "4": "62",
+            "5": "61"
+        },
+        "photo_count": "561",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13808508-d3648973-m66827-Reviews-Sea_of_Flowers_in_Shinshe-Xinshe_Taichung.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "nature_parks",
+                "localized_name": "Nature & Parks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Nature & Parks",
+                "localized_name": "Nature & Parks",
+                "categories": [
+                    {
+                        "name": "Gardens",
+                        "localized_name": "Gardens"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "3"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "38"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "10"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "64"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "41"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0",
+        "id": "ChIJq6qqqtoeaTQRyOOkp6nfoP0",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "04 2582 5466",
+        "internationalPhoneNumber": "+886 4 2582 5466",
+        "formattedAddress": "No. 30\u865f, Xiexing St, Xinshe District, Taichung City, Taiwan 426",
+        "addressComponents": [
+            {
+                "longText": "30\u865f",
+                "shortText": "30\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Xiexing Street",
+                "shortText": "Xiexing St",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u5354\u6210\u91cc",
+                "shortText": "\u5354\u6210\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Xinshe District",
+                "shortText": "Xinshe District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taichung City",
+                "shortText": "Taichung City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "426",
+                "shortText": "426",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QP26R37+23",
+            "compoundCode": "6R37+23 Taiwan, \u53f0\u4e2d\u5e02\u65b0\u793e\u5340\u5354\u6210\u91cc"
+        },
+        "location": {
+            "latitude": 24.202538699999998,
+            "longitude": 120.8127498
+        },
+        "viewport": {
+            "low": {
+                "latitude": 24.20129431970849,
+                "longitude": 120.8114021197085
+            },
+            "high": {
+                "latitude": 24.203992280291498,
+                "longitude": 120.8141000802915
+            }
+        },
+        "rating": 4.1,
+        "googleMapsUri": "https://maps.google.com/?cid=18275853207624541128",
+        "websiteUri": "https://www.seaflowers.tw/",
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 30\u865f, Xiexing St, \u5354\u6210\u91cc</span> <span class=\"locality\">Xinshe District</span>, <span class=\"region\">Taichung City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">426</span>",
+        "businessStatus": "CLOSED_TEMPORARILY",
+        "userRatingCount": 2434,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#13B5C7",
+        "displayName": {
+            "text": "Xinshe Sea of Flowers",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Tourist Attraction",
+            "languageCode": "en-US"
+        },
+        "primaryType": "tourist_attraction",
+        "shortFormattedAddress": "No. 30\u865f, Xiexing St",
+        "reviews": [
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQOHZmeFBREAE",
+                "relativePublishTimeDescription": "5 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "Annual event by the locals. Nice walk about in the sea of flowers. Definitely instagram-able. Entrance to the park is free.\n\nThe organising committee even arranged for complementary shuttle service to ferry the visitors from various train stations to the event. Very much appreciated.\n\nAnd like most events, there are plenty of street food and snacks; ice cold drinks to keep the stomach happy and heat away.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Annual event by the locals. Nice walk about in the sea of flowers. Definitely instagram-able. Entrance to the park is free.\n\nThe organising committee even arranged for complementary shuttle service to ferry the visitors from various train stations to the event. Very much appreciated.\n\nAnd like most events, there are plenty of street food and snacks; ice cold drinks to keep the stomach happy and heat away.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Guanny G",
+                    "uri": "https://www.google.com/maps/contrib/110289275840637213691/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK6tXSqR6u0yuxYLuw3P4LTb75RpMioNcKmKMPvMJW_U91siQ=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2024-11-23T02:55:19.633402Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQOHZmeFBREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQOHZmeFBREAE!2m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            },
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzb3RmN3N3RRAB",
+                "relativePublishTimeDescription": "6 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "The Xinshe Sea of Flowers was an absolutely breathtaking experience for me and my family. Visiting during this annual event in Taichung, Taiwan was like stepping into a colorful dreamscape. The fields stretched on with vibrant blossoms\u2014cosmos, sunflowers, marigolds\u2014each creating a stunning patchwork of color that seemed endless.\n\nThe festival's thoughtful theme added an extra layer of wonder, with intricate floral designs and installations that were both whimsical and impressive. My wife, mother-in-law, and our one-year-old baby all enjoyed the peaceful atmosphere and the unique displays. It was a perfect blend of natural beauty and creative artistry.\n\nThe educational centers on site were also a pleasant surprise, offering insights into Taiwan\u2019s floral and agricultural history, making the visit as informative as it was enjoyable. And with free admission, it felt like a gift to both locals and tourists.\n\nThis is a must-visit if you're ever in Taiwan during late November to early December. Our experience was unforgettable, and I highly recommend it to anyone looking for a serene and colorful escape. \ud83c\udf38\ud83c\udf3b\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The Xinshe Sea of Flowers was an absolutely breathtaking experience for me and my family. Visiting during this annual event in Taichung, Taiwan was like stepping into a colorful dreamscape. The fields stretched on with vibrant blossoms\u2014cosmos, sunflowers, marigolds\u2014each creating a stunning patchwork of color that seemed endless.\n\nThe festival's thoughtful theme added an extra layer of wonder, with intricate floral designs and installations that were both whimsical and impressive. My wife, mother-in-law, and our one-year-old baby all enjoyed the peaceful atmosphere and the unique displays. It was a perfect blend of natural beauty and creative artistry.\n\nThe educational centers on site were also a pleasant surprise, offering insights into Taiwan\u2019s floral and agricultural history, making the visit as informative as it was enjoyable. And with free admission, it felt like a gift to both locals and tourists.\n\nThis is a must-visit if you're ever in Taiwan during late November to early December. Our experience was unforgettable, and I highly recommend it to anyone looking for a serene and colorful escape. \ud83c\udf38\ud83c\udf3b\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Chong Tee Lim",
+                    "uri": "https://www.google.com/maps/contrib/109461726488295375671/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2dP50qgTd-QOr7vth7K6WXE2Lp0LCY_TuE3BoUBP4sT65JGUAFg=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2024-11-13T14:50:16.342158Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzb3RmN3N3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzb3RmN3N3RRAB!2m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            },
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQZ0xQcjBRRRAB",
+                "relativePublishTimeDescription": "5 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "A bit of a drive from Taichung, but a great place to see flowers, some structures and people watching.  place was jam packed on a sunday afternoon. Besides flowers, lots of small market vendors selling nick nacks and food. Parking was a bit of a  mess and Uber took a while to get from Xinshe to Taichung.\nAbsolutely worth a visit but be patient.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "A bit of a drive from Taichung, but a great place to see flowers, some structures and people watching.  place was jam packed on a sunday afternoon. Besides flowers, lots of small market vendors selling nick nacks and food. Parking was a bit of a  mess and Uber took a while to get from Xinshe to Taichung.\nAbsolutely worth a visit but be patient.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Rajesh Kariya",
+                    "uri": "https://www.google.com/maps/contrib/107644796770257373373/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJEFZgmppZq0LwmKVpjUQ97js4xNuBNCm139O3O96IiypjMFQ=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2024-11-20T15:39:04.501557Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQZ0xQcjBRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQZ0xQcjBRRRAB!2m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            },
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIdDU2amtBRRAB",
+                "relativePublishTimeDescription": "8 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "A lot of flower and thanks for the good weather too. I visited last year Nov. And, there was an event here. There was a small market there selling the organic goods and some snack. We are enjoy here but kindly check the flower seasons before you arrange a trip to here. You may skip here if you are visit here after the flower blossom season or raining season.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "A lot of flower and thanks for the good weather too. I visited last year Nov. And, there was an event here. There was a small market there selling the organic goods and some snack. We are enjoy here but kindly check the flower seasons before you arrange a trip to here. You may skip here if you are visit here after the flower blossom season or raining season.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Jask Lee",
+                    "uri": "https://www.google.com/maps/contrib/100418353557240967790/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUk6RSrJwHjRhrZ2FNWov4j0_SPvME_5ykLkOoKVsY4mVA6yBkh=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2024-09-10T02:25:07.744397Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIdDU2amtBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIdDU2amtBRRAB!2m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            },
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQNjhmaGZnEAE",
+                "relativePublishTimeDescription": "5 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "5 stars considering it's free and really nice place. There are stalls selling local produce. It will last till 1 December 2024 only, quickly visit while it last.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "5 stars considering it's free and really nice place. There are stalls selling local produce. It will last till 1 December 2024 only, quickly visit while it last.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "AI",
+                    "uri": "https://www.google.com/maps/contrib/102522361016844679487/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgiLCOPwUwvGBD1U9aWgB9_WMOUF2-9XM2SY15A5ZJ00mXdsj6Ug=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2024-11-28T06:18:23.020888Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQNjhmaGZnEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQNjhmaGZnEAE!2m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/photos/AXQCQNSu3mBrwIVfFDoV4ByMjTq3nZkIRJskEHes8D53FJOugMh9YGgWGJHBj5lUGaRydwE7oK9VrKGT_jGTOx97bR9e874aVC-BDArbKIcXjFJGwwQZIG7sZVU42FHrdnfIt38D7O9mXoTYl1bWlLW7QfWjI01I6CUJnfnNJs8pt2i7JIA0y0XY92kk7tCyDjZtJpbsZchOZgj79dSXvJ9gmkI14c5DJnhUQwPRP225dgFJe97zNKFpywqaY7jNptFBbndefxjjQzZGJ1RXsbcf4kA5ZujCnMrLKdYxKOzxYbDgyzNzP6yyTUjALTE_ZzqTk3cboZM_d15c7uYpygvqTbDqEfCzqCTK_biLp4sigqnMzW23kplmQCPANFKiHFyHl3xMmnfxnyNjCaMNANJcbXf4wiLJ55L-hJJW9uABL90",
+                "widthPx": 1477,
+                "heightPx": 1108,
+                "authorAttributions": [
+                    {
+                        "displayName": "Amy Yang",
+                        "uri": "https://maps.google.com/maps/contrib/107399526836265891453",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyGaeBLaOmLBPH6mExsCiRDCYGcSUFGZIK91TtGrPjEqpyztcqGw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDl6vreIg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDl6vreIg!2e10!4m2!3m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            },
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/photos/AXQCQNQh0PzGXHQ6itPRhaqCRXEUOjrmlSNXe-afXCxi6nOj_q8-Xt_tOZOD94HNqr62Q1i5zbwyfub_inP7kgZjb94DiVZhc1rBscpeaQ-rPkuH3Pf1xvFGmokalGcvhN0Xpd9eLB3LfVS9ErOyZkDFTuBuLIOJGTz-n3OkGUe7NGYTZ2VMg_-3bW-r3oQIskruJrasLmXijHF6aTr0zmeslWrRG9nK-EIQhg4Kv3irlGfe5gd0zxr_mr225xmU4JcQmse4hPu1T5OtRyv5S1AYarRpdgsrVbJrwR5BgFOlZcrcUywbPr1sL-OpBdWPQsjESaqZhmvifhobEoib8hJiay5uUpdBIxESJ4g-8_VxhwAk94aLrB_NYY9hL1psH4WASftm0DvEEjsTljgoiZeYN7mBpXqUU5DRwDWdkup1E5xezg",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u7dad\u62c9\u5c24\u963f\u6797",
+                        "uri": "https://maps.google.com/maps/contrib/115005563713924484533",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUw92jsm2698SbaMPMSulJYZDcNOd2pvRWTR3PVuj8Rx134Oq8=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIChltjYVw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChltjYVw!2e10!4m2!3m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            },
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/photos/AXQCQNTBPwOeQcm7stWZbOXXmo-ueLX7bmI7X-WwUGSzmvLw5SbUe3EOR83aWIwJ32uoZqnRNIiI3arT-oKgkpXK1FKy0Gw3VeUWzO_V9fyNvwOq05n6DkHLFZz0kTUXSwHlwdTL2O5vQ1hmiJWxeSEh0gET2wkTEQ1_E7EInhPeyoMOiHptnhEHZk6GHdONHq7Gb5GY_auSXH49MyOggWZj6GtYdLNAaiTFkxlwj_Jmmv5-7Agh4emyJv0a3XPJvB28OMUhTHIQncHRv1iY3aE9pBsY0UbV6fhzNcvIYs04Pmq_1Rdwd0Rnk3nFwR3NHN0Nr0qx2qXWJP_3l6QlALJa6FJSWaSrIAzodjrXg4KOsL9nZ9dqrr1xmJb9UK91EaUe6WMdgPD2o6PVpclWB0rnNTh7uCUn6c3kdqZ3SLRUwaK2mslY",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u4f55\u4e2d\u7dad",
+                        "uri": "https://maps.google.com/maps/contrib/112598289697123162937",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJsFigB6ucCAbWxbU3jA1igI5OfByx7xptahwhewf-UZA1G3k=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICl0IHp3QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICl0IHp3QE!2e10!4m2!3m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            },
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/photos/AXQCQNSfha1meCQNPdcMZmhGmTL6fwBR4YrKpO63N4oytXp_85_36-J7rgaNnoHDmo3l9pKvegarki0Cr6m1gwXmbAN2imy59zuB-kqALaEXoqwGzyFTqZfKjGrRHO5Nxnzqf73XP8ZVf6fLiFEPZMcrbd6GGbECVU69r9H3CwB2vSKgmPUu08rdNi1T6R9gklFCacNKUlNE16n1iQ84ZvhT_aY1e3FZP7EbO2BET-JJZkanHR8yRrH9hzq0dVOvfr1E8at0--gY8syEfi6XcP0154anVkWAZbGbMP3b2i9y0z0lScM5xNw9ZOnPaossM4yWunotTvKkOfHbWjj8urA6jAoLhdm5Vntn9yA6wWhnY-ngTUmx8He4ypC48GpsKBOOleXoyq47TF_8AIXZWPQbpurDCJ1ZncTsvOg9BLoOH2IEZNQ",
+                "widthPx": 3000,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6797\u6587\u8b19",
+                        "uri": "https://maps.google.com/maps/contrib/110395857151774419408",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJSvRUips-UCp9B18vw-sFHp68fTtFcQ-y9s0duq0gfYWt7GQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-66LIiQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-66LIiQE!2e10!4m2!3m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            },
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/photos/AXQCQNQjb5-oYnQr6w4rcP2Ob4MpWXZXzipjj_jJlqpfTQs2IpPw9ptFpp7_Yq6QzdHDMy1Wx_q9A8n6L7wokkkz5VtEwNU3HQ3IJhRy-R2A_tq9lkWnwZ3PFy1Kw0f_TM_JJorOHkbOQ_JfPELKaD28cs9mcdpooRa_X8DlklKc74Se92qcqLy58ha3JhvT60qUGM4toOvjfRe_gWSTu5fcMw_OTdVhrH0jdryHEJ1qW7UTUmTIoXfzj2_8KBk1Asitz25g1CwAKmrECmdeU6zR_d88x_nXiBBMtDspQCIk75uthgk81hjk2bSESoKhVbVqZdvCMWKLdeQ6L0Bl1sb9kYj-NmJvxO9DPfHF_aSVLOdd3cnhDFtFJQ4DrFeWYkuQPQIIoxfdBQcT9GYU5JACJU3b4ZX5YKLWLjPwefz-munQBQ",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9673\u97cb\u653f",
+                        "uri": "https://maps.google.com/maps/contrib/111284542703910879461",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBpOz3l9dDzLSAqRmRkckkAwOGmSTw_vSwKCwqFCB5vB1AxrJw1A=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIClsb2Dcw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIClsb2Dcw!2e10!4m2!3m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            },
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/photos/AXQCQNSIjyfCvy-eJsYVL9ry0A9NXYIXtyPK5_KPhCt_6Qa0eW4Wk4hmwHlak9fhycJ4qjmm7Q-UiRQa6igYhIhfd0uDS8odcOcB0Z8r_WVkh6XHQ_HX6UzT-VHVSi70-McUAdWru6BvH-MCmEOFBtBlAeGZZq-MVRXBqqwwv3mIYGdRIMWNXkW_w6H3fASpTQBB7KklYA451ByzkoV2vvr60ozE0IlwIagbNR_LDjfMKxoSI5Zx8HtYDp7oCxHcrAhW2Hzdus8wCCJ2NO-NYmQxioQgdseEEt77ZwMVa-E-0jBTLzshC4BDlwclqG9yhXcTlEZfcVr9asZxHUp2Dgjc66nQDlvAvir5CUO7AqQde6YpK4pfR0l9kyZDG66cknASocBgrFkFtpKFx9rWrg3mOA0f3Tby1isbmOcSVyCM98LGBufU",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u7dad\u62c9\u5c24\u963f\u6797",
+                        "uri": "https://maps.google.com/maps/contrib/115005563713924484533",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUw92jsm2698SbaMPMSulJYZDcNOd2pvRWTR3PVuj8Rx134Oq8=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIChltjYlwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChltjYlwE!2e10!4m2!3m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            },
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/photos/AXQCQNRPUt-ZndhXC9TiEfH8VbaXO8Rz7VLatgVdzVNCEw2JCCe0yfJDCf1lHUppWW1Xqf68Cs4IuenrvhcBIznJN3yZvdvGJm18NbsKq4N1VWtDG44OhyO_6Z3WX6CY8Dc8rUzYqBQvtrHCLQ0zm4C7h6pCbYQSjJtTSpZdSIjSig5zUn7ObSxOI04UQzMXfWjhpvFiuiyWu6QQu_zMRLQjGKm_a2gVuY2HDt68Z2sQAtO01hDRUiHfdu0Fb3wsnG4u8Q-uV8EmDefWqHdV0i9TC1zcNd0LQJQGlOUGRjn799rlSRAnJelSBg45Gk3Q1vgTUuDln74AcA8vfepNKjFGI2tmsUTI6wlLDZyzQpEFq95QVl0LpTB3jHKR39XKFQteQheizmGqacy20dQAEq0xi04ibufAfihEiJUYC3xnINnpKQ",
+                "widthPx": 1920,
+                "heightPx": 1280,
+                "authorAttributions": [
+                    {
+                        "displayName": "Hsiaoyi Lee",
+                        "uri": "https://maps.google.com/maps/contrib/118128031853579828812",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4-7GhSzzvwiQkMYuTJu9iY99QSAH5zYI49lhBJBRcsL8gixDhTQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICl0s2qRg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICl0s2qRg!2e10!4m2!3m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            },
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/photos/AXQCQNQGfiZYlK0e6rxgB-iJi-KxGGBYOsy0gfxfhUYB9cSTKItyvm0FkVoJFqhSgjNFiPS2sdikLvL9wFLh-SO0DwEiidpxjYM3l0UrcTXB4Bip7tP09DWH-YK1uaImt9XGReZrEYFZuD5BbUwc0r3J3NsiQ1wIZFKPbg9b-khhWGnogSYCvynBVPFtaPIQaVM8fZwiuxs2fKEcrIxnkh5QFVdqdQ_W20CVPoITgutIvIx-Y06R1qbTFnTUb4fw2nX69wdpz_akMbFebNFzeh1bPH8dCSSwkLz9c_opqpYy5jYDWBTDW2mYhxm90GuKO0QjhDhoeazX22mJKKSD1_c6E8_-CC-nmh_iPcZmLtFkGwBlyfZuncKSwpJG8QBn97UfMsK65tNMHh5qyXY8AtAL4o3KhSYP07LaklaHzg124ks5Fm44",
+                "widthPx": 1522,
+                "heightPx": 1014,
+                "authorAttributions": [
+                    {
+                        "displayName": "Rong Shyang Kuo",
+                        "uri": "https://maps.google.com/maps/contrib/100724183645392808413",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9Bd5FKCQQhY1pqi1auL4-mi_LRt0e7VBOhQndbJ7JUj-C5e2P-Q=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3lN-HxgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3lN-HxgE!2e10!4m2!3m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            },
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/photos/AXQCQNQhpV-SzQd7I179Dy4GLpyo56hc6U2q0JJhBae0wc67VKDHxHHk55sMBa697f-Q2y7f_aiDDRJJyieSYc2wH1MstUDjL-4-nBRd8mucb69-a5sJBAyMlsaxhz_yQKdlZkFkcOptW1YTPqOw9uz5nyiC31pDhsG1oSdb66FPGLosJ-qvdS8f_KDpj2cVHmEcb5hc6FiKa3PPBpujjGxOA0-eouElTzBFpeunU1xrQn-7KWHXHADbpovpH7hWWhD_ofPOYQivb6m2m8MsKJnKtlsATODtggylw90pImbuenMpDcy4ewsscttYeHnidIZeADkv67FeSyFJv4KXCcirgpGeAoW70nEr23UHZylxL537Ut9hKSsPaCBMfhreJ8vousWyvyeCeEjzcDCurXe7e3TnB9xV-J66XOTDNsBhbX9CEg",
+                "widthPx": 4608,
+                "heightPx": 3456,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8b1d\u975c\u83ef",
+                        "uri": "https://maps.google.com/maps/contrib/117551600855278604751",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKejO9Os6VleHrdGqkqkLwO70PjeGYHEJxK03aaHNSblmcQVg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDi0rumfg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDi0rumfg!2e10!4m2!3m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            },
+            {
+                "name": "places/ChIJq6qqqtoeaTQRyOOkp6nfoP0/photos/AXQCQNSTFn1pRh-YWc7b_wzpKIwKlf3HRxNIkY9gbQvvwY4IU1xu3NfwL8mVkg76fS7oesRqLs5vaOSThLBx-LDh9feW7GbXdW5nsE0Rs6Ad-UO_eByYyH_3WgPEKh0Z32W8IsWJhfj6IKo404EVol2B-5lXUOGGuy7RBZ_FRZH_VuCgmAZ-lTs7iUl5Vvgkb4TFsNSKaCbZ_qMKLCH_h0vp7Mz0VcTngCf0YJKRf-E4vhGuBArvQhbkbxhnMcui00An-tarf-A5rEOVMuEixOooFdTDN2NfGco6QwW8shk6pYVACp5aakUC60Y-2wVPztV1VDoHbZ2VxayIDXafloLBCXdBbgqLMIQG8bQrF3XQSM7dX89nWbnGSYtBv3MxlCVkVbaLHgl7q54LwwH6tLuMDEsbBo9qNZKiVCZg8YwpgrD3a-c",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5f35\u967d\u9054",
+                        "uri": "https://maps.google.com/maps/contrib/111746138588544543070",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIV9CaFMoBJ6qzhdI2uzdvdj5lrPZxbG3rcgpYtHRhQ3a9sNg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFv7i64QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFv7i64QE!2e10!4m2!3m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8"
+            }
+        ],
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJlWSOabQeaTQRh49pAc_TK-k",
+                    "placeId": "ChIJlWSOabQeaTQRh49pAc_TK-k",
+                    "displayName": {
+                        "text": "\u4e8c\u82d7\u5703",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 499.45325,
+                    "travelDistanceMeters": 499.05585
+                },
+                {
+                    "name": "places/ChIJ2wbTSLAeaTQRMHOlzwEBDrI",
+                    "placeId": "ChIJ2wbTSLAeaTQRMHOlzwEBDrI",
+                    "displayName": {
+                        "text": "\u7db2\u8def\u8336\u82b1\u5712",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 479.75204,
+                    "travelDistanceMeters": 578.02045
+                },
+                {
+                    "name": "places/ChIJETBkUrgeaTQRTALznCuaIH8",
+                    "placeId": "ChIJETBkUrgeaTQRTALznCuaIH8",
+                    "displayName": {
+                        "text": "\u8377\u862d\u98a8\u60c5\u6c11\u5bbf",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "lodging",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 341.35043,
+                    "travelDistanceMeters": 469.08475
+                },
+                {
+                    "name": "places/ChIJiyaGOroeaTQROkxkhNsD2dg",
+                    "placeId": "ChIJiyaGOroeaTQROkxkhNsD2dg",
+                    "displayName": {
+                        "text": "\u6d6e\u6728\u5496\u5561\u70d8\u7119\u5c4b",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 489.1415,
+                    "travelDistanceMeters": 525.58606
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8!3e0",
+            "placeUri": "https://maps.google.com/?cid=18275853207624541128",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34691edaaaaaaaab:0xfda0dfa9a7a4e3c8!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "426",
+            "administrativeArea": "Taichung City",
+            "locality": "Xinshe District",
+            "addressLines": [
+                "No. 30\u865f, Xiexing St"
+            ]
+        }
+    },
+    "description": "The Sea of Flowers in Shinshe, nestled in the heart of Xinshe District, Taichung City, Taiwan, is a breathtaking spectacle, especially during its peak season (late November to early December, judging by Google reviews).  Located at No. 30 Xiexing Street, this isn't just a garden; it's an immersive experience.  Imagine vast fields stretching as far as the eye can see, a vibrant tapestry woven from millions of blossoms.  Cosmos in shades of pink, purple, and white sway gently in the breeze, their delicate petals catching the sunlight.  Sunflowers, tall and proud, turn their golden faces towards the heavens, creating a radiant contrast against the softer hues of the cosmos.  Marigolds add splashes of vibrant orange and yellow, completing this dazzling floral mosaic.\n\nThe sheer scale of the flower fields is overwhelming; a true \"sea\" of color that evokes a sense of tranquility and wonder.  Beyond the natural beauty, the festival (as indicated by Google reviews) often features intricate floral designs and installations, adding a touch of whimsical artistry to the landscape. These carefully crafted displays, often themed, enhance the already stunning natural beauty, creating a captivating blend of nature and human"
+}

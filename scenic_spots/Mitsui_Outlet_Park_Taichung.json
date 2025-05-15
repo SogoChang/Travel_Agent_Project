@@ -1,0 +1,849 @@
+{
+    "name": "Mitsui Outlet Park Taichung",
+    "tripadvisor": {
+        "location_id": "15816450",
+        "name": "Mitsui Outlet Park Taichung",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13808450-d15816450-Reviews-Mitsui_Outlet_Park_Taichung-Wuqi_Taichung.html?m=66827",
+        "address_obj": {
+            "street1": "No.168 Section 10, Taiwan Boulevard",
+            "city": "Wuqi",
+            "country": "Taiwan",
+            "address_string": "No.168 Section 10, Taiwan Boulevard, Wuqi, Taichung Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Wuqi",
+                "location_id": "13808450"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taichung",
+                "location_id": "297910"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "24.259308",
+        "longitude": "120.51841",
+        "timezone": "Asia/Taipei",
+        "website": "https://www.mop.com.tw/taichungport/tw/index.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13808450-d15816450-Mitsui_Outlet_Park_Taichung-Wuqi_Taichung.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13808450",
+            "ranking_string": "#1 of 12 things to do in Wuqi",
+            "geo_location_name": "Wuqi",
+            "ranking_out_of": "12",
+            "ranking": "1"
+        },
+        "rating": "3.8",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "61",
+        "review_rating_count": {
+            "1": "0",
+            "2": "2",
+            "3": "21",
+            "4": "25",
+            "5": "13"
+        },
+        "photo_count": "168",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13808450-d15816450-m66827-Reviews-Mitsui_Outlet_Park_Taichung-Wuqi_Taichung.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "shopping",
+                "localized_name": "Shopping"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Shopping",
+                "localized_name": "Shopping",
+                "categories": [
+                    {
+                        "name": "Factory Outlets",
+                        "localized_name": "Factory Outlets"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "3"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "16"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "3"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "15"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "14"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4",
+        "id": "ChIJY-bwtRY9aTQRxoY6m3u_ea4",
+        "types": [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "04 2521 8999",
+        "internationalPhoneNumber": "+886 4 2521 8999",
+        "formattedAddress": "No. 168\u865f, Section 10, Taiwan Blvd, Wuqi District, Taichung City, Taiwan 435",
+        "addressComponents": [
+            {
+                "longText": "168\u865f",
+                "shortText": "168\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 10, Taiwan Boulevard",
+                "shortText": "Section 10, Taiwan Blvd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u5b89\u4ec1\u91cc",
+                "shortText": "\u5b89\u4ec1\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Wuqi District",
+                "shortText": "Wuqi District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taichung City",
+                "shortText": "Taichung City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "435",
+                "shortText": "435",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QP27G59+HC",
+            "compoundCode": "7G59+HC Taiwan, \u53f0\u4e2d\u5e02\u68a7\u68f2\u5340\u5b89\u4ec1\u91cc"
+        },
+        "location": {
+            "latitude": 24.258961199999998,
+            "longitude": 120.5185053
+        },
+        "viewport": {
+            "low": {
+                "latitude": 24.2577016697085,
+                "longitude": 120.5180692697085
+            },
+            "high": {
+                "latitude": 24.260399630291502,
+                "longitude": 120.52076723029148
+            }
+        },
+        "rating": 4.2,
+        "googleMapsUri": "https://maps.google.com/?cid=12572290372387636934",
+        "websiteUri": "https://www.mop.com.tw/taichungport/tw/index.html",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 21,
+                        "minute": 30
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Saturday: 10:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Sunday: 10:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:30:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 168\u865f, Section 10, Taiwan Blvd, \u5b89\u4ec1\u91cc</span> <span class=\"locality\">Wuqi District</span>, <span class=\"region\">Taichung City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">435</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 28172,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "iconBackgroundColor": "#4B96F3",
+        "displayName": {
+            "text": "Mitsui Outlet Park Taichung Port",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Shopping Mall",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 11,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 11,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 11,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 11,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 11,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 21,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Saturday: 10:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Sunday: 10:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:30:00Z"
+        },
+        "primaryType": "shopping_mall",
+        "shortFormattedAddress": "No. 168\u865f, Section 10, Taiwan Blvd",
+        "reviews": [
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNmZiWTJnRRAB",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "Lots of shops and pleasant to shop like the Gloria outlet in Taoyuan.. but it's a little too far for people with no cars or motorbikes.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Lots of shops and pleasant to shop like the Gloria outlet in Taoyuan.. but it's a little too far for people with no cars or motorbikes.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Jshin",
+                    "uri": "https://www.google.com/maps/contrib/115395754029123937880/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKQDSQeTqmKE7sFah654f5G7RU6B8Lf6XrQG5vsZQH4DTvHU4=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-03-12T03:42:32.456984Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNmZiWTJnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNmZiWTJnRRAB!2m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            },
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/reviews/ChZDSUhNMG9nS0VJQ0FnSURucWJEemVREAE",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Modern outlet with plenty of free outdoor parking, and a great view of the Taichung Port, with all the Mitsu outlet stores you know and more. Spacious and clean, this is a great place to eat and shop!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Modern outlet with plenty of free outdoor parking, and a great view of the Taichung Port, with all the Mitsu outlet stores you know and more. Spacious and clean, this is a great place to eat and shop!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Paul T",
+                    "uri": "https://www.google.com/maps/contrib/107392085099241415704/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbGuC53H_kYZVrGSBG1U6eGSGGH_D1WRlspGuTmsHVj-MkevXs=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-11T12:01:15.998938Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURucWJEemVREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURucWJEemVREAE!2m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            },
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYbU9iTllnEAE",
+                "relativePublishTimeDescription": "7 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "The food court is a great place to eat. Our family wasn\u2019t too sure what to order. We just basically went to the busier sections with bigger lineups. You can never go wrong with that method, and it paid off LOL!\n\nSister in law had the Miyatake Sanuki Udon. It was delicious and it was a generous portion. Unfortunately I can\u2019t read Chinese. I did take pictures in hopes that someone who is reading this can navigate to the right spots. Next door my brother and I got the chicken and egg over rice. It was so delicious. If you like runny eggs, you\u2019ll love this item. I got my dad the number 11 at another joint over. It was huge and he really enjoyed it.\n\nThere\u2019s also a play area for kids. Even though you\u2019re an adult, you\u2019ll still wanna play and your inner kid will come out haha.\n\nI\u2019m from Vancouver Canada so even though the prices are a bit higher in this area, it\u2019s still definitely cheaper and worth it to eat at this court compared back to home in Vancouver. It\u2019s pretty much 50% or more cheaper.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The food court is a great place to eat. Our family wasn\u2019t too sure what to order. We just basically went to the busier sections with bigger lineups. You can never go wrong with that method, and it paid off LOL!\n\nSister in law had the Miyatake Sanuki Udon. It was delicious and it was a generous portion. Unfortunately I can\u2019t read Chinese. I did take pictures in hopes that someone who is reading this can navigate to the right spots. Next door my brother and I got the chicken and egg over rice. It was so delicious. If you like runny eggs, you\u2019ll love this item. I got my dad the number 11 at another joint over. It was huge and he really enjoyed it.\n\nThere\u2019s also a play area for kids. Even though you\u2019re an adult, you\u2019ll still wanna play and your inner kid will come out haha.\n\nI\u2019m from Vancouver Canada so even though the prices are a bit higher in this area, it\u2019s still definitely cheaper and worth it to eat at this court compared back to home in Vancouver. It\u2019s pretty much 50% or more cheaper.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Eddy Wong",
+                    "uri": "https://www.google.com/maps/contrib/111879485889774585866/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8Fjpj3y8teHQ4LqbC4PHR8whbU4-XOrTXEwklI9bGRqZLRD20=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2024-10-12T23:09:25.967367Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYbU9iTllnEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYbU9iTllnEAE!2m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            },
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYaE9hb3lRRRAB",
+                "relativePublishTimeDescription": "7 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Mitsui Outlet Park in Taichung is a shopper's paradise located in a scenic port area, offering a premium shopping experience. The outlet mall features ample amber car parking and boasts an impressive array of international brands, including Porter, Roots, Skechers, Coach, Nike, and National Geographic.\n\nIn addition to the numerous branded retail outlets, visitors can indulge in a diverse range of culinary delights at F&B outlets such as MARA Thai cuisine, J.S. Foofies Tokyo, Kura Sushi, Shann Rice Bar, and a vegetarian restaurant.\n\nA major attraction is the tallest Ferris wheel, providing breathtaking bird's-eye views of the outlet and port. Senior citizens above 65 enjoy a NT$100 discount, making it an excellent value. The air-conditioned Ferris wheel ride is particularly refreshing on hot days.\n\nOverall, Mitsui Outlet Park Taichung is an ideal destination for families and tourists, offering huge discounts on various brands, scenic port views, and a delightful shopping experience. I was thoroughly impressed by the extensive discounts offered by the various brands.\n\nRating: 5/5\n\nRecommended for families, tourists, shopaholics, and foodies.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Mitsui Outlet Park in Taichung is a shopper's paradise located in a scenic port area, offering a premium shopping experience. The outlet mall features ample amber car parking and boasts an impressive array of international brands, including Porter, Roots, Skechers, Coach, Nike, and National Geographic.\n\nIn addition to the numerous branded retail outlets, visitors can indulge in a diverse range of culinary delights at F&B outlets such as MARA Thai cuisine, J.S. Foofies Tokyo, Kura Sushi, Shann Rice Bar, and a vegetarian restaurant.\n\nA major attraction is the tallest Ferris wheel, providing breathtaking bird's-eye views of the outlet and port. Senior citizens above 65 enjoy a NT$100 discount, making it an excellent value. The air-conditioned Ferris wheel ride is particularly refreshing on hot days.\n\nOverall, Mitsui Outlet Park Taichung is an ideal destination for families and tourists, offering huge discounts on various brands, scenic port views, and a delightful shopping experience. I was thoroughly impressed by the extensive discounts offered by the various brands.\n\nRating: 5/5\n\nRecommended for families, tourists, shopaholics, and foodies.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Yan Qi",
+                    "uri": "https://www.google.com/maps/contrib/115869370988585670722/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWurwudSiGSQQJ0OrqnTvKxSsBrBm8qrNg-bi5-kRXJQLSICw8=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2024-10-13T13:16:42.176253Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYaE9hb3lRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYaE9hb3lRRRAB!2m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            },
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/reviews/ChdDSUhNMG9nS0VJQ0FnSURYdWRhUDN3RRAB",
+                "relativePublishTimeDescription": "6 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "All in one place, quiet and decent park. Prices are high a bit. But quality are different as well . I enjoyed my time here.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "All in one place, quiet and decent park. Prices are high a bit. But quality are different as well . I enjoyed my time here.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Sherif Mohamed",
+                    "uri": "https://www.google.com/maps/contrib/117609442610124381715/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAxOzaB8lHLT4L9HNSeEbOgsujd6UujFpfhvBeHk8Lz2rVbKXb=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2024-10-29T12:01:13.663801Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYdWRhUDN3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYdWRhUDN3RRAB!2m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/photos/AXQCQNTu_9IVXe5Ln7DYbs2vGltWHk4aPbzCssMLIQq5OVbPpKWwiSroY3GM0AYdfcoQzeAijIt1WRqG-l28jKlp-bTSsqtOhrH8BwwruTY9JDU4rHuH65WgjvWTl8qafR7xly15Zpdh2JpTIvQc39JRx-vPcwHd8nqXl2_UreSoJCdK0H45vrbWezruNwvrZpcVd33_N27Ldog8TUycoH7SfRYLdpj1kQczIRwCcj6IJiHLD_IFcD_v6BBBW_3Aug5P7IM5k6Dhm0uwzB0tB7W8AaXcwUWliw8z4XUr1iBrwmmK-rdzptEEL14WqOgNMR67V5uKEmDOC1WLmC6niskU44231bzM3VfYlnovwQbAXKWbrsK2BK8s7WP_EsjbJLwAbZQLs_vplJrxAixnHC5L4WZLV6OPhQdN_XraziClZeIDlTPW",
+                "widthPx": 4608,
+                "heightPx": 2592,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u738b\u7dd2\u6587",
+                        "uri": "https://maps.google.com/maps/contrib/108364418849447576569",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXe76EIfdFT-C4CfeqacD_uMskh2iqKWuo750yGF9yOz7_bVoCwiQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICKxr7rugE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKxr7rugE!2e10!4m2!3m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            },
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/photos/AXQCQNS2wJhBmOQwnhPtyzFvkSdacByBS1C_Rb5AumbQacjiqpvC_QJiwrP-k9SU2cPpZ64z5lDf1tOIBaTcB-LU1J6pRTmsrC2ydr35AgHUgTnFfwcpsGcs7RLGj-M138_8ZeDh5t8mMtfONzkGeudy0gW2Aok_Xi3jox75LVdSYRr9IDdH_ir4hWS-9tlYy2Hm_tgnRtNolakGVtDwhcJuai61Foa1C_VG3oyGZYD5vSaOYqJ6JLb9wTN2N52jErOKsx8ONK3xEYZKsNSx2F3zb9HogbAHP2YOecjBNuNZ8VpanJRc78KkbVfemRGlBfOSV1jHltExLtZU0AIBUwYJi8e5iCnjVuSVhUE6csSYd5Lg2FiixCQVVuzX8xHfuk2i2zQoLngZi7Y3NZdYfoMgyA17Ot9Vzjdvl9huz0VjvCdZ6RA",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5c0f\u6a02M",
+                        "uri": "https://maps.google.com/maps/contrib/113980539251002534776",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWr__ZLGtAVYRWMLVvGAFScFimjwlZkQNVSQKB4wzAdEEsRCykl=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCogrDJpQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCogrDJpQE!2e10!4m2!3m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            },
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/photos/AXQCQNRQHkyeT90CNAQZo4m3bmAbC5A4PdMcvmsc9D1JmPmewJet-NkR23Y3BoWhkzPgU0qbVUjDcnOsYujPupn_jzDgw9Lh3CZ1EetrWxNJOK0AxGjQ5XwSJIObH8QUpWw99kdCiR-EQjt36jh_AR7xmsJ6jY55Dc0jIaNSmqdn9whoAaMp_UjlkV1Ifqwwgz3JuS80mZBtID5N5UTwnG3xAAOxk5be-936eWQkkwzi_hPJDW9lpUbeT89Wrfp7syq9sgEjaplz-ywpJotHp7EbEIr0jZTuO1G8a2MpkUsGWDxzSm3H2RjinVQGPgor2wmD9c12wn_xpaa8hgZjBYoZWCue-K_na8r2e_OvWcJl_jWQP9svsCtv-nF6J_zm_33WAWf8sF5Yl9Ke1Qmc6Z0mv1koou6iUpU37QhCBmdvKl4",
+                "widthPx": 664,
+                "heightPx": 461,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9e7f\u514b\u7c73",
+                        "uri": "https://maps.google.com/maps/contrib/113754329330822095793",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkIRydNDCSm4vODC-f2isG1FrmmmK1g0Ng6dQXrEgI0D-vdLBg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID099aHbw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID099aHbw!2e10!4m2!3m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            },
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/photos/AXQCQNT0ikoeoCxqJoTrgHoryhf1cdZ8x_2sBVLxGx6QRN4hgmZUMZGsaPY5sVIeA4a9Srmzglq_vnqdSts9NvMRcvB_4DiJ2-0H2_8f5Zhqw2oXhXejd6vEhn5jVJOXpeGElzREDgzyOG0hGj0Ehlzogxp9QB8cKxWWFBoHicVDK2Fz5OmoUAIGUf9q9oH7aDEAt8VnISsldPy1cjVF0gTevUty1D6cKI3xNzSjgqQF9Qehyz441RgD-aB-6mgXX_4MInOJBmKFwXl04TsG0SM7tGVnQp65iQi2vvXmA5E_NA-LhXXUD3VG3lU0E03A3TteZB1oxp_09QzYwAcXENjUzmOR5WKFx_psuIMdiJ4kBNVhOEmKq8o9RcbCy0_AOuclnbKcBl1YYVJmdn9I49tePt5Rg7McMqya9qcW1ZFfoN-DsCDu",
+                "widthPx": 4000,
+                "heightPx": 2250,
+                "authorAttributions": [
+                    {
+                        "displayName": "G G",
+                        "uri": "https://maps.google.com/maps/contrib/106412111286352120127",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNjeXJmCTKSBCM6gAe3DXA6NVmf280Tv-R_2JOY7M1x98ktmTS=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICB6sKYqgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB6sKYqgE!2e10!4m2!3m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            },
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/photos/AXQCQNS-fffOMK2IQBjYkVq-16MMCpsGhR0d-SgCxbFugpOzsE6FjgZiSgVWcXVshOERGvAzPvXvQcUHMxMS1FNvjQ98UEKjH99QErytulEiT8L1Ia0Pg3PLpsKGzwcKbmRTiIm9dVKJNf7-BGcoSjdiFQmBehG6jcol9mGksL7TpkOjl1aoPfxnvl1vNzggcPlNznx4zpVMCJnyHlLXuIiH6Isk6XbzvpUqVjK53cjZqXGsHDtno9KwoEFLPQScD0RwF61T959QXEhzXmNCgVFX0Ck3qCKarQKhtlq58vfoCrKN4HjR6burW3VNMrCD2mjVtodhyD2C0iyZTS_7ot7todq7D3krbWQAxA9xKtoRM9vOOUMnJ4BeGUM_uHianmu9vPjR6kqN90aeWtfnmvhSxTyduFoPwqXrjex_k7uCj5_o5SyI",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "JOE TSAI",
+                        "uri": "https://maps.google.com/maps/contrib/102782937844773142760",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJpTm9YuMmCiEZP_0nN9gaq4mPHrCoBPYJnxyJu7-Yp1aMc2w=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICE68iqoAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE68iqoAE!2e10!4m2!3m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            },
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/photos/AXQCQNTx5QZexREj_nukIQ-pCHeiprHoaqVLr0bOlv5o1clA8MUEJydCtjqZ-UAmIywqW_SgHySX1MQ9pYqZxoMCzaqxdc0vlZ1VBgnVDgSK2QsFJ0sAPsKeghDb2YXuPJO1b-DilNB41qHjeO_e2eUCkfwP8d-95Tolr4FAEy-XTxVIa7Vz23r8sQ0tlXs842ydKmakd-iCjwQ1_tHHYSBYQKxX3d-WK6xf4SNgbmnXm_VN2Ukl850XV6vzxfm-3oiYz1u0zKQ0BD_a7ruBgfHtPnQ-hf0xYe4-Jw1KVVZSVFh35BfPd1tRGX17SOBFyJLaOWeA1le6OIttKXDjQFUPodTd7cvNX3VRJS-mQV-LgKT3y1aAw7v0qeQoLu6lJothkMWliaOPeauDycMZI0utwYIHXv12mU1AXe2QzXF4IivieMja",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u30e6\u30df",
+                        "uri": "https://maps.google.com/maps/contrib/112051910164783170621",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIS8lVJXQ-vQiHaDWUJM7pxHBqf6Apg5layNowvZWe0PWjhmdZIA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICKhvLQwAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKhvLQwAE!2e10!4m2!3m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            },
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/photos/AXQCQNT4muHHAlVNKjAwMWqJWGGscla7tXorjdIx1iTbRD-EUtAYH-X-E8FKRM_3xYusLp_b2Tkssh-PjL8ttYCM_ShIGk7zgPlh4sGkkfaJVz1USUKkiZanPjNYj2aO7yeiWKf7UYF7KlzhRpozxywfOJllEVBdgl65NDITfvIY6CbOd7A9fx3wcoUWVvaIh6_t641AdEqntY0kFYeXqJXR0LvV7jJ6Oq9pyuMVJm5Fr7VckR8b40T1qrxjt35QU9UeIteEcg4DXSWr3tCuynG3haAg4sdB_glbtQKWzG9eLk4WhVgurfU17uL6Q9_alY1h-YFBymNzcuKHxdLTdot0cx4452EaD-OM-HggpM-uijContFpFHQJD3e1tzh_Hq96pMevfNrzJtiizUQh1zsQch9iKDkohd33nsx7jKOEeZRSJw",
+                "widthPx": 3000,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6797\u5317\u68ee",
+                        "uri": "https://maps.google.com/maps/contrib/112266335922693200980",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKcQzfapoEYkdymvyzTBr0R6Eiy3B6M-ObanywODCEWb9EzJQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDGh--Dag&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGh--Dag!2e10!4m2!3m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            },
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/photos/AXQCQNSWY9vDbkliSeQnBum4pypkxvgW5RC2nY6G1yUBJLquBgeG-t5BeheWemj6JZ9Zg0nL-R-A0pdz6oyu3fRNrfRxKhev21Lttjh-XTvlxdwk4hGE4DasyINI1XlFoL0wf4jWRzRsAqvZileqwWw3oqZstDc55k5BF9lZjqGrsSO8caOeEwSqbcOWQDt7RUFalSsNeZfiher3hVJXbO8YwJjRZCjrT6Xy0suSMvNAItzlaCV6QIT_2fMz90ZFMavUjC7pJ_S5b_V9HDBehccj4Cini1Se4Bc2sGz7kS-zNrhabsfNKDX41AAA0JXmNpHJJlwaYFIlZ7PxEnkBENa8mcNR6XGAmesKrdy3e7TJKnGuc1yiJjEo3N3AKcmfKw0QQNJO9L2r2kj8pCntbHnoWUV7lFOhwyyFROuhr-Ml-QBMlg",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "BR",
+                        "uri": "https://maps.google.com/maps/contrib/101004735552975698547",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV67RWLxCNfUJp8fIGvW2YfxyxsLt8rh0wqMYZNgLpqyW4_sQ7hrQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICk1YPKBw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk1YPKBw!2e10!4m2!3m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            },
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/photos/AXQCQNSddxeChEsJlx9ra-XONACkTD6dJhQoPlLcn_7P_Y00BNeewD41wucENKiDJtdmB365VcmuWQNrzSFfibtWQUnwmktBRb1ugrHftpHOSxys4BmrjsztsGrlJkW7EaXimBjVuPRwEHUAoxmaNrYNVQzqLJfJbo0azNYwo7W73DscA2WjQ-ybLiCgyx9lqdTeU7f4wVpBoMpf3TNxZaKYuri917QABIFjIwoCzmlST72cpQbDnGzIXyLYRkkXZ83KBgmSGKMUryKPyCJI1f4GjPcCe4hX5kjsnnfx04mYjwe1KZApjXCqeNUaUYOqvMVcRcFRbjVBv6ToxjESrXDlM0Yo9u2OeZglMuhdxtXRin_w23Nqg9O4c9_MFxmBL0icfq2-pkGNWDR-oItOyhxJsAMSnGCZNxTTiCuZUI135CnpCA",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Wei Krishna",
+                        "uri": "https://maps.google.com/maps/contrib/106880143415701782121",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1W055uqBxuD1OdjA8NHM88eLhw9LwuoRXxb_PzAMxlPMf8ELf=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3u_Dgeg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3u_Dgeg!2e10!4m2!3m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            },
+            {
+                "name": "places/ChIJY-bwtRY9aTQRxoY6m3u_ea4/photos/AXQCQNQbVJ71wz4X8r7B2tom-kLiJdTMDXEkFO1oY7QuXm03jOCfgMuAmr39K305RvWciP2QKVtkIhrvyiFcHceA15-tMn9rph2tRnUcuo4YzijuKrdQfmrnsZ8cauV22-YMmAr4S5LvvL7u4g0FFRpuxpA1YiKzAmkVTQk5KNY8T7AaLdOCMfaahy-TmwCA2aDgxg4BRRc7bP7R3g_aXQjLcVgOBEy3KWrrkXrK2-v2GtqNYUqpt8b9oi8HFzbr7GuRuBgmnUy17yaU1KAt-2CzZcNXLMpB3_AiWRmAMWkQS-TntDar69_RmyvKUPmmNzJR4pMdUVSSTi9gaZKcZDGxISMAStCbry7U5pkFV_jGJNAvx7hy3idWrEDCD1LjOkWcRSuRll1vPug21L05ElcEsbI6CckqvT7LC9VZElq68TEwvw",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5433\u4f9d\u7469",
+                        "uri": "https://maps.google.com/maps/contrib/113561160757690036652",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_e4dJLmAy436ngBR3ehRWHXPjg7_EfpbAvXyG6v_zLLdm5-iY=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDa9tqzcA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDa9tqzcA!2e10!4m2!3m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6"
+            }
+        ],
+        "paymentOptions": {
+            "acceptsDebitCards": true,
+            "acceptsNfc": true
+        },
+        "parkingOptions": {
+            "freeParkingLot": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJnYhcVctraTQRf6uxXTPE4hE",
+                    "placeId": "ChIJnYhcVctraTQRf6uxXTPE4hE",
+                    "displayName": {
+                        "text": "\u53f0\u4e2d\u4e09\u4e95OUTLET\u6469\u5929\u8f2a",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "amusement_park",
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 137.65926
+                },
+                {
+                    "name": "places/ChIJXROoSkpraTQRKSadzPSc85Y",
+                    "placeId": "ChIJXROoSkpraTQRKSadzPSc85Y",
+                    "displayName": {
+                        "text": "V&H Outlet \u53f0\u4e2d\u4e09\u4e95\u5e97",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "shoe_store",
+                        "store"
+                    ],
+                    "spatialRelationship": "BESIDE",
+                    "straightLineDistanceMeters": 14.016773
+                },
+                {
+                    "name": "places/ChIJZV5fWQ5raTQR0xr3jiEJAcw",
+                    "placeId": "ChIJZV5fWQ5raTQR0xr3jiEJAcw",
+                    "displayName": {
+                        "text": "festaria TOKYO\u53f0\u4e2d\u4e09\u4e95Outlet\u5e97",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "jewelry_store",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "spatialRelationship": "BESIDE",
+                    "straightLineDistanceMeters": 14.016773
+                },
+                {
+                    "name": "places/ChIJNX-EpjpraTQR5cPDmf3RKYw",
+                    "placeId": "ChIJNX-EpjpraTQR5cPDmf3RKYw",
+                    "displayName": {
+                        "text": "\u4f46\u99ac\u5c4b\u6dae\u6dae\u934b-\u53f0\u4e2d\u6e2f\u4e09\u4e95Outlet",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "restaurant"
+                    ],
+                    "straightLineDistanceMeters": 77.94861
+                },
+                {
+                    "name": "places/ChIJJ_dZyERraTQRedyZyB-RzS8",
+                    "placeId": "ChIJJ_dZyERraTQRedyZyB-RzS8",
+                    "displayName": {
+                        "text": "Kura Sushi Mitsui Outlet Park Taichung Port",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "restaurant"
+                    ],
+                    "spatialRelationship": "BESIDE",
+                    "straightLineDistanceMeters": 14.016773
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6!3e0",
+            "placeUri": "https://maps.google.com/?cid=12572290372387636934",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693d16b5f0e663:0xae79bf7b9b3a86c6!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "435",
+            "administrativeArea": "Taichung City",
+            "locality": "Wuqi District",
+            "addressLines": [
+                "No. 168\u865f, Section 10, Taiwan Blvd"
+            ]
+        }
+    },
+    "description": "Mitsui Outlet Park Taichung, perched majestically overlooking the vibrant Taichung Harbor, is more than just a shopping destination; it's a scenic experience.  Nestled at No. 168 Section 10, Taiwan Boulevard in Wuqi, this sprawling outlet mall boasts a modern, airy design that seamlessly blends with its stunning coastal setting.  Imagine strolling along wide, open walkways, the salty sea breeze carrying the scent of the ocean, while the impressive Ferris wheel, a landmark in itself, rotates gracefully in the background, offering breathtaking panoramic views of the port and the surrounding landscape.\n\nThe architecture is contemporary and inviting, with clean lines and ample natural light flooding the spaces.  The expansive layout accommodates a diverse collection of both international and local brands, promising a premium shopping experience.  From high-end labels like Coach and Nike to more accessible options, there's something to satisfy every shopper's desires.  The sheer number of stores, as suggested by the 168 photos on TripAdvisor, hints at the vast selection available.\n\nBeyond the shopping, the vibrant food court is a culinary haven.  A wide array of dining options caters to diverse tastes, from authentic Thai cuisine at MARA"
+}

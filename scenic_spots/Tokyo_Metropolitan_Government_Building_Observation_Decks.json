@@ -1,0 +1,958 @@
+{
+    "name": "Tokyo Metropolitan Government Building Observation Decks",
+    "tripadvisor": {
+        "location_id": "12879871",
+        "name": "Tokyo Metropolitan Government Building Observation Decks",
+        "description": "The South Observatory will remain closed, due to remodeling work on the TMG Buildings. It is scheduled for a renewal opening around spring of 2019. (The Norh Observatory is open.)",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g14133673-d12879871-Reviews-Tokyo_Metropolitan_Government_Building_Observation_Decks-Nishishinjuku_Shinjuk.html?m=66827",
+        "address_obj": {
+            "street1": "2-8-1",
+            "street2": "45th floor, TMG No.1 Building",
+            "city": "Nishishinjuku",
+            "state": "Tokyo Prefecture",
+            "country": "Japan",
+            "postalcode": "163-8001",
+            "address_string": "2-8-1 45th floor, TMG No.1 Building, Nishishinjuku, Shinjuku 163-8001 Tokyo Prefecture"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Nishishinjuku",
+                "location_id": "14133673"
+            },
+            {
+                "level": "Municipality",
+                "name": "Shinjuku",
+                "location_id": "1066457"
+            },
+            {
+                "level": "Region",
+                "name": "Tokyo",
+                "location_id": "298184"
+            },
+            {
+                "level": "State",
+                "name": "Tokyo Prefecture",
+                "location_id": "1023181"
+            },
+            {
+                "level": "Region",
+                "name": "Kanto",
+                "location_id": "298156"
+            },
+            {
+                "level": "Country",
+                "name": "Japan",
+                "location_id": "294232"
+            }
+        ],
+        "latitude": "35.689663",
+        "longitude": "139.69171",
+        "timezone": "Asia/Tokyo",
+        "phone": "+81 3-5321-1111",
+        "website": "http://www.yokoso.metro.tokyo.jp/tenbou/index.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g14133673-d12879871-Tokyo_Metropolitan_Government_Building_Observation_Decks-Nishishinjuku_Shinjuku_Tokyo_Tokyo_P.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "14133673",
+            "ranking_string": "#1 of 73 things to do in Nishishinjuku",
+            "geo_location_name": "Nishishinjuku",
+            "ranking_out_of": "73",
+            "ranking": "1"
+        },
+        "rating": "4.4",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+        "num_reviews": "5554",
+        "review_rating_count": {
+            "1": "14",
+            "2": "44",
+            "3": "506",
+            "4": "2150",
+            "5": "2840"
+        },
+        "photo_count": "4257",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g14133673-d12879871-m66827-Reviews-Tokyo_Metropolitan_Government_Building_Observation_Decks-Nishishinjuku_Shinjuk.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "landmarks",
+                "localized_name": "Sights & Landmarks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Sights & Landmarks",
+                "localized_name": "Sights & Landmarks",
+                "categories": [
+                    {
+                        "name": "Observation Decks & Towers",
+                        "localized_name": "Observation Decks & Towers"
+                    },
+                    {
+                        "name": "Points of Interest & Landmarks",
+                        "localized_name": "Points of Interest & Landmarks"
+                    },
+                    {
+                        "name": "Government Buildings",
+                        "localized_name": "Government Buildings"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [
+            {
+                "location_id": "7278772",
+                "name": "Shinjuku"
+            }
+        ],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "157"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "1851"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "766"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "997"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "1011"
+            }
+        ],
+        "awards": [
+            {
+                "award_type": "Travelers Choice",
+                "year": "2024",
+                "images": {
+                    "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png"
+                },
+                "categories": [],
+                "display_name": "Travelers Choice"
+            }
+        ]
+    },
+    "google": {
+        "name": "places/ChIJnctryNSMGGARLv4MknPFseU",
+        "id": "ChIJnctryNSMGGARLv4MknPFseU",
+        "types": [
+            "observation_deck",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "03-5320-7890",
+        "internationalPhoneNumber": "+81 3-5320-7890",
+        "formattedAddress": "Japan, \u3012163-8001 Tokyo, Shinjuku City, Nishishinjuku, 2-ch\u014dme\u22128\u2212\uff11 \u6771\u4eac\u90fd\u5e81\u7b2c\u4e00\u672c\u5e81\u820e 45F",
+        "addressComponents": [
+            {
+                "longText": "45F",
+                "shortText": "45F",
+                "types": [
+                    "subpremise"
+                ],
+                "languageCode": "ja"
+            },
+            {
+                "longText": "\u6771\u4eac\u90fd\u5e81\u7b2c\u4e00\u672c\u5e81\u820e",
+                "shortText": "\u6771\u4eac\u90fd\u5e81\u7b2c\u4e00\u672c\u5e81\u820e",
+                "types": [
+                    "premise"
+                ],
+                "languageCode": "ja"
+            },
+            {
+                "longText": "1",
+                "shortText": "1",
+                "types": [
+                    "premise"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "8",
+                "shortText": "8",
+                "types": [
+                    "sublocality_level_4",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "2-ch\u014dme",
+                "shortText": "2-ch\u014dme",
+                "types": [
+                    "sublocality_level_3",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "ja-Latn"
+            },
+            {
+                "longText": "Nishishinjuku",
+                "shortText": "Nishishinjuku",
+                "types": [
+                    "sublocality_level_2",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "ja-Latn"
+            },
+            {
+                "longText": "Shinjuku City",
+                "shortText": "Shinjuku City",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Tokyo",
+                "shortText": "Tokyo",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Japan",
+                "shortText": "JP",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "163-8001",
+                "shortText": "163-8001",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "8Q7XMMQR+VM",
+            "compoundCode": "MMQR+VM Shinjuku City, Tokyo, Japan"
+        },
+        "location": {
+            "latitude": 35.689733,
+            "longitude": 139.6916563
+        },
+        "viewport": {
+            "low": {
+                "latitude": 35.688292669708495,
+                "longitude": 139.69036711970853
+            },
+            "high": {
+                "latitude": 35.690990630291495,
+                "longitude": 139.69306508029152
+            }
+        },
+        "rating": 4.4,
+        "googleMapsUri": "https://maps.google.com/?cid=16551227205725519406",
+        "websiteUri": "https://www.yokoso.metro.tokyo.lg.jp/tenbou/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:00:00Z"
+        },
+        "utcOffsetMinutes": 540,
+        "adrFormatAddress": "<span class=\"country-name\">Japan</span>, <span class=\"postal-code\">\u3012163-8001</span> <span class=\"region\">Tokyo</span>, <span class=\"street-address\">Shinjuku City, Nishishinjuku, 2-ch\u014dme\u22128\u2212\uff11 \u6771\u4eac\u90fd\u5e81\u7b2c\u4e00\u672c\u5e81\u820e 45F</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 6604,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Tokyo Metropolitan Government Building North Observation Deck",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Observation Deck",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 9:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:00:00Z"
+        },
+        "primaryType": "observation_deck",
+        "shortFormattedAddress": "Shinjuku City, Nishishinjuku, 2-ch\u014dme\u22128\u22121 \u6771\u4eac\u90fd\u5e81\u7b2c\u4e00\u672c\u5e81\u820e 45F",
+        "editorialSummary": {
+            "text": "Public observation room at the top of the Tokyo Metropolitan Government Building with gift shops.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/reviews/ChZDSUhNMG9nS0VJQ0FnTURJM2ZEblRREAE",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Well, don't trust google Maps for entrance. It's on the lower level. I went on a Saturday so locals as well as foreigners.  Mostly foreigners as expected. Had to queue, but it moved reasonably quickly.  45 floors on the tower, I went up. Great views of Around Tokyo.  Mt Fuji was not visible. I think the best time would be late autumn,  winter when air is clear and crisp. While there's little smog compared to other cities and countries, you could see the film over by Mt Fuji and then clouds. I had been lucky to see it already in full at Fujikawaguchiko.  The floor has coffee shops and seats plus toilets. There is no need to rush. You can take your time and get a really great look at this vast city.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Well, don't trust google Maps for entrance. It's on the lower level. I went on a Saturday so locals as well as foreigners.  Mostly foreigners as expected. Had to queue, but it moved reasonably quickly.  45 floors on the tower, I went up. Great views of Around Tokyo.  Mt Fuji was not visible. I think the best time would be late autumn,  winter when air is clear and crisp. While there's little smog compared to other cities and countries, you could see the film over by Mt Fuji and then clouds. I had been lucky to see it already in full at Fujikawaguchiko.  The floor has coffee shops and seats plus toilets. There is no need to rush. You can take your time and get a really great look at this vast city.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Redfern Redfern",
+                    "uri": "https://www.google.com/maps/contrib/100630002007230652326/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLC6mxrMoZHzojWvX9Y32KUzVgM-F2BSkSHvqolkZNQLkiYUA=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-13T10:26:08.700731Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJM2ZEblRREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJM2ZEblRREAE!2m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            },
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cXY2T3pRRRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Because it was our last night, we ran to try and reach the Tokyo Metropolitan Government Building at 5pm to ensure we could be in line to see the breadth of Tokyo (as it was our last night). Google informed us the last entry was at 5, and would close at 5:30pm, but upon arrival, we noticed the times listed were updated to 9:30/10pm, respectively.\n\nThe wait was about 45 mins to an hour on a Friday, but that allowed us to get up in time to see the sunset over the mountains.\n\nThe observatory was quite crowded with people pressed up against the glass, so if you're expecting clean shots--don't; there are plenty of dirty hand/face marks + people breathing all over the windows. Regardless, you get a great view, and it's totally worth it.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Because it was our last night, we ran to try and reach the Tokyo Metropolitan Government Building at 5pm to ensure we could be in line to see the breadth of Tokyo (as it was our last night). Google informed us the last entry was at 5, and would close at 5:30pm, but upon arrival, we noticed the times listed were updated to 9:30/10pm, respectively.\n\nThe wait was about 45 mins to an hour on a Friday, but that allowed us to get up in time to see the sunset over the mountains.\n\nThe observatory was quite crowded with people pressed up against the glass, so if you're expecting clean shots--don't; there are plenty of dirty hand/face marks + people breathing all over the windows. Regardless, you get a great view, and it's totally worth it.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Isaac Siegel",
+                    "uri": "https://www.google.com/maps/contrib/104857841790647050170/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIDsCVBoQ3iWxyKeoOOmgvCQvAgKKGP04vaEFkTuGLWEMs9hw=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-03-25T09:03:33.425179Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3cXY2T3pRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3cXY2T3pRRRAB!2m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            },
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/reviews/ChdDSUhNMG9nS0VPNkxqZkg5NnVyTjdBRRAB",
+                "relativePublishTimeDescription": "in the last week",
+                "rating": 5,
+                "text": {
+                    "text": "My second time there and I stand by my original review. It\u2019s hands down the second best observation deck in Tokyo, only bettered by Shibuya Sky. And it\u2019s completely free!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "My second time there and I stand by my original review. It\u2019s hands down the second best observation deck in Tokyo, only bettered by Shibuya Sky. And it\u2019s completely free!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Blazej Kozlowski",
+                    "uri": "https://www.google.com/maps/contrib/109119572261495423798/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTml2e6DbdRuDVFf1z28kb-L2kYwQo6_qa0Kaij7UcgytQiGdOiA=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-05-08T16:47:31.315101Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VPNkxqZkg5NnVyTjdBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VPNkxqZkg5NnVyTjdBRRAB!2m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            },
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/reviews/ChdDSUhNMG9nS0VJQ0FnTURRcy1mVXl3RRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 3,
+                "text": {
+                    "text": "The Tokyo Metropolitan Government Building is a great spot for panoramic views of the city, and the best part is that the observation decks are free. The building itself has an impressive architectural design, adding to the experience.\n\nHowever, depending on the time of day, there can be a bit of a wait to go up. Even so, I think it\u2019s a fantastic alternative to other paid observation decks in Tokyo and definitely worth a visit!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The Tokyo Metropolitan Government Building is a great spot for panoramic views of the city, and the best part is that the observation decks are free. The building itself has an impressive architectural design, adding to the experience.\n\nHowever, depending on the time of day, there can be a bit of a wait to go up. Even so, I think it\u2019s a fantastic alternative to other paid observation decks in Tokyo and definitely worth a visit!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Natalia M",
+                    "uri": "https://www.google.com/maps/contrib/110777163093915291037/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJbf_Lc1xpdq7sQ5yME1J2hypKftmdxefvSTo-GIZtPdAVaPcN=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-03-18T06:47:26.738513Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRcy1mVXl3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRcy1mVXl3RRAB!2m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            },
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/reviews/ChdDSUhNMG9nS0VPRDM0cG5GeDlLdTVBRRAB",
+                "relativePublishTimeDescription": "in the last week",
+                "rating": 5,
+                "text": {
+                    "text": "You will spend at least 10 minutes waiting in line, though it can be much longer depending on when you go. But it's absolutely worth it for the view (and it's free!)\n\nThe first two pictures are from one day that was somewhat cloudy, so you couldn't see Mt. Fuji. But, as you can see in the third picture, I went back before my flight and was pleasantly surprised to get a very clear shot.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "You will spend at least 10 minutes waiting in line, though it can be much longer depending on when you go. But it's absolutely worth it for the view (and it's free!)\n\nThe first two pictures are from one day that was somewhat cloudy, so you couldn't see Mt. Fuji. But, as you can see in the third picture, I went back before my flight and was pleasantly surprised to get a very clear shot.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Mike Nathan",
+                    "uri": "https://www.google.com/maps/contrib/105410352791056712076/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIYNZCpwCYQnOwsb0wbPZyIh-P3ofXdG3QaKI0uo_zxohxVdQ=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-05-10T13:07:12.619248Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VPRDM0cG5GeDlLdTVBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VPRDM0cG5GeDlLdTVBRRAB!2m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/photos/AXQCQNQphClIZ0NRRl1ueugGhUKIFtkxn6HowAcyX52KkLhfXADFzWVtwYX9hIjvB9mZxpYKwasZdjbhnr2FWbF6kbeJLjGDbODsJzFvpCBZyxWzW1nIc2iBSUgGZTwgmP4uu5DjxnVSRDKP8BlPcLKvSgZEXVZXPBCCwIdbBb8yaEGPmSfUFz9Hv0Dac732oqAhUwkfRyF7gFVHN88r7xxpetmvA9OOq0LXbQAca_eUX0LCyjzGGwhuJrqOWWWQncutk3AEwdVmzIBodhE5oG4CStidpITSr7hF02xW_Poo6CReli4CdN1BDdf0tN736SyQJ5NhXDTEPJUoaOpTd-9slr3IE6xOkbUzcnHybskBYOzPpNDMRMXD5gSFzyxCaNoyGxiizpLpLoGAZvCAEne85Voq-9LClUL8MOqFuiQqpR0",
+                "widthPx": 4080,
+                "heightPx": 3072,
+                "authorAttributions": [
+                    {
+                        "displayName": "Ryo IT",
+                        "uri": "https://maps.google.com/maps/contrib/100864015117825279986",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXw59haWVQnfYN0kDLZdSBvBy01qbNVNlRHBP0tHzcuE483WKC9LA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRlaTZSQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRlaTZSQ!2e10!4m2!3m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            },
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/photos/AXQCQNSxMfNKDiNFafL-nUycrKETtAP_0FvYQY8D9dUq-UL8H-R_8lyE5FzmZuTb_VOi9fCymVaKGJuacnjvxkjbgMXOT_viCraUr7_R2oXkXyi09piY4C8og_GuWteiswS29lUa35miQSIICFfmAdoeNPkxnS_l3qBe6vYmrkPOa9wp9mJRLVfTempqASyDingRfCC9JUowyNImxnMJu_zZ14gRPBcwMyOG_0YnlFondZhFHvIYI7t38yX4k3cC3eDm-eZrNR-UKvkwDNmuo3ykrKig7pBTwUZV--ddDLXDG_urUyJ5Dfx_-ibUiJ3tqVCq53Nj_ifBgdrz9-WFxZ-LVc2RSYVU6e7tDX2pDfyZPplmsPqpfts7yz36YhdBJuk-WUTseuTHDMAuBtcDJEFetqxRybsGdvMZlrxNOS1VpxSg8iw8",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Equaaliuetea Poetowski",
+                        "uri": "https://maps.google.com/maps/contrib/103013265142854126317",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvN9751z5ocoq_8AiOucfG1j4DfcwFcZ0L5iZpysSZrMWXkXp8Yg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn_NXlvAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn_NXlvAE!2e10!4m2!3m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            },
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/photos/AXQCQNSGDBH4FWmgKqEJW92iJc2ayFtZhQuVHFyeuK2D_xvX8-bgyfS_TlteZFFdEZUSTWcWAB061-FDD6K-SXEHDYyvHtj9gn3YPa_UjePvEyjDeYtkLu9SJzEo0WC3XInqbMgJ8rzbMZq60ZoSu58O3p4-roG384-TZhrF-3tyh1A56d6szDerELnpizxX0FUJBvqWSMwfb-o16D9_xF7CXtEhLhHzruPagpUMRBpl_rkeuldKiri3wz97vMP9UUNFE9rFNzWuEKYnY5OPswMtFaHCJUqKoYbGffZlyxNdwyQa6UjLcAmvSjk12J4JcgmkhK3HCoCNGhXRx_Zd7T44fp_5B3q1kuK7c1O6D9iCTORkhINxzy3acUUW3PzrusumM5sGXdOG63w-XKmFaghRJzvUbA7QgDls1g3-X0eFlD_vZCUE",
+                "widthPx": 4096,
+                "heightPx": 3072,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u57dc\u4ef2\u308a\u3085\u3046",
+                        "uri": "https://maps.google.com/maps/contrib/111681775173032383401",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs3YFudOcphBVyhZwV6LlLNprQQGbOFmlP1HJM-z1uU-7yCjzXwA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbt_Tq9gE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbt_Tq9gE!2e10!4m2!3m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            },
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/photos/AXQCQNRgUhPngHmFWuUTHRYoKo8YV54eUdahyqCwy8oF8EsSbun7oYj9z45aIcC2nNfpBeVtcHo6aaSnbR7FXQaJGK6IDjiXbg4LxdVCQ7Q2AkYU3KIA2fpJX8jHEMFhBfSuvD47GlN2WERdRDxMXgw9wQp6HlnfNGFCykZR4yJZB-5baFma8fjkCJmdBCO0xjHXlrBKKjS6iw_s26zB7dmAgaLcxGzZoBeXBUj9J_U-lclvnUlFdAL1fu_tlAnDsYzOTtG74ujz9mWuyiYyz0rmITMColC6MMmlYc5Atu1ckfcaktlFU4DAfFe_t4d-cRmufFStBnpJkEJWRaxRGGN2G3Loe9Jk4xThO9VmV_CkKMYChLhP5QQ0Dak5IXPcfnhkP__FFOals0MvNV69OP-9Ye5w64_IDuT6vSvYpSDUcr_3Tztb",
+                "widthPx": 3998,
+                "heightPx": 2998,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6c5f\u7687\u9706",
+                        "uri": "https://maps.google.com/maps/contrib/102566844396006499569",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvnpu0pIf5h6pEJqbSY76iRmwhWViZ9HXi-QDNCkQvun7tu4ejSw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICUuumkugE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUuumkugE!2e10!4m2!3m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            },
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/photos/AXQCQNSnfUpmxe32ZmdCyQgRuNZJlWpsistWynO5qAgOyHgf0US1e5l8buhqSBLueI-WY4vM-6gc_s60GVdTmsKec89ScEnf7EcpUfRG97o7FDAl-inAb3YReEtLs5StSZPP0hVtbBRAHdgmeIrlo-gh4bQTmNOJvujq-ayN6s1hYEBFmZVqhuygIrFojPHFGJiJI_d76lxdZhhuYhiYatlwr9tZMaghU-i0w-E5etI52puR_anZBTR_AN43qCcoJt7JniTbSWNhwoJxG9-7Zg1IyPaNDIBXGo0EguC6wbv_CB6OYseMemL9MViTLFu4q2hbybSgj_ihaClx4SM_MZcRvEanbetScFY9BlbXpjbJ7mQHQGvVFaLzSYt6meRu96mzaEYfOQQRb2EA45M4wOKO7q7k2cS_IjokR6B8OiT8LBiQ91Gx",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Rene Vincent Torralba",
+                        "uri": "https://maps.google.com/maps/contrib/100691123228550606405",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX816U2K7SyHmDiSBrLg-mKdxPml1tssNWWb-9K3FEGtFCq9tdo1g=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJkLSYvQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJkLSYvQE!2e10!4m2!3m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            },
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/photos/AXQCQNQwMDeyoWAwwIQCLWS5i7JaX_BsFjcOMyJFe5WBqBSFMxMc80wMLf339AWUM4R0_ZtbJShiVWWfJWnrEJryU0A9nNeTtQlEyQTSSOSO3MwKpzNrof4SbljR6_TtCZyQVJtsNPxlbuXCgShFHcR_FavP6foqeVnBMtJZlQyuzTOxJDjn8Ui41XGZT7jq9Waz8RIcUq2wYpuIWLfCVeIbxelnyIfHSKBraOtsddlQRYGnjbzLNHAZ_O6zlodnCx3Gj8345T43JrNDGcDsjPw16eq60oeQ-wLHhE3QlgvLbwIUpGRD6v8Jl9qwsQ5ccpvxD7U7l5BWfdO0Moo-VO7pPouunwIKVJulJfON7I33mmnRXlCejxD4f7y2fL90jE6sHK52JL1_Y-nFkoRdADoNMuC96-phCyE2BlWjBvvIEPAz5g",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "Byunggyu Park",
+                        "uri": "https://maps.google.com/maps/contrib/114143348163522341211",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ5hgBLDwY_vq2u2ftOkRCe01hY4BVMQW4bNCLR31TEx7bbdw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx4q2LdA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx4q2LdA!2e10!4m2!3m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            },
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/photos/AXQCQNQ-rMV3rMvGdGrBkl617pYv1BeqT7BKPY-dTjVZ87eGyDnhP-ijoaNC87uPM1ldY7w1bO5p4OQtFOczAgtt320xMPmsZRjq9fSNiU1cyp7-ci3kjjgFpNz3Ljxh-zX2M8MpCn65inmBGBfyenWZRvE7fsoj3LratK_JvSQRmLpzdLBcnL5T8m05QbLr3HskO3k7OlAcZM2Od8-f2RTwHWhBuAGka2yl7OFNQVSatGl6ChRSGNToWGopztYM-H9TkWSpZaEy4OpNJFQmytrMvzARlmT370UQ58OYk6a-7hW2nk1F5njYeK7UzQ0Rek-f_6wnaXshGWfjdFGWANYUVnRvFbzCBdVxIVcvm2i-gS8_4h4xy2uCfJmITrce6IOXD3JDI3QCCMpSZ8UbyqeVScej4mkTH33LuqpXeCTyPK2f0bW0",
+                "widthPx": 1024,
+                "heightPx": 576,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5ed6\u5bb6\u7fa4",
+                        "uri": "https://maps.google.com/maps/contrib/105473873296074704497",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqHfSvT_gmO6DR1Dk7FCfxBU8aHKl8LyG0rUSuhYi7l2VoaKDhlA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDkkLyalgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDkkLyalgE!2e10!4m2!3m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            },
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/photos/AXQCQNSXclL3UJ2Jy71bkzYT3zAYgZyt4fVUIzTR6kr_FJ_0xkmHVcTDDAfDKKYgvM813qh9Dak3j8wLlzKcuh7W96Z830lCwvrpXWTZYjCLB9Bl5dW50gqfiO_M1ox-Re19bP-eqI_vebBqav4d21JCGtypi5icGrg-yXCcBDpnzi9c8uBWpBBkdxjFByblb1wjawecLzv3hpxGkIA51Ms39lly1wFLQ657NmpxaZzsE504ZokNX8aMBTzwjLpunlVGyozYW9q6_hs1vnNxFqZS5pzgL4ff9Qrhn0h-N3ET-BiQHHyTnruT9Y-qoCSdenqnCHy2Z0Q7sLILm5K_ttwhNNYDhPkb29duOiSJtbSA59G4IX7UqzpYVqRpe5Dts6cq2AvP5tvIBxx6XldQAWh6ILRs5YZgUCmQHanIssSNOx6zLfI",
+                "widthPx": 4240,
+                "heightPx": 2832,
+                "authorAttributions": [
+                    {
+                        "displayName": "\uc544\uc774\uc564\ud504\ub85c\uc81d\ud2b8",
+                        "uri": "https://maps.google.com/maps/contrib/104116763964894785702",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7IEOpcoW3sqi-aSPsIOFlgFX5mJqS6IRn7INUhgnfOLIEC0hJ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICt2YmThAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICt2YmThAE!2e10!4m2!3m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            },
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/photos/AXQCQNTs2qEYxxh4S3oniyUVIhuFb4282d4Rtjr_WvO7u7njoigR_WLLjsvAeeOBNSv8gsHgX7KG7UH1jX85_OGiXGj5_R-DdMclG0xnTbvUz094l4HmDXvYhZu6cSo1ykTN58DM3XW6f9hAq6P2SGKL_8pSYcUd74RgoDyIYgklutqMqrvIwv_IN32VLJT0jRQH856Z2Lv25Z4srPV2d1VzugH1sHUnLaVCDYtV-Ja7H6PqxTDqwXvEro8jn2E_eROdt1b-vvdF7KTfnfuaDNO7uWEDY9ipqH7iJc7Id1y9meHb6REHQHPSxJZTOOUiyXanOQUCavdV8ke2Ac3M_RvxVd_Lxt6FJYCsrO6cJGfOS5M_tGYWMx8ppRKfIYsZGMD5qKgfOM0RlF66hBNsEYCRhpLxpILhbeRZomLd1cbEvHs",
+                "widthPx": 1920,
+                "heightPx": 1080,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u674e\u7dad\u5b89",
+                        "uri": "https://maps.google.com/maps/contrib/110364664754832679813",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVg5-uZAse0MYE8PuRBjlonrMRQbT12VAOX0baa8_DEdco5Aq9j=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEn8WwGw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEn8WwGw!2e10!4m2!3m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            },
+            {
+                "name": "places/ChIJnctryNSMGGARLv4MknPFseU/photos/AXQCQNTQFn8fbI56f02w1FVunhj37fVkd_3On-rsYlRtuVRgidqCm8e-lHAdwdZbtJFyJ3yuMBibIwwsewhaJ60zQMCK6bYWkotdc9OYUUbhgmFfMidoB3204N-ciUL0OTM9UA2v8uxuhY7F3klTQyJfoM5WFlRFTdtcjKs4PpQOkISaiuW1UPEpRujWV0qyj0tDmV7UgLKh8VuWIG7AnojakoVd7hwkrZrZhmABMHiP84r7bQ5Q0ve_lDD-tA3x6LU9jxAFxJF2zgcNVC6SWZ_Y8zI-bIFAAJv4H7STRNvwQdk3thFHmrKqJkpW6gJPKf2fvKaTq231C4pWEJkNovmMtRmRnUcDRf1ZycQNcr2jmha6u2l0s_mO9evPZrOYF9e904seB_P44tc_PP69ryWYz8_FUn4vSVcILeADwCiqmMof4w",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "anc 666",
+                        "uri": "https://maps.google.com/maps/contrib/116254994246793597109",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCesxe2-03SHYeFoCUGwqmdJPMLjY0sE1OFUV5b3H80SC41fgrng=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDq8uPpcA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq8uPpcA!2e10!4m2!3m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e"
+            }
+        ],
+        "goodForChildren": true,
+        "parkingOptions": {
+            "paidParkingLot": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true
+        },
+        "containingPlaces": [
+            {
+                "name": "places/ChIJJ4rfudSMGGAR_KDYrudqlEI",
+                "id": "ChIJJ4rfudSMGGAR_KDYrudqlEI"
+            }
+        ],
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJoTcat9SMGGAR6GGG8zdcZvE",
+                    "placeId": "ChIJoTcat9SMGGAR6GGG8zdcZvE",
+                    "displayName": {
+                        "text": "Tokyo Metropolitan Government Building",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "city_hall",
+                        "establishment",
+                        "local_government_office",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "spatialRelationship": "WITHIN",
+                    "straightLineDistanceMeters": 28.185047
+                },
+                {
+                    "name": "places/ChIJz5buqNWMGGARgbdL_B6bfr0",
+                    "placeId": "ChIJz5buqNWMGGARgbdL_B6bfr0",
+                    "displayName": {
+                        "text": "Shinjuku Mitsui Building",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 316.16644
+                },
+                {
+                    "name": "places/ChIJL7oFpizzGGARH-npuiADZeQ",
+                    "placeId": "ChIJL7oFpizzGGARH-npuiADZeQ",
+                    "displayName": {
+                        "text": "Shinjuku Chuo Park",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "park",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 165.91551
+                },
+                {
+                    "name": "places/ChIJoTcat9SMGGAR8Sy-UhawJus",
+                    "placeId": "ChIJoTcat9SMGGAR8Sy-UhawJus",
+                    "displayName": {
+                        "text": "TMG Building Citizens' Plaza",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "park",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 105.79606
+                },
+                {
+                    "name": "places/ChIJgUGPW9OMGGARWtHcR_4nkqs",
+                    "placeId": "ChIJgUGPW9OMGGARWtHcR_4nkqs",
+                    "displayName": {
+                        "text": "Shinjuku Driver's Licence Renewal Center",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "local_government_office",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 207.16782
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJrWf9yNSMGGARmh9AsIoPtFY",
+                    "placeId": "ChIJrWf9yNSMGGARmh9AsIoPtFY",
+                    "displayName": {
+                        "text": "8",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                },
+                {
+                    "name": "places/ChIJ07wjz9SMGGARejeCxdSGeyc",
+                    "placeId": "ChIJ07wjz9SMGGARejeCxdSGeyc",
+                    "displayName": {
+                        "text": "Tokyo Metropolitan Government Building",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                },
+                {
+                    "name": "places/ChIJ8e4AytSMGGARkxl-OelsoYg",
+                    "placeId": "ChIJ8e4AytSMGGARkxl-OelsoYg",
+                    "displayName": {
+                        "text": "2 Chome",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e!3e0",
+            "placeUri": "https://maps.google.com/?cid=16551227205725519406",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x60188cd4c86bcb9d:0xe5b1c573920cfe2e!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Tokyo"
+        },
+        "postalAddress": {
+            "regionCode": "JP",
+            "languageCode": "en-US",
+            "postalCode": "163-8001",
+            "administrativeArea": "Tokyo",
+            "addressLines": [
+                "Shinjuku City, Nishishinjuku, 2 Chome\u22128\u22121 \u6771\u4eac\u90fd\u5e81\u7b2c\u4e00\u672c\u5e81\u820e 45F"
+            ]
+        }
+    },
+    "description": "Ascend to the breathtaking heights of the Tokyo Metropolitan Government Building Observation Decks, a free spectacle offering unparalleled panoramic views of the sprawling metropolis.  Currently, the North Observatory beckons, its 45th-floor vantage point a testament to modern architectural prowess.  (Note: The South Observatory is undergoing renovations, slated for reopening around spring.)\n\nImagine stepping onto the deck, a gentle breeze carrying the scent of the city \u2013 a vibrant mix of exhaust fumes subtly mingling with the floral fragrance from distant parks.  Before you unfolds a tapestry of urban sprawl: a seemingly endless expanse of skyscrapers piercing the sky, their glass facades reflecting the sunlight like a million scattered diamonds.  The rhythmic hum of the city, a constant low thrum, provides a captivating soundtrack to the vista.\n\nThe North Observatory, while currently the sole operational deck, doesn't skimp on the spectacle.  Gaze eastward towards the shimmering expanse of the Tokyo Bay, the faint outline of distant islands punctuated by the occasional glint of sunlight on water.  To the west, the cityscape stretches into the horizon, a breathtaking panorama of modern architecture against the backdrop of rolling hills. On a clear day, the majestic Mount Fuji might even grace the horizon, its snow-"
+}

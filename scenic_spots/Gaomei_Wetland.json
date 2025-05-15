@@ -1,0 +1,443 @@
+{
+    "name": "Gaomei Wetland",
+    "tripadvisor": {
+        "location_id": "6366814",
+        "name": "Gaomei Wetland",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13806817-d6366814-Reviews-Gaomei_Wetland-Qingshui_Taichung.html?m=66827",
+        "address_obj": {
+            "street1": "Gaomei Road, Qingshui District",
+            "city": "Qingshui",
+            "country": "Taiwan",
+            "address_string": "Gaomei Road, Qingshui District, Qingshui, Taichung Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Qingshui",
+                "location_id": "13806817"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taichung",
+                "location_id": "297910"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "24.27598",
+        "longitude": "120.57696",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 4 2656 5810",
+        "website": "http://www.gaomei.com.tw",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13806817-d6366814-Gaomei_Wetland-Qingshui_Taichung.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13806817",
+            "ranking_string": "#1 of 17 things to do in Qingshui",
+            "geo_location_name": "Qingshui",
+            "ranking_out_of": "17",
+            "ranking": "1"
+        },
+        "rating": "4.4",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+        "num_reviews": "1204",
+        "review_rating_count": {
+            "1": "7",
+            "2": "12",
+            "3": "136",
+            "4": "444",
+            "5": "605"
+        },
+        "photo_count": "2201",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13806817-d6366814-m66827-Reviews-Gaomei_Wetland-Qingshui_Taichung.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "nature_parks",
+                "localized_name": "Nature & Parks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Nature & Parks",
+                "localized_name": "Nature & Parks",
+                "categories": [
+                    {
+                        "name": "Nature & Wildlife Areas",
+                        "localized_name": "Nature & Wildlife Areas"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "10"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "264"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "136"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "325"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "326"
+            }
+        ],
+        "awards": [
+            {
+                "award_type": "Travelers Choice",
+                "year": "2024",
+                "images": {
+                    "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png"
+                },
+                "categories": [],
+                "display_name": "Travelers Choice"
+            }
+        ]
+    },
+    "google": {
+        "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM",
+        "id": "ChIJvT5yFSYTaTQRdlamuLSItpM",
+        "types": [
+            "natural_feature",
+            "establishment"
+        ],
+        "formattedAddress": "Gaomei Wetlands, Taiwan",
+        "addressComponents": [
+            {
+                "longText": "Gaomei Wetlands",
+                "shortText": "Gaomei Wetlands",
+                "types": [
+                    "natural_feature",
+                    "establishment"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            }
+        ],
+        "location": {
+            "latitude": 24.3132762,
+            "longitude": 120.54518370000001
+        },
+        "viewport": {
+            "low": {
+                "latitude": 24.310330699999998,
+                "longitude": 120.5446159
+            },
+            "high": {
+                "latitude": 24.3150568,
+                "longitude": 120.550578
+            }
+        },
+        "rating": 4.5,
+        "googleMapsUri": "https://maps.google.com/?cid=10643845079110145654",
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "Gaomei Wetlands, <span class=\"country-name\">Taiwan</span>",
+        "userRatingCount": 4298,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Gaomei Wetlands",
+            "languageCode": "en"
+        },
+        "shortFormattedAddress": "Gaomei Wetlands",
+        "editorialSummary": {
+            "text": "Picturesque wetlands offering striking sunset views, an expansive boardwalk & migrating birds.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZMXVIUnNRRRAB",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 4,
+                "text": {
+                    "text": "I was there on a foggy grey day and did not see the sunset. Despite that we still enjoyed ourselves. Get down into the sandbar is highly recommended! First brave the knee deep water that was still icy in springtime. Thanks to our KK day driver and guide for a great day outing!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I was there on a foggy grey day and did not see the sunset. Despite that we still enjoyed ourselves. Get down into the sandbar is highly recommended! First brave the knee deep water that was still icy in springtime. Thanks to our KK day driver and guide for a great day outing!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Haz T",
+                    "uri": "https://www.google.com/maps/contrib/116070620477048278312/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKqY-jHRQxrOe3S9fwypAS7wpK9oZ__-Pa660j_5EQxujcuUQ=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-05-04T04:44:58.258283Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZMXVIUnNRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZMXVIUnNRRRAB!2m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            },
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/reviews/ChdDSUhNMG9nS0VJQ0FnTURJcG9ITHFBRRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "As a sunset enthusiast, the scenery was spectacular. I wish I could just stand there and watch the sun set forever while the sea breeze blows my worries away.\n\nThe moment was spontaneous, yet it felt like a triumph after a long adventure. Suddenly, I wasn\u2019t feeling tired anymore.\n\nI can see why this is such a famous place, really.\n\nHere are some snapshots. I swear, it\u2019s way better in person.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "As a sunset enthusiast, the scenery was spectacular. I wish I could just stand there and watch the sun set forever while the sea breeze blows my worries away.\n\nThe moment was spontaneous, yet it felt like a triumph after a long adventure. Suddenly, I wasn\u2019t feeling tired anymore.\n\nI can see why this is such a famous place, really.\n\nHere are some snapshots. I swear, it\u2019s way better in person.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Filsa (Jo)",
+                    "uri": "https://www.google.com/maps/contrib/112608700979578975747/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWd4ZzLNXRPRG0eicFhg8nVLXSJzwauYBc-7efjL8xFEXBoDCiH=s128-c0x00000000-cc-rp-mo-ba2"
+                },
+                "publishTime": "2025-04-09T09:43:53.233304Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJcG9ITHFBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJcG9ITHFBRRAB!2m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            },
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aE51S2R3EAE",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "This was a spur of the moment visit and we decided to take the local bus there. It was about 1.5h one way from Taichung station but the views were oh so worth it! We also cycled from the wind turbine bus stop all the way to the wetland pier area which was such a fun experience! The sunset view was really amazing and there is even an area at the pier end where people could take off their shoes and wade in the shallow water. Would recommend taking a tour to visit this place for the convenience.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "This was a spur of the moment visit and we decided to take the local bus there. It was about 1.5h one way from Taichung station but the views were oh so worth it! We also cycled from the wind turbine bus stop all the way to the wetland pier area which was such a fun experience! The sunset view was really amazing and there is even an area at the pier end where people could take off their shoes and wade in the shallow water. Would recommend taking a tour to visit this place for the convenience.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Darren",
+                    "uri": "https://www.google.com/maps/contrib/116771157599704611382/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOcUG7YQ6W9uPYQDyKR3b2KSG7X-UwlBEE9upIC6wXqk-eyNS0=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-03-23T13:54:16.693408Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3aE51S2R3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3aE51S2R3EAE!2m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            },
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmaFo2aVBREAE",
+                "relativePublishTimeDescription": "4 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Really cool to visit and see the marshes. It was so windy that my hair was whipping in my face. I recommend wearing comfy shoes with a lot of traction since the walkway can be slippery when it\u2019s wet",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Really cool to visit and see the marshes. It was so windy that my hair was whipping in my face. I recommend wearing comfy shoes with a lot of traction since the walkway can be slippery when it\u2019s wet",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Nicole Louie",
+                    "uri": "https://www.google.com/maps/contrib/104144143971973565583/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqkQqUhdpHsotiAgA18tzQ8J6daQP8mO055NZXWIgi76ZHLuRQ3g=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2024-12-30T21:34:53.822854Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmaFo2aVBREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmaFo2aVBREAE!2m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            },
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/reviews/ChZDSUhNMG9nS0VJQ0FnTURvdU1iVWZBEAE",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "The weather was not cooperating, overcast, dark and very strong wind. The wind was so strong that you could be blown off the slippery boardwalk into the water. Fortunately the boardwalk was still open, we risked a little walking to the very end of the boardwalk. Too bad we did not have the chance to see a sunset there, but the views were very special.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The weather was not cooperating, overcast, dark and very strong wind. The wind was so strong that you could be blown off the slippery boardwalk into the water. Fortunately the boardwalk was still open, we risked a little walking to the very end of the boardwalk. Too bad we did not have the chance to see a sunset there, but the views were very special.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Patrick Xu",
+                    "uri": "https://www.google.com/maps/contrib/107967947415131653371/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKyyCqk52NOdQc0MLWa3cFX9sXN-f7SSc_AS80MZeesKfWrUg=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-21T21:12:29.410296Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvdU1iVWZBEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvdU1iVWZBEAE!2m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/photos/AXQCQNQ4AZDFhMW8OybncbfQAVatb6VqKI_kWOYxpBHcW3cUmozgMkU4E245qajfIzFivmSQoeFHjxdCq3saBBGnajImx476ymkoF5WX1GBIwGfgKSqffRUubeFUP0Y2zYuOxbFgO-Y1c1q7sZVUqSc7OQCUi-4G2erPzNjMk0poADyiJBDZo_o8qog17-_VF-x_vsLYOJPGDBtX0N2FI_lKIT9hmZRsilNtE_pPYC3UvxFzahc-zxg-hgiLCxCCUrzVupvsWWxOShH46vIYahGLKmp3Q5sBYkE6WwQ8OoeMZBv7nmNefXa6GjQ33gk2z8NcSCFlizhy7W29qXjexA37iJXp0gfAjmSk2bV08ZJnn0a2X1igrjG5sNlIVe4lnmLMTSQ7H5hD_3SEceK2dxzTBCrBLv4-QU0bu0G0F0UtQhE",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Kane Chao",
+                        "uri": "https://maps.google.com/maps/contrib/109475995918703898102",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSrVFhF5OlDyAHVgaj8nwBAOTx-u6apUSZomkdFi2HsXB1HDG5PQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICf3v7Yag&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf3v7Yag!2e10!4m2!3m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            },
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/photos/AXQCQNSr6GUpvRuRom_kMokRoCp7uD6wKIpvEOrpEE1sHQrcQ-kVHIEDAU8pIllQ6IFYHMJwllcSd1jkTt29SqV1IPGl-UfcZVKoB6Q6p9AVrsJ8Wb_sbfQxWLgLWtKWxUP-bJ9RCYrhj-vp9tpcNMnvhukllVmwbBOm26W81HU1AcF9X1WTy_dp_euTUbxnR1S2W9NdGU9BekNIm96KyjHMTaC8Ke5KLNk9EskhnnyGu6sGoofbL0L6ZWX3eV-0-SrRj4x6zwUxKO3khPWGutCAJkOqFzeTrXxel4nZK2wlytH5I1oLs_Wqju98-uWk_FaX7OVkZQJd19ssdQsXHiBBK_l8T9kLsn4B18nDif3bq-Z9dvvdstoIJ__-KGees5Dmwngag0MN4VW9O8FH1edlLgdqbZQaRK_wAOTit54sLpJ6pg",
+                "widthPx": 650,
+                "heightPx": 433,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6797\u7385\u5a77",
+                        "uri": "https://maps.google.com/maps/contrib/109371596126815460172",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdrdpb-lybJC24gJ6N9Sn5b_ugoQRJfT-lnmBWKwUmL71x8Dg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqpc-fWg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqpc-fWg!2e10!4m2!3m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            },
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/photos/AXQCQNSUo6K8fndnnlwBxlzUzqUWi12WqKYUXgk7GiYkAln1R_1TF6KUTMocorRAEnAgueh6kuEweXDJluanspU69pmlNjLBvAgNXe3PdRv1KdEoe43g5ATrlFSB5TL3RdQ51mQEvXUJde4PaUK3VXTg7PA3cV5Lu5p5GSvtXdq9eiadJcXbPmFLMwdSEQC60RVQQN4jZk9VBcPjgOabSOu8StmLEkDVAPoA8T5-3qQLsvW6vx4YiVVqwv7lCb379AFBTb7YhlVx5oRpcJX5_c_Jgv4LHp0vbwd4bePDdY20npTnf0orFgjCkwCTccRViaiOby2-83uK5SrFbFrHl7YoByHsBg6yRQu1I22M5rk2cKF-SL6SNtL675HtYInNs9lJhj2gstzToDj9rWqznLdCKCkEKtAzvWtkdTLnuw8MR8snzQ",
+                "widthPx": 4032,
+                "heightPx": 2268,
+                "authorAttributions": [
+                    {
+                        "displayName": "Devin Huang",
+                        "uri": "https://maps.google.com/maps/contrib/104841455918401144924",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiIq24YoxeNiDBsxEDS3toWktqGm1o5Tj8kRqQ-cJSokXdgtfP=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDimIioKA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDimIioKA!2e10!4m2!3m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            },
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/photos/AXQCQNQX7lwdHVyhtn4OS6owgVfTKPHEHeUjRz41NCtJlhz0y5O4xwUAAsAkJgOtRV4EJVY1MQAQ9K9O_FGoj2IvO3LmO3YrtSzOAjI2A9nEEPVHemylyM36lKVVUYYkJX8VeUgJgU6KLgBmAiq1NsKhBIwnEmvxGj5gFu3P96TXN2JQ3WIQ_dN8KIxrtd5AxKsWfd1HdTnEW1wD3I4_47tF72xEw01q4R73M9JQnwRpkNViN_4NFW4FxdUdonvdPYGnpuYYWIJD7efWmw7sbRhuBUuH9XR43MEq9UfTwnQVa8cfTLI-kYsNKPqEyOFuq2Qtw1ARjXPqokWN4RLgBMkk0nD3UkINWoASlClVBDn_fQmonV6J4UDlrEwmUO1IJOVx9GHsKNPBF6aS2_2ecjbwffbb0vcHeZiyAuKa1VLR2kwYZ_WL",
+                "widthPx": 3060,
+                "heightPx": 4080,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5289\u632f\u8c50",
+                        "uri": "https://maps.google.com/maps/contrib/103330784468931624316",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnDBJcHZChzvotfUDaYv9gOxSzgC42QMyuNf8iW-9ZmRGPcGQFHA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWyd3xqwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWyd3xqwE!2e10!4m2!3m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            },
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/photos/AXQCQNQ8UZxq7ohPRYIJYiWS2fw4MW3SQagN6f8_YJL756gsX7ziW3l1kuVJMbNS1hrIM1wp2uc5LuyQY-hO7ePDLL68Kx2sl3iSU04RVsc5pR-NDFoKYBV-saPYOnydXBkHDE4kXGHnGyaDsle--nyDK2FQF_hoUhZ7NtwL12JzffQqJQvjjzSbc9a6OWW30SoohdNZuuu2IsGw-4O-ofbKpVdp6ScUah3pnxAdKebc-s0ZZcMkGut2VQZTDiY3V2_AhcqCJJALHQSC1Cc7q_nDOyyQ8Qlu9Z2AYgmWif01lK0OrSvmP2Nx1VE0wYlXg0xa-hS96Y-Ku6gZ9IfE7xcUXe6kv79Z2-4WR3cyIR0TiIui_BU9lEejy558zudD_TU-bdN4HXJRJxAA59mgzC8zme_qebCN1Ouq939MWczha5FvZu_-",
+                "widthPx": 1477,
+                "heightPx": 1108,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5764\u6fa4 _Cliff",
+                        "uri": "https://maps.google.com/maps/contrib/114956113410306731536",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCcg8Pf4lhXynzZfjpGiBnO1Oxp_77nTRMoa-7A5YgnhXns42kXg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICB6bG1jgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB6bG1jgE!2e10!4m2!3m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            },
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/photos/AXQCQNSUKYy-Db6O-l0jaZ0bCK5NQ0rfwJpass_NfwoWjKNVXewFy79ZaqmcFU2oorzk-neyVb5JIV9JNpbBz8fWD30enTh9htf8BBJqSMQDmboS6IU47u4QwV5bbzHNZwwteUp2j-boSHo7jgV7gRwNU0d3khnmXpX5YKfr-yPWZVJO03SOetck_E6Ak7ZvFFFuJunEC6pJx_vUfWAbVvwNL9tT5_6tOU7XeER8bivspGa36gvjZqiTkr0hNg56C00dJVdeXqbRDNHPj8ZN8WkgNAHghzplcHyUU5f5wQ1TjGH3q_XkJRonsK5RdYmLcaVLaadHa95bnl0J6tbAWuPnzSQP4PCkeY6ZM041ODcmMLONr6ku44uCA-G6jyBQrOMCHeBol4C3YfFB5JPRbOhkF3S33NFwyORrq_PKtpGjzcWw1A",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "ZALAZALA",
+                        "uri": "https://maps.google.com/maps/contrib/113256557666765139246",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVl-vc5zWGXhLHdOI7zQq18lhbvarwJfHWLP1SP15GdJ_w-NrK5wQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDev7n6ZA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDev7n6ZA!2e10!4m2!3m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            },
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/photos/AXQCQNSvUd5h27q110toSXidY9TzYeGPtYPqpq26dQBzFRZmy_ZF-PToItcdao42lLHzWw6-tnHfLExwJpvg9YKcJwRioGMdC2nKMUOXefjK9tMPK1A4-xDDSCgrKUd2xbuaLiliFumIOXERvOdgMGk3mBXIm6xQOFnbFkqJXQPE0wwPusQ1cJnoJ3OfMksZN4MwP6caxXwv5RT4G5SfKNZcz1KCsjf5Nuv1aNRzgbC5ffDARvE2Xud18MjSlVR632oOYQemlQhrbNQ2wwZJGhXXWcR63YHu3HPNKKzQ7V_ctbA9FnbLMP-fQrLfA6_NzDpxxsmDMuN8BwxU_1W97T-shhHwr56ljdRCL34-BG96DMGB6tYMJWBOotLDPbEELCl6rSBhyw9DohfvJiGdvfLM9I5qtHDCPVtPlrJfZmaDnzurRg",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8b1d\u6614\u7965",
+                        "uri": "https://maps.google.com/maps/contrib/117222281516161323595",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0KWm5u7vRg_vI2G9eXPX05CJ45ILqD7uhgIsUSPjbm-pNQlGVyQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICc04mZOA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICc04mZOA!2e10!4m2!3m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            },
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/photos/AXQCQNQYCd--gNn3R_8RPfeBbw3u4YQiO9eWpW1H7MPGaAtgjZC2mo27FFj4jFCiQSF3sqHZEIrcI9E2uSemECVH87ZKbKWJJh9PgoF6Ww-GXrubPgxgW8R34tpmU2AgkVN65TMHjFxdCWMkPYiaWP_98kjkHFhFxcbS_gmeZkD9hhbL9oKeRSzensC8n5un7fVXhR742_mhbTuVYNLTPQ9MbOgQgMdRiEI2pN2Kq4ktWS24cyVXnYU7W31RDYNUaKhXcrp4NoJ1GtoIAf41Dn4usrPlacaunD6TWhTfUCbdN1gBN-3B3bJKGj0yyc42h525xw8oKfnU9s2azXz6BwMR-CVIUZeFemOYcn5tfAoZDOpp4S3hcLMnYYRI8bItZTDOw2m0V0k689-3nncbN9MBCVdCir6XUcMuK_qnVv_GLc2X8K6r",
+                "widthPx": 4800,
+                "heightPx": 3200,
+                "authorAttributions": [
+                    {
+                        "displayName": "CARP LIAW",
+                        "uri": "https://maps.google.com/maps/contrib/113187046680577467930",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQc-tCVrm1a7ZEhcbyNswyYcQjMs8q-qQ-e-OgPtYDYJLWnknv=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOqfSa_AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOqfSa_AE!2e10!4m2!3m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            },
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/photos/AXQCQNQhQOEO7z68d3kGHlL7GctJzkt87fjgiTnHHSBadWcgct8LlqRJJmV8On5wka1y8UI6rtWrcTdP4H_N-aYfWvSUs0xaSyOSYLpfz7GPnMNRGk-MjfVFLZ9l_3cVYsJj9QxWrh3wO1BTT_xY9W6wPRPen9FVuHamO8sq9gUCdVJr0dGE1mQD7T78sJAfgAnzAKfFAjToJXEG0zFgZor-7gVhYw8tbQTTODXwr_eXEXuQY4iT8UwzF51xTohbqKiFc7a766wrQB5RNib71lf8_UxfBdGK7Dc1Ysp6gamLUbLoJ41MYGImu_KlDTbjXySv9sZnTTusvIxDfhFLLiESwSc0EMNkKt2SWHj8TZZ0pWYlMQHKWlxRiv__PGr1K5ZOshu3Pyr40xaMav_dNwVslr-CaQwfRJlN0HO5G7HsN7h1cA",
+                "widthPx": 4800,
+                "heightPx": 3202,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5ed6\u4fe1\u96c4",
+                        "uri": "https://maps.google.com/maps/contrib/118233385176413492828",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJddlkLnYIvc3FGoMLIoYy8PFFRxpneOKNbJLzdjkpkw8AJeA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDisOP5EQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDisOP5EQ!2e10!4m2!3m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            },
+            {
+                "name": "places/ChIJvT5yFSYTaTQRdlamuLSItpM/photos/AXQCQNQszFcs3b9Y1AvDF_vxdZtW26zy1dHoZ6OCfLOwTSnOdk0pgC-Wc3mYIDK-mRdlIZhUa2_t2Aso4Cm21Yk7XRuGwUPnZVLQKsCTsuDnXi5eu1yqkiFkZfWP_BXiq_8VN7tfuLdpcU1e5629-3030uWPg1DG2V9MvG8hc4-QzpC571doooA-Q555XQhcGaGfYaAuUkJvHWLpuqrGHkopBRqGAzU5sg9sSuUI79fcRCz7btv3jumg6BZ2FR9N_HbZE0WddwiBJBA7g1aZ65-ERoajyF5sF2Yt-CGFUGYrV9TKr-gDF8GY69iYmprdglkuF_KDyrOaKZ7U1b0RGo2d78OzhtP3mwrB9VGQLs09fKuf88MxGOoSl6Pi_fa6s2RvfHfySVeqkDCndnOjxzOrEY8b43m1Vcs9mUK6H-p3JncUTY9_",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "CY Tsai",
+                        "uri": "https://maps.google.com/maps/contrib/107662313280078508450",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_i3HItsMBJ6H4NuOoqUfLuf6pCd3lfID66bHPA8c4InmagVRK=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID6y9nT9AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6y9nT9AE!2e10!4m2!3m1!1s0x3469132615723ebd:0x93b688b4b8a65676"
+            }
+        ],
+        "pureServiceAreaBusiness": false,
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3469132615723ebd:0x93b688b4b8a65676!3e0",
+            "placeUri": "https://maps.google.com/?cid=10643845079110145654",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3469132615723ebd:0x93b688b4b8a65676!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3469132615723ebd:0x93b688b4b8a65676!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3469132615723ebd:0x93b688b4b8a65676!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        }
+    },
+    "description": "Gaomei Wetland, a top-rated attraction in Qingshui, Taichung, Taiwan, is a breathtaking coastal landscape that captivates with its raw beauty and dynamic interplay of land and sea.  Located on Gaomei Road, Qingshui District, this #1 ranked attraction (out of 17 in Qingshui, according to TripAdvisor) boasts a 4.4-star rating based on over 1200 reviews, testament to its widespread appeal.  The wetland's allure is undeniable, attracting couples, families, solo travelers, and friends alike.  Even business travelers find solace in its tranquil expanse.\n\nImagine a vast expanse of shimmering shallows stretching towards the horizon, where the turquoise waters of the Taiwan Strait gently lap against a seemingly endless sandbar.  This is the heart of Gaomei Wetland, a scene punctuated by the rhythmic crash of waves and the cry of migrating birds.  A long, winding boardwalk, a crucial element of the landscape, snakes its way across the intertidal zone, offering visitors a unique perspective on this ever-changing ecosystem.  The boardwalk itself is a marvel, inviting exploration with its sturdy construction and views that extend for miles.\n\nAs the sun dips"
+}

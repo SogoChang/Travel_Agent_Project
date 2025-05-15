@@ -1,0 +1,605 @@
+{
+    "name": "Taipei Metro System",
+    "tripadvisor": {
+        "location_id": "7716198",
+        "name": "Taipei Metro System",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13808671-d7716198-Reviews-Taipei_Metro_System-Zhongshan_District_Taipei.html?m=66827",
+        "address_obj": {
+            "street1": "Zhongshan North. Road, Section 2",
+            "city": "Zhongshan District",
+            "country": "Taiwan",
+            "postalcode": "10448",
+            "address_string": "Zhongshan North. Road, Section 2, Zhongshan District, Taipei 10448 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Zhongshan District",
+                "location_id": "13808671"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taipei",
+                "location_id": "293913"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "25.05932",
+        "longitude": "121.52318",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 2 2181 2345",
+        "website": "http://english.metro.taipei",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13808671-d7716198-Taipei_Metro_System-Zhongshan_District_Taipei.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13808671",
+            "ranking_string": "#1 of 3 Transportation in Zhongshan District",
+            "geo_location_name": "Zhongshan District",
+            "ranking_out_of": "3",
+            "ranking": "1"
+        },
+        "rating": "4.7",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+        "num_reviews": "8296",
+        "review_rating_count": {
+            "1": "15",
+            "2": "20",
+            "3": "284",
+            "4": "2094",
+            "5": "5883"
+        },
+        "photo_count": "2188",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13808671-d7716198-m66827-Reviews-Taipei_Metro_System-Zhongshan_District_Taipei.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "transportation",
+                "localized_name": "Transportation"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Transportation",
+                "localized_name": "Transportation",
+                "categories": [
+                    {
+                        "name": "Railways",
+                        "localized_name": "Railways"
+                    },
+                    {
+                        "name": "Taxis & Shuttles",
+                        "localized_name": "Taxis & Shuttles"
+                    },
+                    {
+                        "name": "Mass Transportation Systems",
+                        "localized_name": "Mass Transportation Systems"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "687"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "1786"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "1668"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "1933"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "1502"
+            }
+        ],
+        "awards": [
+            {
+                "award_type": "Travelers Choice",
+                "year": "2024",
+                "images": {
+                    "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png"
+                },
+                "categories": [],
+                "display_name": "Travelers Choice"
+            }
+        ]
+    },
+    "google": {
+        "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w",
+        "id": "ChIJlWImqHKpQjQREk5-6lec4-w",
+        "types": [
+            "subway_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "03 286 8789",
+        "internationalPhoneNumber": "+886 3 286 8789",
+        "formattedAddress": "No. 8\u865f, Zhengzhou Rd, Zhongzheng District, Taipei City, Taiwan 100",
+        "addressComponents": [
+            {
+                "longText": "8\u865f",
+                "shortText": "8\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Zhengzhou Road",
+                "shortText": "Zhengzhou Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u9ece\u660e\u91cc",
+                "shortText": "\u9ece\u660e\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Zhongzheng District",
+                "shortText": "Zhongzheng District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taipei City",
+                "shortText": "Taipei City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "100",
+                "shortText": "100",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QQ32GX7+GF",
+            "compoundCode": "2GX7+GF Taiwan, \u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u9ece\u660e\u91cc"
+        },
+        "location": {
+            "latitude": 25.04882,
+            "longitude": 121.51374999999999
+        },
+        "viewport": {
+            "low": {
+                "latitude": 25.047782069708504,
+                "longitude": 121.5104439
+            },
+            "high": {
+                "latitude": 25.050480030291506,
+                "longitude": 121.51529649999999
+            }
+        },
+        "rating": 4.3,
+        "googleMapsUri": "https://maps.google.com/?cid=17069658914074545682",
+        "websiteUri": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/travel-guide/A1",
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 8\u865f, Zhengzhou Rd, \u9ece\u660e\u91cc</span> <span class=\"locality\">Zhongzheng District</span>, <span class=\"region\">Taipei City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">100</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 4347,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Taipei",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Subway Station",
+            "languageCode": "en-US"
+        },
+        "primaryType": "subway_station",
+        "shortFormattedAddress": "No. 8\u865f, Zhengzhou Rd",
+        "reviews": [
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/reviews/ChdDSUhNMG9nS0VJQ0FnTURBLTlyRzFnRRAB",
+                "relativePublishTimeDescription": "3 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "A central hub where you can ride the slower or fast trains to the outskirts of the city and central airport. The bus station is nearby.\n\nThere are endless food and drink choices with shopping malls connected.. There is also a couple of travel agencies, a food court, ATM machines, 7Eleven (to buy bus cards), and a pharmacy.\n\nI felt safe riding the subway. Their subway system is color coded so it\u2019s easy to understand. Just ask if you need assistance.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "A central hub where you can ride the slower or fast trains to the outskirts of the city and central airport. The bus station is nearby.\n\nThere are endless food and drink choices with shopping malls connected.. There is also a couple of travel agencies, a food court, ATM machines, 7Eleven (to buy bus cards), and a pharmacy.\n\nI felt safe riding the subway. Their subway system is color coded so it\u2019s easy to understand. Just ask if you need assistance.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Melanie E",
+                    "uri": "https://www.google.com/maps/contrib/111136896090209853190/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUR0bJcxqNkJt-i1wxCH3EaQXevncA86panZszfT__NAs_0KWRp=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-02-12T06:10:44.474306Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBLTlyRzFnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBLTlyRzFnRRAB!2m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            },
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvd2U3Y0t3EAE",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 4,
+                "text": {
+                    "text": "Taoyuan airport mrt was under construction only small entry if I walked from hotel near ( Taipei station worst station ever Z exits no escalator or had elevator but closed entry on street). It's better to walk from hotel directly to mrt as of April 17,2025 price is 160 NT can top up on ipass or Easycard tap and go. Train was super crowded.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Taoyuan airport mrt was under construction only small entry if I walked from hotel near ( Taipei station worst station ever Z exits no escalator or had elevator but closed entry on street). It's better to walk from hotel directly to mrt as of April 17,2025 price is 160 NT can top up on ipass or Easycard tap and go. Train was super crowded.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "LS SPK",
+                    "uri": "https://www.google.com/maps/contrib/112231195457646508153/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJkQ-GlBK907xayseg0nT_YTj0UcEh3GuE2MlnEK5lsF_pnmg=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-17T13:56:38.427846Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvd2U3Y0t3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvd2U3Y0t3EAE!2m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            },
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/reviews/ChdDSUhNMG9nS0VJQ0FnTURnMnFpTXFnRRAB",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Lots of good food options inside, super clean and easy to find your way around! As a tourist I had no issue getting around and finding the various trains I needed.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Lots of good food options inside, super clean and easy to find your way around! As a tourist I had no issue getting around and finding the various trains I needed.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Kyle Cournoyer",
+                    "uri": "https://www.google.com/maps/contrib/115781476714078372949/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKWp4MJdhMDcgnS7Wswta8N8gewkTAgLQ18k-lyehMEmK1tmkY=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-02-24T05:53:50.198240Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnMnFpTXFnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnMnFpTXFnRRAB!2m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            },
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/reviews/ChdDSUhNMG9nS0VJQ0FnTURvd2FDRTBnRRAB",
+                "relativePublishTimeDescription": "2 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "Convenient transportation option from Taipei to Taoyuan International Airport. Can use Easycard for payment just like any other train stations in Taiwan. Love the comfortable seats.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Convenient transportation option from Taipei to Taoyuan International Airport. Can use Easycard for payment just like any other train stations in Taiwan. Love the comfortable seats.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Angela Miranda",
+                    "uri": "https://www.google.com/maps/contrib/112591712910769779462/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLOLS6P6KEim_8Rri76m0OJf1nhQjzH9kQ6FB9RsxzEJG0oUJiw=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-04-25T15:16:24.257888Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvd2FDRTBnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvd2FDRTBnRRAB!2m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            },
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQdktyRUV3EAE",
+                "relativePublishTimeDescription": "5 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Taipei Main Station is a bustling hub that forms the lifeline of Taipei's transportation network. The station offers seamless connectivity through its extensive network of trains, buses, and the MRT. It\u2019s not just a gateway to explore Taipei, but also a starting point for journeys across Taiwan. The station is well-equipped with a variety of amenities, including shops, restaurants, and convenience stores. There's even a shopping mall within the complex, perfect for grabbing essentials or indulging in some retail therapy.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Taipei Main Station is a bustling hub that forms the lifeline of Taipei's transportation network. The station offers seamless connectivity through its extensive network of trains, buses, and the MRT. It\u2019s not just a gateway to explore Taipei, but also a starting point for journeys across Taiwan. The station is well-equipped with a variety of amenities, including shops, restaurants, and convenience stores. There's even a shopping mall within the complex, perfect for grabbing essentials or indulging in some retail therapy.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "RIDHWAN SAID",
+                    "uri": "https://www.google.com/maps/contrib/113173235596445751767/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQQF0BHZijWAIMS2ASmW4y88aYGehEpNpkxD7TsRVyJ4lTaa79=s128-c0x00000000-cc-rp-mo-ba7"
+                },
+                "publishTime": "2024-11-22T11:20:19.950758Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQdktyRUV3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQdktyRUV3EAE!2m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/photos/AXQCQNRGIMOplomxqaldJe_kAhGAqS8CBm5VwtECYmYqTJ-OCb5mhY_L33VWZ9CSvZuBoLn4B3V-B4RGzwO2iXtCjNx0KNWJSIwiMKVBzaXwWi-UgQWWQNXyYGTRe2umNlW6i1VXwYT6VdlEhReN3gshWMS4nDaj_8trAvNAbz46f-7MVRebh6wecSV70c5idKBOD7tAtIdDnKez2jteIdZxpkNIHNQe5wLkIXhG0W_vKBm83CFlYX7eaXFxx62AVMhaGeVc6XluQdXqPhasmp-yU7dGHrDEPNI6OeksXUa2Br65mA",
+                "widthPx": 1300,
+                "heightPx": 731,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6377\u904b\u53f0\u5317\u8eca\u7ad9\u7ad9",
+                        "uri": "https://maps.google.com/maps/contrib/111470031554060523935",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUniQ2nebSkRyVeMyFqKGJvhoUQMB8DUndO7dHeuSrfmE_3TJk=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOfiT8HcF83XEs3vy2Nsp4X-F1VN05yVSONHIsK&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOfiT8HcF83XEs3vy2Nsp4X-F1VN05yVSONHIsK!2e10!4m2!3m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            },
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/photos/AXQCQNRMCf3FbT-lgHpuFc4jc6S51A37PG6xHLIbF4vlmUvltrKkDIFD2l5ldFuE0t2_Mh-ZTomMZ1KdPVbRHFiT9fPo7-IG9Ve5QIlp5sqD1cJAxmP7utm-qTjLoPDWxDPq8_z2gAiAhvSbIlJ0509kdnjP-sbPURyITGqeVEI0YKD_1mq9_0NwO4MN9zYPIHy74F_2UkbI6MktRgI1QDEMedBbL5c3MfVD9UCeNqcwYeBPi756-pOUcCDdv_HhiyoMKd8VZyWaZmKgDy8lBwRxoRK4-4WPHPIOFjdg0FvnuPQbS3fqiAqPiJXvJMFVRGmrM-2-pUtIfVdxeRTDA-0KUUpLs1BcVh6HP0xU3ouu3uAANfM-fLMhE3tywuLNxP2_th6WmpNQkei1ILX0hefi4k-NA32IW8ljWHf1yrccLPI",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u65e5\u672c\u306e\u611b-SOGO\u5546\u5708\u6377\u904b\u5e97\u9762",
+                        "uri": "https://maps.google.com/maps/contrib/104699999623714929993",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXavBhU4ub5_KtzN6XsrM4kGcMCQIQF-4daMfqB8XAWI2cADM5LEQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDq8IirfQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq8IirfQ!2e10!4m2!3m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            },
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/photos/AXQCQNQCN5RNIpsIDCikg3v42sEecIbnfpWCDdyP2GmcQEgJ8lAZSQLw-lUII6oX2j6mICdz5CrRQfivwAIyNZ3KuTKyja76XmjSrsM5nXmHn1I-jwaWtUVfXOs3MpIA2JHE2yxEhI9TQdYuC1v07MtcU17-Uwloj1fVImCH871mgsGkgAKsBK6MnzYPJwNeIX8BDvVVfoew5Jz6ZYAMyDLNthKWm6DcSJS6wbogsNfZuo9QuOlkiMEGOVZYh2MeCvx8XCKIa4a4uYetdsAS4C2V2sznMsMA3rxEUaSUvUDpd8p9snM3RTrN_vNzSFIUJg3aRqRQpMAchVI9Wo_-OQy0RUoLM83uDRrNa_na_Ea18v8pj-UC-8GjjhWFf4TuHb5g0fRIsl5woh4wi0B8cC0tYn98-pNc5h3gJn0",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5764\u5b97\u5289",
+                        "uri": "https://maps.google.com/maps/contrib/113315057132180105036",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIp0Um0Y-4zIEDHV9Y6q-JC4mBmSzK-0CtMUHQrIN7Ugp6az0=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhvODtXg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhvODtXg!2e10!4m2!3m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            },
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/photos/AXQCQNTen638QFIY493nVkG86QHsgxXpOryRuyiF_ZrfPbZiPILyooDD4RJxIOvAsGeieo3limYDam3DJbV_aLVDXMWje5-Uc0ZhIRuq23kwxg3v5B6IuDb2cjtONqS565WhAgwAdPzWpXYBzt9-CVth7tyB9SvEtaNjzHJ5gzCkh5YBbbPFi2kvDU9vZKMkZOnRi1Ntj5KhmY1pLZE9xJxLzEnPRyWr4IUQRaP_PuxRFXBAcOGICW3P2eaMLNKA0AagpdL-Dk-DiRSR2-Uj5XaFC3az5HyZ1GKRLxbAgFdYGUku6FFEclbMkvd_7ae2riT736j8O740WtjzYLhqL1JmX884A8JMGzGjxldJKqXA_bEGzaHi4EjJa1IgzIlnUJ2OfHhC__fHfIfmKDMstcmLuKQBOmYb4RxUx5HT1DBnetS8uw",
+                "widthPx": 1440,
+                "heightPx": 960,
+                "authorAttributions": [
+                    {
+                        "displayName": "Huang Webber",
+                        "uri": "https://maps.google.com/maps/contrib/116757458691277617975",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXK2tdoAEelwEyAF-k_kRz6wbPEjRCN8PbDiG3_zjRH9YzjWeK9=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOpf2VXQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOpf2VXQ!2e10!4m2!3m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            },
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/photos/AXQCQNRGgVRfFwafspUjR12ia4CMWksfkaLECNaju7BCmpO4C4euSBI_fcYIo7cXMyx6gi337EfNQGPcIYObk684vSZcu5YizZDnoariUj8Sgeffx3IVyf9R9i6aOpcdrQ2A_BFyQTUjvAxz3hphpe_u8lnsaR6F3aHge813lETGL0pAe9E9veF9Fvmmup_FOkNJpcaOmXYXZv9sOXzp5Lu4ivjyyzzy2_kDuGuemF5gV5zcuW4sa1q7jM_67FUOJ9XhPORG287rC8tR5DAj2FfjyFhNmKLqHYsqqPo6RGM_TLvN43ol4QXBIg5lCium0N95SzQ_cuufYhXIKgQQlQ17uToWuDA7mLYlbWm3MQp8urJKdt4V1onm8WQQ1YCPU-NwX3-L38EuPHhxtHvL0B18sK30Pjk_JK-NAV4b_NJFYD79hw",
+                "widthPx": 4032,
+                "heightPx": 2268,
+                "authorAttributions": [
+                    {
+                        "displayName": "Tsuyoshi Chiang",
+                        "uri": "https://maps.google.com/maps/contrib/115924859519469179214",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZXsglMxtzCr9dF_R9eOJm75bjaWgTxsKR0CBk9HqbwuBHfvfK=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-6sGSTg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-6sGSTg!2e10!4m2!3m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            },
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/photos/AXQCQNSGxvChMHDaCo9U1N636koHpfaEwEoPPQoqsR2GdUU7WyK6YaoBHDBLxO-4G7D4SnyTUQxHjrBBbsweNfjHBWP2FxhOUekO8L4IKooJUnhfcgPBAxTmPfVN9NUNc5X4QBqTR2mC8kk0qBaMXExlK46gbg7IWZA4He8nKet52bynShf-hA0doVzjmC3z3VcTtvlY7ofs6pbNGu1h4Sb9nvimCNsXDeHeyImWd_T2Y4XdPVTXfi4xooSeTxL-znna01ZKssd2jxW5C9jMJQEycVnp5SAM5etm6-RbluGQ1lvIbX3DENdk16EDeN9IZEOMYMyQHckhqm7h1b0n74aIvSB6VrAzgaGV2ciZB7BiB5gzs0b0abromvW0urhBYeIqXZwvPdCsf85DaIAJioEqZcEkidlmx-s-BV17G9wWp5c",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u65e5\u672c\u306e\u611b-SOGO\u5546\u5708\u6377\u904b\u5e97\u9762",
+                        "uri": "https://maps.google.com/maps/contrib/104699999623714929993",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXavBhU4ub5_KtzN6XsrM4kGcMCQIQF-4daMfqB8XAWI2cADM5LEQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDSn4qSMA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDSn4qSMA!2e10!4m2!3m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            },
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/photos/AXQCQNQy_mrTCXmpg6GtxQKJHUUgUsSnczfUkzBlaWyaBq2lmI5NunLI5aMxHjqo7ot6HMnQ--xCTS5D-g4zR-mrOleOWOHwgf-h1ar8AuIPaPFvIPN1TSkyn79XmcInexXCs08Q-yTD3rWhIcP6D-rP3OxH-AGqFM8WjVVBFYEpwKZCpiUNKlwL2w2NROzG4z6CIu63ohAnUSou4lYdYG9Co9nT-bOTYP08hgkKDoqy5Z98U3ATvNFV7FqEdCffCcBZR-f8Cy9tktO5jHrQ7ckNzTOm-o8O-X7fOH1HONQDxQ8Og1oJRY2p0wbVKu4yuXvmyq_zj9_x7TlDb3JzKZbuR_0SZWIIWLSP3IHn--E0mwo8_WS7WEQMd33R2RTcPayMyniD6xLCTBVmTfQxEIuZ_XBSgus7V7wuWvEwbiheYPqFsriA",
+                "widthPx": 3599,
+                "heightPx": 4800,
+                "authorAttributions": [
+                    {
+                        "displayName": "Sakti Rosa",
+                        "uri": "https://maps.google.com/maps/contrib/104368801712585016876",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2urir6NOjbaY_NuczbIMUydvvJIenxW6aRRZn230ONlOy6MM=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICe7dnagwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe7dnagwE!2e10!4m2!3m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            },
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/photos/AXQCQNRbQG4oA3gRBnoiUFhcsB4UC9xKPCzUEFjp__IMWX-KQOn0AQs1sarZCM9x2OArf-vAqfEaVsRQvmhGiS71SKgnuf9HL4S3-VClmLy4CcZ5Is7hSLM0b8Xe2YoS1_cQCh1w-kbBZeI1TaTdVWVnBND6GaR5q37JxOADGRRNXicNm3vSjKnBvBT9hLuGNqFlAPxl8mHkKVFnHKPJS9Al0J659IcaT8pgTyANv6MzWO8J9KlVidHIMxAAJ-L_gUCmcMIGAUfqKCvdthv4o54qkL1cwhbASJOHBS56L-LLVyLAad8JIE-SU0W6SEbT2br5vgoK0Ni2O6lEAtvLK4xwdYME60zcJp8IQHe0d65vxg-VY41aDmfpPIAi77FBGkDJ6hvzCQ_nGzOWW1VnfeZB4xWzHenLxOf0Et-aIYkhcfxMig",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Hyatt Pan",
+                        "uri": "https://maps.google.com/maps/contrib/111828306040313535315",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV9oQ4RsIArYEyqk6FXPOUU9LDVLM0tTtoKtdCDsUHSnTNzm0G2=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDa6qGXeA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDa6qGXeA!2e10!4m2!3m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            },
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/photos/AXQCQNQe0EFX5EkA_X1qMK-iVM-EJgP_Npy2eryKjk1oBMJqkQ-p7_OJA1BWn4BGgUwnNoqdHO9qamkO7gU-9eI3UhJaRDg9vWI-WFze0p7HzmrNzG3fTvp5gVBoAg0wvWrtSBWYE6_IIxmsGUEPVwoS86FVd3RiQrfyVUxEojNHCFD3fOUgzFMG5gKc84cLdT8heuH2oEIoYHDGwz7sn3LEN644X67usA5DRCna9BGDmbukR38WjojBumJ4KFTvSCaDwe_WfuXCIyMHbQZtXcgj-pOlB484Ze98heEOBr_xtjMdQ99NP5_NvfR1ZsLvcbg8_YUVA1RGMtlcPGWnRabWH7yuVlOeicInVdPeCNGXGoCKX8i6afZenwVudJnP2P4KGxcz1DVFpydijFjCoM6nu28bU0oSWSs_kKK26ZqAkzs",
+                "widthPx": 2560,
+                "heightPx": 1920,
+                "authorAttributions": [
+                    {
+                        "displayName": "DANNY LIN",
+                        "uri": "https://maps.google.com/maps/contrib/107367547117927403386",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2hnRl-VQFk63O5Xkw3b8uC4zBjZh9bLk_QGlrfGd2RUTPDMp7=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID50p-FUw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID50p-FUw!2e10!4m2!3m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            },
+            {
+                "name": "places/ChIJlWImqHKpQjQREk5-6lec4-w/photos/AXQCQNQU9aJZPl6y9x6OIlnm4jV7dD9mVRqA3aVkeOhu-iT-UZsmvq4Xt_WY6cSTJe12Q6Plnn85nMvtteR8MY_VuNZeKiY-AZ1enTy3NknKrE5XrrlozOE2X7Xdtf1-xnHcLTJzYTa5UxX2tmGmamLGtpL70I9qxvBXIEmYURoR2DPxVQ4G6aLBUw0KVMsYSC2aW27Zi6eW8-nTt3ZaBGfGAvgtHJRhE4-YOGPgf8PgvsmkG2QmnmOIsPze1LfLgKqRoVQ969gpLurC4_QrwA6O9tEy6Tu-2Dtwqv-nsZueTXUjy7FMkIIewS-xywuyWTyAnxqkFZl44vgLSeOzbsomjELc0i9CnNeE3aDPRysgUiICJaJIAUto0N7gSqlcQ9KdcaqQhsi8sS_oWO01eUlQKEqrAND2L3hKr7Hhw3oXJCMHnyRb",
+                "widthPx": 2048,
+                "heightPx": 1365,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5ed6\u6668\u59ae",
+                        "uri": "https://maps.google.com/maps/contrib/110270287782561738151",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8AzdtSbXwcyGa8XJuqGVTeUvT5kUjITjATWzvcFB3we3g_CaU=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDcz-b1sgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDcz-b1sgE!2e10!4m2!3m1!1s0x3442a972a8266295:0xece39c57ea7e4e12"
+            }
+        ],
+        "restroom": true,
+        "paymentOptions": {
+            "acceptsNfc": true
+        },
+        "parkingOptions": {
+            "paidParkingLot": true,
+            "paidGarageParking": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true,
+            "wheelchairAccessibleRestroom": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJCZEzfnKpQjQRy75KOs4xSsM",
+                    "placeId": "ChIJCZEzfnKpQjQRy75KOs4xSsM",
+                    "displayName": {
+                        "text": "Taipei",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "train_station",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 345.5896
+                },
+                {
+                    "name": "places/ChIJneUTn3KpQjQRGGR7w7CKOQg",
+                    "placeId": "ChIJneUTn3KpQjQRGGR7w7CKOQg",
+                    "displayName": {
+                        "text": "Taipei Main Station",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "subway_station",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 476.09448
+                },
+                {
+                    "name": "places/ChIJ6cxPB22pQjQRLik_97hS8Ow",
+                    "placeId": "ChIJ6cxPB22pQjQRLik_97hS8Ow",
+                    "displayName": {
+                        "text": "Taipei City Mall",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "shopping_mall"
+                    ],
+                    "straightLineDistanceMeters": 76.627884
+                },
+                {
+                    "name": "places/ChIJK-qnyXKpQjQRVxEbZHtGepI",
+                    "placeId": "ChIJK-qnyXKpQjQRVxEbZHtGepI",
+                    "displayName": {
+                        "text": "Taipei Station",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "bus_station",
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 176.99573
+                },
+                {
+                    "name": "places/ChIJneUTn3KpQjQR52rx7ygF7QQ",
+                    "placeId": "ChIJneUTn3KpQjQR52rx7ygF7QQ",
+                    "displayName": {
+                        "text": "Taipei Main Station Tourist Service Center",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "travel_agency"
+                    ],
+                    "straightLineDistanceMeters": 303.4992
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3442a972a8266295:0xece39c57ea7e4e12!3e0",
+            "placeUri": "https://maps.google.com/?cid=17069658914074545682",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442a972a8266295:0xece39c57ea7e4e12!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3442a972a8266295:0xece39c57ea7e4e12!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442a972a8266295:0xece39c57ea7e4e12!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "100",
+            "administrativeArea": "Taipei City",
+            "locality": "Zhongzheng District",
+            "addressLines": [
+                "No. 8\u865f, Zhengzhou Rd"
+            ]
+        }
+    },
+    "description": "The Taipei Metro System isn't just a mode of transport; it's a vibrant, sprawling artery pulsating through the heart of Taipei, a scenic spot in itself.  A TripAdvisor ranking of #1 out of 3 Transportation options in Zhongshan District and a stellar 4.7 rating (based on a staggering 8296 reviews!) speaks volumes.  This isn't your typical underground transit system.\n\nImagine descending into a clean, efficiently designed network, a world away from the bustling street life above.  The color-coded lines, praised by countless travelers, make navigation surprisingly intuitive, even for first-time visitors.  Each station is a microcosm of Taipei's energy, offering a glimpse into the city's character.  Many, like the central hub at Taipei Main Station (as highlighted in Google reviews), are seamlessly integrated with shopping malls, offering a blend of convenience and exploration.  \n\nPicture this:  you step off the train at a station and are immediately surrounded by the aroma of delicious street food, the vibrant chatter of locals, and the sleek modern architecture of interconnected shopping spaces.  Google reviews frequently mention the abundance of food courts, 7-Elevens (perfect for grabbing an"
+}

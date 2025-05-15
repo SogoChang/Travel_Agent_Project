@@ -1,0 +1,988 @@
+{
+    "name": "Taipei Tour",
+    "tripadvisor": {
+        "location_id": "2249662",
+        "name": "Taipei Tour",
+        "description": "Taiwan Local Guide, Rent Car , Driver Guide, Taiwan Round Trip, Tour Guide , Itinerary Arrange , Outdoor Activities,",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g293913-d2249662-Reviews-Taipei_Tour-Taipei.html?m=66827",
+        "address_obj": {
+            "street1": "",
+            "street2": "",
+            "city": "Taipei",
+            "country": "Taiwan",
+            "postalcode": "",
+            "address_string": "Taipei Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "Municipality",
+                "name": "Taipei",
+                "location_id": "293913"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "timezone": "Asia/Taipei",
+        "email": "lili99lili99@yahoo.com.tw",
+        "phone": "+886 986 033 381",
+        "website": "https://www.toursbylocals.com/Taipei-Tours",
+        "write_review": "https://www.tripadvisor.com/UserReview-g293913-d2249662-Taipei_Tour-Taipei.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "293913",
+            "ranking_string": "#21 of 280 Tours in Taipei",
+            "geo_location_name": "Taipei",
+            "ranking_out_of": "280",
+            "ranking": "21"
+        },
+        "rating": "4.7",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+        "num_reviews": "141",
+        "review_rating_count": {
+            "1": "2",
+            "2": "3",
+            "3": "2",
+            "4": "19",
+            "5": "115"
+        },
+        "photo_count": "245",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g293913-d2249662-m66827-Reviews-Taipei_Tour-Taipei.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2359"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "0000"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "2359"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 00:00 - 23:59",
+                "Tuesday: 00:00 - 23:59",
+                "Wednesday: 00:00 - 23:59",
+                "Thursday: 00:00 - 23:59",
+                "Friday: 00:00 - 23:59",
+                "Saturday: 00:00 - 23:59",
+                "Sunday: 00:00 - 23:59"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "sightseeing_tours",
+                "localized_name": "Tours"
+            },
+            {
+                "name": "activities",
+                "localized_name": "Activities"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Tours",
+                "localized_name": "Tours",
+                "categories": [
+                    {
+                        "name": "City Tours",
+                        "localized_name": "City Tours"
+                    },
+                    {
+                        "name": "Sightseeing Tours",
+                        "localized_name": "Sightseeing Tours"
+                    },
+                    {
+                        "name": "Bus Tours",
+                        "localized_name": "Bus Tours"
+                    },
+                    {
+                        "name": "Cultural Tours",
+                        "localized_name": "Cultural Tours"
+                    },
+                    {
+                        "name": "Historical & Heritage Tours",
+                        "localized_name": "Historical & Heritage Tours"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "2"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "37"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "7"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "60"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "21"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0",
+        "id": "ChIJn82Pg9KpQjQRkRlgGUfUaI0",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "formattedAddress": "No. 52\u865f, Gongyuan Rd, Zhongzheng District, Taipei City, Taiwan 100",
+        "addressComponents": [
+            {
+                "longText": "No. 52\u865f",
+                "shortText": "No. 52\u865f",
+                "types": [
+                    "subpremise"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Gongyuan Road",
+                "shortText": "Gongyuan Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Bo'ai Special Zone",
+                "shortText": "Bo'ai Special Zone",
+                "types": [
+                    "neighborhood",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u9ece\u660e\u91cc",
+                "shortText": "\u9ece\u660e\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Zhongzheng District",
+                "shortText": "Zhongzheng District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taipei City",
+                "shortText": "Taipei City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "100",
+                "shortText": "100",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QQ32GV8+3G",
+            "compoundCode": "2GV8+3G Taiwan, \u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u9ece\u660e\u91cc"
+        },
+        "location": {
+            "latitude": 25.0427003,
+            "longitude": 121.51625820000001
+        },
+        "viewport": {
+            "low": {
+                "latitude": 25.0416651197085,
+                "longitude": 121.5150155697085
+            },
+            "high": {
+                "latitude": 25.044363080291504,
+                "longitude": 121.51771353029147
+            }
+        },
+        "rating": 5,
+        "googleMapsUri": "https://maps.google.com/?cid=10189627558759242129",
+        "websiteUri": "https://tourmeaway.com/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 13,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 13,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 13,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Tuesday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fPM",
+                "Wednesday: 10:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fPM",
+                "Friday: 10:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 10:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T05:30:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "No. 52\u865f, <span class=\"street-address\">Gongyuan Rd, \u9ece\u660e\u91cc</span> <span class=\"locality\">Zhongzheng District</span>, <span class=\"region\">Taipei City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">100</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 1276,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#13B5C7",
+        "displayName": {
+            "text": "Taipei Old Town - Taiwan Introduction Free Walking Tour Meeting Point - TourMeAway",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Tourist Attraction",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 13,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 13,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 13,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Tuesday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fPM",
+                "Wednesday: 10:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fPM",
+                "Friday: 10:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 10:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T05:30:00Z"
+        },
+        "primaryType": "tourist_attraction",
+        "shortFormattedAddress": "No. 52\u865f, Gongyuan Rd",
+        "reviews": [
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/reviews/ChdDSUhNMG9nS0VJQ0FnTURvM3ZQYndRRRAB",
+                "relativePublishTimeDescription": "2 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "Super informative tour about Taiwan\u2019s history! I wished I had found this tour earlier in my trip so that I can appreciate the cultural aspects. Dorothy was amazing at explaining everything, I can feel her passion when she is sharing. And the ang bao at the end was such a nice touch, truly giving us a touch of Taiwan \u25e1\u0308 Thank you so much for such a great tour Dorothy!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Super informative tour about Taiwan\u2019s history! I wished I had found this tour earlier in my trip so that I can appreciate the cultural aspects. Dorothy was amazing at explaining everything, I can feel her passion when she is sharing. And the ang bao at the end was such a nice touch, truly giving us a touch of Taiwan \u25e1\u0308 Thank you so much for such a great tour Dorothy!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Wani Abd Ghafar",
+                    "uri": "https://www.google.com/maps/contrib/102971422989120014345/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXD3HVdtJbzeHBFtx9x5rVUtNL5HRZDBhNTr7IPGem7bJJsRMot=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-04-25T09:09:56.739986Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvM3ZQYndRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvM3ZQYndRRRAB!2m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            },
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/reviews/ChdDSUhNMG9nS0VJQ0FnTURvMW9pTTl3RRAB",
+                "relativePublishTimeDescription": "2 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "Dorothy was a fab tour guide. Despite the long and complicated history of Taiwan, she managed to condese it down in to a short and understandable context, across the three hour tour.\n\nDorothy expertly navigated the group through the Old Town of Taipei, giving her take of living in the city as a Taipei resident. Would definitely recommend.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Dorothy was a fab tour guide. Despite the long and complicated history of Taiwan, she managed to condese it down in to a short and understandable context, across the three hour tour.\n\nDorothy expertly navigated the group through the Old Town of Taipei, giving her take of living in the city as a Taipei resident. Would definitely recommend.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Elizabeth Oliveira",
+                    "uri": "https://www.google.com/maps/contrib/107921884169932905033/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUfBovAaG98xtZZjwQgP1EToL-AEalMc32T984hAGjbVL-SDILmTg=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-04-24T14:33:40.108201Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvMW9pTTl3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvMW9pTTl3RRAB!2m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            },
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3dnJIOWt3RRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Bessy was a great tour guide who provided incredible insight into the history for the Old Town. She was able to answer all of our questions, and gave us such an enjoyable experience. We thoroughly enjoyed our experience and would definitely recommend this! Such a great way to start a trip to Taipei!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Bessy was a great tour guide who provided incredible insight into the history for the Old Town. She was able to answer all of our questions, and gave us such an enjoyable experience. We thoroughly enjoyed our experience and would definitely recommend this! Such a great way to start a trip to Taipei!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Kelvin Brooks",
+                    "uri": "https://www.google.com/maps/contrib/115723655760671313707/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKPTCcs5u7u9VSbm1bgsZI8dFbEwWVxbgB494HJQFufPy0hG3A=s128-c0x00000000-cc-rp-mo"
+                },
+                "publishTime": "2025-03-26T04:38:24.069052Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3dnJIOWt3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3dnJIOWt3RRAB!2m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            },
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/reviews/ChZDSUhNMG9nS0VJQ0FnTURvNHI3Z01nEAE",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "Dorothy led us on an amazing and informative tour of Old Taipei! We learned so much about Taiwan\u2019s history and the society they are continuing to build today. We saw lots of great sights and had a wonderful time. Would highly recommend to anyone visiting Taipei!! \ud83c\uddf9\ud83c\uddfc",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Dorothy led us on an amazing and informative tour of Old Taipei! We learned so much about Taiwan\u2019s history and the society they are continuing to build today. We saw lots of great sights and had a wonderful time. Would highly recommend to anyone visiting Taipei!! \ud83c\uddf9\ud83c\uddfc",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Marc Sleiman",
+                    "uri": "https://www.google.com/maps/contrib/101288121428403020037/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1zBs_JF2CJIkVxTWHhwXYPsdE9pE8Fon6Bt1VaWF_ueSu7MuK=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-04-23T08:25:21.704233Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvNHI3Z01nEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvNHI3Z01nEAE!2m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            },
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/reviews/ChdDSUhNMG9nS0VJQ0FnTURJc3JmTHN3RRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Highly recommend this free tour as a fast and fun way to learn about the history of Taiwan. Our guide Leo was excellent, his explanations were well structured and easy to follow along, interspersed with short walks around the area to the places of historical/cultural significance. Really enjoyed it, thanks Leo! \ud83d\ude0b",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Highly recommend this free tour as a fast and fun way to learn about the history of Taiwan. Our guide Leo was excellent, his explanations were well structured and easy to follow along, interspersed with short walks around the area to the places of historical/cultural significance. Really enjoyed it, thanks Leo! \ud83d\ude0b",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "KGP",
+                    "uri": "https://www.google.com/maps/contrib/100582156601545197904/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSzrSKY2fdG6TMiH0VCDEV3Taej2HKII0hqmhSaxM4Ofx9dCU=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-04-08T16:08:54.594921Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJc3JmTHN3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJc3JmTHN3RRAB!2m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/photos/AXQCQNSVIN3keGckDKpgly4kv6YBDzTshNAq0bqtOpGGB4OawhDt4eLyh2CdDf0pUQMGtjAlAw9Mg0iAsM5qB2LAYaF8oTFo-9VIFn4BVwaddAwxwg0y-UFm5DwcnscW7RWBRm_mwBsSTfSZp1fPTZnh91QU50xB5XnVpL4OIXnIHEEEgkE_Y36eeAaOkL7zMFXbBToP99edc52zDQ0mnvrA0NoknbQ38uIYpcH2b3tKj5mtnpcaQ0eDwBUWGIl8O6u8pTcDlyaQKynZrdBVcSkrCRZNmoEG3hpwmp0jIUr4WCupbVOVAfWBcjORu0bo0cgcqZLLFEhzMWsYYgsGMYykQcZR3YsSUnByQiknXPawaX1YIenQ74fVTTXfIMiXR3_TRyqQfOZ6NAK9jfWGNALcjG4VSQB_22OLRRgbEqDSrgOojiPJ",
+                "widthPx": 3984,
+                "heightPx": 2252,
+                "authorAttributions": [
+                    {
+                        "displayName": "Andrea Greer",
+                        "uri": "https://maps.google.com/maps/contrib/102085353228423800622",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXn3g2vKRPgu0IFk25Ha0n3oZ13s5S44hgRqeQ25Q46Cr6CLkpR=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICLtqzukgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLtqzukgE!2e10!4m2!3m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            },
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/photos/AXQCQNSMu8udpThIYVpGL3CDp1VcmWhzbjBjVhDvJwV9P-crCyuGOvetU9QbZU0MqcaTUNcHXYaZ5y08HQkT_m6yVO5nSyYwfVGOF_uvfZ1hqfEmYbwytuWLkgq9Fy27ANPNAPUbRnw5XhfVhzN8c1L3Y51C8zz3ZnIQfhQO8kqvFoFPHXdRNIsTDnur7rsccY1eM0cbUPKVb5hjUJ2rPzKUjjPe1Zr6RCf-uhWKyS1tZAHTE0nGJHMgPb0xB9UKnSIzofzcP2hFf1Ku6975DdCxXrrZGAPV_rr0tsiKRpv5beMVj_T4e7OWUbyuBpObOMmcnlhEfJJa6M8wc-i_hGPiq107trY6bcHS-dy7lOofGVlyKxvUA-KDX3eTOKOGpsc1WyQ1wv6JOX6fwiRg-u9Z11X5z6glrZBAzcEpIseB7lBs7RSj",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "James JL",
+                        "uri": "https://maps.google.com/maps/contrib/115673703783510995419",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViMGAglE5OYQ5BUAiNWK2fgajOYV9EzoVztbHewvAiufkC_Pyt=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDF9v653wE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDF9v653wE!2e10!4m2!3m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            },
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/photos/AXQCQNTbQvtbykFy9RGftztVe1I_tg475B4cxdVnBRTVKLWw59dnnmWh69U4MFqgUOpkK2Q71Nogr7LkZNeby3jJsHsF4m948slIxSb8F-PJuHalQC0appIaxZgfx9tEbN5TvX6hA1wZ9I1E1BSIIGRTutZGJ_mU7z_Rc5ChTCO8tVcsodjdpYTlogE0PxMMIBKkFvPAqxlBM-VTPsMbgaj8G74WC7HK_hL3zJJwW3FLmgkzgrG7ffm-MQmrXLlXhXtLwyrk1xmgEbVOpSIoBVWGiEhA7Y4RHJxf1RK9NW9qM7qDjwkwHSEhhxoS3jAxPijJ0jUQAgjczt4GTK0qybnO8BHTuix6NhnA45Bwr-rxHLhTOI4arwbB2_jJMt2A_MizK2QAIrFyLkgJ_NSWeJmXbPPoN1dNILsZoe2G2vFUmZWMK-mR",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Jessica Mazur",
+                        "uri": "https://maps.google.com/maps/contrib/116955305145766803018",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKBcOy2hvzsMa65KISZxee_9DDTa8yJey-oaSZhK7c_U0yBlFI=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID16dHumQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID16dHumQE!2e10!4m2!3m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            },
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/photos/AXQCQNRpFXntJVntgQ0fcFr6VieN4lE0ldVB9l58LlP-RZVb-eH5aQSl15e6bScRvybX5_pPtYdOIPOXOx6aW8koyowIXsfPtkjVRvoT_1Ipl3YEAI89wNv4xYA4gA9EkZWb7TGsGPIErQOTT5oz7imTktJCxObvWryptDXx-YwN5bw3QNm-QmlwDAMKdbq7bjo5N9Qxi-QjqhvL4POOvDfRN93Q_QVUEC-MBsXydapzkB79mgz9mWELy9d0X8vLfLaDwDmlhDexsoKqou2CJuRoWS0atYTLpWPKH269_WVTfPoFOiu2LrZeTvDxlhH8r8azDlon1gqlKSaPj-kPxcXEgY1ux7FCdApuvTbSPvGkJB3mUAMOIjCALtqj0rAh0JZ4conW1fvjmSEif5v4somRerp4dK7X1EnztraZ3lzJ4N06ua9d",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "dana wolff",
+                        "uri": "https://maps.google.com/maps/contrib/106786992230369701770",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkezx-k8J9cLZ1B3Zq8qnBuJojBx6uOAPKq2ac-zOWT9u9kein=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDFmpeMuwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDFmpeMuwE!2e10!4m2!3m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            },
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/photos/AXQCQNQcqEQwZ6IVEgqd5BZ8OIq5YYvfNoPFB7iJ9c0xqp6igJQ_tlXO1iE9ebKbAgZdpRoL_ypXeZ8-dnQe_-iyLSircvh6MxVh53TJoQ5auDGdmYgxbtU719SvcaZ8X8D2o2rTV6bkZB3wGzMgf-YS4gwTkD7-xnxoOPfxABXtQkM3rdt3RKC3vFoEO8Y7R9n-Q8OKZgvaCTthXAyQX2HqEMRWgiLSKkKUv1G087Bv6DugHWh-QIcaXzeOCFTChQxpcI2fhmCVOp1--MZA9soDvXrtI9zjg_KpyZVpMLqwd6Nf08jOAGYvVg1f_4DTODvqF496a58iC-ikrW7J402D_tsfdyNyXnYcZelX4uPn-_9gZBteIcXvhXTaX-8C-2PaNwqmVoQ7FXfsngaM6bP5rRV6G6Xh94W3oDMQ-O3xZsnNB4VN",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Wolfgang Fernandez",
+                        "uri": "https://maps.google.com/maps/contrib/109325146171615258641",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc98_eliPlnZNSZa_FJj3BRT54ioYU9AlyRdlk58KUjWEuyU20=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx75zw_AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx75zw_AE!2e10!4m2!3m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            },
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/photos/AXQCQNTztem5JTUN5DgMqD9q4Y91CRmOBtTQxzo4tNWTc5gc53JmWuELb-wHV8E4aurAtvMXH4l6bml1Jr1xrvxDSULYyaiPoW0o6DUXICvq6-eSucyy1XqDsIUH4hMKgLUobPQAoByJnhMS8rXASgHMJLV1WIfH_wylWo98_RXWSJdXOlDzV3YYOYSYLFjhKFXIm5ZTOpnJrj6fMeBZDKPaLyumWf2P3yfS4qqoamDJUoyeNignoc3fICk1kISfrjfCtxSEPOKXWjpqL1diWgEtQoL30paTkPOSiHNRb1hqPk-sToQtzFUIoYa4QImhkHTv2mSLCBqWns_3GFtxOGCgGl9K00K47sVvty-Oh7I4p9XgOi4Nt4vCT3Zq-sQMrL4YgcxNNclsnusVydloGpjAZDZzkJlmWighbpvlloppOVI",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "James JL",
+                        "uri": "https://maps.google.com/maps/contrib/115673703783510995419",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViMGAglE5OYQ5BUAiNWK2fgajOYV9EzoVztbHewvAiufkC_Pyt=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDX6fHZVg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDX6fHZVg!2e10!4m2!3m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            },
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/photos/AXQCQNTw3FGNIcAaG55bJ6NXkMNnQ6D1PXRKK4vyMgdvnlxYgT83FCz04LjxLsi-co1JuNQ-uu74V2HzuAATjdYaIdBiqt4zd7ze4b1rXFMC5CohJfRI9lx8bdz7971fAAFPL5rvvNS_iKkyIgRTiHv4PQfMx384fiMo7g1inorjzJLRJ_Dvlp4kzCE4XeqqFlf4wtbUmx4vBwE126KQl2P1-kw7GJ5QosWjgAcQ6-DmH6gT0MJJq8QtH30WwCni86SfCQFt7a2gwEB6QMuKMuwlsPjNDUOCB_MhnLToiiuQK6ZTDya7Vjrf7om0MKi2y4D7NJknnK3VSPxbK59lJgF0nGoZTcVcZftSa6ozYwI5s-07RFRAigZjjIl5LjdpownZApau0yggs146WCMNFqKGSNg3z533aeGRnayKkMDsZEEmxsjz",
+                "widthPx": 3072,
+                "heightPx": 3072,
+                "authorAttributions": [
+                    {
+                        "displayName": "Alex Maihoefer",
+                        "uri": "https://maps.google.com/maps/contrib/104006798580059563651",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcjyNhNA8xSfbQ-b6Lm8bHFILt8DakP0hDe6zUJ8DK-2dL_Ge3DA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC75siChAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC75siChAE!2e10!4m2!3m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            },
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/photos/AXQCQNSzi3gtm60b_ANvVc-Gl7F3JqotKqCr6LxWPI9AtBwDJSOY2yijyB7DhC7Syovwkp6HoJJqEcTO0RXyy0M8lG0eKnvBQ4UEu6Z8guAb8pthlQ6Xg_ZT5flodcuaADtfm7oUrCGjG9L_1XUMNQ5HWU-usX8G8Jc5aUTbOduv3CIwF1zddhaG6Y0-IyqyE15PFRHgWQI6SJ_VtEl7UilATNoX_npinauZ_9fhQQiQAF-5F_Psf3uPvFc5XzGTQ_2RLJViugQSEMiNAwzbwy_tPj_j9l3J2shG8TF37FmBhzoLCIo83FnUeIAeGquFBPPgwmVY6JCRzi4wI-Hqitg6UlNsMBnMeL-cMV_db0__LLvyR6X7pCGzGrs1t7bAYxRIn4wPloIMBYG2QU8rmS5nXU3A8SH1uddk7utmy6uT0zE",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "James JL",
+                        "uri": "https://maps.google.com/maps/contrib/115673703783510995419",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViMGAglE5OYQ5BUAiNWK2fgajOYV9EzoVztbHewvAiufkC_Pyt=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDH4IiHMg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDH4IiHMg!2e10!4m2!3m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            },
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/photos/AXQCQNS2mC2jz6vcz82_LWRA-3O5S9KfLvfd38fthoX2tP6Wtfi5R9_vQLi2qv8BwEdbSDDGiSMMsh13VXdUuBB02Sb_NhfdymPgdDT8S5C7tJ0ldYVTI_VADXI7-F0y5Coq1GvaobXlFSL7y1_Zc2J2Js1cnWOpaLw5TTzEMVPP6P2wK_b5OBWFF1CzKfkWHoCSx8A_puS5Zpt8e2rj9MNlIcWIkEyz0QTENl02PYfK3WtyBw2dZrQz5y1HBq6sL3RJm3ilE4m0I45Zym_3BffTsdFm9JEEn92Vd5gvxoBaJljb1jCA4V2FCK3hSAgCWa3d0dbem9_tS491Fg9MWe8LCkASW10BrTJunCQm7cLVFcHvZd0TMWWMJtSFMbEhAjfOxD_zittuho5gOl8yo-GCYXhGSwlNmQQpEMOo6q_tjSLPLQ",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Gladys Lim",
+                        "uri": "https://maps.google.com/maps/contrib/107088932711719156782",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRlwbYePiLESpO8X4a720h2jeEBXU32o28d-oBVLIvjpbtRg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDgnMbKSQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDgnMbKSQ!2e10!4m2!3m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            },
+            {
+                "name": "places/ChIJn82Pg9KpQjQRkRlgGUfUaI0/photos/AXQCQNRtCoYAPqf8GgOdKmwgl-MUYSTv96Lj4txVFlvgxLDRxOIZ08GpISaTD_41hN31zNOzc_PtezI-39iJRV7exSLlckMElaZoDuqx83SCk_OPEjYTSxliSZKOV6qFz9Ms4DyRcsbBLxucbJqTOJbKw9AY-CbMxX0G8YOlqoARBmotJ-GEXC1Of9i6ObYDHnM8mf8JXtyl7xnk-TrmMeOZeSL_yTrcc324yjKQSif8k-3IqOSvjhV-7VM--HcpsM1VmZpU9B6jS1p2fsF6YZxuiZD2sZhWBYX-6HL8-5rPWoOQN1zZl88KW8GJWkvODazyaLmhz-boJ0_oJcZh1PbtLgmIMb_8nDIahrnwdSPdYc3CCfmP7afoWnbLhTvUACygK-QR3ZFT3HmFqowu0TWa6tBa02FoWf3xKRF9-S7jf3iS-rUM",
+                "widthPx": 4080,
+                "heightPx": 3060,
+                "authorAttributions": [
+                    {
+                        "displayName": "Ritchel Lacquio",
+                        "uri": "https://maps.google.com/maps/contrib/111500300408195194886",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWs9Dn2ftB7zJlDEhK57yXNUjH1BbCWg9ca56KP8_kqLDmV7ew=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICPytWupQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPytWupQE!2e10!4m2!3m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991"
+            }
+        ],
+        "goodForChildren": true,
+        "containingPlaces": [
+            {
+                "name": "places/ChIJKX1kH3WpQjQRcyy76pvtt-s",
+                "id": "ChIJKX1kH3WpQjQRcyy76pvtt-s"
+            }
+        ],
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJneUTn3KpQjQRGGR7w7CKOQg",
+                    "placeId": "ChIJneUTn3KpQjQRGGR7w7CKOQg",
+                    "displayName": {
+                        "text": "Taipei Main Station",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "subway_station",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 414.9826,
+                    "travelDistanceMeters": 404.93817
+                },
+                {
+                    "name": "places/ChIJCZEzfnKpQjQRy75KOs4xSsM",
+                    "placeId": "ChIJCZEzfnKpQjQRy75KOs4xSsM",
+                    "displayName": {
+                        "text": "Taipei",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "train_station",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 595.65454,
+                    "travelDistanceMeters": 391.9623
+                },
+                {
+                    "name": "places/ChIJa6ODh3OpQjQRS5S20fKaUTY",
+                    "placeId": "ChIJa6ODh3OpQjQRS5S20fKaUTY",
+                    "displayName": {
+                        "text": "National Taiwan University Hospital West Site",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "health",
+                        "hospital",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 148.55806,
+                    "travelDistanceMeters": 338.40222
+                },
+                {
+                    "name": "places/ChIJKX1kH3WpQjQRcyy76pvtt-s",
+                    "placeId": "ChIJKX1kH3WpQjQRcyy76pvtt-s",
+                    "displayName": {
+                        "text": "228 Peace Memorial Park",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "park",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "spatialRelationship": "WITHIN",
+                    "straightLineDistanceMeters": 176.2696,
+                    "travelDistanceMeters": 214.08064
+                },
+                {
+                    "name": "places/ChIJcRV3WHOpQjQRFpgzTpxZWgo",
+                    "placeId": "ChIJcRV3WHOpQjQRFpgzTpxZWgo",
+                    "displayName": {
+                        "text": "National Taiwan Museum",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "museum",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 115.15117,
+                    "travelDistanceMeters": 136.98639
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJKX1kH3WpQjQRk7t2BZj5bmA",
+                    "placeId": "ChIJKX1kH3WpQjQRk7t2BZj5bmA",
+                    "displayName": {
+                        "text": "228 Peace Memorial Park",
+                        "languageCode": "en"
+                    },
+                    "containment": "OUTSKIRTS"
+                },
+                {
+                    "name": "places/ChIJWwSzrqGpQjQRTtErVRs59eg",
+                    "placeId": "ChIJWwSzrqGpQjQRTtErVRs59eg",
+                    "displayName": {
+                        "text": "Bo'ai Special Zone",
+                        "languageCode": "en"
+                    },
+                    "containment": "OUTSKIRTS"
+                },
+                {
+                    "name": "places/ChIJlblYxnOpQjQRWXMctSl6tIM",
+                    "placeId": "ChIJlblYxnOpQjQRWXMctSl6tIM",
+                    "displayName": {
+                        "text": "National Taiwan University Hospital West Site",
+                        "languageCode": "en"
+                    },
+                    "containment": "NEAR"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3442a9d2838fcd9f:0x8d68d44719601991!3e0",
+            "placeUri": "https://maps.google.com/?cid=10189627558759242129",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442a9d2838fcd9f:0x8d68d44719601991!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3442a9d2838fcd9f:0x8d68d44719601991!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442a9d2838fcd9f:0x8d68d44719601991!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "100",
+            "administrativeArea": "Taipei City",
+            "locality": "Zhongzheng District",
+            "addressLines": [
+                "No. 52\u865f",
+                "Gongyuan Rd"
+            ]
+        }
+    },
+    "description": "Experience the vibrant heart of Taipei with \"Taipei Tour,\" a highly-rated (4.7 stars on TripAdvisor, based on 141 reviews!) and extensively reviewed (1276 reviews on Google)  exploration of the city's captivating history and culture.  Ranked #21 out of 280 tours in Taipei on TripAdvisor, this isn't just a sightseeing trip; it's an immersive journey.\n\nImagine strolling through the charming streets of Taipei's Old Town, your expert local guide bringing the city's rich past to life.  Based at a convenient location on Gongyuan Road in Zhongzheng District (No. 52\u865f), the tour often starts with a captivating introduction to Taiwan's complex and fascinating history,  condensed into an easily digestible narrative.  Reviews consistently praise the guides' passion and engaging storytelling, transforming historical facts into compelling narratives.  One reviewer raved about the guide's ability to \"condense it down into a short and understandable context,\" making even the most intricate historical details accessible and enjoyable.\n\nPicture yourself wandering alongside your guide, past ancient temples, bustling markets, and hidden alleyways, each location imbued with stories of emperors, revolutionaries, and"
+}

@@ -1,0 +1,975 @@
+{
+    "name": "SPOT-Taipei\uff08Taipei Film House\uff09",
+    "tripadvisor": {
+        "location_id": "2263214",
+        "name": "SPOT-Taipei\uff08Taipei Film House\uff09",
+        "description": "A quaint garden long deserted has been renovated with the goal of revitalizing the historic site and become the place where dreams come true.Taiwan Film & Culture Association defines the core value of the Taipei Film House as \"a site combining the quaint charm of a historic site and cinematography and providing a locus for creative interactions\" It is hoped that this place will serve as a watering hole for local creative artists, a place where creativity takes flight. Interdisciplinary ideas may be exchanged through diverse activities including film festivals, seminars, and workshops, in order to inspire more creative thinking. It is highly expected that a brand new look may emerge through the integration of the historic site and cinematography, fusing the historical significance therein with visual arts, and thus broaden our cultural field of view and cultivate a profound sense of culture.",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13808671-d2263214-Reviews-SPOT_Taipei_Taipei_Film_House-Zhongshan_District_Taipei.html?m=66827",
+        "address_obj": {
+            "street1": "No.18, Section 2, Zhongshan North Road, Zhongshan Dist",
+            "street2": "",
+            "city": "Zhongshan District",
+            "country": "Taiwan",
+            "postalcode": "104",
+            "address_string": "No.18, Section 2, Zhongshan North Road, Zhongshan Dist, Zhongshan District, Taipei 104 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Zhongshan District",
+                "location_id": "13808671"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taipei",
+                "location_id": "293913"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "25.053316",
+        "longitude": "121.51998",
+        "timezone": "Asia/Taipei",
+        "email": "service@spot.org.tw",
+        "phone": "+886 2 2511 7786",
+        "website": "http://www.spot.org.tw/index.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13808671-d2263214-SPOT_Taipei_Taipei_Film_House-Zhongshan_District_Taipei.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13808671",
+            "ranking_string": "#1 of 13 Fun &amp; Games in Zhongshan District",
+            "geo_location_name": "Zhongshan District",
+            "ranking_out_of": "13",
+            "ranking": "1"
+        },
+        "rating": "4.1",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "87",
+        "review_rating_count": {
+            "1": "0",
+            "2": "1",
+            "3": "15",
+            "4": "44",
+            "5": "27"
+        },
+        "photo_count": "113",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13808671-d2263214-m66827-Reviews-SPOT_Taipei_Taipei_Film_House-Zhongshan_District_Taipei.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "1100"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "2200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 11:00 - 22:00",
+                "Tuesday: 11:00 - 22:00",
+                "Wednesday: 11:00 - 22:00",
+                "Thursday: 11:00 - 22:00",
+                "Friday: 11:00 - 22:00",
+                "Saturday: 11:00 - 22:00",
+                "Sunday: 11:00 - 22:00"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "nightlife",
+                "localized_name": "Nightlife"
+            },
+            {
+                "name": "landmarks",
+                "localized_name": "Sights & Landmarks"
+            },
+            {
+                "name": "fun_games",
+                "localized_name": "Fun & Games"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            },
+            {
+                "name": "activities",
+                "localized_name": "Activities"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Nightlife",
+                "localized_name": "Nightlife",
+                "categories": [
+                    {
+                        "name": "Coffeehouses",
+                        "localized_name": "Coffeehouses"
+                    }
+                ]
+            },
+            {
+                "name": "Sights & Landmarks",
+                "localized_name": "Sights & Landmarks",
+                "categories": [
+                    {
+                        "name": "Historic Sites",
+                        "localized_name": "Historic Sites"
+                    }
+                ]
+            },
+            {
+                "name": "Fun & Games",
+                "localized_name": "Fun & Games",
+                "categories": [
+                    {
+                        "name": "Movie Theaters",
+                        "localized_name": "Movie Theaters"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "1"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "9"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "25"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "8"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "17"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0",
+        "id": "ChIJQaZzI2mpQjQRk9MTQahdDr0",
+        "types": [
+            "movie_theater",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "02 2511 7786",
+        "internationalPhoneNumber": "+886 2 2511 7786",
+        "formattedAddress": "No. 18\u865f, Section 2, Zhongshan N Rd, Zhongshan District, Taipei City, Taiwan 104",
+        "addressComponents": [
+            {
+                "longText": "18\u865f",
+                "shortText": "18\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 2, Zhongshan North Road",
+                "shortText": "Section 2, Zhongshan N Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u6c11\u5b89\u91cc",
+                "shortText": "\u6c11\u5b89\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Zhongshan District",
+                "shortText": "Zhongshan District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taipei City",
+                "shortText": "Taipei City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "104",
+                "shortText": "104",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QQ33G3C+8V",
+            "compoundCode": "3G3C+8V Taiwan, \u53f0\u5317\u5e02\u4e2d\u5c71\u5340\u6c11\u5b89\u91cc"
+        },
+        "location": {
+            "latitude": 25.053279,
+            "longitude": 121.52216089999999
+        },
+        "viewport": {
+            "low": {
+                "latitude": 25.0519158697085,
+                "longitude": 121.52099491970849
+            },
+            "high": {
+                "latitude": 25.0546138302915,
+                "longitude": 121.52369288029148
+            }
+        },
+        "rating": 4.2,
+        "googleMapsUri": "https://maps.google.com/?cid=13622928900070036371",
+        "websiteUri": "http://www.spot.org.tw/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T14:00:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 18\u865f, Section 2, Zhongshan N Rd, \u6c11\u5b89\u91cc</span> <span class=\"locality\">Zhongshan District</span>, <span class=\"region\">Taipei City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">104</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 2191,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+        "iconBackgroundColor": "#13B5C7",
+        "displayName": {
+            "text": "SPOT - Taipei Film House",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Movie Theater",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T14:00:00Z"
+        },
+        "primaryType": "movie_theater",
+        "shortFormattedAddress": "No. 18\u865f, Section 2, Zhongshan N Rd",
+        "reviews": [
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmOVBtZkl3EAE",
+                "relativePublishTimeDescription": "3 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "On a nice day, I was looking for a spot around Zhongshan where I could sit outdoors and enjoy a hot coffee. This place ended up being one of my choices. To be honest, I love the setting\u2014it\u2019s located inside an old house and right next to a movie theater. The coffee isn\u2019t bad, but it could be better (it\u2019s a bit too bitter for my taste). Otherwise, this place would be perfect!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "On a nice day, I was looking for a spot around Zhongshan where I could sit outdoors and enjoy a hot coffee. This place ended up being one of my choices. To be honest, I love the setting\u2014it\u2019s located inside an old house and right next to a movie theater. The coffee isn\u2019t bad, but it could be better (it\u2019s a bit too bitter for my taste). Otherwise, this place would be perfect!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Earn S.",
+                    "uri": "https://www.google.com/maps/contrib/110030272132845574061/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4wEvEuHfcT3F6LUzpRG7A_WitN6gWlxoYWf4fJwueW3zVoj91=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-01-26T03:32:29.116992Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmOVBtZkl3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmOVBtZkl3EAE!2m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            },
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4NjlmNmpBRRAB",
+                "relativePublishTimeDescription": "a year ago",
+                "rating": 5,
+                "text": {
+                    "text": "The premises is dreamy and beautifully decorated. Wonderful independent arthouse film site, with a specially curated film selection. The cafe is gorgeous, during day and night. Visit to support them!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The premises is dreamy and beautifully decorated. Wonderful independent arthouse film site, with a specially curated film selection. The cafe is gorgeous, during day and night. Visit to support them!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Michelle Y",
+                    "uri": "https://www.google.com/maps/contrib/108235986300590462011/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2f6tLrdSGn2jypdknnoaDaNRVu7UJCKYAC015OM0zs3tvxg=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2023-06-15T12:25:14.425364Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4NjlmNmpBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4NjlmNmpBRRAB!2m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            },
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/reviews/ChZDSUhNMG9nS0VJQ0FnSURUNkp2NkVnEAE",
+                "relativePublishTimeDescription": "11 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Amazing little film house in the heart of Zhongshan District. Beautiful old building with a cafe and gift shop. The theatre itself is very small and there's only one viewing room, but it's comfortable and is a great viewing experience.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Amazing little film house in the heart of Zhongshan District. Beautiful old building with a cafe and gift shop. The theatre itself is very small and there's only one viewing room, but it's comfortable and is a great viewing experience.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Zach Silva",
+                    "uri": "https://www.google.com/maps/contrib/112573741504400341046/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQOnuSkuZqKBxwTdYNYRwfaj_fYBVIZvANtb4Yulej5TJ0voho=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2024-05-22T04:09:40.971649Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUNkp2NkVnEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUNkp2NkVnEAE!2m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            },
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtMU9fT2NREAE",
+                "relativePublishTimeDescription": "2 years ago",
+                "rating": 4,
+                "text": {
+                    "text": "This house was used by US ambassador\u2019s private house. It is now known as famous spot for film lover. Someone who look for local gems also find good souvenir made by local artists. There is a social bar in the 2nd floor open till late night.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "This house was used by US ambassador\u2019s private house. It is now known as famous spot for film lover. Someone who look for local gems also find good souvenir made by local artists. There is a social bar in the 2nd floor open till late night.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Ayako \u201cA\u00ff\u201d Yasuda",
+                    "uri": "https://www.google.com/maps/contrib/110343818437911882426/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAqDSNkhRB834t-7_ZM5Ts1nGXH-Je_1RZRNOi2ru_EJ9kZo2u1w=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2022-11-22T12:06:38.868902Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQtMU9fT2NREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtMU9fT2NREAE!2m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            },
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/reviews/ChdDSUhNMG9nS0VJQ0FnSURYdnR1dTRBRRAB",
+                "relativePublishTimeDescription": "6 months ago",
+                "rating": 3,
+                "text": {
+                    "text": "Ok place to chill out and have a coffee, although it's not cheap! Everything is a bit pricey, but just to have a coffee, it is a bit overrated. Would be nice to be a place to bring a date, otherwise there are many other coffeeshops where you can have a coffee. There is a small souvenir shop next to it.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Ok place to chill out and have a coffee, although it's not cheap! Everything is a bit pricey, but just to have a coffee, it is a bit overrated. Would be nice to be a place to bring a date, otherwise there are many other coffeeshops where you can have a coffee. There is a small souvenir shop next to it.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Kwok Lau",
+                    "uri": "https://www.google.com/maps/contrib/104797125446043472537/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKNaUNbZs0moYkY7S-xeOZMiFxYVLaRTOQAU8LbRDUPhNbH-se=s128-c0x00000000-cc-rp-mo"
+                },
+                "publishTime": "2024-11-03T12:39:08.378804Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYdnR1dTRBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYdnR1dTRBRRAB!2m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/photos/AXQCQNTUT2aMn6Yfjj1Irgu6XPn1_c5Tvym8rXLWXXMd27zmcxSy2_Nt0DLCuFcxr0ELKNUnS-3vsApZlRmLmaUqUTjRJhkPOrJQdgSMLlrc-rihPxjSdINMIlmwslEtba7fAYd5tYDIOiTSMuvU3WTqyDJZhYxagf-siwrVFGXdd1n13BciYlKQD5Lywy2Beq8UOFWP7EAePU5VUfBvBnuyb1pjikDX3LxtPUJIMQXo8t2UFzf9y9JlEmGejmTD9goyJcLI-L2Na98SFAfyh_v3EzW8yZOlmJ8NDJzO2imLn858KD0ikTCPpxz6CE6nuyzzF_7Ftcm3lfaLEtcuWMjiAtKzzP-21r6BO-tg-OAuENVn3_wxbmhEbs0JhTfXcpS1BtMq7BqanqQhoXDjqduAFN2HSeqpxF7WuW9Hm0Nce_E",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Ken M",
+                        "uri": "https://maps.google.com/maps/contrib/104533335477039185726",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4--uI0JE6FIKhP_Op1HHVkqyNE6N4oPLKzr4mVQTTqZgNk4xTDA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-88P1aQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-88P1aQ!2e10!4m2!3m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            },
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/photos/AXQCQNRFhqbDBqI2qj3ysuIGVDs-IucbqU2uxmliyDak-paJP8q8qJ9-1P9dMJCrtsXGCbiAdTPVhjZwFeBuEFJhEB8GBe0KoSGQBeQIkwslHq95GqfarlPcvBpCgahavr1Nc2s4eskXX7JTwa-RlvT_F2lwqwChWulaMuB6doiog6WaSkRh-wYf-Uh0xQs8MXfOAqA9rTCQOA419FhVgcTyIqBPJT9nAZ6MZ64lRmvEOuon6jeRwIuTwjoSjTnEfK5e0VAT75oPHVEedMPVpZ9IWwvOxVn3TfL0yea9mzzqoXVH3ioVySVhESSErLeSQjihfRZxXCjy0mEFC4StXmTmgdkff8eDdK8wnEomfJZVzqCfL5W1BEmp9RXbFU5ZWKlplxj6vKVYNm_b1U7hT6ogjKpRoTjX7nT5dt9DrMgxwds2y3M7",
+                "widthPx": 1440,
+                "heightPx": 960,
+                "authorAttributions": [
+                    {
+                        "displayName": "Huang Webber",
+                        "uri": "https://maps.google.com/maps/contrib/116757458691277617975",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXK2tdoAEelwEyAF-k_kRz6wbPEjRCN8PbDiG3_zjRH9YzjWeK9=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOpYu7igE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOpYu7igE!2e10!4m2!3m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            },
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/photos/AXQCQNTHRNumXcMyCVpmjDuxnxWZr1Ct34m8PT430GuNExMofLrrNSGI4S6P-l1KE3TpWdm-fdcVVy55ysYc89YE8JnZ8fkh89uB_k7RFR9ZHwJNHm8pmvnC2jFgyGyADP0kvByMDBvRNm53tSOvDo5Zm0zJl8e4eC2Raxmu3abUlSg8OqKkt6AryBjslyQlLaUoptJ98wJPt3U8PVdFw8B3EgEKXcZYpspPbsOx8WeAohHKCD_wKggXo5J8CwcIQwXzEP_xD-xDC300ig_absJ2vpmnHZRWSbyRQqL8S1nLfzpLhZvJOEhNEpHekkHSMocrbm2vDqsti3XAyRXmo2AR4btVNfOK5sYCWQ0VCaHzZ1lh_ia_lGbNDwzd1Xfs6eaZKJE3q0MLNCbGSJitKWZ3lrq1j3iByxHsvFRlGBApSL3YnVY",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u65e5\u672c\u306e\u611b-SOGO\u5546\u5708\u6377\u904b\u5e97\u9762",
+                        "uri": "https://maps.google.com/maps/contrib/104699999623714929993",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXavBhU4ub5_KtzN6XsrM4kGcMCQIQF-4daMfqB8XAWI2cADM5LEQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-58HHkwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-58HHkwE!2e10!4m2!3m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            },
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/photos/AXQCQNRZQOWaKMU7UCbhKygHIw5a6jMLsPy1_EG6rr_d5H1VNPO8faVspz1kAKsKSqlKz3780P9otUUhlCqwiJydqgnLlPpgfrx6nJ3Ntkknw8NgzSCsW3jlSe7YwyGG_J_oYf-KejAhZRCtgdmhdoCJZ8hIJbbRxmUwJJE1Fmxavdw6cEXRQ1tJUbMBXNUHs2DtuQy-MFNjJkd_bhgwofy6LNE3eCm2-FUNxVP-rsr57gEjn4-9mIhMgJN5agUO5dru-kAPMWOEy8qaEXyyVOgSov6UB1xMu0foY-Jbveod-m4Bvs14_NAe8KhGVIi-XgwD2yrFDGP68dQ8CiAdVBFo5ubNGBxDeyUH4QuoufC2Vt6P378gnFuBs5DvMNLwT9MGcbHynimm_7korBlBC0OwQewVb6vIZRhsZoRDMzLD6fcCmA",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Brande Prestige",
+                        "uri": "https://maps.google.com/maps/contrib/102981056380450305287",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKzXnl2Uqqd2qY6VTr_4nowM5-BlaVALP5ZhOaaWfRtKlENXxtng=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDeqpaDfw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDeqpaDfw!2e10!4m2!3m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            },
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/photos/AXQCQNS-keN6Fw_gQFGx6TBBdi0N-aIHvJVgoflNqP-k0EI4nhphTib7CC0P4-4Psw6cqVqcT14FEXtsKKNed3nedIa_43Pw7JXOVSF6_ztUHUX2wvslgXsysWBmq_B6VcF08czbV2fEqWVCbWv4w6tgQt987lJTHN53EuaJDXSkTpRXW0T-7JYXazssrPdz5_HtT4ChS7e-uYG4VzxfWDSjTkzkZMd13qlH1VcvBWdDFDCvi3Jl4U17VrVt-_9K8FPj-evgzP92PRcTyeK4GFrHrb7y36Tczr69IYKHdKOadpoJLL85LOOF3kLiOSentZEjIBUNTVWlwizUCZCxTnpTiHxUt8VAys8HD-ddXFAYpioxODmNXtDhImC8IdIb16MaOvejK__1uHCB98D20tcGD4kK6kcThilqkZOlkokj0Tg",
+                "widthPx": 4080,
+                "heightPx": 3072,
+                "authorAttributions": [
+                    {
+                        "displayName": "Alan Wu",
+                        "uri": "https://maps.google.com/maps/contrib/117958243728934995187",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMbwbnzscsi9qhwKJx4JRJ0d4qNjqsph_dm15zxKcb0VBpwA7_=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIClqfD-Rg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIClqfD-Rg!2e10!4m2!3m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            },
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/photos/AXQCQNQTPUfHkY1dndLtBPBFv1Hdv1RH3gYrtY8v3_cXM0WqAXt5kI5ABlMT_RKzq3AbR-6MQBZDv5MhXCPd75BZYI1RjFhUE1rwGI7FWOdjqwKDDteU8eDocy4svlZzFN5-RwskkCM774qgFcftTapxk3sVBUT5Q-toVDSeXUGTQB120EKz3OUHXxLBZPZD1DbGLTRXESnoEHWw4OqYbryFZSJl937_XVVcGFixo_BAwoIGgkmXmV83ECYts1CmqFVF3jRLpEGlvRO2bL2o4diDP0ABUij-wBcoalCji2Uk9XrNzQ",
+                "widthPx": 4800,
+                "heightPx": 3200,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5149\u9ede\u53f0\u5317 | \u53f0\u5317\u4e4b\u5bb6",
+                        "uri": "https://maps.google.com/maps/contrib/113828919293489839519",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKYKqPcvBc7I3SV-bELrahruvOsTpw6Sg0TM6N_NDCZ6rEA9A=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNWo2B_Y64y6OV4LCaoDJPos2_RJuOBDPRIUTiK&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNWo2B_Y64y6OV4LCaoDJPos2_RJuOBDPRIUTiK!2e10!4m2!3m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            },
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/photos/AXQCQNSweZDtAx2ypuxJvxh-n1cI1Ob2uIV37hxZkslY8Xud28jFn2eawnnaHdhLJpy5dXB5P24-2PN0BWE0edaJeDB2vFbs_o0rnXSM706nY_beu9KpZGULTZ1Xm1VJ2U_YP0XLmRhyZvZGS5g2BvZLH8nyLJ31cVVxffZ784m53YQtYgsorVH4tMrEY3Z2GtplfFUJBGfkf4yOE7a0wBE3-a4HR7fbRwWgiSe5YivQ3j8hvD8brcA3jsRHKOPfoMJW3NyV1juNzR46xQODtBeUFy1Hnu8i-ephWIJDAFKQ97lf8xTQuzXrJ2ZfP5G2qOiKtUSn2ZWqhvc9K6xPdgdDXSFbhzgnLzTA_2DFNHGCKwDYs6t5GAbnDyJV4dXLYio1x7Wn2doTPZ5Kn8kS_N044vrsDNO2oUk8wJY8oBjB-WTM05zM",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8001\u8f1d\u4fe0",
+                        "uri": "https://maps.google.com/maps/contrib/117416902533110050886",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTy73uArz_nUHxrxgM2dSuUd54sPcwj4syTwHzxL0Kl1h0XEc=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR_JPo6AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR_JPo6AE!2e10!4m2!3m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            },
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/photos/AXQCQNS-m8hhw4fLH1Zjl189S-PEnVjQH7h7O3rCG-Ob45PTcdhjakqpuOdkqb1-mlVsLQNKedt6sOKFYQ-tiTPI8tfaIMvAAyB5wLXIUscHtqkKN5Zu_AN3AYCMggG5Wu5lPaRRnOT0KmgwjjypeY6p2U4aWPpkXY5OKMnFv_mU3Le5yxoeSI4hc_foorjPDnjfTd6BIpWCIqSF1MTAI7cyQKn10HmDnECTVJgwWasoiJLGhUgdAMKIgD6t8sIKHBCHVJGWA21XjcGtt52EsjnnZ0dXyjAMaHp3RLLqgFpm_MJTELm0Zk6me_4vM52ErLZH3Vu2g7zSWvCUx2vKMPZfekpLbAVO2aAc40-PcvifuYX6aC7MtHsr2HHzJ4nWhSbLUGaIgUNhqGYvuXPfPyKYGlxz5ZeY_5_kO0rWvSkS7vj9spW0",
+                "widthPx": 1920,
+                "heightPx": 1280,
+                "authorAttributions": [
+                    {
+                        "displayName": "Jerry Tsai",
+                        "uri": "https://maps.google.com/maps/contrib/108915490646834007383",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKg7-GOmZSdibUw4R-iMyDXimTVO6Nuq3YEEvEbiiUVOehWGQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICKvsfk0wE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKvsfk0wE!2e10!4m2!3m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            },
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/photos/AXQCQNRxF7u2YpKrPa19XKg0DZNCiJIqPIJn5NN9FaPlIwbZY8y69-Wb74mPvVFV1Pj1KMBpRQ12keIQ3TsVI83QuWUsK6qvfLDLsRQrcNF29snKYef3hQLTc-Q4hnj7VaAWY5cRQZmij9JdDrhnA10fQBS0fpvPGolYKY2_FKgxqru3jvFGjlc_DSneVoKqLIpj9kIECRzF-_wr-houk-_vBXzHKis_8RP2pLMS8uvLW8T2IDOCP03FgyndaKqXC3DX22t4G4sxxWRIJdVU-IS5r225zAhitJnsyheSlp3rZRvMUu48jWcGvosSwPosa82JjiF0BWKufShNtJauU1ai3AnPqGrA3TSV2vAL44Atxa8KgIqi3nofvbAx4nUdDzN3lyJuFPItogoAHU7FDNHAmJ70yc2GQ6lXQFjvnCDLjy_rag",
+                "widthPx": 4032,
+                "heightPx": 2268,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6d2a\u6708\u5a25",
+                        "uri": "https://maps.google.com/maps/contrib/116536876079592987142",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXs3HKhUuxXiZK1biz3GDY-9lWkzZdkZAySPS56ngfoVQe74klE=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICm5KeCaQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm5KeCaQ!2e10!4m2!3m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            },
+            {
+                "name": "places/ChIJQaZzI2mpQjQRk9MTQahdDr0/photos/AXQCQNRBt6xylFBTzVQWXoYjSjXJeknjvPEn6UGn1ONUvOLi8yVnFHx2ojcmMzNIRFOUzc6p3rmlSiLCFWHuEcn_hUISvm79jUMBmaFHseCohZD0Xkutad3IWc6uBM01XDnf1h5pnad5NpzAFicjy3QTqCkswPbVCY5CmvgcJoazSkDgpCEYvYIZdwRQuF2EtEBXDYRrab-Dttju_Xw6vzRUMxbMb5efPO_NUlRG9ffUDXRxLhBQTzlQj7PHyrbfnQn8jFBvCHQ9fA5kC8UXwvgYAhDvDtwU3bMNQr7pLcoaLmF57DB4nLXDSa0UbfBdyPOR0LvGnrMuzKWp7FjIC57hdJhAluvby_eHzffXFfPdFm38YhoLhbK8IXwDtCq8gEzeHmE_RFURRP-g5J_zhALc0yoR2cZ910PrOl7hySmXQK9ueg",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u65e5\u672c\u306e\u611b-SOGO\u5546\u5708\u6377\u904b\u5e97\u9762",
+                        "uri": "https://maps.google.com/maps/contrib/104699999623714929993",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXavBhU4ub5_KtzN6XsrM4kGcMCQIQF-4daMfqB8XAWI2cADM5LEQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICah9aKFQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICah9aKFQ!2e10!4m2!3m1!1s0x3442a9692373a641:0xbd0e5da84113d393"
+            }
+        ],
+        "goodForChildren": true,
+        "paymentOptions": {
+            "acceptsCreditCards": true,
+            "acceptsCashOnly": false
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleEntrance": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJP2VZ8GupQjQRazxHw7P8xh0",
+                    "placeId": "ChIJP2VZ8GupQjQRazxHw7P8xh0",
+                    "displayName": {
+                        "text": "EPOCH SALON \u4e2d\u5c71\u5e97",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "hair_care",
+                        "point_of_interest"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 56.86705,
+                    "travelDistanceMeters": 79.78656
+                },
+                {
+                    "name": "places/ChIJz8hvCmmpQjQR_rd0YcqhsD8",
+                    "placeId": "ChIJz8hvCmmpQjQR_rd0YcqhsD8",
+                    "displayName": {
+                        "text": "Taipei Zhongshan Sports Center",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "gym",
+                        "health",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 209.07272,
+                    "travelDistanceMeters": 254.2221
+                },
+                {
+                    "name": "places/ChIJS7qHS2mpQjQRjcsDvPunUgo",
+                    "placeId": "ChIJS7qHS2mpQjQRjcsDvPunUgo",
+                    "displayName": {
+                        "text": "Shin Kong Mitsukoshi Nanxi Store One",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "department_store",
+                        "establishment",
+                        "point_of_interest",
+                        "shopping_mall",
+                        "store"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 171.94441,
+                    "travelDistanceMeters": 231.67519
+                },
+                {
+                    "name": "places/ChIJ0SguH2mpQjQRO9oZErKNuKQ",
+                    "placeId": "ChIJ0SguH2mpQjQRO9oZErKNuKQ",
+                    "displayName": {
+                        "text": "Rivon",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "bakery",
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "spatialRelationship": "DOWN_THE_ROAD",
+                    "straightLineDistanceMeters": 49.456856,
+                    "travelDistanceMeters": 49.398964
+                },
+                {
+                    "name": "places/ChIJPbF6JOfQDRQR5zZlfj3Inj4",
+                    "placeId": "ChIJPbF6JOfQDRQR5zZlfj3Inj4",
+                    "displayName": {
+                        "text": "PPP",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 78.232124,
+                    "travelDistanceMeters": 130.02995
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3442a9692373a641:0xbd0e5da84113d393!3e0",
+            "placeUri": "https://maps.google.com/?cid=13622928900070036371",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442a9692373a641:0xbd0e5da84113d393!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3442a9692373a641:0xbd0e5da84113d393!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442a9692373a641:0xbd0e5da84113d393!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "104",
+            "administrativeArea": "Taipei City",
+            "locality": "Zhongshan District",
+            "addressLines": [
+                "No. 18\u865f, Section 2, Zhongshan N Rd"
+            ]
+        }
+    },
+    "description": "SPOT-Taipei (Taipei Film House) is a captivating haven nestled in the heart of Zhongshan District, Taipei.  This isn't just a movie theater; it's a vibrant cultural hub reborn from a long-deserted garden, a place where history whispers and creativity soars.  Imagine stepping through the entrance and immediately being enveloped by the quaint charm of a beautifully restored historic building. The architecture, likely showcasing elements of traditional Taiwanese design, speaks of a bygone era, yet the interior is thoughtfully modernized, creating a striking contrast between old-world elegance and contemporary functionality.\n\nThe grounds themselves are a delight.  Imagine lush greenery, carefully landscaped to complement the building, providing tranquil outdoor spaces perfect for relaxation or informal gatherings.  The air hums with a creative energy, fueled by the diverse activities that take place within its walls.  Sunlight streams through the windows, illuminating the interior, which houses not only a small, intimate movie theater showcasing carefully curated independent and arthouse films, but also a stylish caf\u00e9, serving aromatic coffee and perhaps other local treats.  The caf\u00e9's ambiance, whether you choose an indoor seat or a place in the garden, is both inviting and inspiring.\n\nInside, the single screening"
+}

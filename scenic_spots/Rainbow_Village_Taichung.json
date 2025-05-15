@@ -1,0 +1,858 @@
+{
+    "name": "Rainbow Village Taichung",
+    "tripadvisor": {
+        "location_id": "2236866",
+        "name": "Rainbow Village Taichung",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13806759-d2236866-Reviews-Rainbow_Village_Taichung-Nantun_Taichung.html?m=66827",
+        "address_obj": {
+            "street1": "No. 25, Lane 56, Chun'an Road",
+            "street2": "",
+            "city": "Nantun",
+            "country": "Taiwan",
+            "postalcode": "408",
+            "address_string": "No. 25, Lane 56, Chun'an Road, Nantun, Taichung 408 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Nantun",
+                "location_id": "13806759"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taichung",
+                "location_id": "297910"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "24.133749",
+        "longitude": "120.608696",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 920 162 888",
+        "website": "http://travel.taichung.gov.tw/zh-tw/Attractions/Intro/574/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13806759-d2236866-Rainbow_Village_Taichung-Nantun_Taichung.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13806759",
+            "ranking_string": "#1 of 34 things to do in Nantun",
+            "geo_location_name": "Nantun",
+            "ranking_out_of": "34",
+            "ranking": "1"
+        },
+        "rating": "4.0",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "1301",
+        "review_rating_count": {
+            "1": "25",
+            "2": "33",
+            "3": "275",
+            "4": "598",
+            "5": "370"
+        },
+        "photo_count": "2242",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13806759-d2236866-m66827-Reviews-Rainbow_Village_Taichung-Nantun_Taichung.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "landmarks",
+                "localized_name": "Sights & Landmarks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            },
+            {
+                "name": "other",
+                "localized_name": "Other"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Sights & Landmarks",
+                "localized_name": "Sights & Landmarks",
+                "categories": [
+                    {
+                        "name": "Points of Interest & Landmarks",
+                        "localized_name": "Points of Interest & Landmarks"
+                    },
+                    {
+                        "name": "Neighborhoods",
+                        "localized_name": "Neighborhoods"
+                    }
+                ]
+            },
+            {
+                "name": "Other",
+                "localized_name": "Other",
+                "categories": [
+                    {
+                        "name": "Neighborhoods",
+                        "localized_name": "Neighborhoods"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "17"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "272"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "162"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "353"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "316"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo",
+        "id": "ChIJ25Ul-Ic-aTQRNnMAjMs2iJo",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "formattedAddress": "408, Taiwan, Taichung City, Nantun District, \u6625\u5b89\u8def56\u5df725\u865f",
+        "addressComponents": [
+            {
+                "longText": "25\u865f",
+                "shortText": "25\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "\u6625\u5b89\u8def56\u5df7",
+                "shortText": "\u6625\u5b89\u8def56\u5df7",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "zh"
+            },
+            {
+                "longText": "\u53f0\u8d38\u4e94\u6751",
+                "shortText": "\u53f0\u8d38\u4e94\u6751",
+                "types": [
+                    "neighborhood",
+                    "political"
+                ],
+                "languageCode": "zh"
+            },
+            {
+                "longText": "\u6625\u5b89\u91cc",
+                "shortText": "\u6625\u5b89\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Nantun District",
+                "shortText": "Nantun District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taichung City",
+                "shortText": "Taichung City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "408",
+                "shortText": "408",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QP24JM5+FW",
+            "compoundCode": "4JM5+FW Taiwan, \u53f0\u4e2d\u5e02\u5357\u5c6f\u5340\u6625\u5b89\u91cc"
+        },
+        "location": {
+            "latitude": 24.133715199999997,
+            "longitude": 120.6098437
+        },
+        "viewport": {
+            "low": {
+                "latitude": 24.1323383697085,
+                "longitude": 120.6087073197085
+            },
+            "high": {
+                "latitude": 24.135036330291502,
+                "longitude": 120.61140528029148
+            }
+        },
+        "rating": 4.2,
+        "googleMapsUri": "https://maps.google.com/?cid=11135210326528652086",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T09:00:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"postal-code\">408</span>, <span class=\"country-name\">Taiwan</span>, <span class=\"region\">Taichung City</span>, <span class=\"locality\">Nantun District</span>, <span class=\"street-address\">\u6625\u5b89\u91cc\u6625\u5b89\u8def56\u5df725\u865f</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 32376,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#13B5C7",
+        "displayName": {
+            "text": "Rainbow Village",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Tourist Attraction",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T09:00:00Z"
+        },
+        "primaryType": "tourist_attraction",
+        "shortFormattedAddress": "\u6625\u5b89\u8def56\u5df725\u865f",
+        "editorialSummary": {
+            "text": "Vibrant, colorful art painted on the remaining street & homes of a former veterans' village.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvdzd6cXVnRRAB",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "Taking 7 minutes walk frok the nearest bus stop to get to this place. It was free entry and at the moment I went to this place there was a tour group enjoying the surrounding. The vibrant colours painted in all the building area. The village it self was not to big, only consist of several small old houses and visitors were only able to see the outer part of the houses. Still it was great to walk around and took some cute photos",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Taking 7 minutes walk frok the nearest bus stop to get to this place. It was free entry and at the moment I went to this place there was a tour group enjoying the surrounding. The vibrant colours painted in all the building area. The village it self was not to big, only consist of several small old houses and visitors were only able to see the outer part of the houses. Still it was great to walk around and took some cute photos",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "agtifa primadani",
+                    "uri": "https://www.google.com/maps/contrib/101893782132608002160/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXur_ch1bpUQU4w_45Ye3QcuLGGWSTZEQUTxJoeIwnlkZFzdnkq=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-19T12:49:35.409571Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvdzd6cXVnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvdzd6cXVnRRAB!2m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            },
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/reviews/ChZDSUhNMG9nS0VJQ0FnTURva3ZlZlRnEAE",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "Visited Rainbow Village in Taichung and it was such a colorful and fun spot! The entire area is covered in vibrant, hand-painted artwork \u2014 every corner is Instagram-worthy. It\u2019s a small place but full of charm and positive vibes. Great for a quick stop if you're in Taichung. So glad we got to see this unique piece of living art!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Visited Rainbow Village in Taichung and it was such a colorful and fun spot! The entire area is covered in vibrant, hand-painted artwork \u2014 every corner is Instagram-worthy. It\u2019s a small place but full of charm and positive vibes. Great for a quick stop if you're in Taichung. So glad we got to see this unique piece of living art!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Izzatul Arisya",
+                    "uri": "https://www.google.com/maps/contrib/103580318037815527898/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXplv1y_gjxbxHjZM0I6e1RzztKj7ptbavVr-lIHs2gNwH-ycDO=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-04-23T11:00:44.991421Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURva3ZlZlRnEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURva3ZlZlRnEAE!2m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            },
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/reviews/ChdDSUhNMG9nS0VJQ0FnTURvcnB5VzNnRRAB",
+                "relativePublishTimeDescription": "2 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "This is a beautiful hidden gem in Taichung. The story behind it is a gentleman that is known as the rainbow grandfather decided to create artwork to inspire and to make others happy and filled with joy. His artwork was destroyed at one point so the local community has repainted new murals I really enjoyed this location since it was so vibrant and such a huge contrast from the suburban city skyscrapers. There\u2019s also restrooms here And parking spot that payment is required",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "This is a beautiful hidden gem in Taichung. The story behind it is a gentleman that is known as the rainbow grandfather decided to create artwork to inspire and to make others happy and filled with joy. His artwork was destroyed at one point so the local community has repainted new murals I really enjoyed this location since it was so vibrant and such a huge contrast from the suburban city skyscrapers. There\u2019s also restrooms here And parking spot that payment is required",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Maria Lin",
+                    "uri": "https://www.google.com/maps/contrib/115940418639092318096/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBFP4L3hqSJXtHzL4lSj-kaM_NTzlVlSaLr77KmguVa2zis3kRLA=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-04-25T01:12:07.322116Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvcnB5VzNnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvcnB5VzNnRRAB!2m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            },
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/reviews/ChdDSUhNMG9nS0VNemJwSUtDamN5NndRRRAB",
+                "relativePublishTimeDescription": "in the last week",
+                "rating": 4,
+                "text": {
+                    "text": "An old village (quarters for the family of the military) where Mr Huang Yong Fu first started decorating his walls and later the walls in the village, to create an optimistic, cheery vibe. Unfortunately not everything here is from his time, some were vandalized a couple of years back so the authorities have gotten the local community to put in new works hence some murals look more modern.\n\nI love the vibes here, the colours and the energy of their resident performer here. I don't know his name but he certainly helps liven up this area, singing with his guitar and engaging the tourists. There's also an area here where you can write down your wishes or compliments, just any thoughts really, and leave a piece of you here.\n\nIt's a small area which one could be done in perhaps 15 mins, if you don't take pictures. I spent 45 mins here, waiting now and then for the groups to move away for a clean photo. There's also a toilet here which is pretty decent for a public toilet.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "An old village (quarters for the family of the military) where Mr Huang Yong Fu first started decorating his walls and later the walls in the village, to create an optimistic, cheery vibe. Unfortunately not everything here is from his time, some were vandalized a couple of years back so the authorities have gotten the local community to put in new works hence some murals look more modern.\n\nI love the vibes here, the colours and the energy of their resident performer here. I don't know his name but he certainly helps liven up this area, singing with his guitar and engaging the tourists. There's also an area here where you can write down your wishes or compliments, just any thoughts really, and leave a piece of you here.\n\nIt's a small area which one could be done in perhaps 15 mins, if you don't take pictures. I spent 45 mins here, waiting now and then for the groups to move away for a clean photo. There's also a toilet here which is pretty decent for a public toilet.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Daphne Yeo",
+                    "uri": "https://www.google.com/maps/contrib/111000101835970652672/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOq7F5J7oaeCMmLy-KUuz1KxZg5YFnyfDumlNEiMkUQsu05cSBtA=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-05-10T03:09:16.084547Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VNemJwSUtDamN5NndRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VNemJwSUtDamN5NndRRRAB!2m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            },
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2NWRiUlRREAE",
+                "relativePublishTimeDescription": "4 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "went on a Saturday afternoon and the place was flooded with tour groups and hence a lot of people making it difficult to appreciate the art. the village itself is small and can be done quite fast. the place is really pretty and amazing for photos. there were also a few small stores selling souvenirs there for a reasonable price. overall I enjoyed and would recommend going but perhaps at a less busy time if you don't like crowds",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "went on a Saturday afternoon and the place was flooded with tour groups and hence a lot of people making it difficult to appreciate the art. the village itself is small and can be done quite fast. the place is really pretty and amazing for photos. there were also a few small stores selling souvenirs there for a reasonable price. overall I enjoyed and would recommend going but perhaps at a less busy time if you don't like crowds",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Esther Khoo",
+                    "uri": "https://www.google.com/maps/contrib/113342711511188018001/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkg3BVDk0d7bWZhCzrd_GQrJU0XUoLW8k2b7rXbHQdjAvjSeF6Bg=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2024-12-22T10:51:39.611098Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2NWRiUlRREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2NWRiUlRREAE!2m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/photos/AXQCQNSKqgUHeE83OBEDFHey0RUsjaf0GjDGE-HUPSInKZElDGfLCh-D-okwFUg_8TBz1oxivuprgwOENfiwp0dCVG-wF7WeI9xukWWqAEEs7rGhJIKLOPPcUcOn46nBnRdiefDSBkW17W3VSM2XLJ6NO_bN0Ww_ez_huY4XpnueDgmzsd2qHV_ki4rWPkCpubY084cGAlOqDzSJHs_hYmQ1N3fwEI0lpGiolWMfCci1pglNT6IvRwbJhPLRIudOlYpJJGg-i7rn-0aK_KeIHxdo4Ny6YqybAN5tcBLwdES4Vwbx1XMRLmtw2ChzXbVfhQrA9YQTVRjhPdfNznp-KtXAAZYqp9zgBJDXIdAb8IVNR6WSr8lhGIURYaMc9r7f4J0eVwC6kRioPN55VMW7R1d9nttg1fdwTvVqmR6I_niKX7rqwCk0",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5289\u80b2\u5982",
+                        "uri": "https://maps.google.com/maps/contrib/101085736109221156379",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKEFrfUYYY4Nysr7nzgL9bzxkCFVbOoVZbgG-TXR0PkbdTSYg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICU1c_axAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICU1c_axAE!2e10!4m2!3m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            },
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/photos/AXQCQNRwVYVrAk0d3tbrlwFtBY0wlBA1Iy9HYdF017Wqr4wcHol6Ec5q8jX06hQVusRf3T0Z_EFkxUPvSMs3vubqHxzITdtCgP4xBDX6x-XPlDfzDT6DZrLJHtqmg7qO9f4nhAGAXbxReKYfWIjbZ9Smie5OO01zRu5kPG_lJPVXbxBc7xnzsOOMRwI9j_B37RknYg1xqrZVHG-mjsEgxBCyn3qAY0rnHJOhsXVD0-V40Df9wbtFRc6pnuo0JFFG7Q8hzbqDnXG41UAFO6pEiPSFK-yzwmzqXa5ajy9VIm22tTkh3vssqJq_5JkvBWozdu2R73PXl1OzbfiF-eaHAJocRO0WtZz0vN8SEhatGPR1VPWgiH-NioYasNhqGPlC1o02DuWMki-TRI9gPmpTV7JqA4_CyzLAnqY3RRkJkYB5sEkvyquj",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u795e\u79d8\u5ba2",
+                        "uri": "https://maps.google.com/maps/contrib/116689782956899881155",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWE4IeiXozvxXDq9hrl0ZWYkTL1a1v-bAhkbumX3xs_--ezrgoc=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICPgJvnkgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPgJvnkgE!2e10!4m2!3m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            },
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/photos/AXQCQNRlxu714rGDh98Tc5pMT2MaMIa7QpZwep0bd_UaGEDS12nPIdQB6erfaHy2hl79R-R23qrz154fS54JBRnugbsrbyd30SvdP_0x7QyjF39T12UJDEiHD_FvihDBBWnc50mP0f4CnTFS7K2t8PjgcIkhlSJQD92QcsrLTz0-rusIqTte50NxJsu4L8RUHdEtnqyXxKQ-byqrhizC0u4Eddo8W9m7TYz-uYrCqMUALXWSZ7S1V7PJpsms06aeanLfKUS4n399VJIhmYlzHnCpi6VnbFphdC4ohku21NsLS4KBagtKvMypRDqZYsl-guaWVZo-XiWkbCzorwNw6djIQsdW5wO_1IEwB3bPxGRyJqZxrWuHcp0RP4n2jdANP9NU3iJNeUgeLCaeJM7oM2ik6dTwkqPR0ygnFu4uIu5qIc8JUaM",
+                "widthPx": 4800,
+                "heightPx": 3200,
+                "authorAttributions": [
+                    {
+                        "displayName": "Stanley Wu",
+                        "uri": "https://maps.google.com/maps/contrib/110362293500843119583",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6ZmRBGphD1sD35YAUN9wiSNgkHeTdyj-Puj6rrU4w3fz87plN1w=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICU_cGroAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICU_cGroAE!2e10!4m2!3m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            },
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/photos/AXQCQNSnCrcXsdMiWqxQiHn2X7YIBs_lwyOB4rGDgxxEErm5jjNy34u9zdFt4jEt8-1HgDbNGFO8jsV0M-Abw5bG7TVSseevtIxeZLZeeg_1R-ezTBjrOOPGihuW_EKwUlPa7J2dZDx6LItMcTJqJc1p0CxJ6c_ve3fWaNMN5w14m4R3cs00dgB8ekQzwbS-3p8guCKLw1QOAVrcgo0xgPQtBRNLmZ4GMkMF9qhIiFYdSNg1_TfkPSYMTack1ibSpeLguKmLZvcMhq2pSqgSDMZLx_jChY2ZJBZRQIiL8Xum0T1Dsk0M7KAZWEoM2p00VS3t1wyH6zy5aRUhBjqrfAFuaFqJYZQdDV0vw7XlNLZgUiaYiQIJjsIdTgZ9mpKDh2Is2hyf6jeSSSyfMFGWt5EJAQxXvhx_glSzEbvQz-IAWZc",
+                "widthPx": 4800,
+                "heightPx": 3200,
+                "authorAttributions": [
+                    {
+                        "displayName": "Chen-Hua Huang",
+                        "uri": "https://maps.google.com/maps/contrib/101602353356665865571",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHwrgl63Yc6llnxt_ROzVym-BQ9kRj-hLg9QvS6F66mAHvUFkr=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDCztuPKQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCztuPKQ!2e10!4m2!3m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            },
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/photos/AXQCQNRiHbxx-nniTH2vKazKFV3Z4QP_E1V1KwiIUJ_2cBfTcGM-GIMnda0knxCWunoevySZHvauls1jYVCChiWJ51k4EVM61ObkcES6PpMh_3P5-u8o4PqXKDi7HToNYvnHs4gZPbP_0j0f4QO7QKeRVFl69YVv0ht0MFc2qmWY93Ag0rQ1BPC8otklokOAjzpXhXVvFstirlB6t7u1gPIyuXh_uvnj4z5e6Hu5hrGVel147QRIM_2LpugfqXNF1VYwxdDQanJ5wiDWflBjpbgbzKGxLtMDQkrMRTsMP5zltOAkQxKzf0Q4QJTEW9cZkO5NwqM0T1_6HaFY4TdZE3fTS6o1n19VNtLrHZKLGPX8PX7o4fiTipKKKUg7DWNn7GrB33oBIhIobAANV89XuQY3Xec6TtEFLPgX5psD1gmu8EVv4g",
+                "widthPx": 3000,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "I-Chih Lan",
+                        "uri": "https://maps.google.com/maps/contrib/100604229296604761285",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8LuC8hA-XzMqW8XShk69khE35GlS-NeyaVMH2xdEFR8laAbrz=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICumP7NWw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICumP7NWw!2e10!4m2!3m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            },
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/photos/AXQCQNRFoHl4Eli4oqqv9Au6YuzxU2K9Mbuk4X3UvqqiG-cDY5zcBEMVkNeqX1keFyF7Q3SizNmDWyMlSGV_CkbYZQvmDEHfNy73RBXCaCxJxkGAoeaQXJ9kDDXv8p8ehWkWmR-0psGhTDLDPLi4A14c3MSoR4cEl4kHyif97dOuPPDh5V4v62wMzPrIRuSDdLsrkoJD5MtmcQrdweDv3medOyMOZsxCdD03ztUjAC-9Y40P8AZOmgC7KyLGLU0PmJXVrYmo3by4V2fGYrmAxo2epVlSKi1J5z2eOxxesjyXhoKJhGgs8eutkf6dOmS9WsXzbzhIk90dlkb777CaNTNi332DVOA4XK1yu_9JZwDEOE6DyfgMCibhGlZzCMhQ2WPIakPyXU64LtV0RFYGcL3mSVZIQgzznUiDvGMf_6k",
+                "widthPx": 3000,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "\uc774\ub300\ub85c",
+                        "uri": "https://maps.google.com/maps/contrib/114852347588077852455",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnjtQ5kwhMR9oQ-yNwhZyTT9oK7Fj9RwFXDMqOWFhft1u3RgNT=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZhJpP&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZhJpP!2e10!4m2!3m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            },
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/photos/AXQCQNQ84m1WkRgl1XJ7M8AwObiNEgdyZ53K8TTeAP3FMbTwFBpTuUEgzBA0zaNoqhSzLzsBnZIFoGyZridV2wzRjZ2YMSaCmXMePdpPJVRxCe9U2EjquSQqfjMqIpYIv-XigGgoxMshVS6xuyA4ccaujbI9mQSSwTdL5W4bV2lbeD8p0G2HmbV0ej75oLkWAjXzfQOdl2SjEtUCSSJUXKkdYC0nJ2GEGLi5YWKzq_GEHR-CX9mvzR5Y8i6ZpZwwgsdSvsTlSj8LPQ6sZ3MKFZ2zSj0ooYUa0E0FZ4NZ1yimMFfEJhgbJ2dUyqCBTATMjiFjSvPSj5dU7_50SmYy0FphHeLxWea1j0k3nu1mGaSWyTNIokTGwYW8QWj5xIGRi182PeaEQN047G3sUOXWOzzcTo4w8Uufy1CJlEicLHdM0FqbanrL",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "Hideaki Miyatake",
+                        "uri": "https://maps.google.com/maps/contrib/102701705971796025926",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIgO7UWETCGdMn2ERjVCDkwIgQc4ZsLi6I9UnT1TWNOtZDH7GM1w=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXmNG0iwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXmNG0iwE!2e10!4m2!3m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            },
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/photos/AXQCQNQ5igRTM4ZHyFvYUr99bqvTidVDxnBfkF406lOU9aoDDBab_HKNjhlg0-1OqA5pHLeEbopaf-lJYrx9VlHjwMfernm8wk4YFMKpepnizwGrHErkE4Xp6RLSgCrUGEPBz0g4SL0fntrBNKZg2na3yOTVeUk0dDJB9sEUd4WgGYXMKkqiEbR_wZLYNTyJBZjaHV6vAJVWCgusNATbtVh4xci3vBxU8akqDfuKrYdZk7rvz0dqSKqXj_t_ugFpXkGGG-IWJzS-sV7vJ4BkxaF_iE9KZt1JewTzWBvswuqE2b_Nw5CRl5Hhx7gCLe3Jfjxp4kzRp94-7prp34jLhSksy8ht51339JD-w5haWRq0apIbFRp-bTmUy6Vwt6dlrg8FXs2PpdGB4qG4UwaXu0cjko39nfuJ4KuuFqhu4ZagI7o-BrQ",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u795e\u79d8\u5ba2",
+                        "uri": "https://maps.google.com/maps/contrib/116689782956899881155",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWE4IeiXozvxXDq9hrl0ZWYkTL1a1v-bAhkbumX3xs_--ezrgoc=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICPgOfdmwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPgOfdmwE!2e10!4m2!3m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            },
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/photos/AXQCQNSkxRA-3BSzyEN--56boK_za1U1USpPjNgGWND0oxuuLRl3PsTEvIp0acorHJHld2tA2p5Ug7GwBSNqDDu9ZRXMJ699sjs78mk6w4c3D5ZsC2wVx5JdmrKAinojwjwBMkTKAoRQsHzXh7_1-ON4jsVxo458phnzP2R-VYJfHUFzFuj4_5KbIEVs_gTsmXFuN4t6wZb3Y9UE2WIwec_GFPsF__PyFlOZ-SmnhCORYaZ3QB8qD-vUP8cLmnAcGq8oL9ohzKf2PAwa3RLu0EUYDVYjIMaCmhW8SUrg_dI5JjQZGQQmKn5MU_b6OeaYTlbFHVuES-vJurAOo6uC3-6QHPAIb2ByWrATEns_EoKSg_Ockc5BKW_0uhICl2j3Y0wNigtMNQYRRlOr2qtd0tPQTCzyKTLF5za4EnsFRTCxygVH6u65",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8521\u5b97\u5bf6",
+                        "uri": "https://maps.google.com/maps/contrib/111338621591662592892",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWK-S6e3ukN9WBi8pJ1mtqxBHhE6WtvE0Q2ELKqEC8OPk9x2TCFDg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGnIjA-QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGnIjA-QE!2e10!4m2!3m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            },
+            {
+                "name": "places/ChIJ25Ul-Ic-aTQRNnMAjMs2iJo/photos/AXQCQNTeYoROGdw-8uGtxXMrm-lUAdqlCrpaSvAhn5kW10pDfm5IHVL8SyV9QsaRC5ktocXo3_rZBjGnpvIrVBTSYOds1UPbfMvnmrx4k2ceDG7ZqVcNGv6CNnGxjlLXvFaIT6qX6_jw-Kx0ErVTBoxbazFpZfl-u2iVB-j29T7L4lXPECOTElLdAaAmo2oTuXMGDffXx-IMEwzC4HkF32d3UZOdKW8Z0yO8Wl7Yb0New6IMtFLo28yzFeh6cxDvY-imGQWO3SGPtSEU9qE3nMW8i_QIe-wCyu3zc7tb8PV0_-QBFXagKZihtjD7aWTNY0cIILqgoX3PXoX-N3j72qUMr7oX4yQykTYAZbzFyowaoZzbEx9ApzEPTG5NV3nvKxLOBdSk_NjJNdJpKlpAZvnX9l9TsJuC1maeOXEHQw9ecvQVBw",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u90b1\u7426\u744b",
+                        "uri": "https://maps.google.com/maps/contrib/106464640241347684006",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIIwQ0HfMEC8YCvKOySnucsA9tOQkksCtmGV3TsGPYWTSM5cQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICWjq-0FA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICWjq-0FA!2e10!4m2!3m1!1s0x34693e87f82595db:0x9a8836cb8c007336"
+            }
+        ],
+        "goodForChildren": true,
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJ009Huoc-aTQR0VrN4m4nEaQ",
+                    "placeId": "ChIJ009Huoc-aTQR0VrN4m4nEaQ",
+                    "displayName": {
+                        "text": "Rainbow Village (Lingdong S. Rd.)",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "spatialRelationship": "ACROSS_THE_ROAD",
+                    "straightLineDistanceMeters": 39.80476,
+                    "travelDistanceMeters": 37.778233
+                },
+                {
+                    "name": "places/ChIJQZTbCYc-aTQRnEekxW5o5J4",
+                    "placeId": "ChIJQZTbCYc-aTQRnEekxW5o5J4",
+                    "displayName": {
+                        "text": "Rainbow Village (Zhongyong Rd.)",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 122.753235,
+                    "travelDistanceMeters": 437.47205
+                },
+                {
+                    "name": "places/ChIJFSQjEzI_aTQRQp-f-uUqWsw",
+                    "placeId": "ChIJFSQjEzI_aTQRQp-f-uUqWsw",
+                    "displayName": {
+                        "text": "\u9e97\u5bf6\u7c73\u862d\u82b1\u5712\u793e\u5340",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "spatialRelationship": "DOWN_THE_ROAD",
+                    "straightLineDistanceMeters": 107.950356,
+                    "travelDistanceMeters": 127.06052
+                },
+                {
+                    "name": "places/ChIJT0iwsg8_aTQR9Yv-5dm82NQ",
+                    "placeId": "ChIJT0iwsg8_aTQR9Yv-5dm82NQ",
+                    "displayName": {
+                        "text": "\u8c93\u9580\u9910\u5ef3\uff5c\u5bf5\u7269\u53cb\u5584\u9910\u5ef3\uff5c\u53f0\u4e2d\u666f\u9ede\uff5c\u53f0\u4e2d\u8c93\u9580\u9910\u5ef3",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "restaurant"
+                    ],
+                    "spatialRelationship": "DOWN_THE_ROAD",
+                    "straightLineDistanceMeters": 85.51612,
+                    "travelDistanceMeters": 90.84198
+                },
+                {
+                    "name": "places/ChIJ1RNW53Y-aTQRz9uM3wj6J7w",
+                    "placeId": "ChIJ1RNW53Y-aTQRz9uM3wj6J7w",
+                    "displayName": {
+                        "text": "\u8a60\u6625\u6574\u5fa9",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "doctor",
+                        "establishment",
+                        "health",
+                        "point_of_interest"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 112.31308,
+                    "travelDistanceMeters": 290.01166
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJ25Ul-Ic-aTQRuUkw2n9XkSM",
+                    "placeId": "ChIJ25Ul-Ic-aTQRuUkw2n9XkSM",
+                    "displayName": {
+                        "text": "\u53f0\u8cbf\u4e94\u6751",
+                        "languageCode": "zh-TW"
+                    },
+                    "containment": "WITHIN"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34693e87f82595db:0x9a8836cb8c007336!3e0",
+            "placeUri": "https://maps.google.com/?cid=11135210326528652086",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693e87f82595db:0x9a8836cb8c007336!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34693e87f82595db:0x9a8836cb8c007336!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693e87f82595db:0x9a8836cb8c007336!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "408",
+            "administrativeArea": "Taichung City",
+            "locality": "Nantun District",
+            "addressLines": [
+                "\u6625\u5b89\u8def56\u5df725\u865f"
+            ]
+        }
+    },
+    "description": "Rainbow Village Taichung, nestled in the Nantun District of Taichung City, Taiwan, is more than just a scenic spot; it's a vibrant testament to the power of art and community spirit.  Located at No. 25, Lane 56, Chun'an Road, this former military housing village, once slated for demolition, has been transformed into a kaleidoscopic wonderland.  Atop a gentle slope, the village unfolds before you, a riot of color against the backdrop of the surrounding Taiwanese landscape.\n\nImagine walking down narrow lanes, where every house is a canvas bursting with fantastical creatures, playful patterns, and cheerful messages.  The walls, once drab and weathered, now sing with a rainbow of hues \u2013 fiery reds, sunshine yellows, sky blues, and lush greens intertwine, creating a truly immersive experience.  Each building is uniquely adorned, a testament to the collective artistic effort that has breathed new life into this once-forgotten place.  The style is whimsical and folk-art inspired, a charming blend of naivete and skilled execution.  Detailed depictions of animals, flowers, and scenes from everyday life adorn the surfaces, captivating visitors of all ages.\n\nThe air hums with a"
+}

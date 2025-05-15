@@ -1,0 +1,611 @@
+{
+    "name": "Taichung Station",
+    "tripadvisor": {
+        "location_id": "1954910",
+        "name": "Taichung Station",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13792757-d1954910-Reviews-Taichung_Station-Central_District_Taichung.html?m=66827",
+        "address_obj": {
+            "street2": "",
+            "city": "Central District",
+            "country": "Taiwan",
+            "postalcode": "400",
+            "address_string": "Central District, Taichung 400 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Central District",
+                "location_id": "13792757"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taichung",
+                "location_id": "297910"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "24.137327",
+        "longitude": "120.6868",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 4 2222 7236",
+        "website": "http://www.thsrc.com.tw/tw/StationInfo/Prospect/3301e395-46b8-47aa-aa37-139e15708779",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13792757-d1954910-Taichung_Station-Central_District_Taichung.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13792757",
+            "ranking_string": "#1 of 1 Transportation in Central District",
+            "geo_location_name": "Central District",
+            "ranking_out_of": "1",
+            "ranking": "1"
+        },
+        "rating": "3.8",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "769",
+        "review_rating_count": {
+            "1": "7",
+            "2": "42",
+            "3": "238",
+            "4": "317",
+            "5": "165"
+        },
+        "photo_count": "629",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13792757-d1954910-m66827-Reviews-Taichung_Station-Central_District_Taichung.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "transportation",
+                "localized_name": "Transportation"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Transportation",
+                "localized_name": "Transportation",
+                "categories": [
+                    {
+                        "name": "Mass Transportation Systems",
+                        "localized_name": "Mass Transportation Systems"
+                    },
+                    {
+                        "name": "Railways",
+                        "localized_name": "Railways"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "47"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "128"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "221"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "139"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "136"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc",
+        "id": "ChIJPz37OBQ9aTQRtgYZL9DrtLc",
+        "types": [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "04 2221 6492",
+        "internationalPhoneNumber": "+886 4 2221 6492",
+        "formattedAddress": "No. 1, Section 1, Taiwan Blvd, Central District, Taichung City, Taiwan 400",
+        "addressComponents": [
+            {
+                "longText": "1",
+                "shortText": "1",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 1, Taiwan Boulevard",
+                "shortText": "Section 1, Taiwan Blvd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u7da0\u5ddd\u91cc",
+                "shortText": "\u7da0\u5ddd\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Central District",
+                "shortText": "Central District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taichung City",
+                "shortText": "Taichung City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "400",
+                "shortText": "400",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QP24MPP+WQ",
+            "compoundCode": "4MPP+WQ Taiwan, \u53f0\u4e2d\u5e02\u4e2d\u5340\u7da0\u5ddd\u91cc"
+        },
+        "location": {
+            "latitude": 24.137287999999998,
+            "longitude": 120.6869251
+        },
+        "viewport": {
+            "low": {
+                "latitude": 24.1359552697085,
+                "longitude": 120.6853873197085
+            },
+            "high": {
+                "latitude": 24.138653230291503,
+                "longitude": 120.68808528029147
+            }
+        },
+        "rating": 4,
+        "googleMapsUri": "https://maps.google.com/?cid=13237464484124624566",
+        "websiteUri": "http://www.railway.gov.tw/taichung/",
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 1, Section 1, Taiwan Blvd, \u7da0\u5ddd\u91cc</span> <span class=\"locality\">Central District</span>, <span class=\"region\">Taichung City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">400</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 7733,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+        "iconBackgroundColor": "#10BDFF",
+        "displayName": {
+            "text": "Taichung",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Train Station",
+            "languageCode": "en-US"
+        },
+        "primaryType": "train_station",
+        "shortFormattedAddress": "No. 1, Section 1, Taiwan Blvd",
+        "reviews": [
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/reviews/ChZDSUhNMG9nS0VNT2N3dnE4cVltR1RREAE",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "It was really easy to find the exit and the lift from the train platform. Bus platforms and other public transport is also clearly indicated in both Chinese and English and easy to access. There are a lot of homeless people lying around, but they don\u2019t seem to do much besides sit there surrounded by their stuff, and stare. Otherwise, the train station is really cool.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "It was really easy to find the exit and the lift from the train platform. Bus platforms and other public transport is also clearly indicated in both Chinese and English and easy to access. There are a lot of homeless people lying around, but they don\u2019t seem to do much besides sit there surrounded by their stuff, and stare. Otherwise, the train station is really cool.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Mg 0",
+                    "uri": "https://www.google.com/maps/contrib/100509366556150204033/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnKVJsPkcTRyUozznr63zY_xHmZJu1Eqgd0KRO8gr20YeICnho=s128-c0x00000000-cc-rp-mo-ba7"
+                },
+                "publishTime": "2025-05-07T11:43:37.305429Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VNT2N3dnE4cVltR1RREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VNT2N3dnE4cVltR1RREAE!2m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            },
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmdnZ1eE93EAE",
+                "relativePublishTimeDescription": "4 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "The best part of watching the game is learning to watch the spirit of the sportsman. And how can a city use a little imagination to show its vitality? I didn't expect to see a wonderful college football game in the square in front of the train station in the city. How wonderful!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The best part of watching the game is learning to watch the spirit of the sportsman. And how can a city use a little imagination to show its vitality? I didn't expect to see a wonderful college football game in the square in front of the train station in the city. How wonderful!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Yichen Chen",
+                    "uri": "https://www.google.com/maps/contrib/103899377590285965574/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVx03ZkJYLbpmgv7xE71n3YPo8vma9vEBOZi5vExS4IDt2lrf8U=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2024-12-29T13:42:19.163184Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmdnZ1eE93EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmdnZ1eE93EAE!2m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            },
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnMHMyekh3EAE",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "I haven\u2019t taken the regular train for ages, ever since the high-speed rail started running. I\u2019m filled with nostalgia.\n\nI got one famous Taiwan rail bento, which is good but I feel thirsty afterward, I think it\u2019s not the same as before or my taste has changed.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I haven\u2019t taken the regular train for ages, ever since the high-speed rail started running. I\u2019m filled with nostalgia.\n\nI got one famous Taiwan rail bento, which is good but I feel thirsty afterward, I think it\u2019s not the same as before or my taste has changed.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Jane Lee",
+                    "uri": "https://www.google.com/maps/contrib/107059433905827650379/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyVnzH7IbtAlKSaihS7tq8P6IQdii91m5U0kdzXUxdoufM2ZO7ag=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-02-15T16:12:11.913522Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnMHMyekh3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnMHMyekh3EAE!2m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            },
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNubFl5bEZ3EAE",
+                "relativePublishTimeDescription": "7 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "Station is nice but can get really crowded, especially on weekends and there aren't enough exit points when express trains come, so it can be a longer wait out than other stations.    Also narrow spaces on the platform are somewhat unsafe.  Pretty much all of the signs are bilingual and it is well set up in that its easy to figure out where your train is.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Station is nice but can get really crowded, especially on weekends and there aren't enough exit points when express trains come, so it can be a longer wait out than other stations.    Also narrow spaces on the platform are somewhat unsafe.  Pretty much all of the signs are bilingual and it is well set up in that its easy to figure out where your train is.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "\u9b6f\u5927\u6d77",
+                    "uri": "https://www.google.com/maps/contrib/113239372981170876414/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUQ66I6PZmVjYRYXTCEUM3qD7JmNuUXvfLDyj9IGbtMD3dL1Yd=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2024-09-28T04:14:51.038178Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNubFl5bEZ3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNubFl5bEZ3EAE!2m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            },
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/reviews/ChZDSUhNMG9nS0VJQ0FnSURqakxLbUJBEAE",
+                "relativePublishTimeDescription": "a year ago",
+                "rating": 5,
+                "text": {
+                    "text": "I'm not here to ride the train but to visit the railway culture centre.\n\nIt's new and modern station with the old station that was built in the H\nJapan occupation era. Both are beautiful and magnificent.\n\nThere is a railroad culture centre that will have more vendors and activities which was totally dead during the weekday.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I'm not here to ride the train but to visit the railway culture centre.\n\nIt's new and modern station with the old station that was built in the H\nJapan occupation era. Both are beautiful and magnificent.\n\nThere is a railroad culture centre that will have more vendors and activities which was totally dead during the weekday.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Steven Cheng",
+                    "uri": "https://www.google.com/maps/contrib/113014788078968168512/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRxYTK-vzXvkvM15nJzJ0YsLE1pc330OjP5xrUyjrUCiy-I8kv9g=s128-c0x00000000-cc-rp-mo-ba8"
+                },
+                "publishTime": "2024-04-30T05:23:37.659097Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqakxLbUJBEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqakxLbUJBEAE!2m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/photos/AXQCQNQ4fycYAUgVNGaGTGDpUjz_9CCAjxyh79Rc3wKhvioFU0lquGmpYccF4EWSlRlbK1PcQ-uqtlMMn_BFvAqYEMynOTSqMPXbxIMu5CBu38lVaKe_w9t0bAX-RtP3d42JAr6t26CkgrDT8496tmmaCkG2iREWsCb6pMubCY6Kcu6RxC9vdyTuWMNZQIh8GhsxB-aPnXtYiEmZTyHwOamqbCC00i1UoLnGLFZs3a731IFhafi3qg3re1PtgFmw4bIaZ7dE4GTQDrmDQyUnfGj-RZI4q2SsWGjvyvx-CfD-BCeptbM2ahmoz6KUdcD6BEXC7Ww1J3H0l2Q70i_p-lPh-qIo5fBI6_PCpazEOFei_FHm0JLx3bOcG3uGdWbq78w4irGVcKPgz2g3NlxX_ySjqJzOMi7LBmGuIWnMvuhommD-rPk",
+                "widthPx": 4656,
+                "heightPx": 3496,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u674e\u4ef6\u4ef6",
+                        "uri": "https://maps.google.com/maps/contrib/104826654431991996210",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8ivxhTQbGoBfOHA5DJ5Y9fQpodlkqYR0fROs4KnybNx1na9ZC=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDmwNSN1gE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmwNSN1gE!2e10!4m2!3m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            },
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/photos/AXQCQNQ91Bv9WXW0vwYbWkz6npjVCHod7nCopp41EEpWFk6o7E4PnHh2aXDbok2n9HcbGJ_AH1ifDOCPFjfLsWP2TJR4ixokBM6ECnJffm3x1AppUVchSTLv0AOQxCFL40EDvgcQjaVxr5tWKKlemRT0dirDc5KfBck9P8lH1uL4DFd3mgCHKpJb0_pj6tqZyr3wOsN2kAh-q85v0RecrqU8kgZfpwsegQLFJaxz20gsPxGXG4D51roLuaCIRcx8TpvRp_9eHygAoiCT3iaYzy54-tqDz78Ff0EHrEgd4R5yvffwTKeVS6LjMPwOVQlgW3G2mtmiwt1og5PmdTmtLVtjRuPBjHfRulZ0m3pVNqnKCd3Q2Do46sKO2aVjKW6mYJtEYkzMhxfv4shHICG7zbxmjJ65STwAen1i9086HE6uUQekHeh5",
+                "widthPx": 4800,
+                "heightPx": 3200,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5c0f\u5bae\u5c71\u662d\u4e00",
+                        "uri": "https://maps.google.com/maps/contrib/108440966639800104380",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJwYIqTHtu0xvHaxY9SwO-jcXCb6ElmrG9uBj4RTTA6o2QW56d3A=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDK6JPU2AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDK6JPU2AE!2e10!4m2!3m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            },
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/photos/AXQCQNTRLcnKA39mAKQE-9SeAKcbx0m8UtOJz0QhPHFtldQb2NmabeQvm6vBm2C3DPZjWafCKwOYvRxdws1-5fO1yJ-ExpCjtVQvz4Uaq3q3yOoaU0kRXeEKbilA6v3UHuyhNGGhhBZUznXyDV8bP9hLBoHUgVknANveMcsH8TG8S_lPvVvsaS13RyMEeC7SEoHprTbT0oQNFaoU261YDUyIttJ1wVEdQqL52AYhAn0jDrDKd74S0pmJuKR2bnS91huBGyw9dYFzC494QLZbOP_l7SHM-XlzQl8D4saduvuzlewFXSQFvfGY_ooy6WpFscuRHOsACC1jQT1FtqA54z0jIjKvMELBh3cfjL3ZwJUehfRexc5Coj9bB8_FyzJkNe9KoEgQhQ6VKTYtkTZX8W60Jhxjv72QQiUBuxqQFfZAwCEceA",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "EnFu Chang",
+                        "uri": "https://maps.google.com/maps/contrib/101338637282574737360",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWi-DlJgDRN7UtYB0XQc2HVlSQDvg0kG3p8Gmp4P62iiXKM2E02=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICe47D_Kw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe47D_Kw!2e10!4m2!3m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            },
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/photos/AXQCQNSpEVx7j-xcj2eV0tJU13PFV7SQfCdjfnmMm6v4St0Ebjkd0EJc5aHWFNOe1s1_wHTSmxPSdURs92jVPqlFjTbUP8uRcva0d-6Y7jT2UdE4mjoWZ1H3BBbGlQJ-UuC_AfX2Rj0mWwskE6o8rBO5JQIUP-9zAzBTtho-ReGm3tIobNFhnH6dvPIHKsMErBjKEWQEqFQ54QdjQWBxyY3a3zjx0jHfAtnEu8tMzsEH-O2ngUTILc9b6SfGUgfGNEz7JNDh1IlVkS54vr30nEc8FGdPnITyUza_b7PvaP5upxnCNskrXNMuZNGidOWTIZ-PdAZcPe7ZqC2fygWGPRWo9uSQYtrBT1c5fz4CcyN4sB9oKDeqh2WoEjtyHejsFiQgy2r3QIduQpAGm_hfzLuieTiSLqd-5OahlPxVOV1HYnKBPoKy",
+                "widthPx": 3024,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6797\u653f\u4e7e",
+                        "uri": "https://maps.google.com/maps/contrib/115299757681603178463",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgTwU1TH3o8A8JB-HBUyzVo7HKufSTG2hhAZoL-ubFe2bX6A=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOgLLkwQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOgLLkwQE!2e10!4m2!3m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            },
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/photos/AXQCQNQkb9NzEipWNGqhh9tHRbZzALWvpML1enprktAoreWcaJzm_KstsmmAVloLkDFK6_JiYB2GgTA2K9fbDma1TpSbaYpCUREHoFyCRXndhnEC9DTPSf_Tw-ktagU76ie4quAFeP7gVGb1xILf4YA-10zRw1oZOtKZ-xZJAKhtcIZALjQj71jYwC7SSzmN5xlGnQHQWS_fGexxiVUa7xWKLOXI770-nWYbABK9fGxebyOz8yBMRRKA3X_a9cGOhVqhZOME5IDck8ujvLNRBl_G6C7Cz7HUyHs1PqGyLWq2ABDld9Zh-PWksE7DzlN5XF3k8WCL1yAN6F3qAhvfQEnXRveY_rCnWlNdSR30cxPhsdlyRBxSFKrHzU3iyFMziwb3e8LvtaUi_albuFifFwMUpeKxP6f6uh7_IbiU_c_-ELsp7jEE",
+                "widthPx": 3024,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u674e\u65fb\u8aed",
+                        "uri": "https://maps.google.com/maps/contrib/103583620829904203436",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXEO3W8Bh-P2dxE0HKBQSW1TVjKCftWbMQWFniqrxV5Z3MFMgk8A=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB7vuvmAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB7vuvmAE!2e10!4m2!3m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            },
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/photos/AXQCQNQln-y44baDmQfxnAmR57mOXwhoGYozNJlhpakYmorc1UzMSZJZ0p18YV14EsZrqc57fn5AG0U35PdyWNTlRQWUjlAFpWFWtxL42HAWMpyRCdUKDfrUabXQWq6PTgkM9tV9RtqtT_da6eAbzM7-SbysLV5sxjvf75VlBYHtRKxh9U0UcFzvC3Cy30OuLNUMaDkHhVSmS0ZLgBWtij64_PBIXTX9IW9YTB2ozZPJ8B7LxkUKFXLxXME2amU5_wL2ytlY5OSmiLbGOn2T65-gaTbZgxuKtM3gKXpNJ-tcJjlHz_X84IGH0MetH7ZhkHEXGhdnxreyROfrJteVJ76AHXgg8D0SYMJkFxAzxzxxRRmGc4MuaaedLzQcokpOZnFbMDNwhSF1iK26W6bcr4jYzlCN4y158vk-yHqUi4-WGPsMfA",
+                "widthPx": 2880,
+                "heightPx": 1920,
+                "authorAttributions": [
+                    {
+                        "displayName": "Nomad YC",
+                        "uri": "https://maps.google.com/maps/contrib/113538313045642352133",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdg5MXJF8N_0pVPun-F2LSsy8BRAasqkG70WzwMFxsJlB9-MTcVg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR99WSAQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR99WSAQ!2e10!4m2!3m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            },
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/photos/AXQCQNTPJyzczyGEPwKXv45W--bL-HieLyHSL2FNmk22-526GWH265TR1Cfrp0Y6N83fTwiUQ1OU-zLi10nNmZD_cTPdqd77HXKOPqhjkqLMrwxcRyrG8XDf--7oE_tdpL1_1Xy4-sqdVGigxRlSnAEJWZNcBgWqyxWS1wGuLa3g8vZXZZSl_Xg3vV9ohwinePE0osIfnDzpOMrKSqrJPPK-UCp0E37OF8Ps-PYISY2rh9D78eSq03HeUEZapxd1J41q8PmoEG1evKgyb-jxXPRXAWAvn0eyQPwK1cE17loHNu4lUktrAs2EwRznN5oxFbb6GkbwpzVXFtPs6WN1li5UgNoKyY44mW1tbPYS2FRiMgT8MluhMBJsc8TyM96tSVFEtO2FCuxPqfaC5kvcd3bGVG7A5beRvifEE2EJ6U8FlvvjgcrG",
+                "widthPx": 4032,
+                "heightPx": 2268,
+                "authorAttributions": [
+                    {
+                        "displayName": "Sean Huang",
+                        "uri": "https://maps.google.com/maps/contrib/111476668007401774901",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2qoR-Yc0gUlKZIleS1eR48Nu0hPp5xk6wyXFmnnfei51a0oc=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDh89iP_QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh89iP_QE!2e10!4m2!3m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            },
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/photos/AXQCQNRil3aE5oRl3zHkmxjV-J4h1NjqOAUxhlrYdwMbvBJ5TRWz_sK4v0ZQJCiNAEn-61QBMn2afDvrNK8AX9QUvdE8U2DvDNLjsb87FyD26ZLrStvuinT6BezDwwI6EV84ja2DkqAZUMEjjxgxgeFJ_Cv6tbfGePzb95oUrnR5UglpaNhxRK7tFNDp1PN0W-iLoxs2a2oUl3LfjY7YQCdNZLGIUy9OApv3l110nKKVGps4NXMiaz8UO-VhQ9QlEGPIXm5ZicN17dxG2TROZv2vn5Zyjj2zOToj8EO4oZ0RcRxDEe5ud-amSauKc3-7BJ2_evdt2v0g5b8JzqdkLOwbdv-WQFH2LQb3XZak4NSwYE4i9zXtHItr33RItQkNIZnWhj8gLlHrjWmWeRYOtP8oJCRoxKuzZo5D_B8W_Rolc1st9jg",
+                "widthPx": 2406,
+                "heightPx": 1604,
+                "authorAttributions": [
+                    {
+                        "displayName": "Nomad YC",
+                        "uri": "https://maps.google.com/maps/contrib/113538313045642352133",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdg5MXJF8N_0pVPun-F2LSsy8BRAasqkG70WzwMFxsJlB9-MTcVg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRj6jA2QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRj6jA2QE!2e10!4m2!3m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            },
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/photos/AXQCQNRh-lRyuT-Ff4IYMh9ynUHveiQWguatkNol2n00d-eMnZ6W2KiR-wDxt7MvCta-enZeDv1_ldYxU5OHRyOWth1YyQ9gsQFgy2fwCNCei-nvrEg6tVZxPVM7oX8vdtUr8-QuIixthfyw9A48afmSvB3zMVgf3DNvfQ9JO49Q22HhxiNiuUOR7ygRr58MZKNVtDaqeVmz5XADYOCDCdtAJXdLvc1jmvH5Ai8s3djd_d7GHXlwQGlhxGGSVYEcg7Ro4WEp8X_fGgzrYg8NhdQTCL_mve09JPpgBpumEboaWhsUL9WTUaPj2GwibzdOgc3ac9_qFdsATlFpoNVi15r3ycLTyUSLsHW2X1BWJ7HuAnZVyiaL9bdvL7RhVFkUm1rkiVkt-DDfTNToKXovHHx2AYywvQOFWRNyYEW1cxMVczs",
+                "widthPx": 3000,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Chen Nordi",
+                        "uri": "https://maps.google.com/maps/contrib/114971822058655432202",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUg_GJVQk2a7YNOc8h4WEBpxXXWUtvuLB6xX0znKm9JArnR7UxN=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDm6fDFWw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDm6fDFWw!2e10!4m2!3m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            },
+            {
+                "name": "places/ChIJPz37OBQ9aTQRtgYZL9DrtLc/photos/AXQCQNQa9TRrBbTMFRWienU1yyD4PxQogZkP7vnDGyXytjsbl_yK-dM8Dq8750Kt0fPhxfLOZ1kAzRQ_FFalJjoX-Wyl8LoYzyGSi-Kw9SKkiLYydEqq16BXW1jDikdin5B1k8zT-neLPAQdnUGZ-P-cI4d1jy7WTeXdKudMh5wt1rv9XrZ3ocFP1SFo_riU1oCnl3Ll-iHJB6cZSWWvr8U8YUKrhuq2DYSkSAjtScu5QB2raNz-5iISXI2Tt-aC0pE3VcY5vAACCsWPF6YJUdOV0ap2HUef9IKry1fSs1lVVhaXQ-rViAJwTpH95fo-XGIF7b7S-a22BT-HQv2sTr6fcL-EAsZL-KS69gLFAlp5km7XqphAnvVwuBI5wrJn5rCpJZg_OjXepCqNHtbOphDUcoRiTOUtJiP1ujSE4HrDedKx8l3N",
+                "widthPx": 3000,
+                "heightPx": 2000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Devgru Wu",
+                        "uri": "https://maps.google.com/maps/contrib/106603332902830868540",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWI9ppkVqZgwt9yy3b2NfQ19dPzms0UU93RKXkXBUWnxwBKd7ZU=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxvIzIygE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxvIzIygE!2e10!4m2!3m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6"
+            }
+        ],
+        "restroom": true,
+        "parkingOptions": {
+            "paidParkingLot": true,
+            "paidGarageParking": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true,
+            "wheelchairAccessibleRestroom": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJ2_OSghY9aTQR8P0nrulQr5Y",
+                    "placeId": "ChIJ2_OSghY9aTQR8P0nrulQr5Y",
+                    "displayName": {
+                        "text": "KFC",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "restaurant"
+                    ],
+                    "straightLineDistanceMeters": 235.12532,
+                    "travelDistanceMeters": 484.2226
+                },
+                {
+                    "name": "places/ChIJ9a_5lRU9aTQR5vyqoPukmik",
+                    "placeId": "ChIJ9a_5lRU9aTQR5vyqoPukmik",
+                    "displayName": {
+                        "text": "TAROKO MALL Taichung",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "department_store",
+                        "establishment",
+                        "food",
+                        "parking",
+                        "point_of_interest",
+                        "restaurant",
+                        "shopping_mall",
+                        "store"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 188.04674,
+                    "travelDistanceMeters": 263.14587
+                },
+                {
+                    "name": "places/ChIJ5zDdrhU9aTQR7qCD9gpeKZo",
+                    "placeId": "ChIJ5zDdrhU9aTQR7qCD9gpeKZo",
+                    "displayName": {
+                        "text": "Taizhonghou Train Station",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "bus_station",
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "spatialRelationship": "ACROSS_THE_ROAD",
+                    "straightLineDistanceMeters": 35.081985,
+                    "travelDistanceMeters": 20.499084
+                },
+                {
+                    "name": "places/ChIJj7ruRUo9aTQRpA92C2cCgW0",
+                    "placeId": "ChIJj7ruRUo9aTQRpA92C2cCgW0",
+                    "displayName": {
+                        "text": "Taichung Station Railway Cultural Park",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "museum",
+                        "point_of_interest"
+                    ],
+                    "spatialRelationship": "DOWN_THE_ROAD",
+                    "straightLineDistanceMeters": 223.17294,
+                    "travelDistanceMeters": 219.73074
+                },
+                {
+                    "name": "places/ChIJfca9z0YYaTQRkBxI6daSG20",
+                    "placeId": "ChIJfca9z0YYaTQRkBxI6daSG20",
+                    "displayName": {
+                        "text": "SkySon (Taichung Train Station)",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "bakery",
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 30.153965,
+                    "travelDistanceMeters": 218.30083
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJPz37OBQ9aTQRlhSOdZbJ9Oo",
+                    "placeId": "ChIJPz37OBQ9aTQRlhSOdZbJ9Oo",
+                    "displayName": {
+                        "text": "Taichung",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6!3e0",
+            "placeUri": "https://maps.google.com/?cid=13237464484124624566",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693d1438fb3d3f:0xb7b4ebd02f1906b6!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "400",
+            "administrativeArea": "Taichung City",
+            "locality": "Central District",
+            "addressLines": [
+                "No. 1, Section 1, Taiwan Blvd"
+            ]
+        }
+    },
+    "description": "Taichung Station, a bustling hub in the heart of Taichung's Central District, is more than just a transportation node; it's a vibrant scene teeming with life and history.  Located at No. 1, Section 1, Taiwan Boulevard, its imposing structure stands as a testament to both modern efficiency and historical significance.  With a TripAdvisor ranking of #1 out of 1 transportation option in the district and a respectable 3.8 rating based on 769 reviews, it's a place that clearly resonates with travelers.\n\nThe station itself is a striking blend of old and new.  Glimpses of its past, possibly dating back to the Japanese occupation era (as hinted at in a Google review), might be visible in architectural details, contrasting beautifully with the sleek, modern additions that cater to the high volume of commuters and tourists alike.  The numerous photos (629 on TripAdvisor, many more on Google) showcase a dynamic space, filled with the energy of people rushing to catch trains, the quiet contemplation of those waiting, and the organized chaos of a major transit hub.\n\nInside, the experience is one of efficient functionality blended with thoughtful design.  Reviews praise the clear signage,"
+}

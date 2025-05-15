@@ -1,0 +1,854 @@
+{
+    "name": "National Taichung Theater",
+    "tripadvisor": {
+        "location_id": "7222405",
+        "name": "National Taichung Theater",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13808534-d7222405-Reviews-National_Taichung_Theater-Xitun_Taichung.html?m=66827",
+        "address_obj": {
+            "street1": "No.101, Section 2, Huilai Road",
+            "city": "Xitun",
+            "country": "Taiwan",
+            "postalcode": "40756",
+            "address_string": "No.101, Section 2, Huilai Road, Xitun, Taichung 40756 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Xitun",
+                "location_id": "13808534"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taichung",
+                "location_id": "297910"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "24.162886",
+        "longitude": "120.64057",
+        "timezone": "Asia/Taipei",
+        "email": "service@npac-ntt.org",
+        "phone": "+886-4-2251-1777",
+        "website": "http://en.npac-ntt.org/",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13808534-d7222405-National_Taichung_Theater-Xitun_Taichung.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13808534",
+            "ranking_string": "#1 of 67 things to do in Xitun",
+            "geo_location_name": "Xitun",
+            "ranking_out_of": "67",
+            "ranking": "1"
+        },
+        "rating": "4.4",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+        "num_reviews": "586",
+        "review_rating_count": {
+            "1": "3",
+            "2": "3",
+            "3": "67",
+            "4": "223",
+            "5": "290"
+        },
+        "photo_count": "1249",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13808534-d7222405-m66827-Reviews-National_Taichung_Theater-Xitun_Taichung.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "landmarks",
+                "localized_name": "Sights & Landmarks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            },
+            {
+                "name": "theater_concerts",
+                "localized_name": "Concerts & Shows"
+            },
+            {
+                "name": "activities",
+                "localized_name": "Activities"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Sights & Landmarks",
+                "localized_name": "Sights & Landmarks",
+                "categories": [
+                    {
+                        "name": "Architectural Buildings",
+                        "localized_name": "Architectural Buildings"
+                    }
+                ]
+            },
+            {
+                "name": "Concerts & Shows",
+                "localized_name": "Concerts & Shows",
+                "categories": [
+                    {
+                        "name": "Theaters",
+                        "localized_name": "Theaters"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "23"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "128"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "66"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "141"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "136"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg",
+        "id": "ChIJcaKjTOw9aTQR4mAeJzejtdg",
+        "types": [
+            "opera_house",
+            "tourist_attraction",
+            "concert_hall",
+            "auditorium",
+            "performing_arts_theater",
+            "event_venue",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "04 2251 1777",
+        "internationalPhoneNumber": "+886 4 2251 1777",
+        "formattedAddress": "No. 101\u865f, Section 2, Huilai Rd, Xitun District, Taichung City, Taiwan 407025",
+        "addressComponents": [
+            {
+                "longText": "101\u865f",
+                "shortText": "101\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 2, Huilai Road",
+                "shortText": "Section 2, Huilai Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u60e0\u4f86\u91cc",
+                "shortText": "\u60e0\u4f86\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Xitun District",
+                "shortText": "Xitun District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taichung City",
+                "shortText": "Taichung City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "407025",
+                "shortText": "407025",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QP25J7R+34",
+            "compoundCode": "5J7R+34 Taiwan, \u53f0\u4e2d\u5e02\u897f\u5c6f\u5340\u60e0\u4f86\u91cc"
+        },
+        "location": {
+            "latitude": 24.1626492,
+            "longitude": 120.64030280000001
+        },
+        "viewport": {
+            "low": {
+                "latitude": 24.161423369708494,
+                "longitude": 120.63878581970852
+            },
+            "high": {
+                "latitude": 24.1641213302915,
+                "longitude": 120.6414837802915
+            }
+        },
+        "rating": 4.5,
+        "googleMapsUri": "https://maps.google.com/?cid=15615566740251893986",
+        "websiteUri": "https://www.npac-ntt.org/index",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 11,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 11,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 11,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 11,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 11,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 11,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:00:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 101\u865f, Section 2, Huilai Rd, \u60e0\u4f86\u91cc</span> <span class=\"locality\">Xitun District</span>, <span class=\"region\">Taichung City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">407025</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 47254,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#13B5C7",
+        "displayName": {
+            "text": "National Taichung Theater",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Opera House",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 11,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 11,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 11,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 11,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 11,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 11,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:00:00Z"
+        },
+        "primaryType": "opera_house",
+        "shortFormattedAddress": "Section 2, Huilai Rd, 101\u865f\u81fa\u4e2d\u570b\u5bb6\u6b4c\u5287\u9662",
+        "editorialSummary": {
+            "text": "Large concert venue boasting diverse performances, shops & eateries in a sleek, contemporary space.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/reviews/ChZDSUhNMG9nS0VJQ0FnTURvOGJ5YU1REAE",
+                "relativePublishTimeDescription": "2 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "I had a great experience at the National Taichung Theater. The architecture is stunning and very modern\u2014just walking around inside felt like being in a work of art. Even without watching a show, it was worth the visit for the design alone. Definitely a must-see in Taichung!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I had a great experience at the National Taichung Theater. The architecture is stunning and very modern\u2014just walking around inside felt like being in a work of art. Even without watching a show, it was worth the visit for the design alone. Definitely a must-see in Taichung!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Nestor Jr. Cancan",
+                    "uri": "https://www.google.com/maps/contrib/117701358552120030865/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVsMq0_uzBymAYavYijE2z6-Tm1tCsXDxET4hbq-Z8A3RHtAYX=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-04-26T03:01:29.631214Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvOGJ5YU1REAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvOGJ5YU1REAE!2m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            },
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/reviews/ChZDSUhNMG9nS0VJQ0FnTURnZ3NPaVlREAE",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Amazing building that has tonnes of space inside   It. Amazing large window view scape of all the high rise buildings in the near by housing areas.  Built in segments and slotted together like a ship.\n\nThe interior design was inspired by the natural contours of a cave. The curved lines on the walls create a soothing atmosphere, along with man made streams inside of the building , making it an excellent place to relax and unwind.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Amazing building that has tonnes of space inside   It. Amazing large window view scape of all the high rise buildings in the near by housing areas.  Built in segments and slotted together like a ship.\n\nThe interior design was inspired by the natural contours of a cave. The curved lines on the walls create a soothing atmosphere, along with man made streams inside of the building , making it an excellent place to relax and unwind.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Ian Griffin",
+                    "uri": "https://www.google.com/maps/contrib/108925247564283103176/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUY4Yhi644c_JtDPyQeleD0tdViUsaiyr51RVuk1TAeoIU0qIJF=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-02-23T11:53:39.114369Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnZ3NPaVlREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnZ3NPaVlREAE!2m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            },
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/reviews/ChdDSUhNMG9nS0VJQ0FnTURveUxXZGxRRRAB",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "Great design and good looking architecture. One of the landmarks and tourist attractions in Taichung. We spent some time inside and at the top, admiring the beauty and elegance of the building.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Great design and good looking architecture. One of the landmarks and tourist attractions in Taichung. We spent some time inside and at the top, admiring the beauty and elegance of the building.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Patrick Xu",
+                    "uri": "https://www.google.com/maps/contrib/107967947415131653371/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKyyCqk52NOdQc0MLWa3cFX9sXN-f7SSc_AS80MZeesKfWrUg=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-21T14:55:50.072972Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURveUxXZGxRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURveUxXZGxRRRAB!2m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            },
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/reviews/ChZDSUhNMG9nS0VJQ0FnTURBejRxVWJBEAE",
+                "relativePublishTimeDescription": "3 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "I was amazed of this architecture. Very unique design fantastic inside and outside. There are cafe upstairs with the view of the skyscraper around and the beautiful rooftop garden. Really good place to enjoy your afternoon here, both with family or just alone.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I was amazed of this architecture. Very unique design fantastic inside and outside. There are cafe upstairs with the view of the skyscraper around and the beautiful rooftop garden. Really good place to enjoy your afternoon here, both with family or just alone.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "dede rianto",
+                    "uri": "https://www.google.com/maps/contrib/103011331274764959455/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyO20nmJV1KV_Tow1tLWkymHwwMtiEe0za_lpiRqYRwESsLXM=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-02-13T02:57:40.467057Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBejRxVWJBEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBejRxVWJBEAE!2m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            },
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZaExpYmF3EAE",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "The design of the building is unique and special. The interior design also full of stories. There are some stalls at the ground floor. The stalls are selling stylish and cute items for house or room deco. The 5 floors have a roof garden for chillout and relaxing the mind.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The design of the building is unique and special. The interior design also full of stories. There are some stalls at the ground floor. The stalls are selling stylish and cute items for house or room deco. The 5 floors have a roof garden for chillout and relaxing the mind.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Desmond Lee",
+                    "uri": "https://www.google.com/maps/contrib/106231271387523733058/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvPijXJYi4J62rXjulbxeJtvI8csMYlX25hvUZppCVIV6jeWcO=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-05-01T08:42:40.044270Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZaExpYmF3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZaExpYmF3EAE!2m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/photos/AXQCQNQNf3C_LVnpki6cUicEItJnhqqqVRvttc9_BYQhaR3TIVZmLYTw0bDzUhV-pL0Llh73A6C9BTTa6dwpZTGJTDlL9jqZaKalPKnqtT1GRgWQYCkwd8g0yub64mx7WGKqPiXDfyN6uBNU3FBOklO9lLpgdB160YIaODrmJ2TWRT_bcsOVt88NN6o3df4MsJ-Y26WvVe6VpJBNqWjhyWI33QYwtyTJ27sn44Iuf2B1CQ9wYum1hkysZQaz5dsGqhUlKU0yvrchOJvFQp_-_4ylisLI56pZGDTCMbBGa_e2mYZ3nA",
+                "widthPx": 4800,
+                "heightPx": 3200,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u81fa\u4e2d\u570b\u5bb6\u6b4c\u5287\u9662",
+                        "uri": "https://maps.google.com/maps/contrib/116279142495769615590",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTaVkeZf0RMs1BwgoiWiMT5CjGb9-1SxQBu5G20_ADn6buTylt=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOkQ2ELe7tepMaQRndjpapzGsGOH-Lk7Y8YaDoq&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOkQ2ELe7tepMaQRndjpapzGsGOH-Lk7Y8YaDoq!2e10!4m2!3m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            },
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/photos/AXQCQNTfEPcrlTmUNweqF1pqa0nR0ekjbOTbl3t003qtBBEzgGegKcU0VjWtzOZB6ae2OwTT4WHLumvDWNpD9eQDqa7ERocfRx2EMyopRO0aaL11l0SgujOYcGU6GRn-BXMwFMOaffH2-MxeAkxRvxnpV8LFU5JD3Pw91x-UsOvgGR-0cyC8pHFVwgLH9_CxihaIyyPw6RBWDz-cTteLmbT77wslMRbffKaKaNMs-tLV9UZEHi7Hqww_VGQI3DMRZDGiy_rZMqxcpFkHaT-zb6W3OzRuGrAn7LLPMI_momjDrYDsGP0aZ9nBAWyzszxfzDaOf4ykjZyQsIF5rcsTbKCN1kBtghZNy4N54GyPgOm1HfiPuPWFJvRLIn1O9N6Rd5Cwo0Z3uPd0slB1XcHlysxGy6-VqYDeIC2UoOVDi_FkYmlmD7PM",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Lulu Shu",
+                        "uri": "https://maps.google.com/maps/contrib/106207744131052973071",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBXJGyHpgB9dd_Y-Mr-AjzTEimSLlLMNgMcSv3pjirQ26Wxh9v=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-rITX5AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-rITX5AE!2e10!4m2!3m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            },
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/photos/AXQCQNS4vJ2cmRoJNrlqcMh0aECGs8_H2DPMiNEYr_Z-S0nu19kZaIbCLoLKWl32oTuSY5uGJEKlRwFoJxFx8ZEQ46gkR4lZ8Ik87VYM6KQNVuTyI7wh75osQ1TI6oeDlYGHKi9kqqEz-JZtWeEH9LRoJ9dTyzY_9DVuVT8CGAAsC1FlU7Mkw_RJrN2l4LjTyW2hFZYlhGbs9NqxGYPKAPj2V7-K4nG-lhZL0Q3aPsu-0GQA0Tov75sW25jAKFrewcP36L43iivX0OCAGZq0vn7HrhgA2XDJF6gAp06htxDlLHFPoPXkN1a9JawTnToW5f25AS2LqXUIXxsShPyPjwoCFc2gUvsDO1bb59yHNFvtfg2_-HAt6ur8wN1RI0Nm8pKSnaFoQNjfaQFzbNJxzT9C_O05MKC4rzkT_8LUzS0VrdI",
+                "widthPx": 2688,
+                "heightPx": 1512,
+                "authorAttributions": [
+                    {
+                        "displayName": "Loveli Lovely",
+                        "uri": "https://maps.google.com/maps/contrib/105154899879222635268",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlFq4wybLekMZR_4MPjSHejAMQSdRWLfmf0PikMqKIkfrMdw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRncn3RA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRncn3RA!2e10!4m2!3m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            },
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/photos/AXQCQNQKV4E35PmeVQwmgst2QHU4nXOEmPdtEDLKgl89KQ0kCv9ixkY7FHTXUeP5MRQXbQdTnMZWsyy7rHYraOhaDJ30nHsCHKrpLtcz-4LiUvMDEDVoOsxFjEULZ0tsaDW8i40mXw6IUidIKI8sb938M80-I-3psPJnAKIKZcPASUPF-DUzNrQpyl_YnRtG9a-a4pwbouNU3WoLQ0nbv05tT9G4O3ZIdsiNrNGGvpx8BAFdllU-rJZXj6YzKPtHIivYFelyjWz-CSLSY5QoOjaNEWc_oeY0ujVjpEB2-imlZL7Zc4Nz_tNd2CCizrzsvbBnFVpsHyvExZIperh8dQghnFSsSLgmTw7hUilcpRAefeDIcQ6RrrQ5ng8yE3Zv1strxy7nx8M53J1SCZa-ce03J1WIjIjNN_WSFgPADlLcc8Y",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "David Hsieh",
+                        "uri": "https://maps.google.com/maps/contrib/113673679916455020334",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9p082ZEGFeDnlUtfPl9nTQU2yjAF-W5fODjEoR7hLAVf3LA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDevJjSPA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDevJjSPA!2e10!4m2!3m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            },
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/photos/AXQCQNShchLnOG7ipOF-iYZUB9waXjqIReIgilHvR-TiGr6xU5MzrvWpC9Nh_8A2V0b_lKRtRxwfnFy0cSJhqZETMWlQycveDY42I8q3jo17UXfXpuAaeMYGamyK4rqwOG6JSgVIUu-dGUlY1Etp_dab49KKF1YLcgqWwO__ajXXnSSs9h37Ri4-t1YhAdIwF-8ASpIVEA9hVq24mT028AV1X0HxHT1binODz5RqcZOHd25TlonNwbbijvZ1ovisqdC7xS8TcmyBgatIFxkXnhXNRJuVLv4_Ff8o4ky3Z-NlKfHE4m_1QgYyv9fLd4S3uB0eApIVAWN30HQyedT6C1c9DbBMy2lAf_Esmf126Je7RWSUHBI_JOqkXOdEKswpoYT9Q0Dyn8qnYiZiYOvgRqHA8ND5E2TrEhlba8RRRqp1Vpr4KrYK",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\uc8fc\uae30\ub9bc",
+                        "uri": "https://maps.google.com/maps/contrib/101614221442972198664",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqOICTaf81ol9X88Nh2XMQP7jXPcAnFPJsGiTo1Lk_Be4cYoY=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICeyMmd_gE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICeyMmd_gE!2e10!4m2!3m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            },
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/photos/AXQCQNRrl8i7ZRXYCY60gIJZGDBnas-_KrS4US88hAz_IUO__uZD8R2sPbLNlsBtRcmX1GO9qozVLZnCi0z4KyYhGaCSWoIEZcTlCDSuoEqnwsW4DxFsrsfPmlU_KLXBR1iraouiqLr6doaJjCQQD6VWQNw440zxyNd9nriUO06uHublJY2pX0bZNbEVXusONuU5JucUG3vgcw_eFsfKFZ39Ea9D3M6omfzmtOryFicAj-To-bE6JxWcixtx0ca1hGlWhE8QF8m3ua6LJ3Pnh_1p3jTCple28QZI9sXhY7LBTOJoFEUahrCefGmHfUaHxc0-dOLUhiGDfcVVbmFnCTNjtc2GulQEsA7St2H_hKzjf2pIwM_CnIpAmaBibN0QssOHnMbE3_FqhwO59m9QgKXcTJV9BBjJFSVxzkP9JxecaXI1Ww",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "jackie yang",
+                        "uri": "https://maps.google.com/maps/contrib/117276364141157765389",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWi2ATLtdcb9Bd3IrUe_Z1vcne4pHDBqYxymMoVQx03wNA-XHYug=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-lpmYHg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-lpmYHg!2e10!4m2!3m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            },
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/photos/AXQCQNTjQf43U6rR2wYTFPnym_NA9w6-dSTd3RiMHcffpVX6DF72k-1N9ySRnPLIErRONgbHcENhUkiWBezI0j07iNRHAeXvAhLtC1whoWZkm7Ka6NmWY477bbqLlDbhxYN1-wjh4iAgXUWf9BxJqDbZANJqkGOXOxz4-KzyS8zkZV1YChXvqsGgJdJt6OPl3HIMWuYLcd_c4-Wv6DVDUV64go_64cC0w7iKKW1Ie8x-oCEPFMkPS2Kace4TGXXHyhr0WgdLwhvfR9GRP8dgRxI6uxYR4JkRAslyG4E_7UD8gM9BUIpz3sNN5CHVtK4YPdvXm8rswT1Cue_ik7r8UFg2TqfRn7K-8NKzVpJcd_feCPz7aJWIBr6PSAtxWUXC427Q94kGFm_hZB6b-WW3IrgLhK9T3owhO1-79O3xU88jBZ5k_94y",
+                "widthPx": 4800,
+                "heightPx": 3200,
+                "authorAttributions": [
+                    {
+                        "displayName": "Ivan Chen",
+                        "uri": "https://maps.google.com/maps/contrib/116502456283983428486",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8-2ESvcGWF2WUwQTmY8NhznZ4ionxLOR2nXT7BbAHe7mIX5YzCA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICm6v_7mAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm6v_7mAE!2e10!4m2!3m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            },
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/photos/AXQCQNR_D6dr_rrJ_PGqPk-F111gbpTBJZIZBHdxGkPvGr-9PDK-TZjfeJQ5-vZH_WGprJyQNPh3gcH9bZBx71X_rgwt71MBnxWUB3b4jl_eC_wwMY8na2PsDd5U5ddKDbSG7APSC6KFakUSSmWW1ll-w1Ep9wbfa9ituuTKvmg9-Ji39rpwmJfeGJqnzrm4ZTgkkSxdSsPlfvD9NKzdembwXdqlHdeQuIezoFcQ7n5QnCOaZmfWVa4nGqQixnnfMjOWbd-1bcCrSQrofrRCn9oSvzhamHSIX3Vu29PRj-Ss1gqRmNvT-oKAxoL9XJw6NAoPk_grrqTPA8PEfu_yEvWojvQE3lqHsDg_GCwvtCx7uAeon-8x__VPCTPK33J42J_m7Pp_Nuusa_9wn0v8MesQi5tmWX6g5X3llhbuz0uxp59QDQ",
+                "widthPx": 4608,
+                "heightPx": 3456,
+                "authorAttributions": [
+                    {
+                        "displayName": "Pratya Wachirapinpong",
+                        "uri": "https://maps.google.com/maps/contrib/103819484297057945717",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJeuXlRt1C1vrINEEoXPB5DSOYpV3_RQ3cSXjwTdVxrh6Eo1T48Q=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID0v-XoGQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID0v-XoGQ!2e10!4m2!3m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            },
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/photos/AXQCQNRSicP_JO6agIsDOXLVcfHXGawPAvVNxDkROuo75ODOz9tMauswTimVaR6I5eODZ-hau28tlSTfaZUMOxDndR5BlvH5B4sgk0mRb_HmNEtIpilWOhERdZYLHMm5nET8FOvk55oVFE_4y6deiS-OI-DXvgrU8hs0K5aDRLxgxX23WRWcIJ5kneIw0uCqT7N9ILfIBKPjI-IxJqlSUBtLQEjxVhmM0bi8ClJwGkbiPb0131gnQHVheGIJI2-nVvVABzm3dfewCywAoe_6rcd1zkLcr4SQ5Pxz5kOlH56N9kGDWLVksHKnFVs-ATuo_s90YWcnniqogmBXSTHE7Q_dGrgPLICPqPf6IKKL-uszwv1aMxggl9KJtOMfnORpqovHSMy8QZqkg_8yRr5lOOP9dEV3kAUaMNB3TxCyEln-zAqmrQ",
+                "widthPx": 3468,
+                "heightPx": 4624,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8b1d\u570b\u5f6c",
+                        "uri": "https://maps.google.com/maps/contrib/114297401170140916021",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHY73KadkzODVSSi2k52UcPsPjuR0sh6Lp862nQGQDF0q9FGceWg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDW05LLJQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDW05LLJQ!2e10!4m2!3m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            },
+            {
+                "name": "places/ChIJcaKjTOw9aTQR4mAeJzejtdg/photos/AXQCQNRe_r3d9sGBOfvrxYuJtlY54XW2q82EPVc14tciAqN0QyOX2KPbwgsR4zmOHCJYjIkUi8O2hMmArHLEdTrFQBsQ3VC0Un5-ZhW7WV0zVdB3mHuP69y8_TTElFhO63v_RKqaq2Aas64-g7-P8renn5SO4D0Gfz4sUIpzAqQl6rpFX3RBviPKPEHgSy_jkmrVfdgLlscE347O9xcR3CYjW-Kp2u06v7-BZxv8KKS51jP_qJbHN61sTWHlP7GJrCA1mqh0W1NxFch-oHh5bF-tyGpBxGvanWE0fGtMmJ0W2x3Tx3tENcSOHHv9fPyJSUgtGAFSBRbCXRIhpve-We55mmGi7wiK39tYY2wCNJNfWgc-fmGD3Ko1v4ZaYKpWm3SdCvH-Hr5yhg43sS3PW6tgyamQymUJD7TOQCIotHdhWR4",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Mandy Wen",
+                        "uri": "https://maps.google.com/maps/contrib/114385536063355031605",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2BXAqURGrVGpvI5KLOlvLmmLLrCw8sj-e3h26obUN94oaz51iMA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDyjpa-WA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDyjpa-WA!2e10!4m2!3m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2"
+            }
+        ],
+        "goodForChildren": true,
+        "restroom": true,
+        "paymentOptions": {
+            "acceptsCreditCards": true,
+            "acceptsDebitCards": true,
+            "acceptsCashOnly": false,
+            "acceptsNfc": true
+        },
+        "parkingOptions": {
+            "paidParkingLot": true,
+            "paidGarageParking": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true,
+            "wheelchairAccessibleRestroom": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJ-3w3nO09aTQRFqc10yS2R2c",
+                    "placeId": "ChIJ-3w3nO09aTQRFqc10yS2R2c",
+                    "displayName": {
+                        "text": "\u5bf6\u8f1d\u82b1\u5712\u5ee3\u5834",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 160.22713,
+                    "travelDistanceMeters": 242.09402
+                },
+                {
+                    "name": "places/ChIJHb0ONPI9aTQRA8iSP_buIEI",
+                    "placeId": "ChIJHb0ONPI9aTQRA8iSP_buIEI",
+                    "displayName": {
+                        "text": "Tiger City",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "shopping_mall"
+                    ],
+                    "straightLineDistanceMeters": 246.86382,
+                    "travelDistanceMeters": 392.87503
+                },
+                {
+                    "name": "places/ChIJ______Q9aTQRrDPjoKMISF4",
+                    "placeId": "ChIJ______Q9aTQRrDPjoKMISF4",
+                    "displayName": {
+                        "text": "Land Bank of Taiwan",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "bank",
+                        "establishment",
+                        "finance",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 377.81897,
+                    "travelDistanceMeters": 441.91055
+                },
+                {
+                    "name": "places/ChIJYZlZMPI9aTQRedJq3sCSdKw",
+                    "placeId": "ChIJYZlZMPI9aTQRedJq3sCSdKw",
+                    "displayName": {
+                        "text": "RAMEN NAGI \u8c5a\u9aa8\u62c9\u9eb5 \u51ea - \u53f0\u4e2d\u5e97",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "restaurant"
+                    ],
+                    "straightLineDistanceMeters": 270.93048,
+                    "travelDistanceMeters": 369.8411
+                },
+                {
+                    "name": "places/ChIJH8bKB0M9aTQR2lMq3txot_M",
+                    "placeId": "ChIJH8bKB0M9aTQR2lMq3txot_M",
+                    "displayName": {
+                        "text": "\u53f0\u4e2d\u570b\u5bb6\u6b4c\u5287\u9662\u6885\u82b1\u4ead",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 45.123077,
+                    "travelDistanceMeters": 82.0845
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34693dec4ca3a271:0xd8b5a337271e60e2!3e0",
+            "placeUri": "https://maps.google.com/?cid=15615566740251893986",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693dec4ca3a271:0xd8b5a337271e60e2!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34693dec4ca3a271:0xd8b5a337271e60e2!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693dec4ca3a271:0xd8b5a337271e60e2!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "407025",
+            "administrativeArea": "Taichung City",
+            "locality": "Xitun District",
+            "addressLines": [
+                "No. 101\u865f, Section 2, Huilai Rd"
+            ]
+        }
+    },
+    "description": "The National Taichung Theater, a breathtaking architectural marvel ranked #1 among Xitun's attractions, stands majestically at No. 101, Section 2, Huilai Road.  This isn't just a theater; it's an experience.  Its sleek, contemporary design, consistently praised in over 586 TripAdvisor reviews and boasting nearly 1250 photos, draws gasps of admiration.  Imagine a structure sculpted from the very earth, its exterior echoing the organic curves of a subterranean cave, yet rising boldly to meet the sky.  Large windows offer stunning panoramic views of the Taichung cityscape, a vibrant tapestry of skyscrapers woven against the backdrop of the horizon.\n\nThe building itself is a testament to innovative construction, its segments seemingly slotted together like the pieces of a colossal ship, a modern-day ark of the arts.  Inside, the cavernous spaces are a feast for the eyes.  Smooth, curved walls, inspired by natural cave formations, create a soothing and enveloping atmosphere.  Man-made streams meander through the interior, adding a touch of unexpected serenity to this bustling hub of cultural activity.  The high ceilings and expansive halls invite exploration, each turn revealing"
+}

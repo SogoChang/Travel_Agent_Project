@@ -1,0 +1,1014 @@
+{
+    "name": "teamLab Planets TOKYO",
+    "tripadvisor": {
+        "location_id": "14951238",
+        "name": "teamLab Planets TOKYO",
+        "description": "teamLab Planets (Toyosu, Tokyo) is a museum where you walk through water, and a garden where you become one with the flowers. It comprises 4 large-scale artwork spaces and 2 gardens created by art collective teamLab. teamLab Planets Recognized by GUINNESS WORLD RECORDS\u2122 as the most visited museum (single art group) in the world. A Massive \u201cAthletics Forest\u201d to Newly Open in Early 2025 ACCESS\uff1a 1 minute on foot from Shin-Toyosu Station 10 minutes on foot from Toyosu Station 5 minutes on foot from Shijoumae Station and Toyosu Market \u203bCurrently, the \uff1cTo-05-2 (Toei Bus)\uff1e from Tokyo Station, Ginza, and Tsukiji to Shin-Toyosu is experiencing heavy congestion. Please consider using other public transportation methods to visit.",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g14134359-d14951238-Reviews-TeamLab_Planets_TOKYO-Toyosu_Koto_Tokyo_Tokyo_Prefecture_Kanto.html?m=66827",
+        "address_obj": {
+            "street1": "6-1-16",
+            "city": "Toyosu",
+            "state": "Tokyo Prefecture",
+            "country": "Japan",
+            "postalcode": "135-0061",
+            "address_string": "6-1-16, Toyosu, Koto 135-0061 Tokyo Prefecture"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Toyosu",
+                "location_id": "14134359"
+            },
+            {
+                "level": "Municipality",
+                "name": "Koto",
+                "location_id": "1066449"
+            },
+            {
+                "level": "Region",
+                "name": "Tokyo",
+                "location_id": "298184"
+            },
+            {
+                "level": "State",
+                "name": "Tokyo Prefecture",
+                "location_id": "1023181"
+            },
+            {
+                "level": "Region",
+                "name": "Kanto",
+                "location_id": "298156"
+            },
+            {
+                "level": "Country",
+                "name": "Japan",
+                "location_id": "294232"
+            }
+        ],
+        "latitude": "35.649307",
+        "longitude": "139.78976",
+        "timezone": "Asia/Tokyo",
+        "website": "http://www.teamlab.art/e/planets/",
+        "write_review": "https://www.tripadvisor.com/UserReview-g14134359-d14951238-TeamLab_Planets_TOKYO-Toyosu_Koto_Tokyo_Tokyo_Prefecture_Kanto.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "14134359",
+            "ranking_string": "#1 of 16 things to do in Toyosu",
+            "geo_location_name": "Toyosu",
+            "ranking_out_of": "16",
+            "ranking": "1"
+        },
+        "rating": "4.3",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+        "num_reviews": "3698",
+        "review_rating_count": {
+            "1": "192",
+            "2": "206",
+            "3": "311",
+            "4": "514",
+            "5": "2476"
+        },
+        "photo_count": "4556",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g14134359-d14951238-m66827-Reviews-TeamLab_Planets_TOKYO-Toyosu_Koto_Tokyo_Tokyo_Prefecture_Kanto.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2200"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "0900"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "2200"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 09:00 - 22:00",
+                "Tuesday: 09:00 - 22:00",
+                "Wednesday: 09:00 - 22:00",
+                "Thursday: 09:00 - 22:00",
+                "Friday: 09:00 - 22:00",
+                "Saturday: 09:00 - 22:00",
+                "Sunday: 09:00 - 22:00"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "museums",
+                "localized_name": "Museums"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Museums",
+                "localized_name": "Museums",
+                "categories": [
+                    {
+                        "name": "Art Museums",
+                        "localized_name": "Art Museums"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "17"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "1117"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "442"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "1260"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "508"
+            }
+        ],
+        "awards": [
+            {
+                "award_type": "Travelers Choice",
+                "year": "2024",
+                "images": {
+                    "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png"
+                },
+                "categories": [],
+                "display_name": "Travelers Choice"
+            }
+        ]
+    },
+    "google": {
+        "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0",
+        "id": "ChIJSeco5wiJGGARItbTS8lQ5G0",
+        "types": [
+            "tourist_attraction",
+            "amusement_park",
+            "amusement_center",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "formattedAddress": "6-ch\u014dme-1-16 Toyosu, Koto City, Tokyo 135-0061, Japan",
+        "addressComponents": [
+            {
+                "longText": "16",
+                "shortText": "16",
+                "types": [
+                    "premise"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "1",
+                "shortText": "1",
+                "types": [
+                    "sublocality_level_4",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "6-ch\u014dme",
+                "shortText": "6-ch\u014dme",
+                "types": [
+                    "sublocality_level_3",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "ja-Latn"
+            },
+            {
+                "longText": "Toyosu",
+                "shortText": "Toyosu",
+                "types": [
+                    "sublocality_level_2",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "ja-Latn"
+            },
+            {
+                "longText": "Koto City",
+                "shortText": "Koto City",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Tokyo",
+                "shortText": "Tokyo",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Japan",
+                "shortText": "JP",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "135-0061",
+                "shortText": "135-0061",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "8Q7XJQXQ+JW",
+            "compoundCode": "JQXQ+JW Koto City, Tokyo, Japan"
+        },
+        "location": {
+            "latitude": 35.6491207,
+            "longitude": 139.7897739
+        },
+        "viewport": {
+            "low": {
+                "latitude": 35.6476043197085,
+                "longitude": 139.7885948197085
+            },
+            "high": {
+                "latitude": 35.6503022802915,
+                "longitude": 139.79129278029149
+            }
+        },
+        "rating": 4.5,
+        "googleMapsUri": "https://maps.google.com/?cid=7918542870314997282",
+        "websiteUri": "https://www.teamlab.art/jp/e/planets/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:00:00Z"
+        },
+        "utcOffsetMinutes": 540,
+        "adrFormatAddress": "<span class=\"street-address\">6-ch\u014dme-1-16 Toyosu, Koto City</span>, <span class=\"region\">Tokyo</span> <span class=\"postal-code\">135-0061</span>, <span class=\"country-name\">Japan</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 39513,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "iconBackgroundColor": "#13B5C7",
+        "displayName": {
+            "text": "teamLab Planets TOKYO DMM",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Museum",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:00:00Z"
+        },
+        "primaryType": "museum",
+        "shortFormattedAddress": "6-ch\u014dme-1-16 Toyosu, Koto City",
+        "reviews": [
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZOE5HWWpnRRAB",
+                "relativePublishTimeDescription": "2 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "An outstanding visual and sensory experience well worth the ticket price. I would even say the skip the queue ticket option is a fair price to get in let alone to have the benefit of bypassing the sizable queue outside. The standard ticket is very well priced and I felt that the amount of money spent was absolutely reflected in the overall polish and spectacular show.\n\nJust make sure to wear shorts or trousers that you can easily and comfortably roll up to knee length or above due to the depth of the water you need to walk through.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "An outstanding visual and sensory experience well worth the ticket price. I would even say the skip the queue ticket option is a fair price to get in let alone to have the benefit of bypassing the sizable queue outside. The standard ticket is very well priced and I felt that the amount of money spent was absolutely reflected in the overall polish and spectacular show.\n\nJust make sure to wear shorts or trousers that you can easily and comfortably roll up to knee length or above due to the depth of the water you need to walk through.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Ben Foote",
+                    "uri": "https://www.google.com/maps/contrib/112530018386781592631/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5RjRsG3_m7bp0SpoOJJePW304_tz-2Wl0b2OhTys0hzuaCOw=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-04-30T14:26:34.904167Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZOE5HWWpnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZOE5HWWpnRRAB!2m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            },
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/reviews/ChZDSUhNMG9nS0VJZnQwUHVvOHNlWWVBEAE",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "Definitely worth the price of admission! We had a great time here. I'd say do the water area first, which we did, as it was not as crowded and felt more immersive. The athletic forest was fine but became very crowded during our stay which made it a bit much for us. Overall a fantastic experience!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Definitely worth the price of admission! We had a great time here. I'd say do the water area first, which we did, as it was not as crowded and felt more immersive. The athletic forest was fine but became very crowded during our stay which made it a bit much for us. Overall a fantastic experience!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Christoph Gansler",
+                    "uri": "https://www.google.com/maps/contrib/115665155245065210186/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRt9b2TCrHj89cBs_vFsZHGu_chS4cIUn_oHFfW4j3s1mYJZTo=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-05-07T03:25:07.923704Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJZnQwUHVvOHNlWWVBEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJZnQwUHVvOHNlWWVBEAE!2m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            },
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/reviews/ChZDSUhNMG9nS0VJQ0FnTURJdEsyakpBEAE",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Great experience! Although you do need to walk through water barefoot you can smell the chlorine being pumped through the water. If you can get over walking barefoot then the entire experience will be a great time. There\u2019s multiple areas and only the water portion is when you need to walk through bare foot. In other portions of the museum you can interact through an app and even do small interactive games. The whole experience is a great time and they have lockers for you to store your belongings if you have a large backpack.\n\nMake sure to book in advanced!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Great experience! Although you do need to walk through water barefoot you can smell the chlorine being pumped through the water. If you can get over walking barefoot then the entire experience will be a great time. There\u2019s multiple areas and only the water portion is when you need to walk through bare foot. In other portions of the museum you can interact through an app and even do small interactive games. The whole experience is a great time and they have lockers for you to store your belongings if you have a large backpack.\n\nMake sure to book in advanced!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Timothy Wong",
+                    "uri": "https://www.google.com/maps/contrib/101516886225025852044/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHMBcOIscf4h3ZsTNdm50YUGP-ZlDnTARde0zx79ZVOr67DpkP=s128-c0x00000000-cc-rp-mo-ba2"
+                },
+                "publishTime": "2025-04-07T15:33:50.102776Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJdEsyakpBEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJdEsyakpBEAE!2m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            },
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvbzlTSmVBEAE",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 4,
+                "text": {
+                    "text": "I finally visited teamLab Planets after hearing so much hype, and while the installation is undeniably beautiful and immersive, I couldn\u2019t help but feel a sense of d\u00e9j\u00e0 vu throughout the experience. Having done similar interactive exhibitions before, this one didn\u2019t quite surprise me the way I expected.\n\nI waited slightly more than half an hour. Even though I booked the first slot 9am-9.30am. There was already a line. I was the first 4 in line yet stepping into the venue, there were not lines to make it exclusive for the first few guests. We were told to step inside the introductory room where guests were mixed up, then what\u2019s the point of getting there early??!!\n\nWalking barefoot through water, interacting with light projections, and moving through mirrored, soft-floored spaces was definitely cool\u2014but also very much in line with what I\u2019ve experienced at other digital art exhibits. Everything was well-executed and visually impressive, but the novelty just wasn\u2019t quite there for me.\n\nThat said, it\u2019s still worth visiting if it\u2019s your first time experiencing this kind of art. The attention to detail is great, and the space is thoughtfully designed. It\u2019s immersive, sensory, and photogenic.\n\nTip: Book ahead, and wear comfortable clothing you don\u2019t mind getting a little wet.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I finally visited teamLab Planets after hearing so much hype, and while the installation is undeniably beautiful and immersive, I couldn\u2019t help but feel a sense of d\u00e9j\u00e0 vu throughout the experience. Having done similar interactive exhibitions before, this one didn\u2019t quite surprise me the way I expected.\n\nI waited slightly more than half an hour. Even though I booked the first slot 9am-9.30am. There was already a line. I was the first 4 in line yet stepping into the venue, there were not lines to make it exclusive for the first few guests. We were told to step inside the introductory room where guests were mixed up, then what\u2019s the point of getting there early??!!\n\nWalking barefoot through water, interacting with light projections, and moving through mirrored, soft-floored spaces was definitely cool\u2014but also very much in line with what I\u2019ve experienced at other digital art exhibits. Everything was well-executed and visually impressive, but the novelty just wasn\u2019t quite there for me.\n\nThat said, it\u2019s still worth visiting if it\u2019s your first time experiencing this kind of art. The attention to detail is great, and the space is thoughtfully designed. It\u2019s immersive, sensory, and photogenic.\n\nTip: Book ahead, and wear comfortable clothing you don\u2019t mind getting a little wet.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Teresa Wee",
+                    "uri": "https://www.google.com/maps/contrib/100333536625948647750/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkyIG-JmzFlOW7YifrbICnNYfNMfqIxyfS718JWri99YO6Ucbz=s128-c0x00000000-cc-rp-mo"
+                },
+                "publishTime": "2025-04-19T14:11:07.379060Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvbzlTSmVBEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvbzlTSmVBEAE!2m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            },
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/reviews/ChZDSUhNMG9nS0VLUFN1OFBMX2VISldBEAE",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "THIS WAS SO COOL! This was honestly one of my favorite activities I did during my entire trip! The exhibits and interactive displays are mind-blowing and innovative. There's no question, you have to try this out!\n\nBy the way, there is a part where you walk through water. I am 6 feet 3 inches tall, and the water was up to mid-shin level on me. Make sure you wear either shorts or pants you can easily roll up. Additionally, during the athletic forest exhibit, if you are wearing high heels or sandals, they will make you rent shoes to go in the exhibit, so don't wear either of those types of shoes. Lastly, make sure to give yourself at the very least 90 minutes to enjoy this, but I could have easily spent 2 and a half hours here.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "THIS WAS SO COOL! This was honestly one of my favorite activities I did during my entire trip! The exhibits and interactive displays are mind-blowing and innovative. There's no question, you have to try this out!\n\nBy the way, there is a part where you walk through water. I am 6 feet 3 inches tall, and the water was up to mid-shin level on me. Make sure you wear either shorts or pants you can easily roll up. Additionally, during the athletic forest exhibit, if you are wearing high heels or sandals, they will make you rent shoes to go in the exhibit, so don't wear either of those types of shoes. Lastly, make sure to give yourself at the very least 90 minutes to enjoy this, but I could have easily spent 2 and a half hours here.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Jordan Hyde",
+                    "uri": "https://www.google.com/maps/contrib/102675125446983196123/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXfykQkSUZUkkvKdpQenIeE_yRTW-j24UGQ4kuKDoCBfnYBA=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-05-06T12:17:27.535637Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VLUFN1OFBMX2VISldBEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VLUFN1OFBMX2VISldBEAE!2m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/photos/AXQCQNQl4BDPB1bnGMdDdASS9FvNpeq2ZhkxkSXx9O9qsii4c4r8YVfvz_XTZkFMlJPmFN4h-iqnlM0BJEgnpUX2VAghM84AAZNRWGmXeW-6Nr4M8pGi73oqn1-GmGekBF2oXs147hLP6QCKWR6ta5cj7IsMvSsWT7aZQombucp3p4SKAImZask66ClVEhdsI5tlLR5bsOdCG9JrX6aR3rSGSahQaxWkdQvXOhWhmX4W7YJpRis7XFTVc2xlCqKQ8oqH1nClPB7sbj3WHXfxIqAjezwA9_nIe92Cg4_JTBMk3loHWA",
+                "widthPx": 1200,
+                "heightPx": 800,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u30c1\u30fc\u30e0\u30e9\u30dc\u30d7\u30e9\u30cd\u30c3\u30c4 TOKYO DMM",
+                        "uri": "https://maps.google.com/maps/contrib/111751458619466774865",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV45X8em29Y01g7PUCIg4uOO7U0MCE2WJwU6HWSJMYHtm82_9j0=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPniUme5zZm1o76fdqII6xKE2S3j63RQGuCqXZf&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPniUme5zZm1o76fdqII6xKE2S3j63RQGuCqXZf!2e10!4m2!3m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            },
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/photos/AXQCQNRMPzTgqfhuYLc0RgUNVrSNEBA7wutmh379km2JIUJMRixh4aSageVSG_QSk1ZEEziEmBnUky0mKYe8R_Essb6z9DEEyEqbKtqHc40hg2T_FPOHN84GB1QiuMcZuYg0bCpmgHpqkOuD6WOIKcdrVFgS2UV2nhDBbGO_2aeqERlt4ZeASbcB7xY1REwBMbcL-Dbv1bhBNFSvx0qpwJEvQ1mKM0RIyfGZyp_9I0gbvEIGecV1JO2hPBVaH_QSLF2_2NHiyviwVwTgwkvQ0ys6RNcZ3xAfMONLCz2tfEoDfWT1wHUV43VFLxl95-9omSB3BwgJHaKhcJ0VKjmX6D8-rDzpwGcvvxLPjKVt6vyGaqigOLfbsZFJ9LBQuyo8DDDd-F4WYcKxBoh-8DUrsIlFgRj-k8nwxSYZTlcA0x8LvCjIGw",
+                "widthPx": 4800,
+                "heightPx": 3592,
+                "authorAttributions": [
+                    {
+                        "displayName": "M G",
+                        "uri": "https://maps.google.com/maps/contrib/113154449998412414707",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLMbOkgoDzNoyavwxgW9cVi9LvkAl5rDCpTtm6pHWpWJxUoFw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB7_6MUQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB7_6MUQ!2e10!4m2!3m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            },
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/photos/AXQCQNS2wNG1G8coXFonNPyn5z5Y3YBCbh6NRFKKlZ3X8nnX3gA5CUFJ8HR0V-KtKuJZvqL59KzuqlRpmRPx8oY3WuTZcGJefwt8mXpzOi6ZQZDUtISAzogxNCf6uesdIDPLsOeuwPk565wGGxgx-Ke-WbMKw3CD0zVQ1iKpOaF_F7YvJiHo8TncQgjF6IkYmHALmSXt3oB7oOpNCtEMVVXJ4fHzI37S1DFq-CuoJ2XEebbdriPjNKM8pKd0Eb0NynkZs_kXB_NJHJ2nZIykRtzKmhRc-JqaUmZrRQEBmjcTfmLVWiDdHX46eymhCXGkpEuRfWAh76QNYPYxQDxEp9O91Rl6IAlMN4RglovOnBmMaVCz3gl2IUb1qpc6SiIZA0tcbKrXjln-Vww1L4K1mTFl9898qM6vJZTg67eRL7BWvzkSBJM",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "miki",
+                        "uri": "https://maps.google.com/maps/contrib/106840215500173312045",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW46vFSdE6JMlw7H-_h_LK8RDiIKO2EM_Aa8e1lWDz0HxilYnzg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICerqKi_AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICerqKi_AE!2e10!4m2!3m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            },
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/photos/AXQCQNR6UmUIBkno-HOQP3ep4JK_EwWBrekgPMaBTh_36rMwfxk-Msj8xo8DLHW6UOACdqD37tsFITDqaR3OofIdcsqHYUvJTFlzuIME5XwsuToI8fDk6gj8-IErN8Qdc5peHACxsQ7gJdI4wkhXL4f0t6rxO6BddJTRRw3MNJL6bm5_9UTUFmabLhOvIy2DxAc8M8MzyN38_vOKLpsT67d_EUrQS2dI5oflItCLL2P2LD1rCDFnijrnp-qZOaQX8gLJESe-vAQfBtetkTNLDkV4YAz8SpC7TkCwWcHghsQ0DDt-h8f8nX0sFd4c4b5oF7gw3p4YRQo9lrctt7cRwBcmi9IBDgwVsm-67VU4wdr3gxAooUeMQ_-w5eHbKw7QgrFRQvtiv8qQ9aWRh8eD4ptj8jPDQQqNKr0lE-y1etV9we1wdA",
+                "widthPx": 4800,
+                "heightPx": 3200,
+                "authorAttributions": [
+                    {
+                        "displayName": "Inaka Daisuki",
+                        "uri": "https://maps.google.com/maps/contrib/110441050130832844276",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJmyDSa46mc2SRHvGaxhj4ikiLKk_OcQ7JAelB89-YqxIp7oQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRwqycPA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRwqycPA!2e10!4m2!3m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            },
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/photos/AXQCQNSldjkw3sap-JUE-62zOwXK74xxOpMhhZ5gF6PMnxIwrM_bxDXEKM8OgwoLGMFXo8Z45ACJmD-qnK0BanNarDkH3SUpgKDEbu42FJtmi7rxualKRz-EYKb_cCHFyPO_ZF0Rf5O8e0Gpmw6q183f7-P9hJbViChmvaKZjY5H6CMzWE4riRyrFNvFfegO1MSJieU998AFO4RfdmKeVrjU214MoPTzHOYnx5W5xkgID969gir6s-jXjRFUXB3EKqS6PNTZuYAPg-prGJoXNdXsGI3hw041VSnqu6canZfqdxqh9q3a8Pv-Y2Cl0bNCTWOv3pwnzeVo4DGSAdyMtHEiOyR_c1s9uDvKzLccotLPcOKOWPq65Emxl33KnDnzk08oU6-YYAd82Q15VqtvS2i5IELwKZV5AdNlkUfJ1wiSQWvgvaQ",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Ho Ngoc Tin",
+                        "uri": "https://maps.google.com/maps/contrib/115256457323209882376",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVT54ae9mmMqNIucl_IrwjKGqJwGT5iK8Lr1q_Tou1NHOvFY1AbNQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHlMnF2AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHlMnF2AE!2e10!4m2!3m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            },
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/photos/AXQCQNR0mtRsP3wVRBLwfioTzafNHc04yNcpeDKtKvKNzSON2JU6iRbQFAVE51YMdXfTEAf29mT-8EaXyfdSaLvPd3vvqIv2vuZ9iDHvkk1kluHLdlWVzn_H_-Bto71F5msePbZEkc1-BmNnFievruff6s3b-gH8gJ8RnHjwcaqf4gmT6J4AT4E7f4OsZGReXZj7FtQ0igAxGl0ISsMhG2re72n8ZLfYOQiKl2HYmQ6vLs6BIMkbLN3hDwZ8L33OCb2Xkl_FbDvHAAD-yGchgK5jcmQrozC017axxXV9Xb0l5S-qjKwOH-xLS-XU72dWMmHLr7wVnsPMTwKLZt-bQRC9dY_BtDJNQry-eRuXVaku0pkysF-caZk0kK0nlPIb4cTIo8duxW-nehP6Rd5nRTEoWRIfGBMRgpNcl2OCFQXDKmd58Q",
+                "widthPx": 4800,
+                "heightPx": 3191,
+                "authorAttributions": [
+                    {
+                        "displayName": "Brant Dixon",
+                        "uri": "https://maps.google.com/maps/contrib/114370064514027766632",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgaP5QUEr6mxuznxkvJE8AthJ5DJhKLCS5bVbL30wRw-lT95PG=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3yO6RJw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3yO6RJw!2e10!4m2!3m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            },
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/photos/AXQCQNQVm_cLAeZG_u-ICt5UnIco0OZ0YdwcBctwkSUI4GJN1Up0Rjx9O2ctkmieXdOiKIcBop19y_KZVYgJPtUs-N3O6XmpreSCyWrh_F--EmtrbOTXxeU1utR-le4s7DRsHqzgxQ0qvIqKWmSi5bq-hyGwPegT4kTrZGpwOaXCXfA3P6uvMEmQEGxW8vSRtU7IYrK6IxPXLsnYD0OC2y8apOtazF5kYc6giHs45o4P4NkmByNdY2bTl-nZJnHdn9Tp7BD9pXuL4bfx6_uXd8rIJN5_plFKdpi04ZM5FVZgY-LDY7GfMylwNpIk0AqNbo-4kuj9KH51YlkyLeHv_ZURkzgL0iYTT4dMGtpBS9cZkMigj2vGniBLvZFUX1z_OBBIMdy3i1dvfPnC_UUJP57aIw8n0_S05PkrIC9cHkf3G6ZaZtnk",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Jo",
+                        "uri": "https://maps.google.com/maps/contrib/115370895624212655611",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUd2aUWrVstCZLUC_1RJp0TPh_a32UNj_9ist7PLCvFs__vP1vv=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRtsz2sQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRtsz2sQE!2e10!4m2!3m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            },
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/photos/AXQCQNTrkEOxd576PgA5xDW98XDZaNqzmVX2PPKlf-RbKSpNHIZCkJBIBZr0sqC5U9PKQIu-qvlqYq8YNbsXiQJ1M25ss-3vUT0Xoc7xytjIs31bn23F1FYnvMUKT6856FnSnLjWNyFR99bN4qUDXx0dpJqBvhVTIFHWAWc2AEJXab6ekS9zIm_jo9NpRRpCixZMAidRikUPJ7lts0ALYKJyqwd-_cQvKzG_rquMBwySgHZt_aEDAGD7QJwwCxpV7tSSGcjUd0pgjd5BE_TJWJNS7sZ9m_jFjsoOrk7Ye5NF8WyG2Ci9O7GtNeON8pMBvcbfcMO5j7E_-2f8Jv44_HOhf5xgYsD3mWSlSCfvsivUerdwzZ-8BGZAdFq8RZjsbxtYBJqxdVcAPvb_7NklyZMmNpFB0OFQADXx1wh_MjkgEdrLLQ",
+                "widthPx": 3000,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Gina \u201cGya\u201d Badea",
+                        "uri": "https://maps.google.com/maps/contrib/107534917211705359687",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXob0Jg6CCWwnrW1paBqd_yFxhRQc9oHUubJMzdwLkhDAxbnszWw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-tuXNZw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-tuXNZw!2e10!4m2!3m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            },
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/photos/AXQCQNSWWYwPyQeU7YQrpRYmcLrBQMjXgm5RLrJbbou9bKQlgqBkO0tSfXEwpuO6qoRzgzsr8zCjN2NKu6ubD0s_Nzv7_FooTq6upWX2msraiHYs6U83WzZKLcKKkfjmDOpn-8xJLJz4m2yr2DYwHpgxWT8KbzFuOfnsyl-_GOkL00W1yXdDh6KQWFxFWhbWeIxqq00TYqeB_MU72p6nSJ-LAJETpGGxX3KOahcBA_h8ziK79K7-13hgzdu_DoKCsxCwJiewcH3RrI85TJyRPyfSpGoxlhg7E0QjfoVsS4PjLH4ekV0jWNRqr9D16K1ovrjHwrpXqMmTghBEnlMq9ArgD50OsR1Wy-2hrQcNoFQHTSVmwU-AFf_dvwqGgL1Hc680HNIFBvqjSkHORDWN-7SRy3wFOSChMUTOlOiKHsEkXGLos9Ct",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Michelle Telkes",
+                        "uri": "https://maps.google.com/maps/contrib/107543720395099862463",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXM1zSLftZaAA4HfC9Olr2UVi-tZms1c_OeDAwgb2ZJdTAEnPp3gw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx6ZTziAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx6ZTziAE!2e10!4m2!3m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            },
+            {
+                "name": "places/ChIJSeco5wiJGGARItbTS8lQ5G0/photos/AXQCQNSer9iKtsk2O0q44eG9Xw32zEyDW1irgjrpSKWl2kT9SuqWxTxK1w8wQEoOvvsl-IZ9uzF6x4dsztuc2Sy6WrT1zq6FI-xMnXwFUWAqfzyGlXvIzgWbszC-Vs3Wy-DRSVUnpElh-SwPbYhRS9B_OPfCWUTiPuZtHPGJ6H7iDhEj7plXH70FyvBsN58TtNLGv-sdB3Sz375v976i0qqd1ghlmdjqE8QjIUh_gCxnSUdKaywll0veP3JNYz4XYbgOKSwKPQeLEtpdYHn-f7AXdQ_IpupFkaz-J4syl9uyouO8Vnz708NPt-osip72oqSJotwUTKgAAwEnsI-2oitEkayTT2BbJ3aONyJQWtN5v46PzxPvcz164jZCmfSkUFUnpKImlhJSacQaIj8Yv8WzNWtPGPV-CAL0pA3WCgeT0GwDNVgP",
+                "widthPx": 4000,
+                "heightPx": 2000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Yukari",
+                        "uri": "https://maps.google.com/maps/contrib/102473572205050579786",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJuBG2KhUf2jmb5W6XzxKrHfuDiJ-qwtYJOksqBIkfHqusTfA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICO6uPnngE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICO6uPnngE!2e10!4m2!3m1!1s0x60188908e728e749:0x6de450c94bd3d622"
+            }
+        ],
+        "goodForChildren": true,
+        "restroom": true,
+        "parkingOptions": {
+            "freeParkingLot": false,
+            "paidParkingLot": false,
+            "freeStreetParking": false,
+            "paidStreetParking": false,
+            "freeGarageParking": false,
+            "paidGarageParking": false
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": false,
+            "wheelchairAccessibleEntrance": true,
+            "wheelchairAccessibleRestroom": true,
+            "wheelchairAccessibleSeating": false
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJtTOYbZeJGGARdf8WMX18pBM",
+                    "placeId": "ChIJtTOYbZeJGGARdf8WMX18pBM",
+                    "displayName": {
+                        "text": "Shin-Toyosu Sta.",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "train_station",
+                        "transit_station"
+                    ],
+                    "spatialRelationship": "DOWN_THE_ROAD",
+                    "straightLineDistanceMeters": 14.864024,
+                    "travelDistanceMeters": 70.34398
+                },
+                {
+                    "name": "places/ChIJjx9w6JmJGGARjt3ZWtUBfGE",
+                    "placeId": "ChIJjx9w6JmJGGARjt3ZWtUBfGE",
+                    "displayName": {
+                        "text": "Toyosu PIT",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 175.06175,
+                    "travelDistanceMeters": 271.36273
+                },
+                {
+                    "name": "places/ChIJ86jBTZeJGGARtZ_IQhl9lPQ",
+                    "placeId": "ChIJ86jBTZeJGGARtZ_IQhl9lPQ",
+                    "displayName": {
+                        "text": "Shin-Toyosu Sta.",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 153.34836,
+                    "travelDistanceMeters": 198.80832
+                },
+                {
+                    "name": "places/ChIJAQAAALfsGGARsXB2qVP35GA",
+                    "placeId": "ChIJAQAAALfsGGARsXB2qVP35GA",
+                    "displayName": {
+                        "text": "Shibaura Institute of Technology Junior and Senior High School",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "school",
+                        "secondary_school"
+                    ],
+                    "straightLineDistanceMeters": 147.78487,
+                    "travelDistanceMeters": 171.42975
+                },
+                {
+                    "name": "places/ChIJVVVVqpeJGGAR4lMDViH_yig",
+                    "placeId": "ChIJVVVVqpeJGGAR4lMDViH_yig",
+                    "displayName": {
+                        "text": "TEPCO Toyosu Building",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 137.99072,
+                    "travelDistanceMeters": 210.80968
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJ0TNjl5mJGGARtmlf04ula78",
+                    "placeId": "ChIJ0TNjl5mJGGARtmlf04ula78",
+                    "displayName": {
+                        "text": "1",
+                        "languageCode": "en"
+                    },
+                    "containment": "OUTSKIRTS"
+                },
+                {
+                    "name": "places/ChIJHWnNXZCJGGARnXzT915uCKQ",
+                    "placeId": "ChIJHWnNXZCJGGARnXzT915uCKQ",
+                    "displayName": {
+                        "text": "6 Chome",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                },
+                {
+                    "name": "places/ChIJSZl7FZmJGGARJj0lZmezEbs",
+                    "placeId": "ChIJSZl7FZmJGGARJj0lZmezEbs",
+                    "displayName": {
+                        "text": "Toyosu",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x60188908e728e749:0x6de450c94bd3d622!3e0",
+            "placeUri": "https://maps.google.com/?cid=7918542870314997282",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x60188908e728e749:0x6de450c94bd3d622!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x60188908e728e749:0x6de450c94bd3d622!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x60188908e728e749:0x6de450c94bd3d622!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Tokyo"
+        },
+        "postalAddress": {
+            "regionCode": "JP",
+            "languageCode": "en-US",
+            "postalCode": "135-0061",
+            "administrativeArea": "Tokyo",
+            "addressLines": [
+                "6 Chome-1-16 Toyosu",
+                "Koto City"
+            ]
+        }
+    },
+    "description": "teamLab Planets TOKYO: A Sensory Journey Through Immersive Art\n\nStep into teamLab Planets TOKYO, a world-renowned museum and garden experience unlike any other, and prepare for a sensory odyssey that transcends the boundaries of traditional art.  Located in the vibrant Toyosu district of Tokyo (easily accessible from Shin-Toyosu, Toyosu, or Shijoumae stations), this GUINNESS WORLD RECORDS\u2122 title-holder as the most visited museum (single art group) in the world, promises an unforgettable journey.\n\nThe experience unfolds across expansive, interconnected spaces.  Imagine wading through shallow pools of crystal-clear water, the cool liquid caressing your feet as you become enveloped by breathtaking, ever-shifting digital installations.  These aren't mere projections; they are immersive, interactive environments that respond to your presence, creating a dynamic interplay between art and the viewer.  Flowers bloom and ripple around you in a fantastical garden, their vibrant colours seemingly infused with life, while other installations transport you to ethereal underwater worlds or sprawling, fantastical forests.\n\nThe four large-scale artwork spaces offer a diverse range of experiences.  One moment, you might be lost in a mesmerizing kaleidoscope of light and colour, the next, exploring a"
+}

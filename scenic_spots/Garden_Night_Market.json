@@ -1,0 +1,780 @@
+{
+    "name": "Garden Night Market",
+    "tripadvisor": {
+        "location_id": "1574303",
+        "name": "Garden Night Market",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13806773-d1574303-Reviews-Garden_Night_Market-North_District_Tainan.html?m=66827",
+        "address_obj": {
+            "street1": "No. 533, Section 3, Hai'an Rd",
+            "street2": "",
+            "city": "North District",
+            "country": "Taiwan",
+            "postalcode": "704",
+            "address_string": "No. 533, Section 3, Hai'an Rd, North District, Tainan 704 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "North District",
+                "location_id": "13806773"
+            },
+            {
+                "level": "Municipality",
+                "name": "Tainan",
+                "location_id": "293912"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "23.010775",
+        "longitude": "120.19984",
+        "timezone": "Asia/Taipei",
+        "email": "gardennightmarket@gmail.com",
+        "phone": "+886 6 358 2881",
+        "website": "https://www.facebook.com/TainanGNM/",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13806773-d1574303-Garden_Night_Market-North_District_Tainan.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13806773",
+            "ranking_string": "#1 of 24 things to do in North District",
+            "geo_location_name": "North District",
+            "ranking_out_of": "24",
+            "ranking": "1"
+        },
+        "rating": "4.0",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "441",
+        "review_rating_count": {
+            "1": "6",
+            "2": "12",
+            "3": "84",
+            "4": "199",
+            "5": "140"
+        },
+        "photo_count": "458",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13806773-d1574303-m66827-Reviews-Garden_Night_Market-North_District_Tainan.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "1700"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "0000"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "1700"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "0000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: Closed",
+                "Thursday: 17:00 - 00:00",
+                "Friday: Closed",
+                "Saturday: 17:00 - 00:00",
+                "Sunday: 17:00 - 00:00"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "shopping",
+                "localized_name": "Shopping"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Shopping",
+                "localized_name": "Shopping",
+                "categories": [
+                    {
+                        "name": "Flea & Street Markets",
+                        "localized_name": "Flea & Street Markets"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [
+            {
+                "location_id": "12243217",
+                "name": "West Central District/ North District"
+            }
+        ],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "11"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "88"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "48"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "79"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "114"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI",
+        "id": "ChIJx7B27Vl2bjQRXNQQFasKOKI",
+        "types": [
+            "tourist_attraction",
+            "market",
+            "point_of_interest",
+            "establishment"
+        ],
+        "formattedAddress": "No. 533\u865f, Section 3, Hai'an Rd, North District, Tainan City, Taiwan 704",
+        "addressComponents": [
+            {
+                "longText": "533\u865f",
+                "shortText": "533\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 3, Hai'an Road",
+                "shortText": "Section 3, Hai'an Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u6210\u5fb7\u91cc",
+                "shortText": "\u6210\u5fb7\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "North District",
+                "shortText": "North District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Tainan City",
+                "shortText": "Tainan City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "704",
+                "shortText": "704",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QM22662+C4",
+            "compoundCode": "2662+C4 Taiwan, \u53f0\u5357\u5e02\u5317\u5340\u6210\u5fb7\u91cc"
+        },
+        "location": {
+            "latitude": 23.0110967,
+            "longitude": 120.20032030000002
+        },
+        "viewport": {
+            "low": {
+                "latitude": 23.0091994697085,
+                "longitude": 120.19827631970853
+            },
+            "high": {
+                "latitude": 23.0118974302915,
+                "longitude": 120.2009742802915
+            }
+        },
+        "rating": 4.3,
+        "googleMapsUri": "https://maps.google.com/?cid=11689104562749232220",
+        "websiteUri": "https://www.facebook.com/TainanGNM",
+        "regularOpeningHours": {
+            "openNow": false,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 17,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 0,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 0,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 0,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: Closed",
+                "Thursday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+                "Friday: Closed",
+                "Saturday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+                "Sunday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+            ],
+            "nextOpenTime": "2025-05-15T09:00:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 533\u865f, Section 3, Hai&#39;an Rd, \u6210\u5fb7\u91cc</span> <span class=\"locality\">North District</span>, <span class=\"region\">Tainan City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">704</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 47241,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "iconBackgroundColor": "#4B96F3",
+        "displayName": {
+            "text": "Tainan Garden Night Market",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Market",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": false,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 0,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 0,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 0,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: Closed",
+                "Thursday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+                "Friday: Closed",
+                "Saturday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+                "Sunday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+            ],
+            "nextOpenTime": "2025-05-15T09:00:00Z"
+        },
+        "primaryType": "market",
+        "shortFormattedAddress": "No. 533\u865f, Section 3, Hai'an Rd",
+        "editorialSummary": {
+            "text": "Nighttime open-air market offering a variety of food vendors & game stalls with pinball & darts.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZM3MyMnRRRRAB",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "This was such a big local market with tons of food stalls\u2014so many delicious local eats everywhere you look! I had so much fun walking around and tasting different dishes. It\u2019s a bit of a shame that most of the stalls are focused on takeaway rather than dine-in, but still totally worth it. My favorite was a spicy salad stall that had this amazing boiled chicken dish\u2014I\u2019m not exactly sure what it\u2019s called, but it was absolutely delicious and totally hit the spot!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "This was such a big local market with tons of food stalls\u2014so many delicious local eats everywhere you look! I had so much fun walking around and tasting different dishes. It\u2019s a bit of a shame that most of the stalls are focused on takeaway rather than dine-in, but still totally worth it. My favorite was a spicy salad stall that had this amazing boiled chicken dish\u2014I\u2019m not exactly sure what it\u2019s called, but it was absolutely delicious and totally hit the spot!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Berry doww",
+                    "uri": "https://www.google.com/maps/contrib/108275764725063940916/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9-ZTvTuPsscda45J3uAaBwRUnpMLrRkW41xBgtkb6cPMTfmfdNg=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-05-04T14:43:05.857595Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZM3MyMnRRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZM3MyMnRRRRAB!2m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            },
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/reviews/ChZDSUhNMG9nS0VJQ0FnTURndkk2LWRREAE",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "Its the biggest night market we had visited in Taiwan so far. Plenty of food stalls. Many offering dinning facilities. Its crowded and car park was packed. Lucky we didn't opt to drive here. There are many old established stalls here. Foods were good especially the smelly tofu. We visited during the winter months hence walking inside the crowd was sweatless..",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Its the biggest night market we had visited in Taiwan so far. Plenty of food stalls. Many offering dinning facilities. Its crowded and car park was packed. Lucky we didn't opt to drive here. There are many old established stalls here. Foods were good especially the smelly tofu. We visited during the winter months hence walking inside the crowd was sweatless..",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Hao Tan",
+                    "uri": "https://www.google.com/maps/contrib/117487638688399238932/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOJylh8Btd8impqdRRmHSYqWxG2DDbax1spOHCicJRhCoIbVAshA=s128-c0x00000000-cc-rp-mo-ba7"
+                },
+                "publishTime": "2025-02-23T08:33:33.317127Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURndkk2LWRREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURndkk2LWRREAE!2m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            },
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNROFlqN1V3EAE",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Chanced upon this night market while in Tainan. So clean and while organized (comparing to Taipei). The options are endless (but be prepared to double up on certain stalls). It was convenient that some places allow you to use LinePay in case you\u2019re short on cash.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Chanced upon this night market while in Tainan. So clean and while organized (comparing to Taipei). The options are endless (but be prepared to double up on certain stalls). It was convenient that some places allow you to use LinePay in case you\u2019re short on cash.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Theresa Ting",
+                    "uri": "https://www.google.com/maps/contrib/111958741710690831182/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3lYm9Q6eJ90P0HKqu2eawp2aRRW-o3ccB0AkqiwwJmmZFSQM=s128-c0x00000000-cc-rp-mo-ba2"
+                },
+                "publishTime": "2025-03-05T06:45:05.645792Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNROFlqN1V3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNROFlqN1V3EAE!2m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            },
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZMXQ2WjR3RRAB",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "Night market in Tainan.\nEvery Thursday,  Saturday and Sunday only.\nCrowded and packed.\nThe different with Taipei they gave all the flag each stall.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Night market in Tainan.\nEvery Thursday,  Saturday and Sunday only.\nCrowded and packed.\nThe different with Taipei they gave all the flag each stall.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "ChunWei-CW Li",
+                    "uri": "https://www.google.com/maps/contrib/110528148229170189484/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcQWIdxbte5EK9r1BxSkfzXXtmnpZ3TZTlMNLhuqyS8WTBI0wK=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-05-04T04:40:47.931659Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZMXQ2WjR3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZMXQ2WjR3RRAB!2m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            },
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/reviews/ChdDSUhNMG9nS0VJQ0FnSURmb3B6NGxnRRAB",
+                "relativePublishTimeDescription": "4 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Among the biggest night markets I've visited. I can see the place is separated into two sections, food and the other of clothing, games and accessories. Indeed, there are too many food stalls for one to stomach in a single night. I also noticed some same stalls from Da Dong Night Market (\u5927\u6771\u591c\u5e02) were here too.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Among the biggest night markets I've visited. I can see the place is separated into two sections, food and the other of clothing, games and accessories. Indeed, there are too many food stalls for one to stomach in a single night. I also noticed some same stalls from Da Dong Night Market (\u5927\u6771\u591c\u5e02) were here too.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Tan Theam Huat",
+                    "uri": "https://www.google.com/maps/contrib/112323134839303416655/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWg2mYtfFfy-e9rO3l1IJBGKCGRPOSkrrKKp0vBP245-DPZHFmI=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-01-05T01:19:45.274075Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmb3B6NGxnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmb3B6NGxnRRAB!2m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/photos/AXQCQNQ2jqiqT9Br0BeREoTq_iqWubcNGhQqTeAZkJgyY6lp7ccLsuYdwJy-RCLorx07I6QSKLiERvW7dLhHv5vObmTsXOLceZc-zca3boLUpr4Z1pZ4WmD98kupwuix9GNsNKEGbLt_mbG23CfTsTfQVNLGosrW5swnGvp_pWrYSczIGnGdTxBtd64sH4Ft9yp-GORK4VbHOXiKbHqUPik3kvHGvGCwElqlOC_MowWGqCy1rMwdvtpOahx1JGzCJ06vS0cLwBgRMTmNXs-haePzPxCLg_iURIWjR_iuslG8Q_lkX28iaXJENSRih0W0RxlZIOKXpcJK9EKzhSV4U9jkfKSaU8ZYhbsE0otybNX9BDUnbzkYynLELXvlHnRQmw0esVDxRjgxD61bqHuAECI6WIoWqZTvMx4fRstfiADJlRo",
+                "widthPx": 3264,
+                "heightPx": 1840,
+                "authorAttributions": [
+                    {
+                        "displayName": "Shin T",
+                        "uri": "https://maps.google.com/maps/contrib/109813715492886318122",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLtb31UZIcxa1wmJQDYcdBs1YnwbNX5EuO0qT-37IfZ_V5rAXo=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDchZKtIw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDchZKtIw!2e10!4m2!3m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            },
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/photos/AXQCQNSaJfMiIpKckQSQwR2EDFrdZDKsmBxCYMUA7He0jT0x-_R_mqacpZstm8YbSirkm5A6vxbTx8sK8zGC1Xms0xfWdv2mL3LA8pwoe_a6qLtZTNTUOL4IzYcDimPeJ6UUc3lXqHcq5A9Zu-Rf0K0GZxffwrznGtqWJ8YbiWY1ukzjHhnalZV0ni19wUsPePwxVjrv81KVmHPG60sIePxqNy8zZjopDXoDjv90tHjFUNXu1tqZ6hMdZpih6yZqnCX5F7UUf4MNP4MJapjkRv7vWNQWyX1kadwFwdDfzXRZgc0ac2Q1OiHbTvkfd0TH2xvfIVdCUMibzFelxk55gfLuaudgJaFxRcnIin5jL7wWGaxX7LN6_eZAYhWa4Y5B-ia871KL33ud5jyJYwX-BWx4UHJQ51FixGLwPpIIarbLBKuM3A",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u963f\u6bdb\u9f8d",
+                        "uri": "https://maps.google.com/maps/contrib/102296352245345037562",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwE7OWdAyQfFgk7PkT_XhvaKuqcDgfHgdBVpVZ3nw_IiZAwETK=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICG1Mi7Sw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICG1Mi7Sw!2e10!4m2!3m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            },
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/photos/AXQCQNSSAgLrS6bsYipJUWc2Afzn2qgZgFYvqIw6w6hane2WP5VT5jDQPcrcnCJnwemsbAKLC2XBBvuvwIo6O-MA_2T-IHkLqoEy_Y1ANXxUJqnjmkAo1EkF6NuTjnuf74hx5Aws1MfPfcaSkXqlCf2dDZn-P1tZ9tswbdkMDLUMUoHIWmfC_mDS-zcu2kc2LOiS9uTVDEYsw32iIvnZ_ZBpNH36HSw6ZV8nCOnIr7R0E0_1ogSdE1Q2AIOKWNRn-dXD-Cai1dFY_tUFgpKm-R-WWLaRKO1jI4HY8uPknUc1ro4KvAYQUaHKWJ6jrBZLyucHP5ip_tMSo2fzDwOuLtYTU-EI0s8XAbEi5L5RDF4pjLFx4Pt0tbjHpHNE3A_wFcurrnbZ5YhmlutjSnzIFak48EZd2os0KImVwnQsga73o2eTJA",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Sandy",
+                        "uri": "https://maps.google.com/maps/contrib/105335873391559356490",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXREEfsNO5kiMBn2CyCXmr5OIuwErBAaUT1iM26v9y46b9sEI5=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhha-pcg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhha-pcg!2e10!4m2!3m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            },
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/photos/AXQCQNRenO7zI_WNmhG7Q3evhIQRJBASCmgimjIsttpDTpAtA430RGqEObTSZIhubZUrQ4k4ctU-_MnE_AicWbfG596-BozSKFZLEh0JoM2cdUMJ2XXliDvJIqngVaARdyLnYFh7MSdh7jrNi42wG1Bvqj0bKgWjetrZ7A4mtx5lO4zEIfSnEd5FKs4RJX9v3VvQ8d2V0PllZHYQh0eI1tvwSPRq0RhQ2K-DThXG6UJedVUfvBW_46RBZl04QfRlQekzdhFTOVOi_5klIWIs7bxEHwXejdH5waxqXZf_-kRPoPGpOkje5qP5YUGeTLSP8X0BoW-3eQMQUIoQZftGLIrvQ1C7j5Ye_VD4Ov8TmRpck_kscbb1jIlk8_Ltcgldd8ptdHfKaRsvcOtA_-OsPClaQYFj_T8mbpuX9LIAgi4TZr0Jcg",
+                "widthPx": 4032,
+                "heightPx": 2268,
+                "authorAttributions": [
+                    {
+                        "displayName": "Alice W",
+                        "uri": "https://maps.google.com/maps/contrib/118196418364741777989",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUe3esHahUBOQ1w1wwBJRFHfemLH2dO3O30cE44FLkOfP2WeHntLQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLutCtNw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLutCtNw!2e10!4m2!3m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            },
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/photos/AXQCQNS7kfsBFz08TVZQmzYNR0BrYQ3UlWCVf61_lSERFuOsMI0oyZgIW84hPkteS3bWvNqscKE7D_PZ5d1kuVNdycBrzV4dYspCTsk6Tr7pdKQdv7GnAlgSIiAzEGPXHESYo1mpTBp-82yhuWi9WNN6Wc8GyDch_se7HcO5B3UD-0jpF-aFkhdPJCEAKxmfr5YTxOTfcoY0qanauWw4iOi_0Bh9WC8d0Wni8HNm5YzZUF4_PqpeEPx3GZlMysuj5xhdYbvo3CytkR8fBg0KsN0fx0Rg-Gib5R22zKmGNMOtZeCzf-HA4SFKLE2m-eE3WrYCLWufZFcA4dpHFGk1Pd89gqJOjK1_W4OBUm0t6d_h8UXATc0T36V7EotAuOL33qAxgHWFGUap9Gh4YB8cmBjyojUBnGD9xq_yisqw_I4JGBFtBbY",
+                "widthPx": 4032,
+                "heightPx": 2268,
+                "authorAttributions": [
+                    {
+                        "displayName": "Veegee C",
+                        "uri": "https://maps.google.com/maps/contrib/113755383603055618823",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVA0m-ZqS9BGMj6W-hvW8LYyPZd1vqeOxXvt7Hj7Ddz2psQcg12Hg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3rNaB3AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3rNaB3AE!2e10!4m2!3m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            },
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/photos/AXQCQNQdN3sqElLlCBfpHsQ73T5OWAUQcYp_u0H4S18fgEerPBaYIt2qVmq_Ch9tl59PpSGqjtApkIAvIlHuBBvsOojPf5Itf0HBJyB2fO09pmPUTUDDXndPSOKVM_k9V6Y01uLMVwzjggoqoE2Smeb8OsN_ITOITIDK0INJ7qv7TLQNtcByU2SYq_6LYFiq2VE-YKDq3x93J8VyspTZq72r7R5iCk7EKZ7NK_3mGzza43K80gxGQdsU4-wan044sm05mUy0PvmPHcDekonV18XEvTP4Xjbb1_sDiKyLo0fdefaqQ_UbwIlGbD8sdyuWCBG3rIZLT6CXxg2rFr_HY8LRDf0bR8_X3Zsjw7LYl6GI_99ZNvjfLtwqb3mR33ox_SHZJJ4TCq-ESNa3GKTo2dnr8eNfY_lcbQNAEiLfmzW1y8mh_g",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "mitsumasa ohmuro",
+                        "uri": "https://maps.google.com/maps/contrib/100104150117043814624",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJwhMj1NTAzWP5RosHnfupkLSi47Ql8QTB-VetI88QV2837FA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC45ZCzEg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC45ZCzEg!2e10!4m2!3m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            },
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/photos/AXQCQNQXLAbOUJqt2S7ooSZm2dMCzvowapMwyw5NHCqTEXXbKjcZU_i_ZEpLrpFh9vJMm-aIcWnuTjsl0tWx8ct_1CZ9CpcaZeFpW-NoAyc3XzT4K2nPd9dQfckxDbUmTTvQ90PZu2h-NHq9WtfVmss_baYuVEvJ_dD4UmjYeuTDlBmie7aIk6Timg-msBjuF8gIXp4d2uRm_s7_VZzRBdl2S2DZCWhgTF5gYVk2QZbD69T2o6pweHh0AI2kKrM47prWv02wxZifAzt4AhXkvm_e8tmSK8xFQlrh7U6xQoq_8LRe_KYyXhkneUAE9jiVtZEwuxoQ56TF2R5v82VVlnL8_C7k7lImHFubMy0jJqb9UiV9UR6LOUSDzA3ee0XQYyuLfgYr9zsgMGXQQTRnBb1XF37EY1M81RUR8PcP9mNN0yo",
+                "widthPx": 1840,
+                "heightPx": 3264,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5927\u5730",
+                        "uri": "https://maps.google.com/maps/contrib/100690257969134604680",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLeM9hCImL2EvO90pFkAMDIIuhKaMlhYnSbDSp29uM60rG9ew=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC4pujLXA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4pujLXA!2e10!4m2!3m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            },
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/photos/AXQCQNS7KmJwjDvRJaNIu0JFvFwc_uJPnbBXZ0LX9em0jIPEJVApkNQacufOn6Ls--R4d5w6jPbX4D96WKRpTibhBPPUeSQnIF8Wgqd4SoFwrAdblEusv2agM-CCOzrfWW1yVM_N18COMQBRbmaIrviTOOVb2c_1SGLT-BesTcclbnESvs5X7WD5Vicvum43968mAbSGfWNOzs_LMBUQvyI3DFAVGKy6bED4goOjPT8zfBU9ziblnycFUJ7eJdf2WZDFn3genCR86NKyvHLBsK43KxS2_ZUdOWl5DNsNMYGC5JcsrYePRGgFjfcswWk5Ci6ne8rBTv15wA_ciL8Vb3PuozY3Df_upQ2yT29ivn_NvIsUEBGU2B03WP3KFkFUbzSzXdGcIVyG85pYqauc4tH1fe-H5jb_xkJe65lFn3y5c-e_cVkV",
+                "widthPx": 4419,
+                "heightPx": 3621,
+                "authorAttributions": [
+                    {
+                        "displayName": "Rei Lin",
+                        "uri": "https://maps.google.com/maps/contrib/116010625520303753565",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeNKaHgwvUjd2quKvls_cDm8Lyn1Mx83tgiZcqUx-cixUsLxZqAw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICMkJSEyAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMkJSEyAE!2e10!4m2!3m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            },
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/photos/AXQCQNTeW98ITQf9DG_O9yRuSzpjs8CEf7hMRXaY7jcqGjrGVljh8nugIEA0U_1DWtvRAU4F-V0jaXm-2A_fKgbAVJYqLl186j2VRDxdjSIcuiiO5VydgYl8TJO3LTJouMHLbmfPES1Z-xMkjrqyzhBiPNMIVYbXsaGTiPnQFx_RgOV9_oXVX709c8m_1OaeXg__3sizF9ZAHJQGUdy7g970kXj7mIG15-vLPIamXOoxhzt-MZVzul0u2nh1ZPj_0B8ul1ZbMgyTesLvZDuovENS_eFsWRrf3VbpNt6flAs_eNMg7onj87AIwce_4XH5MGyyrOozIE07fMsrXN6PJd2qW0t1loXynbDSw3HI86UTcvpfv9AqRaBA_Nd4XJK_wkWJGjyTri8ZJAGNorLyUxIXa6qkbNTgG2W8PHUbEYDuwAewIA",
+                "widthPx": 960,
+                "heightPx": 720,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9ec3\u8ecd\u9d3b",
+                        "uri": "https://maps.google.com/maps/contrib/106932008573234111229",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJh2TAcX6K7B3tqND-lypBkzNAKQa8c5RQYTtVvt3BG3xAD0Q=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkzryXWw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkzryXWw!2e10!4m2!3m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            },
+            {
+                "name": "places/ChIJx7B27Vl2bjQRXNQQFasKOKI/photos/AXQCQNT4gTqr8y2Jz9qwn35TBpRyInwHwU0U7U9iIKFzWVi9DN3hC8UYnHf172Z7uZVzEWDpqsYq6Spr1yjacCxdwhIMbJI4WfNRUqaJDY95OTf8umm0o2WY-le_zNzOj5niCFAc_04zIxdyHtkaz-scOv2WcJXhrHJoB7GWjVSW7CYrhdFFsA2ewce7DwG3UROT0_1aCvLHEWVhKXyafIUc-yUizc3-flmwfEZTnPTMA9wEXlbnkNyXamjuJU8WwjPndVCizJLOFv2tp2jP5uJJAwsdo4FHwL4I8B0pR43WSUc7frBYglWYRpMjDSh7cffurIyzDHocnWE_EtnjuQdwlNlo5P_-MzcYLoxcrlYdrN-4wUph9rREy6fQJ9QElBAXDTg9Zzok_tb-tdZc9KVzqwAYejh9oZmGL4CTJCs6zL7v1g",
+                "widthPx": 3840,
+                "heightPx": 2160,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8a31\u667a\u7fd4",
+                        "uri": "https://maps.google.com/maps/contrib/109945393129324100199",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIsKX2WmGWFvFPgxftLD7UThrGAqYz7wjBjqxYVhCg-pewxzQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4rcfjXg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4rcfjXg!2e10!4m2!3m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c"
+            }
+        ],
+        "goodForChildren": true,
+        "restroom": true,
+        "parkingOptions": {
+            "freeParkingLot": true,
+            "paidParkingLot": true,
+            "paidStreetParking": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleEntrance": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJ651P4ll2bjQRyPB0duEGIyo",
+                    "placeId": "ChIJ651P4ll2bjQRyPB0duEGIyo",
+                    "displayName": {
+                        "text": "\u5168\u806f\u798f\u5229\u4e2d\u5fc3Pxmart \u53f0\u5357\u6d77\u5b89",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "grocery_or_supermarket",
+                        "point_of_interest",
+                        "store",
+                        "supermarket"
+                    ],
+                    "spatialRelationship": "DOWN_THE_ROAD",
+                    "straightLineDistanceMeters": 154.89085,
+                    "travelDistanceMeters": 178.3041
+                },
+                {
+                    "name": "places/ChIJkZtIRVl2bjQRp6oRer2pmBE",
+                    "placeId": "ChIJkZtIRVl2bjQRp6oRer2pmBE",
+                    "displayName": {
+                        "text": "Garden Night Market",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 320.20346,
+                    "travelDistanceMeters": 366.10858
+                },
+                {
+                    "name": "places/ChIJpynQgFl2bjQRBIBghIe9gAg",
+                    "placeId": "ChIJpynQgFl2bjQRBIBghIe9gAg",
+                    "displayName": {
+                        "text": "Two Shi Xiong Stewed Food",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 33.611324,
+                    "travelDistanceMeters": 54.884438
+                },
+                {
+                    "name": "places/ChIJO6_7U1l2bjQR0skE6DHpHn4",
+                    "placeId": "ChIJO6_7U1l2bjQR0skE6DHpHn4",
+                    "displayName": {
+                        "text": "Jia Hsin Garden House",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "lodging",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 366.61383,
+                    "travelDistanceMeters": 393.23477
+                },
+                {
+                    "name": "places/ChIJ5ac9i1l2bjQRRusxuYJ0-y0",
+                    "placeId": "ChIJ5ac9i1l2bjQRRusxuYJ0-y0",
+                    "displayName": {
+                        "text": "\u5c0f\u76ae\u7403\u516c\u4ed4\u7814\u7a76\u6240",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 96.63462,
+                    "travelDistanceMeters": 182.7197
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJx7B27Vl2bjQRHHJkSPsY7os",
+                    "placeId": "ChIJx7B27Vl2bjQRHHJkSPsY7os",
+                    "displayName": {
+                        "text": "Tainan Garden Night Market",
+                        "languageCode": "en"
+                    },
+                    "containment": "OUTSKIRTS"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x346e7659ed76b0c7:0xa2380aab1510d45c!3e0",
+            "placeUri": "https://maps.google.com/?cid=11689104562749232220",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e7659ed76b0c7:0xa2380aab1510d45c!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x346e7659ed76b0c7:0xa2380aab1510d45c!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e7659ed76b0c7:0xa2380aab1510d45c!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "704",
+            "administrativeArea": "Tainan City",
+            "locality": "North District",
+            "addressLines": [
+                "No. 533\u865f, Section 3, Hai'an Rd"
+            ]
+        }
+    },
+    "description": "The Garden Night Market, a vibrant hub of activity nestled in Tainan's North District (No. 533, Section 3, Hai'an Rd, 704 Taiwan), reigns supreme as the #1 attraction in the area according to TripAdvisor, boasting a well-deserved 4.0-star rating from over 441 reviews.  This isn't just any night market; it's a sensory explosion, a kaleidoscope of sights, sounds, and smells that encapsulates the heart of Taiwanese culture.  Open only on Thursdays, Saturdays, and Sundays from 5 PM to midnight, the best time to visit is during these hours, avoiding the potential crowds of peak season.\n\nImagine stepping into a bustling, open-air wonderland.  Rows upon rows of stalls stretch as far as the eye can see, each a miniature temple dedicated to a culinary delight or a playful game.  The air hangs thick with the intoxicating aroma of sizzling meats, sweet desserts, and exotic spices \u2013 a symphony of scents that dances on your senses.  From classic Taiwanese street food like stinky tofu (as praised in Google reviews) to more adventurous options, the variety is staggering, enough to satisfy even the most"
+}

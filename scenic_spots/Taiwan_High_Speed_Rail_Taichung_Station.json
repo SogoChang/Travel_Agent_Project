@@ -1,0 +1,580 @@
+{
+    "name": "Taiwan High Speed Rail Taichung Station",
+    "tripadvisor": {
+        "location_id": "1954937",
+        "name": "Taiwan High Speed Rail Taichung Station",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13808452-d1954937-Reviews-Taiwan_High_Speed_Rail_Taichung_Station-Wuri_Taichung.html?m=66827",
+        "address_obj": {
+            "street1": "No.8, Zhanqu 2 Rd., Wuri Dist.",
+            "street2": "",
+            "city": "Wuri",
+            "country": "Taiwan",
+            "postalcode": "414",
+            "address_string": "No.8, Zhanqu 2 Rd., Wuri Dist., Wuri, Taichung 414 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Wuri",
+                "location_id": "13808452"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taichung",
+                "location_id": "297910"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "24.111252",
+        "longitude": "120.615906",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 4 066 3000",
+        "website": "http://www.thsrc.com.tw",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13808452-d1954937-Taiwan_High_Speed_Rail_Taichung_Station-Wuri_Taichung.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13808452",
+            "ranking_string": "#1 of 17 things to do in Wuri",
+            "geo_location_name": "Wuri",
+            "ranking_out_of": "17",
+            "ranking": "1"
+        },
+        "rating": "4.4",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+        "num_reviews": "1646",
+        "review_rating_count": {
+            "1": "9",
+            "2": "9",
+            "3": "180",
+            "4": "630",
+            "5": "818"
+        },
+        "photo_count": "781",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13808452-d1954937-m66827-Reviews-Taiwan_High_Speed_Rail_Taichung_Station-Wuri_Taichung.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "transportation",
+                "localized_name": "Transportation"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Transportation",
+                "localized_name": "Transportation",
+                "categories": [
+                    {
+                        "name": "Mass Transportation Systems",
+                        "localized_name": "Mass Transportation Systems"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "323"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "251"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "297"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "302"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "256"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4",
+        "id": "ChIJyTCHAls_aTQRFHi81WnhUs4",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "formattedAddress": "Zhanqu 1st Rd, Wuri District, Taichung City, Taiwan 414",
+        "addressComponents": [
+            {
+                "longText": "Zhanqu 1st Road",
+                "shortText": "Zhanqu 1st Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u6e56\u65e5\u91cc",
+                "shortText": "\u6e56\u65e5\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Wuri District",
+                "shortText": "Wuri District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taichung City",
+                "shortText": "Taichung City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "414",
+                "shortText": "414",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QP24J78+6H",
+            "compoundCode": "4J78+6H Taiwan, \u53f0\u4e2d\u5e02\u70cf\u65e5\u5340\u6e56\u65e5\u91cc"
+        },
+        "location": {
+            "latitude": 24.1130107,
+            "longitude": 120.61641340000001
+        },
+        "viewport": {
+            "low": {
+                "latitude": 24.111664469708497,
+                "longitude": 120.61503011970849
+            },
+            "high": {
+                "latitude": 24.114362430291504,
+                "longitude": 120.61772808029147
+            }
+        },
+        "rating": 4.5,
+        "googleMapsUri": "https://maps.google.com/?cid=14867193164577142804",
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">Zhanqu 1st Rd, \u6e56\u65e5\u91cc</span> <span class=\"locality\">Wuri District</span>, <span class=\"region\">Taichung City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">414</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 1649,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Taiwan High Speed Rail Taichung Station",
+            "languageCode": "en"
+        },
+        "shortFormattedAddress": "Zhanqu 1st Rd",
+        "reviews": [
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/reviews/ChdDSUhNMG9nS0VJQ0FnTURROVB1ZHh3RRAB",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "A beautiful and very modern looking station. The infrastructure of the station for the high speed train is really good and new. Very good quality and easy to navigate through. A lot of traffic to get here with the car, but once inside its very easy station to use",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "A beautiful and very modern looking station. The infrastructure of the station for the high speed train is really good and new. Very good quality and easy to navigate through. A lot of traffic to get here with the car, but once inside its very easy station to use",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Javier Garcia",
+                    "uri": "https://www.google.com/maps/contrib/100899604038435027708/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVNJdgwL5miWHyiiPGoqo1dittftthUP9olMpacvJhL0313zAE=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-03-09T09:22:43.463211Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURROVB1ZHh3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURROVB1ZHh3RRAB!2m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            },
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/reviews/ChZDSUhNMG9nS0VJQ0FnTURnMXF6SWZBEAE",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Took a train from here. I was very excited about getting on the high speed this is the future of rail travel train. I have read so much about it at home.  Well, the tickets, if you do not get a seat pre booked , are a pain to change it back. You have to wait in line with everyone else's, so get a pre paid ticket. Train is spacious, on time, quiet, and efficient. Stations are clean and tidy. I enjoyed the trip thanks guys amd the driver.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Took a train from here. I was very excited about getting on the high speed this is the future of rail travel train. I have read so much about it at home.  Well, the tickets, if you do not get a seat pre booked , are a pain to change it back. You have to wait in line with everyone else's, so get a pre paid ticket. Train is spacious, on time, quiet, and efficient. Stations are clean and tidy. I enjoyed the trip thanks guys amd the driver.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Ian Griffin",
+                    "uri": "https://www.google.com/maps/contrib/108925247564283103176/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUY4Yhi644c_JtDPyQeleD0tdViUsaiyr51RVuk1TAeoIU0qIJF=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-02-24T14:27:59.736551Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnMXF6SWZBEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnMXF6SWZBEAE!2m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            },
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/reviews/ChZDSUhNMG9nS0VJQ0FnSURUOU1uRlBnEAE",
+                "relativePublishTimeDescription": "11 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "The high-speed train station has a clean and modern design. It's spacious, with plenty of seating available and efficient air-conditioning.\n\nThere are many convenience stores and coffee shops here, making it easy to grab a quick snack or drink.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The high-speed train station has a clean and modern design. It's spacious, with plenty of seating available and efficient air-conditioning.\n\nThere are many convenience stores and coffee shops here, making it easy to grab a quick snack or drink.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "KC",
+                    "uri": "https://www.google.com/maps/contrib/112860276091159424488/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtFmQ-L-BuE6kV_jGfQVI9V4qLMiFswrWGzB5cEGulGgLesk_wNA=s128-c0x00000000-cc-rp-mo-ba8"
+                },
+                "publishTime": "2024-05-23T01:58:32.003586Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUOU1uRlBnEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUOU1uRlBnEAE!2m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            },
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfbElPLUJBEAE",
+                "relativePublishTimeDescription": "4 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Clean and easy to move around. English translations under each text.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Clean and easy to move around. English translations under each text.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Insightful explorer",
+                    "uri": "https://www.google.com/maps/contrib/112966043694645503236/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUfrFAhz6BHHoe1_qz0jCct7DOVNFIpcsILx69cq460gG2Iuzy-=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-01-13T05:57:46.312483Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfbElPLUJBEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfbElPLUJBEAE!2m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            },
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3ek5DTDdnRRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 4,
+                "text": {
+                    "text": "Clean, spacious, but not enough seating.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Clean, spacious, but not enough seating.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Ulet Natalius",
+                    "uri": "https://www.google.com/maps/contrib/110777117296059445099/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkGq2IoUXSKKUAMCFEzs_jgXmMyIQISiAPPoNb1FP18vadYHB_=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-03-24T04:41:51.562388Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3ek5DTDdnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3ek5DTDdnRRAB!2m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/photos/AXQCQNQPX0PK9Oht9uvtx8zzPDpsqonEGRwbsUpCXmcnsUYc1159lLqvdC9BnGEVS80X5glBl04BZKeBbC1e8RJ1oARmAyHtTLjibB7qYnXbYHuma2Z9nxmDc19RDxWUnQJthFQinxm5YCpWKjwpF4wX1NsUF_PhEOhPU8KarhksN0jd0RkeL3nCvlWaSSpVL1OeKlHZC37Csq5N3VzihISGTAZ37XXX00jya9ag55NOeI2Dk2E9NLIauiIbAaNdap7IyLMmPzk49AVbgZXMInUr984Q-ncJudrXmXVia1ANwgwDMiRfwUHPI4sQWpd2arZfM4o4qQQCGz9D7gGx_MVwQGhSr0wOcgzauetYuIfNv7ZsNmwjba1iY6yR-jVgG1lqcIaOQ_3yDCYrdLnWANEw2p1pmLa-LfYff9rfLNYwdZOwEA",
+                "widthPx": 3970,
+                "heightPx": 2977,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u795e\u79d8\u5ba2",
+                        "uri": "https://maps.google.com/maps/contrib/116689782956899881155",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWE4IeiXozvxXDq9hrl0ZWYkTL1a1v-bAhkbumX3xs_--ezrgoc=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvt7_WMQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvt7_WMQ!2e10!4m2!3m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            },
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/photos/AXQCQNQsNNGD5LUIbnVbR9wf_ineItsOmWBSX4l8rvAY-24hAPCVQxCl0Wd_wamwAE4MYGrHVSDVftiNCPZGXthVfpWlXWJOI_z1vKJPfUJNmp5Qxz7o05IvTkSz6eqmu9XB3iA6C2AoWE7lodAJk1cpn85RY1vT6JzA2Cz9HEooLO3MOvkcP3lILEdCdlQSnF1rarrfyBr39H6rsozQzWyFnDm2Y8q_w09LKbsqQ0FlG_NPSVjD3u0RwDwwgho3zXuCYcpY7RKOXoHLZb6l8npx75iO4QQZlyC19I-G7U2DR8uIzbY_HgFfb37BhVQ0CitLHu0o5YU0ev4BWBO03x_dUTQe2PTWIdCpa23yZyAFYXN0fywU58JCUmYfDzlRWr6ViL_N9vYsUNspLfJfToJ9gAGh9_AcvlXD3B8wFdQxXFKCTw",
+                "widthPx": 3000,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Pete YS",
+                        "uri": "https://maps.google.com/maps/contrib/101009347540970833115",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmbVLWTnKo7YFFPBurErd6MrQ3HkSGIkFP1J9p_sNEwtLAUZcKwQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx05fxFw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx05fxFw!2e10!4m2!3m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            },
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/photos/AXQCQNSODcornZYCAm1ASh5WqnPQ_OgRTzWg0rvGNA7W5aIy5dT5PUegh5aM9j00gkeaWTzX917gqe3u-qpVCPutOIeDPzbylb01rWSLoUdLOU-YB5-1R9T4Xug7g2OJYIh4KPVjvw5nwPqe0PHwbLv7rNofMoWrJTrY91ta2TVpQ1jQJjccsRqLcmLoepgHmMwbjRFY9u-qRtCRiXt_Bd1f7RMFANS5EAYjvxIoWDMBAzEMeOmQMxUms38SXtLktla4pDpkGWIal7vhpskILG_FqItV_sjvtBzDBCQ0sywQYdkW9YlIfu4Hg_iaUMdrcRBwFCh-rDQaaZRrBajWDC3BGMMjPQQbeU47XyekqEdeQFLFN8hcp7ng3uV24RW4QqGlUFoXEMrSjg6UgmZUtg-aJ6wvQG6nRsO4a-gsn9UHZHkxschlLS-BA-T8PLt8dw",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "SK Y",
+                        "uri": "https://maps.google.com/maps/contrib/113219935668993820822",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_43VSbgJqtI3V40f1JrjzQpaT00rb9Rb2lMdDaZYHTiyZXtAxjw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbzaqChiQ-2fymc4ABqYc&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzaqChiQ-2fymc4ABqYc!2e10!4m2!3m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            },
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/photos/AXQCQNRQoX5f9Wq9ifrbsyhwVK3IS-9FO9T6k6_C_GSj-qtbYiEnGbUikuoSXGfwuYT0t3a0yCsn_cluQA0Q8iz1zqoT0kV4bZ-YDMYuP1JDMrkeEjSkyu-iNkn0ppJh-5PDvA-sUsT_kyfDuq3h9d1gBziQ0uKP7rgA0EA2_7o0R5IrFbcBAMu3fkNRk_TKeAoIMPcRgh3J8gqbCb9-ljQllAW5hCbO-UgOL-T_bFO9LYnzDcGgSxDQvGRbmN9KrutXBccIRvntP-LSlj5ZdLNiF8Ej6QHxee5f2gXlst8itRCdnmoUTwug9-nsRO8xHGngdfgqVZdL6ykHwCzMAsSjZHN_KaqQl2WBWQutvSWevpYwkGvKzR2hoEfdB-MLznBZGpJx--C1W7mwq_djlWmIAmS5zzRoVpZhdornOMNY8SlpMjE_",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9673\u6ce0\u5a9b",
+                        "uri": "https://maps.google.com/maps/contrib/109229743617967675289",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJb7ixJdI132Rw-rVKMxtUJdrJGZdYabsl_4XZRg3fd_oEQFaJv=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC70pe65AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC70pe65AE!2e10!4m2!3m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            },
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/photos/AXQCQNTOGHRtdZQP4E6DN8x2D2h0_ungd_fRgpN5Flz3_BCh-7Zcz1aADsygq_7UmWmosq7YSJ0C_imOrcrLNdEdHWwsfUK7zFKpfssx36pwbO5ryZdOYmVkONDwkudRB2pV7e_b6TtSrOSqJOfZcOLwfqB3JminYT-1KhXhtHcKzOCYhEdfJC348WOGE8L69sMtmJgl-fsoSjrgVJXy2Z19njI5x2NrsLn7FuP50DVlBtlLSCcT1ztBCdLRoVECY5mMpC6TS67Hd2vXacw_V5xjt__ynpKGHtsy2XhuVPOBVr9D2e9OfA8Gizu0MLg6ynxEzWMO1H4qoBwHu8-_jkR6nqJG1YbQirwxeZ9uuwNy5PF4NWla0xtgUVJIJO1_BnA9PyZBS8iM2a44quc1u8xxeM2h9KluV8ijxr5caWcLoOWPpkIrtOAO7vKmKhpAZsJw",
+                "widthPx": 4080,
+                "heightPx": 3072,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8cf4\u5112",
+                        "uri": "https://maps.google.com/maps/contrib/104915138924220160523",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwpng7BPwhXTZsHAU2J8yWvPt9KFFOnxJV5j1Kr8v87PsMdiPU3g=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3jU3PSXmXGe6oE0AA9A1&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3jU3PSXmXGe6oE0AA9A1!2e10!4m2!3m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            },
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/photos/AXQCQNQUf9JfLSF7HQseABjKGsY1xlQCI9pMe5FVbMXmpJKGn6Xm61sab6quberpxD6PIEqSaMyyne8BezwW-AXiqBYV21e_vfCJ3la9F6hPSQeEcOLWtZv_mVAR-5G73h3d-JPd_YvPPMamo5fu9dAgKCni-rybeBT_zZd-v_sSj7JKtF1LXkG-H5bAyb6m9FE64wHfZ7bNLQD3PyP7_T1nxEcDkDueyImvx77ub7-cHAB8-gwLGSAhkm6v8mVVYt7dngNWYEwTnfRfafRRWkn4ZRKer7u1mh5pGy_Zcp-1K0NZlWFXSDOxSm7knXQg5m5YMLdRNH_zvQSAupGwM_mtF_vY73sAnUklCPg3uSd0BI1MqTnYSRJNUelwsaKw428CyXpyvJaxHvGdTGVFzZ0fvGGbjaZmsABmdx8b6MuhS-IUs86zAUxvbTEwxKZYcqai",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "SK Y",
+                        "uri": "https://maps.google.com/maps/contrib/113219935668993820822",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_43VSbgJqtI3V40f1JrjzQpaT00rb9Rb2lMdDaZYHTiyZXtAxjw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3jqztBVpF2ezP9QACKbo&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3jqztBVpF2ezP9QACKbo!2e10!4m2!3m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            },
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/photos/AXQCQNTsaydBmkhI8zK-1VVpylbg12k8CdIEFySIjb6aXot0Q5CASWoXyncgsav8a7WD1IxU-v6VOhh6O7SjD4uz4_mZIX1ST3mdZ5uZElP_vgHkcKKEK8WWKd2pfLMcVDnGQpbcJZrbuLPrD4YsnF-NmBY18TxSvD46kQ0SF_hXr0mrhgA-c1LbYeSK9T9q0Nx81WVAi_20qDLCz9M3ISFwYNwhig7_bTN1h1gB4MNw1a1oI-U9ZCiUTIGU6SJvxpO_loao8x2FubCKPz7lRHe6e2-GgA9vHwvxbccwrBfrJw87br57d9YryCQ-JX35pdGO_CPQNjYvPXiUpmJTajtQfocXGc1lFY8p65JafTmzFTgqbqjWJoBX3nehDp177p2ye7Ayex4MnlnKJFfVE4BuXEB56LPevc5r7RUqq24UnncrzPyJ",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u661f\u8fb0Online",
+                        "uri": "https://maps.google.com/maps/contrib/107887476331984719678",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyhkMIcV-93VqsGFU9n-FvlEkGF4Qu9bWWL03RQwLVW8tWB72S=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr8Z6M6QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr8Z6M6QE!2e10!4m2!3m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            },
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/photos/AXQCQNQxmwLL8IPbY55C3gwCq4T-a6MKKYHbded_ZYKqa6-ZVSCQ4E1Ey8zXUo0HXXvYz5EWNaYZWz0pK_KQ8kFLsxLyNCDu4vL8WS_we3QqC_uGvQLEGZAd5aJ8tpQzg3MyMDbB_3OjXjDRetk768FWvb0qFWWQDXEb9kwdB_taYvLKb_oav41nwyK91sRd2rU3_TMM5qjEbPL3b6o0tI2oQOUSc0RAD1VQwnkSylkSK1CtJVVIRIdtKfJITB1_vwTR5XiMTXTjhD23T8DWuXH0l3r0RfMtPGdjcxu0uFjx6pgZndOkm2qCurxmg9G_hWyCqhmLskE7JZ1FqbGGbgDmcGN60w9tl6YFDEhopPJjItW-STsbaM8ldIlIWPRsuh5HcMWpdmGqZ_KcVSCoIx2o1q65IWgz5VQvqgXr0lJ4ELLc8RQ",
+                "widthPx": 4608,
+                "heightPx": 2592,
+                "authorAttributions": [
+                    {
+                        "displayName": "Andy",
+                        "uri": "https://maps.google.com/maps/contrib/115719376586550481731",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUv7HgEwSH3h96PpmF8Rz6EjxHZNSswaDA79mJWjYMHGjRiB0ghiQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3rNOt1wE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3rNOt1wE!2e10!4m2!3m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            },
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/photos/AXQCQNQQIMBY3L4XlSl08TBDLTVwnnVnoble4hbnYZNTYzzmEY5xBSVWKw1MralPJZ5pGDJOpCjVHgzWMkq_GS8ybNOWt3b4EW85HsVDfoqHFfBKdInaETpS3xClTZ_4VWRCNB-5N6QfXlmAK1CKYOT-4NA7vFyLro04bito8mGJqPI9gmHN_T_OvpcCAshN5vEPpcra24A_h0dERWgQZuGKXVpfVYHr51leJ7xTSAscQ6wxQxkCNsEVY5zOA_cU_Iy2G4u57O3GdBzx6fnzrgpPrKPskloRdM7iLL2xagY4ty2AxZ8n19UM3yocSxfUZ-bXLbyDsScJjTM018LW8vFK5bELiz8LWiyaCB_wYcPfEQSufU1Y7VEK8wWmyGgv9qP5Mx7sxxYK29zwA_xyh6c03F_U95RgJ16SWzAL7mHamWC1Pw",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "William LIN",
+                        "uri": "https://maps.google.com/maps/contrib/103146466565696843726",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgp1m7SoDW_tWzWH6ivjKi2c-P9reIqkFzySBUK31ov3TD5A=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxppbtQA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxppbtQA!2e10!4m2!3m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            },
+            {
+                "name": "places/ChIJyTCHAls_aTQRFHi81WnhUs4/photos/AXQCQNTKwe1K9uueHUfv6zyRhTz-iPkdnlzqLLZvm1-6IcOd_TKa1ajNgXkxX8UARGwSEjq8c_qJoi79fGrbQogu_eBb5515sn04dUvQHIlmk-cc7u3zpVRuhaDE4FGjdRQQQf9PhWtGy_9h83XVi56UMPqxxUoOZmE8VGGqAiwo-V7CoGwioSwleOIa-5DLbiZAJXbxllSmNQhot9_yGYVe5MBx2qHX4raiAwpAhTzidb7ZCPQRGxD1WE7ihRMWP2bj1qqC6BOVbjvLJIANTqOq7d76goSmRDbgzsKNDg_Azg6Kfos-amUxZhP9VnuhVm1gYU8BLige8A5nqBzF_VM-rEKaFMvTVV5Qk7AQKO9DzoWeSnTh-8oNMNbmfnoLVRh_zNNC6SonE8X90dypTSwdBwc4OqjiimWejcfKr-fz_tiO--0",
+                "widthPx": 4800,
+                "heightPx": 3599,
+                "authorAttributions": [
+                    {
+                        "displayName": "Devgru Wu",
+                        "uri": "https://maps.google.com/maps/contrib/106603332902830868540",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWI9ppkVqZgwt9yy3b2NfQ19dPzms0UU93RKXkXBUWnxwBKd7ZU=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJh6mO-gE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJh6mO-gE!2e10!4m2!3m1!1s0x34693f5b028730c9:0xce52e169d5bc7814"
+            }
+        ],
+        "parkingOptions": {
+            "paidParkingLot": true,
+            "paidGarageParking": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJPRMcx6E-aTQRtOhWPerjwEw",
+                    "placeId": "ChIJPRMcx6E-aTQRtOhWPerjwEw",
+                    "displayName": {
+                        "text": "Taichung",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "train_station",
+                        "transit_station"
+                    ],
+                    "spatialRelationship": "DOWN_THE_ROAD",
+                    "straightLineDistanceMeters": 99.51298,
+                    "travelDistanceMeters": 105.75014
+                },
+                {
+                    "name": "places/ChIJb37YoaE-aTQR6G0CkRYKeRo",
+                    "placeId": "ChIJb37YoaE-aTQR6G0CkRYKeRo",
+                    "displayName": {
+                        "text": "Taiwan High Speed Rail Taichung Station",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "bus_station",
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 236.46733,
+                    "travelDistanceMeters": 369.3088
+                },
+                {
+                    "name": "places/ChIJPRMcx6E-aTQRuXF6B9ZgGdM",
+                    "placeId": "ChIJPRMcx6E-aTQRuXF6B9ZgGdM",
+                    "displayName": {
+                        "text": "HSR Taichung Station Visitor Information Center",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "travel_agency"
+                    ],
+                    "straightLineDistanceMeters": 160.01527,
+                    "travelDistanceMeters": 543.83563
+                },
+                {
+                    "name": "places/ChIJjz2gmKE-aTQRaFzvgk6g_LE",
+                    "placeId": "ChIJjz2gmKE-aTQRaFzvgk6g_LE",
+                    "displayName": {
+                        "text": "Taiwan High Speed Rail Taichung Station",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "spatialRelationship": "DOWN_THE_ROAD",
+                    "straightLineDistanceMeters": 215.77649,
+                    "travelDistanceMeters": 196.09363
+                },
+                {
+                    "name": "places/ChIJZRK6En8_aTQRnDfEupZsrmg",
+                    "placeId": "ChIJZRK6En8_aTQRnDfEupZsrmg",
+                    "displayName": {
+                        "text": "\u767b\u967d\u4e4b\u9a5b",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 99.387634,
+                    "travelDistanceMeters": 601.0821
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJHa4UlqE-aTQRV4lyinRSALo",
+                    "placeId": "ChIJHa4UlqE-aTQRV4lyinRSALo",
+                    "displayName": {
+                        "text": "Taichung",
+                        "languageCode": "en"
+                    },
+                    "containment": "OUTSKIRTS"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x34693f5b028730c9:0xce52e169d5bc7814!3e0",
+            "placeUri": "https://maps.google.com/?cid=14867193164577142804",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693f5b028730c9:0xce52e169d5bc7814!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x34693f5b028730c9:0xce52e169d5bc7814!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x34693f5b028730c9:0xce52e169d5bc7814!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "414",
+            "administrativeArea": "Taichung City",
+            "locality": "Wuri District",
+            "addressLines": [
+                "Zhanqu 1st Rd"
+            ]
+        }
+    },
+    "description": "The Taiwan High Speed Rail Taichung Station, ranked #1 out of 17 things to do in Wuri according to TripAdvisor, isn't just a transportation hub; it's a striking architectural landmark.  Located at No.8, Zhanqu 2 Rd., Wuri Dist., Taichung 414, Taiwan, its gleaming modern fa\u00e7ade immediately commands attention.  The building itself is a testament to sleek, contemporary design, a spacious and airy structure that effortlessly handles the constant flow of travelers.  With a TripAdvisor rating of 4.4 based on over 1600 reviews and a Google rating of 4.5 based on nearly the same number, its high marks speak to both its functionality and aesthetic appeal.\n\nStepping inside, you're greeted by a sense of calm amidst the bustling activity.  High ceilings and abundant natural light flood the interior, creating a bright and welcoming atmosphere.  The station's layout is intuitive and easy to navigate, even for first-time visitors.  Clear signage (including English translations, noted in Google reviews) guides you effortlessly to ticketing counters, platforms, and various amenities.  The air conditioning is efficient, a welcome respite from Taiwan's often"
+}

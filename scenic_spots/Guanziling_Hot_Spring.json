@@ -1,0 +1,851 @@
+{
+    "name": "Guanziling Hot Spring",
+    "tripadvisor": {
+        "location_id": "1633174",
+        "name": "Guanziling Hot Spring",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13792468-d1633174-Reviews-Guanziling_Hot_Spring-Baihe_Tainan.html?m=66827",
+        "address_obj": {
+            "street1": "Guanziien, Baihe Township",
+            "street2": "",
+            "city": "Baihe",
+            "country": "Taiwan",
+            "postalcode": "",
+            "address_string": "Guanziien, Baihe Township, Baihe, Tainan Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Baihe",
+                "location_id": "13792468"
+            },
+            {
+                "level": "Municipality",
+                "name": "Tainan",
+                "location_id": "293912"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "23.33668",
+        "longitude": "120.50415",
+        "timezone": "Asia/Taipei",
+        "website": "http://www.nhrh.com.tw",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13792468-d1633174-Guanziling_Hot_Spring-Baihe_Tainan.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13792468",
+            "ranking_string": "#1 of 13 things to do in Baihe",
+            "geo_location_name": "Baihe",
+            "ranking_out_of": "13",
+            "ranking": "1"
+        },
+        "rating": "4.3",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+        "num_reviews": "184",
+        "review_rating_count": {
+            "1": "2",
+            "2": "1",
+            "3": "21",
+            "4": "79",
+            "5": "81"
+        },
+        "photo_count": "164",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13792468-d1633174-m66827-Reviews-Guanziling_Hot_Spring-Baihe_Tainan.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "nature_parks",
+                "localized_name": "Nature & Parks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Nature & Parks",
+                "localized_name": "Nature & Parks",
+                "categories": [
+                    {
+                        "name": "Hot Springs & Geysers",
+                        "localized_name": "Hot Springs & Geysers"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [
+            {
+                "location_id": "12240438",
+                "name": "Siraya National Scenic Area"
+            },
+            {
+                "location_id": "12213767",
+                "name": "Great Guanzihling Area"
+            }
+        ],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "6"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "42"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "35"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "43"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "32"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk",
+        "id": "ChIJSfNljJ2NbjQRKpPO1fEKKsk",
+        "types": [
+            "tourist_attraction",
+            "spa",
+            "public_bath",
+            "point_of_interest",
+            "establishment"
+        ],
+        "formattedAddress": "Baihe District, Tainan City, Taiwan 732",
+        "addressComponents": [
+            {
+                "longText": "Baihe District",
+                "shortText": "Baihe District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Tainan City",
+                "shortText": "Tainan City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "732",
+                "shortText": "732",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QM28GQ3+VQ",
+            "compoundCode": "8GQ3+VQ Baihe District, Tainan City, Taiwan"
+        },
+        "location": {
+            "latitude": 23.3396518,
+            "longitude": 120.50438999999999
+        },
+        "viewport": {
+            "low": {
+                "latitude": 23.3382787697085,
+                "longitude": 120.50305216970851
+            },
+            "high": {
+                "latitude": 23.340976730291505,
+                "longitude": 120.5057501302915
+            }
+        },
+        "rating": 4.2,
+        "googleMapsUri": "https://maps.google.com/?cid=14495410384435843882",
+        "websiteUri": "https://www.twtainan.net/zh-tw/attractions/detail/590",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 23,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 23,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 23,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 23,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 23,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 23,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 23,
+                        "minute": 30
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T15:30:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"locality\">Baihe District</span>, <span class=\"region\">Tainan City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">732</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 3888,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Guanziling Hot Spring",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Public Bath",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 23,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 23,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 23,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 23,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 23,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 23,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 23,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T15:30:00Z"
+        },
+        "primaryType": "public_bath",
+        "editorialSummary": {
+            "text": "Dark gray water springs from the side of Zhentou Mountain at this developed hot-springs resort.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnZ0xyMW93RRAB",
+                "relativePublishTimeDescription": "3 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "A relaxing way to enjoy the mountain area. A group of us shared 2 rooms, one for women and the other for men. You can fill the concrete tub to the water level you want.\n\nThey charge by the hour and one hour is sufficient. There isn\u2019t much mud in the water as they don\u2019t want to clog up their drainage. It\u2019s best to use both the hot and cold tubs which are therapeutic.\n\nThere\u2019s a restaurant next door where you can enjoy their popular fish hot pot. The portion was big. Must have the chicken with broth!\n\nA great experience!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "A relaxing way to enjoy the mountain area. A group of us shared 2 rooms, one for women and the other for men. You can fill the concrete tub to the water level you want.\n\nThey charge by the hour and one hour is sufficient. There isn\u2019t much mud in the water as they don\u2019t want to clog up their drainage. It\u2019s best to use both the hot and cold tubs which are therapeutic.\n\nThere\u2019s a restaurant next door where you can enjoy their popular fish hot pot. The portion was big. Must have the chicken with broth!\n\nA great experience!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Melanie E",
+                    "uri": "https://www.google.com/maps/contrib/111136896090209853190/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUR0bJcxqNkJt-i1wxCH3EaQXevncA86panZszfT__NAs_0KWRp=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-02-13T05:14:30.388788Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnZ0xyMW93RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnZ0xyMW93RRAB!2m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            },
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNubjVlR0NREAE",
+                "relativePublishTimeDescription": "7 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "Kings garden hotel has good out door hotspring.not very natural outdoor bath,but good aqua spa with nice price. 3$for using the baths. The room condition was not so nice smells like basement but it was ok. The swimming pool had shallow water level. Couldn't really swim though.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Kings garden hotel has good out door hotspring.not very natural outdoor bath,but good aqua spa with nice price. 3$for using the baths. The room condition was not so nice smells like basement but it was ok. The swimming pool had shallow water level. Couldn't really swim though.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Jeongyune Lee",
+                    "uri": "https://www.google.com/maps/contrib/110339466606993256559/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2Xv6LVlFWzNXtcV4PrVCofgAKkBaaJ6B2gQi-hzgprNoX5L92=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2024-10-01T14:44:33.384636Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNubjVlR0NREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNubjVlR0NREAE!2m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            },
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/reviews/ChdDSUhNMG9nS0VJQ0FnSURuMC12cXpBRRAB",
+                "relativePublishTimeDescription": "7 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Went when I was visiting relatives and family in the area. Very nice hospitality and also we had a great time soaking in various temperature \u2668\ufe0f springs \u2668\ufe0f.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Went when I was visiting relatives and family in the area. Very nice hospitality and also we had a great time soaking in various temperature \u2668\ufe0f springs \u2668\ufe0f.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Kevin Liou (\u5289\u4eba\u8c6a)",
+                    "uri": "https://www.google.com/maps/contrib/113122978220827282086/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKBBlZ730PFjKbtgExr0iEH4yGUbZr_7iH8JMaQzg1F0gxn1X4=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2024-10-09T18:16:08.614409Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuMC12cXpBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuMC12cXpBRRAB!2m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            },
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/reviews/ChdDSUhNMG9nS0VJQ0FnSURSaU5yM3pnRRAB",
+                "relativePublishTimeDescription": "2 years ago",
+                "rating": 5,
+                "text": {
+                    "text": "It\u2019s beautiful scenic area. Also considers as hill station in Tainan District. Recommend to go early in the morning and spend entire noon time in the mountain. Have beautiful trees, Mountain View, caffe to enjoy with beautiful and mild cold weather. Roads are very neat and enjoy to ride scooters in the area. Kinda fun to go there.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "It\u2019s beautiful scenic area. Also considers as hill station in Tainan District. Recommend to go early in the morning and spend entire noon time in the mountain. Have beautiful trees, Mountain View, caffe to enjoy with beautiful and mild cold weather. Roads are very neat and enjoy to ride scooters in the area. Kinda fun to go there.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Sachin Fadat",
+                    "uri": "https://www.google.com/maps/contrib/116950215031901182695/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIGUZ9xR1_RVzQcuPgGJuCFiHKgVvSXB1tYY4M3x3lphjUYV6k=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2023-04-16T10:32:25.642466Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSaU5yM3pnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSaU5yM3pnRRAB!2m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            },
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzNWVXZ29RRRAB",
+                "relativePublishTimeDescription": "5 months ago",
+                "rating": 1,
+                "text": {
+                    "text": "Not open, having construction done. No information anywhere about it being closed.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Not open, having construction done. No information anywhere about it being closed.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Simon Mive",
+                    "uri": "https://www.google.com/maps/contrib/111014351160926443942/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0jhXeFR0HRTWf-akArvNfsu3P9TiWuv3S8T3vV_txOqYwUA=s128-c0x00000000-cc-rp-mo"
+                },
+                "publishTime": "2024-11-17T03:44:01.094226Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzNWVXZ29RRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzNWVXZ29RRRAB!2m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/photos/AXQCQNQpZFxZnCuEO3hCQXYo1x7YvtEheDOaLYn9WTp_qK1aS1nAems0QV9vDM2V5rs3Hy7FGULdYETo-qixZ_IklulAR4_0ORyLbdIbIUBmZyek5luqiWve4unuPxCemI_3oRsSrR4GGmUGYWyqJYIeVJo3T4Unfw-uHpCaInDvGUisUQ-QPwIgjxvQiUJlmA9ubG_cWyixwrchVb5ZaSrCp4MG0nl_8o7y3qQ-dDDnUdTxisIsSEa4BwhAboTswoR3AELx3s9fWul96vTUhmCQA38-57URTwdt-gX2dzqD7eP3L8KRbZtU-Y3ELW4H7KZ10U7EkZtX9Hj3a7dwmpplk8YtQm7scMdGiF_5VOy0SiN3UHt3JJ8KGjHRnkSwrjkXHH2xKkvw9V4bOOsQCtsa-EAq_qrZ-S6kBLEiApJe6eK28yo",
+                "widthPx": 4624,
+                "heightPx": 2604,
+                "authorAttributions": [
+                    {
+                        "displayName": "tes cat",
+                        "uri": "https://maps.google.com/maps/contrib/114080732186359659079",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPQ4Ic3Mma3eWVTUVJH0AbMALzux63cxJqV0O8cb7tDD15GVewDw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICi1ZT72AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi1ZT72AE!2e10!4m2!3m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            },
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/photos/AXQCQNSTZUQG1XMQ7p_RY7pt6bts0RXlXw_AJymw91GEHsejwS_RQpHVTwy0JYIu2fzezA7L2BPmUQLt9Ppw_ne4lhGPNB5DC6_PmXbFO8JNu6PtEhi9H93IUPfH3yCuGeRokkrLYkjSO6JlB7lfiaS7vmjamucR7Nqs7EkJM3othoxvwNrREWt2fMWK816Lqghpwfwz99N6XjhS-hlFBGK1CpzmA2pj-Y0lMdMhF8erP9K6YXAvBE2Cu9r5yEtrKCu0o9UBUXneLhW-oNxEKpmhW3ixgVN1Nx_y8NNSzmUDFc1S0APG6gzbMfuD8YnMjgPiTefVHnUxzLb1vZeRrzyhxbaCCwmCy6_uABqElGX3o5GLSOyDEZhKKK3MVwR1gUMByMkBMAn5qcf4BJKN0sASE1ifZebrjfcJ4lIvt0yrgeDBMVUM",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9673\u79c0\u82ac",
+                        "uri": "https://maps.google.com/maps/contrib/106990554477968322392",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVx3j_jvWK-s5kNv-ezP6pXadUxh2ApHcLH9erxO7DrNP-ZNAhLzA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB-7uI8QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB-7uI8QE!2e10!4m2!3m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            },
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/photos/AXQCQNQRt4Hii7UWukbCkCVRzVGYwEBjlHs8Oo19OCIMrk1JgiZXarSMCuBv-T48XpdIh3n41PD1hfvdhIAKSW--M4m6sMjCqYV72pR7tmbaG_bvCbfpVubMBQeXzPFgeh_ejAifqy-0VNPUvM26PJwuc61g2A9176Zlq-Rat5OgeVD_gGnWJ8PFj1f0dtDaL1a0t2Xe6I3el8KFeXaMBc-ZHb4-3JV2MsGwBdCQDgQCEzbyZGrItIyO5uzW2AwiOqUsBVnAUAl6aPPoRba1zjX3K6JG3prefbltXDZOGoe5_EeINnpyTb_Tba8-ym-ZRXzaWT4rir9WAYkfjPzgB8Hi-P05chlkIHUn9wreCsnlqnP4fVXIg7-DrbSVhwPe5-oSUpXmpl_BUAoLMvutpCQWKtlCCoat41PihyJ3IipwkoZ08A",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Wisely Xiao",
+                        "uri": "https://maps.google.com/maps/contrib/117190951256479824983",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzjKrX-rWeD995eyP2nDXacpczG_4RAnzsraPis-pXUQ2Z6IO6eQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDByKi8LA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDByKi8LA!2e10!4m2!3m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            },
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/photos/AXQCQNRgc1Ut2oL4cmnXBRHo8El2aFHpsBdpkmR27vYB2CFdbGEhRQeP0YFcBT1ojikAO-LbSdOHWn-YdcM6Q7s5p7rAng2uptxJGWRPARQf0d4eG6dGy7-ERKMkabnFRUpk881qoqpN4R8B_0sKeDkMvbJDd788na87utSt4fy5jgd5-IC1S3Fp4mRJ5-tdD12HPN6xBNYuSmkA8Wbqap_gIbv8PCkuBnUsLw6XaSnzIBSvhVsf1hucOJzP69eALdYvxzV0ARbrutMtuJ-IH35hLheo-tJPiClWsR4ofsRm1MqBLg3sYu7DlORUOUvNHLJgPaAsjstVV4QKSZC9repM8uAS-ROaSWl_mvq7RTFaKNYMra7cb4VmD8tudy9isD-AepmBBhmugCHOkswkJYmeEO9V-alwAazr_2_RjLJIwSUryR7B",
+                "widthPx": 4608,
+                "heightPx": 2592,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5433\u4e0a\u7384",
+                        "uri": "https://maps.google.com/maps/contrib/105815305446875513718",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3R3Fd_MQYrzdjzHnBd3uhjVEEtJPvNqeB_wT5QyEytdZu_-wh5g=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICBp-aPhQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBp-aPhQE!2e10!4m2!3m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            },
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/photos/AXQCQNRh6F2IwGfqPaeT_nbeJbex_MRW6cu3znOVfvn38_SWjdr0hEa3x9iM1xMjC440k6HBlTYv2EsxqAbzCrQ8nkOOguRT_7yhR2JUqNocEZXoyRY8J1n9YBvzLvQN6B0ipsUgW2War7E54vjLQ-FF7A_Of1bHRZxqPP7Cfo0axENCiuwZT8uHep0wgAjpCicQqkwMLJanIWIujgzIAgJUzS7Jr8srFJjN05VAONwGK_INM99kWmQ5-DLvJfCpS0NWAtX0Z5PRmLqIOkwI8z7s8IpLyIhv6MSJK9_doB-F0IVkmqFve_l_hQe6Xryd7b42NI8hs-S8Nck0GI5RDV72vnueQABGb4sxneFmGFi4mlGgwDf3znW_FbDSKh4T6zMYbp5T7lmICJMqCs8Br05O0iekVRqDEz5EyuY4rfZmAv-lnc8",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u306f\u305b\u304c\u308f\u305f\u304f\u307f",
+                        "uri": "https://maps.google.com/maps/contrib/116091105803029763335",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWN8viaEtWvXlwE6nR6DVFMnC184J47HHrnBRMZgYaumEzPJNw49g=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDeuaHgjAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDeuaHgjAE!2e10!4m2!3m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            },
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/photos/AXQCQNTYXy1lGvSQpl2Qd1KVWL06_Qo34uhC0nmtIHr3ChFlEFUcWTEDmMYO9GyjTXBYWimgslj6x7T8x-aS2KztRhwiTielw0EcZPuhgIuLUqZuIyn-J_7iAC4J-hCfEkR-Xk3UedFpqHVlPc8AeUCsEqVkr3-EpHqBZ99OadAaYhgnvUH7oVjmt5fym79AJ5a8B8D0EmTDkAYSs0dYeqMBnso00_yvq3zJXkuHhmPyhDKrydgQkn0uGVeotdfV2k7nYlOyJuHf-DIVn72pnY7j2FUKWn3FxJ4i0Psw6Fvy8GeURKkHq3_x2dcl0WIfF4cDqp_dQMdpEMpn4WCyrItw57LM8H3UCLupkp0XZ21-VVrW6vnXEhF78iFSbjItl_d9NADGhiRRTViji1mrF6VBZ_3Nwhh_illdYTDuY6E5Ee0",
+                "widthPx": 3472,
+                "heightPx": 4624,
+                "authorAttributions": [
+                    {
+                        "displayName": "Willian chen",
+                        "uri": "https://maps.google.com/maps/contrib/110846936228905702464",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWScs55ko19aBejPbywFd1ik5FlAeXcbI0o7Ezr_t_BM1y4z_ETFg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDGlL6NGg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGlL6NGg!2e10!4m2!3m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            },
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/photos/AXQCQNQ5KDFM1Rvg6_z0ofuE5zUA6gYl3uR5d4wA_oXpEXEkAQGz3bEifqa-amyvtYbXjq88w8c2G-o_IPw1lIms2fRGlLhfFf-DddDBMftBkuZnsAYcCnzDsEsrCLc9AIyRhkl1DTw0J1MOwXfMW9nYizh0YAlz4Ey2bIUM53KbSMYkVX8awz11bKrOi2RDIxyUx_tYNfZ6sMvcX9g8eEQJ-H5mTaLTw7CSV92yw8TQXaOQzcxZrOYMs3B1GYNJn0oimrW4WzEobTXeIJUgvX5SgGZbrV4bjeAtTMqCMjXTRwY_YY84Cpri0267tlRrM17oZdBvLgaho9qaaPH29nSpnAip6xEpIu6Qio_54zOfUF9F6pxeS3kBfTBLg-2UCowxtMkuHFymZp48QF4MTCKZvqWazNWuPmimMGSRO0oKtnBTnrDv",
+                "widthPx": 2304,
+                "heightPx": 4096,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u7f8e\u7f8e\u611b\u65c5\u884c",
+                        "uri": "https://maps.google.com/maps/contrib/103860796094395754620",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUl9HNPPMfhn6LYlhys_6USORlkEcxaeAC2mgP2m94SJeCHSvEMEg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICWiJOC9AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICWiJOC9AE!2e10!4m2!3m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            },
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/photos/AXQCQNSBZCrVFo2mCUjjdLmLiT7oOnUkRT1k0F-AdCA6rxaMVgAWdfDQ8PAqe2SIOcwDplXtTs_W_GvGv01KC3E7SA3_Vbv73WlUX6_SJuxDNG7h4eGp7uzrCFqP4VxdmdiezwA9InM6nZMD8hWlI_YjGDQn7CYi_UPEw6xp7UVMiPRCUe2NPw_UHektoGbe5sGUH64NMwhne5YzP9uldgYS3jWmW2rcBtrQiI6_zQJXjIlnljq3FbgR5QMzNOKRNUwPfNWLbdRNdJzVIG50_VzDsiJeblJE6Bjuq0DN2KY8pPMhoF9qNsDlLMbQ6CUt7ZBbRadaAF2RGqyT680g6eqmr0lopo3tNmgBfFcaeG7_Kls8slDGhvaSG4_gFWCQerSds-J_N3irGzasLdKF1cYxDKO05DaPJ8zJwdFLijwsJHDjditu",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9673\u79c0\u82ac",
+                        "uri": "https://maps.google.com/maps/contrib/106990554477968322392",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVx3j_jvWK-s5kNv-ezP6pXadUxh2ApHcLH9erxO7DrNP-ZNAhLzA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB-7uIsQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB-7uIsQE!2e10!4m2!3m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            },
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/photos/AXQCQNQEirJ2DtfaBb5obKqZhojj3YGSh8AU_4KR_6TQCoDRpxxyujiH-3t3nvGSVCtJkVZeZz00Puu5wEYNatiQ7hoYgGbcXnOPHbGFlZDhbzofYcS9KgUADrETq5jpgGjgOdT7dwl-BxWNIxy_OLd8EIKrpOobbmpLtsSl8E_BKIrfFw-TfBN1891OrLr2KifNIoxUX3SJurEN8a0Dm5kflk40_SOX1apPnFizR5BSFkjQRmFEXDjunVrRFeXcruskC1L1zyOIzfOtZIYFbu1jZEp0qZkJV6tYnFAY6OUG4HKguznEO4o0rNg1u-OM0vN3vyoLvhX6WTr9w838Yuo59UyVj5ncp_I9UkuyLgSlO6v_tokGmXa8ccDA66EIXh5ukrB_x2w-GBiwV1OxbBuqHQOa3zv_LcK8ct6eEDmxAQI",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6797\u80b2\u826f",
+                        "uri": "https://maps.google.com/maps/contrib/112902107363202586397",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaoUQSurgHKu7Owi7y90rG7-jFvG8ICueRUtlEEjtOStcLFk3D=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB3qWZKQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB3qWZKQ!2e10!4m2!3m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            },
+            {
+                "name": "places/ChIJSfNljJ2NbjQRKpPO1fEKKsk/photos/AXQCQNTM9UHHNs9_EuwGZ2z3OwTzflpd5JFpCBXD4eEZQ_rP2_AHTRKdz2_f_mWqxGG0m8eCfYLMu6x2dqV1V48dzBcxiLpNIaTJMCd_YV68JkDZHF6VV_miOWi14wu2TlGznBYkyV2QSh4Alc6ekay52jsXiOuU8M9Yyu31bt7JBWDMLUC0ve-aRz5ByqPs-XjmrnDoXzQ8pqWt19g0_xQi3CNfgtBoLMiC7wxAyHevoUyLTayAHtteiWsZV1yN_0RlPXEcW2LgfBp_nd7qOApGveEBEt0wylz7SP4hBenu7tFlF-PBxslDYvvURBY3CbithHtfVDkvDa3c32XZKQoDfUBb2nBpCI_SFfM6r3_Y_9J8svyiCRfAMV4ct-V6isk-5wkhu2N1bPq457Pxc3dGItxM6ldRctHiWTN-bXooEDrN2w",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u9676\u535a\u5a01",
+                        "uri": "https://maps.google.com/maps/contrib/104841607652429740662",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSj-k_Ukw57bsuWz8Y-tN-JT3jpTWntncClbUmFyUMP49RAcYTYQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdxNSIMQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdxNSIMQ!2e10!4m2!3m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a"
+            }
+        ],
+        "goodForChildren": true,
+        "restroom": true,
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true
+        },
+        "containingPlaces": [
+            {
+                "name": "places/ChIJ331OhV2NbjQRikT5l58LVTI",
+                "id": "ChIJ331OhV2NbjQRikT5l58LVTI"
+            }
+        ],
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJYVyaWWeNbjQRGdkg-Wa8XAU",
+                    "placeId": "ChIJYVyaWWeNbjQRGdkg-Wa8XAU",
+                    "displayName": {
+                        "text": "Guanziling Police Lodge",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "lodging",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 39.11145,
+                    "travelDistanceMeters": 68.297226
+                },
+                {
+                    "name": "places/ChIJ99OxQF6NbjQROQl8o1d45Fc",
+                    "placeId": "ChIJ99OxQF6NbjQROQl8o1d45Fc",
+                    "displayName": {
+                        "text": "Hongye Park",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "park",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 309.25922,
+                    "travelDistanceMeters": 593.20264
+                },
+                {
+                    "name": "places/ChIJAdfICACUbjQRbJFCxOURgi4",
+                    "placeId": "ChIJAdfICACUbjQRbJFCxOURgi4",
+                    "displayName": {
+                        "text": "Hoya Resort Hotel Group",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "lodging",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 336.7039,
+                    "travelDistanceMeters": 683.5923
+                },
+                {
+                    "name": "places/ChIJ331OhV2NbjQRikT5l58LVTI",
+                    "placeId": "ChIJ331OhV2NbjQRikT5l58LVTI",
+                    "displayName": {
+                        "text": "Guanzi Ling Scenic Area",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "spatialRelationship": "DOWN_THE_ROAD",
+                    "straightLineDistanceMeters": 254.51845,
+                    "travelDistanceMeters": 301.53207
+                },
+                {
+                    "name": "places/ChIJhdYlbWeNbjQRJAkOZ-PTAqE",
+                    "placeId": "ChIJhdYlbWeNbjQRJAkOZ-PTAqE",
+                    "displayName": {
+                        "text": "Lingding Park",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "park",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 189.69263,
+                    "travelDistanceMeters": 871.9006
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJ99OxQF6NbjQRhrPTqKpO_PM",
+                    "placeId": "ChIJ99OxQF6NbjQRhrPTqKpO_PM",
+                    "displayName": {
+                        "text": "Hongye Park",
+                        "languageCode": "en"
+                    },
+                    "containment": "NEAR"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a!3e0",
+            "placeUri": "https://maps.google.com/?cid=14495410384435843882",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e8d9d8c65f349:0xc92a0af1d5ce932a!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "732",
+            "administrativeArea": "Tainan City",
+            "locality": "Baihe District"
+        }
+    },
+    "description": "Guanziling Hot Spring, nestled in the heart of Baihe Township, Tainan, Taiwan, is a scenic haven consistently ranked #1 among Baihe's attractions.  Perched on the slopes of Zhentou Mountain, within the picturesque Siraya National Scenic Area and the Great Guanzihling Area, this geothermal paradise offers a unique blend of natural beauty and therapeutic relaxation.  The dark gray, naturally heated waters, bubbling forth from the mountainside, are the star of the show.  Developed into a well-maintained resort, Guanziling boasts a 4.3 rating on TripAdvisor, based on 184 glowing reviews, and a 4.2 rating on Google, with thousands of user reviews.\n\nImagine yourself immersed in the mineral-rich waters, feeling the soothing heat melt away your stress.  Many visitors describe the experience as therapeutic, using both hot and cold tubs for optimal benefit. While some locations within the resort may offer more modern facilities, the overall experience remains deeply connected to the natural landscape.  The water itself, though dark, is praised for its cleanliness \u2013 a testament to the resort's commitment to maintenance.  Don't expect copious amounts of mud, as the drainage system prioritizes"
+}

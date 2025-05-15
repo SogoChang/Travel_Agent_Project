@@ -1,0 +1,1001 @@
+{
+    "name": "TOKYO Solamachi",
+    "tripadvisor": {
+        "location_id": "3141851",
+        "name": "TOKYO Solamachi",
+        "description": "This Tokyo-Skytree-adjacent mall has shops selling high-quality souvenirs, clothing, Japanese sweets, and toys. Tourist-friendly offerings include shipping, tax-free shopping, and language assistance.",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g14134337-d3141851-Reviews-TOKYO_Solamachi-Oshiage_Sumida_Tokyo_Tokyo_Prefecture_Kanto.html?m=66827",
+        "address_obj": {
+            "street1": "1-1-2",
+            "city": "Oshiage",
+            "state": "Tokyo Prefecture",
+            "country": "Japan",
+            "postalcode": "131-0045",
+            "address_string": "1-1-2, Oshiage, Sumida 131-0045 Tokyo Prefecture"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Oshiage",
+                "location_id": "14134337"
+            },
+            {
+                "level": "Municipality",
+                "name": "Sumida",
+                "location_id": "1066459"
+            },
+            {
+                "level": "Region",
+                "name": "Tokyo",
+                "location_id": "298184"
+            },
+            {
+                "level": "State",
+                "name": "Tokyo Prefecture",
+                "location_id": "1023181"
+            },
+            {
+                "level": "Region",
+                "name": "Kanto",
+                "location_id": "298156"
+            },
+            {
+                "level": "Country",
+                "name": "Japan",
+                "location_id": "294232"
+            }
+        ],
+        "latitude": "35.710217",
+        "longitude": "139.8122",
+        "timezone": "Asia/Tokyo",
+        "phone": "+81 570-550-102",
+        "website": "http://www.tokyo-solamachi.jp/",
+        "write_review": "https://www.tripadvisor.com/UserReview-g14134337-d3141851-TOKYO_Solamachi-Oshiage_Sumida_Tokyo_Tokyo_Prefecture_Kanto.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "14134337",
+            "ranking_string": "#1 of 13 things to do in Oshiage",
+            "geo_location_name": "Oshiage",
+            "ranking_out_of": "13",
+            "ranking": "1"
+        },
+        "rating": "4.1",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "1403",
+        "review_rating_count": {
+            "1": "8",
+            "2": "16",
+            "3": "254",
+            "4": "678",
+            "5": "447"
+        },
+        "photo_count": "1270",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g14134337-d3141851-m66827-Reviews-TOKYO_Solamachi-Oshiage_Sumida_Tokyo_Tokyo_Prefecture_Kanto.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2300"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "2300"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 10:00 - 23:00",
+                "Tuesday: 10:00 - 23:00",
+                "Wednesday: 10:00 - 23:00",
+                "Thursday: 10:00 - 23:00",
+                "Friday: 10:00 - 23:00",
+                "Saturday: 10:00 - 23:00",
+                "Sunday: 10:00 - 23:00"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "shopping",
+                "localized_name": "Shopping"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Shopping",
+                "localized_name": "Shopping",
+                "categories": [
+                    {
+                        "name": "Shopping Malls",
+                        "localized_name": "Shopping Malls"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "26"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "302"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "223"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "383"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "296"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E",
+        "id": "ChIJD9Pd-daOGGARCYgMMXqki5E",
+        "types": [
+            "shopping_mall",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "03-6700-4833",
+        "internationalPhoneNumber": "+81 3-6700-4833",
+        "formattedAddress": "1-ch\u014dme-1-2 Oshiage, Sumida City, Tokyo 131-0045, Japan",
+        "addressComponents": [
+            {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                    "premise"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "1",
+                "shortText": "1",
+                "types": [
+                    "sublocality_level_4",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "1-ch\u014dme",
+                "shortText": "1-ch\u014dme",
+                "types": [
+                    "sublocality_level_3",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "ja-Latn"
+            },
+            {
+                "longText": "Oshiage",
+                "shortText": "Oshiage",
+                "types": [
+                    "sublocality_level_2",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "ja-Latn"
+            },
+            {
+                "longText": "Sumida City",
+                "shortText": "Sumida City",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Tokyo",
+                "shortText": "Tokyo",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Japan",
+                "shortText": "JP",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "131-0045",
+                "shortText": "131-0045",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "8Q7XPR66+3J",
+            "compoundCode": "PR66+3J Sumida City, Tokyo, Japan"
+        },
+        "location": {
+            "latitude": 35.7102333,
+            "longitude": 139.8115747
+        },
+        "viewport": {
+            "low": {
+                "latitude": 35.7088667197085,
+                "longitude": 139.8084716
+            },
+            "high": {
+                "latitude": 35.7115646802915,
+                "longitude": 139.8115747
+            }
+        },
+        "rating": 4.2,
+        "googleMapsUri": "https://maps.google.com/?cid=10487657001978202121",
+        "websiteUri": "http://www.tokyo-solamachi.jp/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T12:00:00Z"
+        },
+        "utcOffsetMinutes": 540,
+        "adrFormatAddress": "<span class=\"street-address\">1-ch\u014dme-1-2 Oshiage, Sumida City</span>, <span class=\"region\">Tokyo</span> <span class=\"postal-code\">131-0045</span>, <span class=\"country-name\">Japan</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 37624,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "iconBackgroundColor": "#4B96F3",
+        "displayName": {
+            "text": "Tokyo Solamachi",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Shopping Mall",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T12:00:00Z"
+        },
+        "primaryType": "shopping_mall",
+        "shortFormattedAddress": "1-ch\u014dme-1-2 Oshiage, Sumida City",
+        "editorialSummary": {
+            "text": "Multilevel retail complex with 300+ stores & restaurants located in the Tokyo Skytree tower.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZMGRqNnh3RRAB",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "View @ Tokyo Solamachi.\n.\nA large shopping, dining, and entertainment complex at the base of the Tokyo Skytree and Sumida Aquarium, housing over 300 shops.\n.\nSeemingly endless walking, so many things to see.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "View @ Tokyo Solamachi.\n.\nA large shopping, dining, and entertainment complex at the base of the Tokyo Skytree and Sumida Aquarium, housing over 300 shops.\n.\nSeemingly endless walking, so many things to see.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Ivan Teh",
+                    "uri": "https://www.google.com/maps/contrib/114332345573544911646/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5w6w1Nz613H-FTdYMJdrdrsR43y5bcInG5AtU7Oxf59DHDoeK=s128-c0x00000000-cc-rp-mo-ba7"
+                },
+                "publishTime": "2025-05-05T00:21:57.060304Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZMGRqNnh3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZMGRqNnh3RRAB!2m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            },
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJb01tX2hBRRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "I absolutely love the range of restaurants and activities for the family. There are also rest areas if you're exhausted from the day or just wiped out from going around Tokyo too much. There's a play park exclusive for babies AND another for toddlers/kids. The view of sky tree is absolutely breathtaking. There's even a garden on the top floor if you want to get some fresh air and let your kids run around especially on a very great day. Fair warning, The restaurants are PACKED on weekends and holidays, so expect a very long queue (1-2 hours waiting time on average)",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I absolutely love the range of restaurants and activities for the family. There are also rest areas if you're exhausted from the day or just wiped out from going around Tokyo too much. There's a play park exclusive for babies AND another for toddlers/kids. The view of sky tree is absolutely breathtaking. There's even a garden on the top floor if you want to get some fresh air and let your kids run around especially on a very great day. Fair warning, The restaurants are PACKED on weekends and holidays, so expect a very long queue (1-2 hours waiting time on average)",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Lauren Araneta",
+                    "uri": "https://www.google.com/maps/contrib/113915553189882204393/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKjRXoQHrqzVW0b3FIWvZUzaru2X6gl6-lPTSDPv-7QN5Wsn4okA=s128-c0x00000000-cc-rp-mo-ba3"
+                },
+                "publishTime": "2025-03-29T13:13:11.913841Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJb01tX2hBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJb01tX2hBRRAB!2m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            },
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/reviews/ChdDSUhNMG9nS0VJQ0FnTURROU9MUHFBRRAB",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "You can easily get there by bus from Ueno. Skytree is right next door and there are various stores, so it is very convenient. Starbucks had almost no seats because the view was so good. There was a small skating rink leading to the Skytree observation deck, which was nice to see. It was nice that there were both indoor and outdoor activities.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "You can easily get there by bus from Ueno. Skytree is right next door and there are various stores, so it is very convenient. Starbucks had almost no seats because the view was so good. There was a small skating rink leading to the Skytree observation deck, which was nice to see. It was nice that there were both indoor and outdoor activities.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "SOOYEON JUNG",
+                    "uri": "https://www.google.com/maps/contrib/113471004123817852857/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWA9qta8_z_6ljzDLt_QBw0P-5vLEfKK3zeFJj7ZQ5zSfhcjQYE=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-03-09T08:29:25.329170Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURROU9MUHFBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURROU9MUHFBRRAB!2m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            },
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzbllTdmx3RRAB",
+                "relativePublishTimeDescription": "6 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "This place is amazing! Probably my new favorite mall in Tokyo now. There is something for everyone. There is so much to do and see. There\u2019s lots of food and snacks, clothes, toys, an aquarium, candy, jewelry, and you can go up SkyTree. It\u2019s huge so you can definitely spend all day here. It\u2019s good for souvenirs or just to walk around. There are many bathrooms, escalators, and elevators so it\u2019s very accessible if you have kids or have a wheelchair.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "This place is amazing! Probably my new favorite mall in Tokyo now. There is something for everyone. There is so much to do and see. There\u2019s lots of food and snacks, clothes, toys, an aquarium, candy, jewelry, and you can go up SkyTree. It\u2019s huge so you can definitely spend all day here. It\u2019s good for souvenirs or just to walk around. There are many bathrooms, escalators, and elevators so it\u2019s very accessible if you have kids or have a wheelchair.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Jacy Hernandez",
+                    "uri": "https://www.google.com/maps/contrib/100457932729899496027/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICIsPxk_R_XCSBuanGT28SZyAd5WPHymQCLGdh9Gq0R6bjN7Cl=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2024-11-08T06:28:35.359836Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzbllTdmx3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzbllTdmx3RRAB!2m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            },
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2ejRXTDV3RRAB",
+                "relativePublishTimeDescription": "5 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Christmas Market  is amazing. The light the Christmas trees the decorations the food the atmosphere everything was perfect and I had an amazing time out there",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Christmas Market  is amazing. The light the Christmas trees the decorations the food the atmosphere everything was perfect and I had an amazing time out there",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Shakar Bhattarai",
+                    "uri": "https://www.google.com/maps/contrib/112325153840007621204/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5IWRDaMsHiYkwJYQZ_56igP39OzTns4IhlFCFQFtgkvkJbgk5WQ=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2024-12-15T23:57:19.735457Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2ejRXTDV3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2ejRXTDV3RRAB!2m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/photos/AXQCQNSBz8C9vLhnkSZWByQVjyriP7OHvBb4q2UYCuztfYOQTu943snLPCTwpu6U57kkMhUOQ7pXekuEZXY7nB4mEyNCyNxRBkdAZwQE4sV6vqsi-1H76jUsWSV7NJStUedGK2-fAFyJn5etJPZ79Td7KWFTVaEk0kPt-aVWTokkHVqSQKmiG5QVHDR_Eo7QQNak4ibQOOesMsZJBzdS8siK0TLp55zHmX2QPpHWIVGxW5ZWaz0zADRLCjGLProlYLoUwFQhTdn0l1aB5w88em12nn7tiZnVNcFZbOxmQJ5n6p6ydPiLAD0-DOmdHjs_soRTAr0iIxQc9UW0KRrqflR2GHJsewC_UAfQPG55V4msdKvOxOpsgDQC0bpf66BUEan_kgDva0pVQXbwMb7eGznkA3BKvIi2k5RhKmppSrjbzGFtMw",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5409\u8c37\u5b5d\u7fa9",
+                        "uri": "https://maps.google.com/maps/contrib/114396052535772671384",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPmVjThpBh4pcMbEKIvhcRH0tl4qy-BzihLkHR0vmDHFZO-rIV9Q=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICcpP-RCw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcpP-RCw!2e10!4m2!3m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            },
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/photos/AXQCQNQmmu73cgHlD-eJfNLj17fuSjj6rbFpcGKyQVC0Pml-rqN2GHephm5fxDeLR4JmxZ2pthomX7GmLb5FXLB0-aXaOWEiQddV7JJTVDmhCocXuiY0Ox8rr1DQDQG1I6lljOfQGZJq-voObn7DedESW3cHGIKHh82wwbRd7fg3i2ZurNEsy1VZS5c7m_xr9b8kwr7shd8aeZh3pjm75lpe-Ca5oUmyr3RoXqEhCdvhyKUUi9bDCJ_ZbeYFlPGKUL3Yf_yUh4LBnqKRw7AohEexKyPaHFzjGVV0WIJO-DKVnbnPALfsktYdX23itM7jdNIJ_fYaS_kPiDCwVGrAV_MuOkMpGLnIx7rXjeAtmHcwwUQoTAC4lxniuXwZdfaJ3VoapbLgU5lMknsaOqpc6fu3oskQCPc0PgQMmSnGyBIZvKAi7FMZzhivlhE-CFcsmEed",
+                "widthPx": 2992,
+                "heightPx": 2992,
+                "authorAttributions": [
+                    {
+                        "displayName": "Sam Chuang",
+                        "uri": "https://maps.google.com/maps/contrib/111449675925263914993",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUoEbWLVB6Hxz7F8PIlCt7fJ_BPXY6arMGJjTYXIgKnZOoasDU_w=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAbj2gjhpZgMp4_u0G1y42H&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAbj2gjhpZgMp4_u0G1y42H!2e10!4m2!3m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            },
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/photos/AXQCQNRLEnRtjbm1Mb0Aetw6iTz-ZJa0EfsNYFadde7w8_H4jc2YqieIynhFvEa_KG2PNhBijPROgjQ5iJCKVDz7ot5tWdi1Hps-yLpvGSg-3kSQKVSmDr3GURbh-BBdpTvvhMS7CKGDAIzeg2vbqHQcSqeu2fnH4-0r5kMOvkj07H7559GcJXai3w4Ce_uorazHr9pJuz_wqhlrYXDjJj7YN4w5S3HItvF8rXxZGZFuTFK8yimj6F4vrhYHCUN9G4XHmDm54mJ2fxegMJ_QUidkbnbTkutElLxw0HKiPUf61vwhnPZjCuiJyj2E-9llVegpjhdg_cdfmTqMjBcbXSwd-K7t5C0p5yyEODduEJZSZpaH3snCK8fQlJDC7D84kmvlrJVz7-k60NGqhgEMaQ8ooCSu-WTqHN99qTa79XfbF84XjHc8",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "Michelle Yeh",
+                        "uri": "https://maps.google.com/maps/contrib/100300363436546914746",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL7-kgURgdov00tYPwCULh3PA8Y4iBNz8h5oIxJjbHKa1x7l42l=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkiK2llgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkiK2llgE!2e10!4m2!3m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            },
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/photos/AXQCQNTnv9P-LU6sSBLR5ybhTsXSFbr8o8mG77lnJH-KOOksq8QlhuRAw7wcOITe2-XMZ6hshPYCE9w69e1nh8LWmHlmzJXHD75E0wM-ZVcTSLlhg1-tGeZ4q4WRLw000TtzOBtPPS5vCJ7d9xWghA_wHT5MifeWXPo9yqjFg1hPZepgeXCcrx5DP0YQGLwRpSTo5x-VHb1j25ry7Us0cl6crs31UblbBndlCIiCddeC_oWFF3HJCpyL_alKFeanP2QyiiURUwEMRvV3BP1yC_tLrLPteOPTUSfy4sTR6OpsctJBZys2X7ndJzu_V5ToF2YT_ejX4qkrNqag4tDQ-FfMlyzJG2zzfa5ZZBX-YAcAINIi3q_tSHQrMJwAnq3BP9-giJ9NHCxaXFD52wyY2i6lewTy6AnW6_BlkZhTE0HCAhsdDQ",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Lyna P",
+                        "uri": "https://maps.google.com/maps/contrib/118036035893676210232",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8ErrWSMVZ4sUQeadduJLN1yUwg-dl0PXdnzMuOm3FMifvucsg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEgd3ULg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEgd3ULg!2e10!4m2!3m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            },
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/photos/AXQCQNSgH_CbA6sfShqvwoDh3qCScltP5xhQtoovjeYcRtbpSagoILNzwbUEO0VCMFDPfDYGVs4ZXgcSfgaHJ2Y10W1U00LWby3QXndMfYsPzxqXiC_dXAMl9zw9xJ_wWp1BRJJZvmqhVZBjHpke24JS4_j5o-YwDnRq0ioU473W62YO1UIgVfQ8fq7jQ10OEzttb7j9iO6s5jBSsPGT43tKQSoxq_jLs2WdxqFj9mjrdY60fEc8N4Rs_BDB31PTNf4vLSTcRJX_TGvHntxpbOTz_aM6Ee3Zp7nK556IkVmtS9z9j0WOqiulUQygkYbwJnKSseF7UEuUWplNa7gIlsJpB0mtFmqFF92X8FCZ8TYwYgSrO1Bm7O3Y95HUV5FD1as-e7B4MiahGZD7mIJVsKYrftNc-7UvUjDSVmTnM4oQ2fkHgQ",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "NoX",
+                        "uri": "https://maps.google.com/maps/contrib/117765661967241214225",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0sO_rFrKrPtFuiQ4QhnQwOHJw0wPI2G72gnKvLnJpv_J-ae3hmA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-hpGzDQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-hpGzDQ!2e10!4m2!3m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            },
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/photos/AXQCQNS3P8aFh533z_Fi5C5wQL1bmo4IanK0Yp2TS7yRLGCKFnu-H8rbSn9qoN4dVuIdUwrZBLkFGSIWnavEPkXD14EFUyPsJhQZ4rqdYUWzpYWZSa9TIWtDKhpj8SyqOyu8DgiL8lquGag4KBGCttZoSt0iVj4SJemWY88JhKSy5WiVp8mQRyHDu1dMNiYbhp9upTqrFoDxXjCdJbMciewG1A2O6WIyUlLuDUj5tkMsXsezXC-0JhYIhdyTGmUjd1-cYjAK0BNJLzTUmkCeeCf9yk8otDJhALNzXO6AiN0KuEOEHWBi4mY3GsR5h2aJfpdE3KltwFe0XyHnXfDOiRgfI4QjJKBoKxdl2M2KWxS9aXmTM1PkKNzMhf18loB3SVu2f5aUV4c5c5bOV_-jNr-V5yCQCSMWt2xDoGNd8iZ5OvKGyQ",
+                "widthPx": 4800,
+                "heightPx": 3189,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5bfa\u90f7\u58eb",
+                        "uri": "https://maps.google.com/maps/contrib/116299071616007041159",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUL3pbt8XndqiiwCGnF8O5cJ4Y7VEgx9N0ZK04_N1EGmENggTFs9g=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkuKqPCA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkuKqPCA!2e10!4m2!3m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            },
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/photos/AXQCQNTaEljaXURzM_SxK8AV1hogN1ctifwYYhUSYJzL0YtxBRsF69wFlBudzOnjEgrAJYB3UA0eeQWgIKXq5SPfqVq2Z8zKB_QSrAC_EAdj6yJVkSYR3JgUMqktXHC9kZHYEeXKH4I6QHDq-5hMAFU2ornn3sMXKoDJYSUc6aTqxmJH1g0zfQBrRN2xDqIfFhTWbFREhmcomn07DDdhYPBpV-1bt-vt0trf0CE_O3Vl76fpqgLIvxBrSXvLht6Y3b1C2WFxPIQdWkLwdmMzaIzu0Xy_Y0aYt-cCc3naeynze4Y9H2GjGHMRYD9EZLoj9v5-XpEOuqhGOnElHERbMYwTv7uwYruZXac9yHnWzzGlDcJsFaCMt49i-yXQAcfZ7Pd2lUsqpGpciWBFXNP_tybtl5teHQCrUsscY6L2chr6TrpqRQ",
+                "widthPx": 4080,
+                "heightPx": 3072,
+                "authorAttributions": [
+                    {
+                        "displayName": "Toshiki Kobayashi",
+                        "uri": "https://maps.google.com/maps/contrib/113077549909209167427",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6cG2lmIjp-lX_QVsr-vkFvS3CJkuLBMUOGqBy-aCgnlsE7iRaTw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICexJa2Rg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICexJa2Rg!2e10!4m2!3m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            },
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/photos/AXQCQNQpH7H8Tc7ce0xLbDgudydptJx6oZUyvJHwJZxJ9knBbn7qPVfTCloozCZvt6dyjQgguv91fuhUYvam_D__Rkngrg_eyQlBOLjsIUhKihdUDvSEC7Vi-iG5sFfOuQpWd6BpvzAgATEck7odLoLrXPZtcpz4ebKn-ELbhvRA3qDGS5bb0ktgGpAYxAj98hKdfKRud1quqVLrA4HwJbFJuiTtWnC6NkBSAXxU6njEtXcMdQOl_h1NVU3wsYi89mNNLw_DjCARY8-Jmysmq2JGrUiLf8TtCAhDe7ZqMerSjotIHXeyQj4wOSLJOfcL9CysL5R-OCHLqJXc7ZHwddQviGtc5GlePgNkbfqu6W0E6DcljKKYFIIhOpV63zs0RfVFx6uP1x7PynvEn1d5IZaGikvCkSklYfUMnz0_ApnR-V2BBw",
+                "widthPx": 4032,
+                "heightPx": 2268,
+                "authorAttributions": [
+                    {
+                        "displayName": "Alexander Rudolph",
+                        "uri": "https://maps.google.com/maps/contrib/108430743432307569047",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcrNwgNZYcq4RmzwasegXHB_6nyJX5jTJyrHLe36vxOOrEYzNn=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7hJ6pBw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7hJ6pBw!2e10!4m2!3m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            },
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/photos/AXQCQNSV-dn6LMISNtCg5q1hjlNAulcFiAHXNyHUq6yex4f3IqgFGrlwCOyeLqUQazui68JCGD11O5qv9bGa9SA1DkYzBhDVt7ClHqaie82ZHwzhNHa9rzVO_gxGD62TqyXSLjEMZGkZ5Ymev0vHmAvHFpMrjntnHqQa7d4PGAi82KZBZ043Ol3ppwqA6SdTWPJLx_7i7Ru3m1--GKQivTU2jRhliqc_EBVpeGgxCIaLOVQhq1ZYJ3cfQmdKHJQdZpqEyVltMKDxer5eg1hJN94FfWyapdcj-74i93wn37i_hR5ajae8KTxXSA7EAahba5fbOE789GTnw_btfPfCvaCteQVBlIQ5WEVTghRtU9aUKAkwS0j_pCe8QbRoHaGrIuwuHVSsXbzyJTWEW1K08YBQl8wE0h-7j4ap4mzh2wmtc0a2kw",
+                "widthPx": 4800,
+                "heightPx": 3189,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5bfa\u90f7\u58eb",
+                        "uri": "https://maps.google.com/maps/contrib/116299071616007041159",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUL3pbt8XndqiiwCGnF8O5cJ4Y7VEgx9N0ZK04_N1EGmENggTFs9g=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICkuKqPMA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkuKqPMA!2e10!4m2!3m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            },
+            {
+                "name": "places/ChIJD9Pd-daOGGARCYgMMXqki5E/photos/AXQCQNSSabHrMgqZhYjCZ25LcvXXfFEnXIHnXLqS44TYiYa07aDwvf9e8NW4-T3eB2YvPUluT5lZLlJvAmbtUKcxf3iiO8dwe641PVG-rzY2-7axzXE4ZkNk5pG7PGnH8xpEcFBgEwWxllB9BHBygYiO9sVo92qA4-_inNSdU_91Kg13YIJnDmchdpyktG3qIkDuOhLYiDOyw4n4OMHThfuR5v9kuE7LEfFbGZIDV-DizuldTQk6s-fFnvvMyJk2nW4fbACbrew4VejqhXwchG7-TtuTOg09jWan4h8lnj_l0nQrgV8_Rb0Sthz9LNuIrAjgwuHX9iEKJBfrZNj8k_xNYD9AzwOmt-yifzqjI9N1HxkAy-FUBHb4BXjivxeylS3m8z_p0jLzqvP46HPqGJbykawZoEOxEVSvTWr44zh9UiboIQ",
+                "widthPx": 3840,
+                "heightPx": 2160,
+                "authorAttributions": [
+                    {
+                        "displayName": "mk k",
+                        "uri": "https://maps.google.com/maps/contrib/109904112702734660514",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-Not7Zcyv2uoIE6oEoCdeT_JcSjZ3VcZrEkNjf3TYdQbUBg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEsdH9eg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEsdH9eg!2e10!4m2!3m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809"
+            }
+        ],
+        "parkingOptions": {
+            "freeParkingLot": false,
+            "paidParkingLot": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true
+        },
+        "containingPlaces": [
+            {
+                "name": "places/ChIJiXsyjf-PGGAR3G9iaPQ3tj8",
+                "id": "ChIJiXsyjf-PGGAR3G9iaPQ3tj8"
+            }
+        ],
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJ35ov0dCOGGARKvdDH7NPHX0",
+                    "placeId": "ChIJ35ov0dCOGGARKvdDH7NPHX0",
+                    "displayName": {
+                        "text": "Tokyo Skytree",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "spatialRelationship": "WITHIN",
+                    "straightLineDistanceMeters": 81.18633
+                },
+                {
+                    "name": "places/ChIJO6bK3daOGGARYEFGg4Xm-VI",
+                    "placeId": "ChIJO6bK3daOGGARYEFGg4Xm-VI",
+                    "displayName": {
+                        "text": "Sumida Aquarium",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "aquarium",
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 182.73846
+                },
+                {
+                    "name": "places/ChIJaUNCPNaOGGARuV-q32bYbaE",
+                    "placeId": "ChIJaUNCPNaOGGARuV-q32bYbaE",
+                    "displayName": {
+                        "text": "Oshiage Sta.(SKYTREE)",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "subway_station",
+                        "train_station",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 155.89894
+                },
+                {
+                    "name": "places/ChIJuYdfHdaOGGARFQigJcqQDEc",
+                    "placeId": "ChIJuYdfHdaOGGARFQigJcqQDEc",
+                    "displayName": {
+                        "text": "Life Supermarket",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "food",
+                        "grocery_or_supermarket",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 197.11703
+                },
+                {
+                    "name": "places/ChIJt6u9QtaOGGARHbxorE1IKXw",
+                    "placeId": "ChIJt6u9QtaOGGARHbxorE1IKXw",
+                    "displayName": {
+                        "text": "Pok\u00e9mon Center Skytree Town Solamachi East Yard 4th floor",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 94.463936
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJJ1qL99aOGGAR0RzFipxe6CE",
+                    "placeId": "ChIJJ1qL99aOGGAR0RzFipxe6CE",
+                    "displayName": {
+                        "text": "Tokyo Skytree",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                },
+                {
+                    "name": "places/ChIJnbKeUdaOGGAR2lx0zpdqrn4",
+                    "placeId": "ChIJnbKeUdaOGGAR2lx0zpdqrn4",
+                    "displayName": {
+                        "text": "1",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                },
+                {
+                    "name": "places/ChIJJ0HxHtaOGGARL_Zd9eTQqYM",
+                    "placeId": "ChIJJ0HxHtaOGGARL_Zd9eTQqYM",
+                    "displayName": {
+                        "text": "1 Chome",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x60188ed6f9ddd30f:0x918ba47a310c8809!3e0",
+            "placeUri": "https://maps.google.com/?cid=10487657001978202121",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x60188ed6f9ddd30f:0x918ba47a310c8809!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x60188ed6f9ddd30f:0x918ba47a310c8809!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x60188ed6f9ddd30f:0x918ba47a310c8809!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Tokyo"
+        },
+        "postalAddress": {
+            "regionCode": "JP",
+            "languageCode": "en-US",
+            "postalCode": "131-0045",
+            "administrativeArea": "Tokyo",
+            "addressLines": [
+                "1 Chome-1-2 Oshiage",
+                "Sumida City"
+            ]
+        }
+    },
+    "description": "TOKYO Solamachi: A Shopper's Paradise at the Foot of Tokyo Skytree\n\nImagine a vibrant, multi-level retail complex sprawling at the base of the majestic Tokyo Skytree, a modern architectural marvel piercing the Tokyo skyline.  This is TOKYO Solamachi, a shopper's haven boasting over 300 stores and restaurants, a testament to Japanese retail excellence and a must-visit destination for any visitor to Tokyo.  The sheer scale is breathtaking; a labyrinth of gleaming walkways, escalators whisking you effortlessly between floors, and expansive open spaces offering glimpses of the iconic Skytree itself.\n\nThe air hums with a delightful energy \u2013 the gentle chatter of shoppers, the melodic chimes of a nearby shop, the tantalizing aromas of freshly baked Japanese sweets drifting from nearby patisseries.  Sunlight streams through the expansive glass windows, illuminating a kaleidoscope of goods:  high-quality souvenirs beckon from meticulously arranged displays, showcasing the artistry of Japanese craftsmanship.  Elegant clothing boutiques offer the latest trends, while playful toy stores overflow with whimsical characters and captivating gadgets. Traditional Japanese confectioneries tempt with their colourful displays of mochi, wagashi, and other delectable treats.  \n\nWhether you're searching for unique keeps"
+}

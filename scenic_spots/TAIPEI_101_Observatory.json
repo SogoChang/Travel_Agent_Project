@@ -1,0 +1,999 @@
+{
+    "name": "TAIPEI 101 Observatory",
+    "tripadvisor": {
+        "location_id": "6554047",
+        "name": "TAIPEI 101 Observatory",
+        "description": "NOTICE In response to the 2025 New Year's Eve High-Altitude Fireworks Party, the TAIPEI 101 Observatory will adjust its operating hours on Tuesday, 12/31, to 10:00- 19:00 (last ticket purchase/admission at 18:15).",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13808515-d6554047-Reviews-TAIPEI_101_Observatory-Xinyi_District_Taipei.html?m=66827",
+        "address_obj": {
+            "street1": "89F, No. 7, Sec. 5, Xinyi Rd., Xinyi Dist",
+            "city": "Xinyi District",
+            "country": "Taiwan",
+            "postalcode": "110",
+            "address_string": "89F, No. 7, Sec. 5, Xinyi Rd., Xinyi Dist, Xinyi District, Taipei 110 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Xinyi District",
+                "location_id": "13808515"
+            },
+            {
+                "level": "Municipality",
+                "name": "Taipei",
+                "location_id": "293913"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "25.033962",
+        "longitude": "121.564476",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 2 8101 8898",
+        "website": "http://www.taipei-101.com.tw/en/observatory.aspx",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13808515-d6554047-TAIPEI_101_Observatory-Xinyi_District_Taipei.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13808515",
+            "ranking_string": "#3 of 66 things to do in Xinyi District",
+            "geo_location_name": "Xinyi District",
+            "ranking_out_of": "66",
+            "ranking": "3"
+        },
+        "rating": "4.3",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+        "num_reviews": "2629",
+        "review_rating_count": {
+            "1": "20",
+            "2": "51",
+            "3": "321",
+            "4": "873",
+            "5": "1364"
+        },
+        "photo_count": "2241",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13808515-d6554047-m66827-Reviews-TAIPEI_101_Observatory-Xinyi_District_Taipei.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "1000"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "2100"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 10:00 - 21:00",
+                "Tuesday: 10:00 - 21:00",
+                "Wednesday: 10:00 - 21:00",
+                "Thursday: 10:00 - 21:00",
+                "Friday: 10:00 - 21:00",
+                "Saturday: 10:00 - 21:00",
+                "Sunday: 10:00 - 21:00"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "landmarks",
+                "localized_name": "Sights & Landmarks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Sights & Landmarks",
+                "localized_name": "Sights & Landmarks",
+                "categories": [
+                    {
+                        "name": "Architectural Buildings",
+                        "localized_name": "Architectural Buildings"
+                    },
+                    {
+                        "name": "Points of Interest & Landmarks",
+                        "localized_name": "Points of Interest & Landmarks"
+                    },
+                    {
+                        "name": "Observation Decks & Towers",
+                        "localized_name": "Observation Decks & Towers"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [
+            {
+                "location_id": "20932014",
+                "name": "Xinyi District"
+            }
+        ],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "187"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "572"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "291"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "782"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "585"
+            }
+        ],
+        "awards": [
+            {
+                "award_type": "Travelers Choice",
+                "year": "2024",
+                "images": {
+                    "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png",
+                    "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2024_L.png"
+                },
+                "categories": [],
+                "display_name": "Travelers Choice"
+            }
+        ]
+    },
+    "google": {
+        "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU",
+        "id": "ChIJSTLZ6barQjQRMdkCqrP3CNU",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "02 8101 8898",
+        "internationalPhoneNumber": "+886 2 8101 8898",
+        "formattedAddress": "110, Taiwan, Taipei City, Xinyi District, Section 5, Xinyi Rd, 7\u865f89\u6a13",
+        "addressComponents": [
+            {
+                "longText": "89\u6a13",
+                "shortText": "89\u6a13",
+                "types": [
+                    "subpremise"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "7\u865f",
+                "shortText": "7\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 5, Xinyi Road",
+                "shortText": "Section 5, Xinyi Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u897f\u6751\u91cc",
+                "shortText": "\u897f\u6751\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Xinyi District",
+                "shortText": "Xinyi District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taipei City",
+                "shortText": "Taipei City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "110",
+                "shortText": "110",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QQ32HM7+FX",
+            "compoundCode": "2HM7+FX Taiwan, \u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u897f\u6751\u91cc"
+        },
+        "location": {
+            "latitude": 25.0336752,
+            "longitude": 121.56488309999999
+        },
+        "viewport": {
+            "low": {
+                "latitude": 25.0323479697085,
+                "longitude": 121.56313906970851
+            },
+            "high": {
+                "latitude": 25.035045930291506,
+                "longitude": 121.5658370302915
+            }
+        },
+        "rating": 4.5,
+        "googleMapsUri": "https://maps.google.com/?cid=15350791680915855665",
+        "websiteUri": "https://www.taipei-101.com.tw/tw/observatory",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T13:00:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"postal-code\">110</span>, <span class=\"country-name\">Taiwan</span>, <span class=\"region\">Taipei City</span>, <span class=\"locality\">Xinyi District</span>, <span class=\"street-address\">\u897f\u6751\u91cc Section 5, Xinyi Rd, 7\u865f</span>89\u6a13",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 32787,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Taipei 101 Observatory",
+            "languageCode": "en"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 11,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "specialDays": [
+                {
+                    "date": {
+                        "year": 2025,
+                        "month": 5,
+                        "day": 15
+                    }
+                }
+            ],
+            "nextCloseTime": "2025-05-15T13:00:00Z"
+        },
+        "shortFormattedAddress": "Section 5, Xinyi Rd, 7\u865f, Taipei 101, 89\u6a13",
+        "editorialSummary": {
+            "text": "Sleek 89th-floor observation deck offering sweeping, 360\u00ba city views & a souvenir shop.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZak83b1F3EAE",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "Amazing experience at Taipei 101!\nThe building is iconic and the view from the top is stunning. The elevator was super fast\u2014I felt my ears pop a bit! Totally worth it for the amazing view of Taipei. The tuned mass damper was also interesting to see. A must-visit when in Taiwan!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Amazing experience at Taipei 101!\nThe building is iconic and the view from the top is stunning. The elevator was super fast\u2014I felt my ears pop a bit! Totally worth it for the amazing view of Taipei. The tuned mass damper was also interesting to see. A must-visit when in Taiwan!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Kh\u00e1nh Ng\u1ecdc",
+                    "uri": "https://www.google.com/maps/contrib/107851671461699318627/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxFqm6opDAVVHmOK_1Sh6mI7_EFKjYPnxu0Gdhgl4pV9BaTThe=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-05-02T01:09:43.116387Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZak83b1F3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZak83b1F3EAE!2m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            },
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3X3N2eDVnRRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "A must-see attraction in Taipei! The Taipei 101 Observatory offers breathtaking views of the city, and on clear days, you can see all the way to the surrounding mountains. The elevator ride is impressively fast, and once you reach the top, the panoramic views are absolutely stunning.\n\nThere\u2019s also an informative exhibition about the building\u2019s construction and the technology behind it, including the massive wind damper that helps stabilize the tower during storms and earthquakes.\n\nThe observation deck is spacious, with plenty of spots for photos, and the staff are friendly and helpful. It can get crowded during peak times, so it\u2019s a good idea to visit early in the day.\n\nA fantastic experience for tourists and locals alike\u2014don\u2019t miss it when in Taipei!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "A must-see attraction in Taipei! The Taipei 101 Observatory offers breathtaking views of the city, and on clear days, you can see all the way to the surrounding mountains. The elevator ride is impressively fast, and once you reach the top, the panoramic views are absolutely stunning.\n\nThere\u2019s also an informative exhibition about the building\u2019s construction and the technology behind it, including the massive wind damper that helps stabilize the tower during storms and earthquakes.\n\nThe observation deck is spacious, with plenty of spots for photos, and the staff are friendly and helpful. It can get crowded during peak times, so it\u2019s a good idea to visit early in the day.\n\nA fantastic experience for tourists and locals alike\u2014don\u2019t miss it when in Taipei!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Lau Guan Zhen (Sean)",
+                    "uri": "https://www.google.com/maps/contrib/111510773764729640794/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5BlZx4dqH3OGtISOZEkZWCNCoiltHoVwqsu5qsJH_gj6jI-fx=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-03-26T07:34:38.046973Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3X3N2eDVnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3X3N2eDVnRRAB!2m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            },
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3X3JLZk1nEAE",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Nice experience for a not-too-bad price. We bought tickets at the counter during a weekday afternoon with no line for purchase, and were at the observatory within 10 minutes. A nice way to chill and take in the sights of the panoramic view of the city especially during the sunset. Make sure not to miss the tuned mass damper which is a really cool feat of engineering.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Nice experience for a not-too-bad price. We bought tickets at the counter during a weekday afternoon with no line for purchase, and were at the observatory within 10 minutes. A nice way to chill and take in the sights of the panoramic view of the city especially during the sunset. Make sure not to miss the tuned mass damper which is a really cool feat of engineering.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Gerald Soliman",
+                    "uri": "https://www.google.com/maps/contrib/108219787331027369800/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1UIX1AZ40WdxWJWcYlqyiNnt5gQmphNn7UtIca-VXtt1hcW1L=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-03-26T06:12:56.035745Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3X3JLZk1nEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3X3JLZk1nEAE!2m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            },
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZdHVhcEZnEAE",
+                "relativePublishTimeDescription": "a week ago",
+                "rating": 5,
+                "text": {
+                    "text": "As an observation deck and tall towers go, Taipei 101  is up there with the best (if not the best).\n\nI have been to many around the world, but this one is spectacular. There are so many things to see and do up there, different installations to interact with. It's really spacious and was not so busy on a weekend!\n\nWe loved being able to see the Tuned Mass Damper which are normally of limits in many other towers.\n\nThe views of Taipei from the 89th-floor are incredible (360 degrees) and the elevator ride up is one of the world's fastest in the world, reaching the 89th-floor observatory in just 37 seconds for an unforgettable city view.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "As an observation deck and tall towers go, Taipei 101  is up there with the best (if not the best).\n\nI have been to many around the world, but this one is spectacular. There are so many things to see and do up there, different installations to interact with. It's really spacious and was not so busy on a weekend!\n\nWe loved being able to see the Tuned Mass Damper which are normally of limits in many other towers.\n\nThe views of Taipei from the 89th-floor are incredible (360 degrees) and the elevator ride up is one of the world's fastest in the world, reaching the 89th-floor observatory in just 37 seconds for an unforgettable city view.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "antzarmy",
+                    "uri": "https://www.google.com/maps/contrib/110826770485234040691/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaRaPSEhCLtREexLbFiEOHrXlemO-YxjqIf-2YkcIbEazfHALW=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-05-04T06:01:50.887793Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZdHVhcEZnEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZdHVhcEZnEAE!2m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            },
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvb2FlV2J3EAE",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 4,
+                "text": {
+                    "text": "What an amazing experience at Taipei 101! The NT600 ticket was totally worth it \u2014 it includes access to the observatory and some discount coupons for shops on the 89th floor. I loved the interactive exhibits, especially the personalized Coca-Cola bottle station (yes, you can print your name on it! By buying coca cola from their souvenir shop behind. and the massive golden damper ball with fun robot mascots around it.\nThe Doraemon corner was super cute and perfect for photos \u2014 just don\u2019t touch! The views from the top are unbeatable, and sipping Milksha bubble tea with the glowing Taipei 101 neon sign behind me was a moment I\u2019ll never forget.\nGreat for solo travelers, super IG-worthy, and very well organized. Highly recommend!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "What an amazing experience at Taipei 101! The NT600 ticket was totally worth it \u2014 it includes access to the observatory and some discount coupons for shops on the 89th floor. I loved the interactive exhibits, especially the personalized Coca-Cola bottle station (yes, you can print your name on it! By buying coca cola from their souvenir shop behind. and the massive golden damper ball with fun robot mascots around it.\nThe Doraemon corner was super cute and perfect for photos \u2014 just don\u2019t touch! The views from the top are unbeatable, and sipping Milksha bubble tea with the glowing Taipei 101 neon sign behind me was a moment I\u2019ll never forget.\nGreat for solo travelers, super IG-worthy, and very well organized. Highly recommend!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Ei Mon Naing",
+                    "uri": "https://www.google.com/maps/contrib/115588537192954895859/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfqPk406Sik6QT_OwUKAKYiz-OPAmGDP5uCzSw0zGzKITUalNE=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-17T15:36:13.897381Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvb2FlV2J3EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvb2FlV2J3EAE!2m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/photos/AXQCQNSi8SHUVT3MWuNmTLISWwm43kqS8i-93R1l8KaZM-So983eD8I6WivJQF9cHfhHLTmQDrMWjoFbJFcvsete-zKdnkUfK_V7mK9l5g4VivuvSNJqQU2M2UZIApz34Iui0u27MsRqvmOPnjBVZhrHG62DrXo3PbS0ecu-qNiHo6jNCgeyR374Gu76dyZX9Zpu70UGykFhi-xvDDmSRIP1vyD2FyFJwijAwOk5BoeVMge7-x59yD4ygMwS-PNkmIu2uqx6qJI-AZFOZt_SmDMS7o8yPT9CrwCm-XsIpTxHh4k-jM7JPNBDxoB-gzs-D0oWEqcw2IKfQRt5DrxKjyK40wCi4-fRI0oCbRIp9taj0wcoWcfDxczm5w0xFrN5GQ16khpC4gYqmrfgIQEec2gFIdeptxtwV_MGcNiJpGk1NR0",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6f58\u5fd7\u5f37",
+                        "uri": "https://maps.google.com/maps/contrib/116904374243723631638",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL5pLWlMdHGh8MgPiC7m7OWpEdr5X2KOjOI7tbEpJIsFy8KKg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhrZLZNw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhrZLZNw!2e10!4m2!3m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            },
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/photos/AXQCQNR_wX9UNjaBamvF7MwcR1NbdEwGy1OUebseAessE5aEJkuoi9pYXYT_UR9qr3pzQVXiJ7iz-wPpH4jC9WetYE3gJTg3zVY7lvKSjyaFaAnsiUukLgmKJVE0oSEkyL_u8JexfWy03JVrdh6NUQ1VQZOx3-PTr4gR6-Fv3dZ94ARDRZyiW87o34naayqjoTsqwf4cR9RxWLE5OXbHZRnMOERciGSYoWgxoF5ZfjrrGRFIUjGViWnPIZfVvG1oIiDnjwbybCfL196XMdP9kGDaZ_LfD0Bw9TTLM48FnpyU6hWP4Pr_V0cO6lAPr669NVn_Z7G9lB74qgtiFk9NMCt8yLb8UZsyHlmoZFtm9SkVG3TRvdwjlEuiPXW2wmHu4ZekoVo1DRFIjOBdZsikkPoUVQP2uV4tBxjvzjkvw9GwSmqapt3V",
+                "widthPx": 3654,
+                "heightPx": 2689,
+                "authorAttributions": [
+                    {
+                        "displayName": "J C",
+                        "uri": "https://maps.google.com/maps/contrib/111532124941397537285",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUH6rOIF7Isoz2WcIUKh6w0uRzR-Q2dLsZvlahXRHDy9GwhH0Qs=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICuiZjOogE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICuiZjOogE!2e10!4m2!3m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            },
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/photos/AXQCQNRKE6ymdMh2K5VBEjf3ypqpxA2fc2TtwX1p19GgG9y54hL3haEYPKlnd0jY_hHhU3hWV-TPdsl-p1dbVCQt30FXneRu1UQ4RFC27i2xtCnGxhc0d9t26omDR8vTGGve2_uFf6Kp3IRG728wTzXRYxrbgS1kXdjGBFZQ8diEcvz5NwBVkgsjZ-AO1n94rbCRAq_4TIQQBKF4rmDfvVH5bLpDxPheze3HaBPJcI6IlD0hvbdsr3FSqFml5ORYGfFbj7WmgRJC3vcN-2cXHQdZgZO9vMEYAJ5accCwBm0HAOJ2cAJbOy89IfAqp1gweCFcnj2-CkLzJKcwblXUWrEiGi1-mzBANZ9sW3HNPh4QOZC6RtvhvAAAy7IHemUOyfNLhpfBjDh2HqzFoKTW9FlOl5cFQefQoZB0YWGpKEFRxkN2GA",
+                "widthPx": 3600,
+                "heightPx": 4800,
+                "authorAttributions": [
+                    {
+                        "displayName": "Justin Ang",
+                        "uri": "https://maps.google.com/maps/contrib/101425926814763634867",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-B0VmRHLM5rVpaHUZiTPo4H1UafQ0cOr9je_wN78Ib_Gl92p5=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICt6te8Fg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICt6te8Fg!2e10!4m2!3m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            },
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/photos/AXQCQNRVGuJK4-BuLIdu0YaONIteoAC50fACk-QIZ0XqL-PdkzNLDWUxxPhMtJt1uGPgDxOUOMNvyLunRNIHWx0THI-ENQ-i7f06ZwxT6eDdq6i64YQJtSGYRS2NkWAiad8P_LIpzVEZSex96b94goNzdrIi6sNcIhji4tUwubqP9fSCCDgJcM4oxagopOn-TY6D8TSlCYFCgruSV9aW-akcwBPEImVWZwwiUr8fSi-k6o3kdDF2tUBvTlolNAxGnKIjKmTfhTJdCqAOJTaj5uT5pPiZMaAhC7rbexkR9wrcWPcWjY_bgggRnJqW5Eym9rN0ej2uAQKymMGoCaEWMeqZW8qaHht7aioT5dPoxCX_3s4Wux9sCDsvxRW8Vgvieq3wJcySjnLUwKutzzybVqkY4OzZN3A8nOLhR8jCscnlTviueHGm",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "yang alice",
+                        "uri": "https://maps.google.com/maps/contrib/110624539255823764439",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXC65oCUpPKHCbzsUyp_M3skQSYDS9DXq99-9mQl9-aWz7Of107Cg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDul5L-nQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDul5L-nQE!2e10!4m2!3m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            },
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/photos/AXQCQNSyepyBTMXSeZZBVVPFO1nus7JzXSiIKQigTo43OkBFu2QSaiycS1QAmX-U0SnR6T1Gu2A66sKxMDyP-Htg3k9hRGSVr2LKZiohK8r-ZLvsBan5CTJOBdxOV4SuJx7l54HezJNpxe4SDoYjTWlPEFCCGMzV0l-LHk2c-iZndFE4Bqh_KcM_S8Wng65X3LghX5D2p9JbxAI4-EMNLXhvIwp-zU5XHCMVcVpCkrKQz6hxMcw0fqpjTsZjD1Ru4xUfhUOKYlczFOpGWth1ZJbK0tVCos9j5dWm5K959PAT0gNDAQJZL5_Cqm9EbVDLHir42GdcYORGj4SsqRY6RmighFgJOTcWqKpzMNAi6_7O3WWOR30elmWkDkLMxXZYoMd-x2LKrPgKqYOTQ6ft_jZcz-7N-_e0K-_U_hhRoKU8foIvZ5s",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Tony Sung",
+                        "uri": "https://maps.google.com/maps/contrib/105317659587240000179",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI8Kk69gXZoCcizgOthHMw3x4cwsHdgK37ugc3LBEZ37az5PA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDusevBnAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDusevBnAE!2e10!4m2!3m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            },
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/photos/AXQCQNQP8EFKgudLP7aa0zaobm7ErWCl9fYY3l2RprKM0brwmlQnejJaL9_6nzfexrc_Ov-OAQ8AJartXRAlO-6HEn38fmrHH3N1piVs-2b2AXuLy_8OhydiNGoxAWHwvCyMkMSQy1nRPA70s19_KMExDkSPgZyptd0iUr0htIUaBbFNQbkpVC73rkx3cbksYg-L8LXrm8tO4aAkPqNFW_VlVIi3EW0Gs9GaNoxAg_dhPnD-8hgafenAS6u5y1wbNzLBmLg94VfhWLbOcZ6EVBbVzIcnHR4tmoJkbSp4f2YvA37lxbfR97LVPl3pqBqBzLhyTGYL_Yniv8a_wzeg6mgj5nWJsZAKRVu8O_ejn6JVPjgKkbiyiFkmbsxgyWHnTNCcPnJC3kUefT9q7J_9K6zn32wsAF9X8wvPKHWwOkRrcmtydg",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "River Huang",
+                        "uri": "https://maps.google.com/maps/contrib/103210447265880424107",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxTAEU3vC-5vbSYIM-Ps-B2REyaQgeADvK7D6u6sn8y1dQxVjf=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu67m6Zw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu67m6Zw!2e10!4m2!3m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            },
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/photos/AXQCQNRt2z9iiagrkvKp6vf4oUD0BqhLb9WPr3EP3codZXYJbsbyjDe6ZX1ztDFHnrnPkB27t0pyvP8XimQ0tS5igXQ2yhgfAxShAZ6eg6ICFAdZl47QGry3suRnNP-rXs0g38UpIwiiCoaKHRsXAqBhjcbzBKEQ0LOZvuXXR0KwfGGULJ-5TjKfqy4PcUlU9rDgJnmX4u8RY9VaoqRwxO4khQZ7xt8hRxGOMf5xARCortdIWx0CrucaUh-Cztjka8uoRtIhAc1RlKumKYyCj2bZpr3ti40LYy07IvZqOzdXvixsppogRTteJJR4O6UrLf-IewKaa3grS3oqXmUHRmVmQw1k6AHD8cFK8xcMDoI8ulwj10sTSU5wrGutmjgOR6TDbqMxWVQKFx1kI8OvEEYBCWD_ZeiFayEDnbKAqe4xGs_t2A",
+                "widthPx": 3000,
+                "heightPx": 4000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Abegail Cantoria",
+                        "uri": "https://maps.google.com/maps/contrib/111990377105477584865",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpRJAZU6-lthXdfCd78df7L2f0By6LQhOJX4pHRfcX-U9zyZiD=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICR6p7eKA&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR6p7eKA!2e10!4m2!3m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            },
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/photos/AXQCQNSWDAKcwC36nExaB9tldmFzy4YOh4fO43pQ7b3p5Y8ENGz49PxZk6Q-7S_73umsdsqecpLDYpZ-fw_5WrebTm3QTfaggj-e6NUEOkGtEwiVuIPmfeaHaK-3H6V2YPsmotvalV9epyr-mz6EMuIAgY639ikJbFqsrUItsKQGMkaWmafqriL6O4rK22IXLZWkUJodOI_oE_SpipRKymJ3mrKd8pBvRFzYZPgUvz8vh_bEVFG2n6XZ4o9k9Rk5dM16mN_ZLkBNZxqBfh2_aUlhyUnAxydNG0aPcZwJEpfhFI9PPcaMo_gkRIVfhAAQenFOp4v7IVi4oBrEC4hU-wAs7r-cDuuxJclUjanSFsusip16VGPzxR7xcxwFhRUYzyI4k9o7y-PHc7solW5qEyKLt6r_9-S8AUSnJS6x9-BR-38",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "Hui Lee",
+                        "uri": "https://maps.google.com/maps/contrib/108062752388345272245",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKVSQVSbo44umRIDtQjFfM-phz5AcaEfNmaqxBh3njClG31xSo=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICespbwFw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICespbwFw!2e10!4m2!3m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            },
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/photos/AXQCQNT7aE7yv9UbuEW-6l4bFtEJ5F6T2hL2Ulj5eHFWdMEnPbFWZQAXbT_94qnBODdwWcvm9VoCDlFyge-sVCfoVoPEiyeXLz0aNpr92nQwAOTR8ql0TeFeLI3ojIaw88v6_XbTtJUyQn3y9fcKNT4mpBRP6HDk6Z3Z4a4eStUFfiGeE1z6me9-mIovkD1CoL5nVSKqWeAMwG4D8_RmAq2SVD1-_mMJpbwuoQ2dOnbI11zu4ZbPMQUik6Zk91sOM-wdn67jZruptrr9eHrESzjDGqFYCg8iDM9iCYn-AVpxTEf6N0eUE_6haLk9_QyxngDRY6Yq0ZfCFJECOXXBn5lLYIp8sTK2IHFLF1Tc39237iqilNRpSKkQE8vzNihrUZ2sNqH4E7uypA01Qoab4YWYSHkhjCQgCnsT8QVp6yUAoq9GJppq",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Yuwei",
+                        "uri": "https://maps.google.com/maps/contrib/102108512975282880883",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqjzUZRmUbMEDDMl4s4VypW9TwEA8TCIbYo6rX7DYqKwVaA6x2=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB7a6D6AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB7a6D6AE!2e10!4m2!3m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            },
+            {
+                "name": "places/ChIJSTLZ6barQjQRMdkCqrP3CNU/photos/AXQCQNTlszoq10xJ4QTMYrMJwyuXL1wsZZ0ff8XfsyKw8knEQMN9Py80RKIQsh2qAbpwTNsF2SUU4A4wO8lSvsfGvm4mBdiwp5HL62hhFihLVR-_xRC2IQURHb8MUhnkLojWDezo1vUSWBSbBLNYh-jQKw81YoxIxFVQSB5U3CDpvdtDwmsxX3j48kfCrc1pg94bctGioQhrQzgyg_CYkPbX_SI5rQ-8Fn5gw9EQTUFXN71DTKmbn0NYnI20PcvFbxxYpvWHvbME7EBc0LCqFG5iDvphdT57i_8dfBo9Q72AZStm-a-Z7GTUl0UUInmUN5GzbO9Sn-_2NKyfLGj8-HAOrsSNBKKFYKdhbM1_mVJ30Ax-zekZcXGaWokQd9AGZimyr6G_8UzqKm3OAxyQ20I0f-LRIlBD0CMIgcu9cScbYlS6z5nV",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Feng-Yi Li",
+                        "uri": "https://maps.google.com/maps/contrib/103398158664530152260",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWU_SeROC7p6YkaK6kn-3xrWzByaw5W_N36z8wwPH74XtN3Xb84jQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-m4Cm5QE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-m4Cm5QE!2e10!4m2!3m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931"
+            }
+        ],
+        "goodForChildren": true,
+        "parkingOptions": {
+            "paidParkingLot": true,
+            "paidGarageParking": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true
+        },
+        "containingPlaces": [
+            {
+                "name": "places/ChIJraeA2rarQjQRPBBjyR3RxKw",
+                "id": "ChIJraeA2rarQjQRPBBjyR3RxKw"
+            }
+        ],
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJy-qHObarQjQRdukyRsgZ-Xw",
+                    "placeId": "ChIJy-qHObarQjQRdukyRsgZ-Xw",
+                    "displayName": {
+                        "text": "Taipei World Trade Center",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 253.39478
+                },
+                {
+                    "name": "places/ChIJjfzEsLCrQjQRsd6k1mO2-WA",
+                    "placeId": "ChIJjfzEsLCrQjQRsd6k1mO2-WA",
+                    "displayName": {
+                        "text": "ATT 4 FUN Xinyi Store",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "department_store",
+                        "establishment",
+                        "point_of_interest",
+                        "shopping_mall",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 218.11208
+                },
+                {
+                    "name": "places/ChIJraeA2rarQjQRPBBjyR3RxKw",
+                    "placeId": "ChIJraeA2rarQjQRPBBjyR3RxKw",
+                    "displayName": {
+                        "text": "Taipei 101 Shopping center",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "shopping_mall"
+                    ],
+                    "straightLineDistanceMeters": 100.054726
+                },
+                {
+                    "name": "places/ChIJLVgF7AirQjQRYDwyA8yU1U4",
+                    "placeId": "ChIJLVgF7AirQjQRYDwyA8yU1U4",
+                    "displayName": {
+                        "text": "Breeze Nan Shan",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "shopping_mall"
+                    ],
+                    "straightLineDistanceMeters": 128.89352
+                },
+                {
+                    "name": "places/ChIJNzLZ6barQjQRouusCFP6Uvo",
+                    "placeId": "ChIJNzLZ6barQjQRouusCFP6Uvo",
+                    "displayName": {
+                        "text": "ZARA",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "clothing_store",
+                        "establishment",
+                        "point_of_interest",
+                        "store"
+                    ],
+                    "straightLineDistanceMeters": 63.125214
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJ-4X7MrGrQjQRLORFjBrnUoc",
+                    "placeId": "ChIJ-4X7MrGrQjQRLORFjBrnUoc",
+                    "displayName": {
+                        "text": "Xinyi Plaza",
+                        "languageCode": "en"
+                    },
+                    "containment": "NEAR"
+                },
+                {
+                    "name": "places/ChIJxz3NwrCrQjQRq9zMUQ_FPdI",
+                    "placeId": "ChIJxz3NwrCrQjQRq9zMUQ_FPdI",
+                    "displayName": {
+                        "text": "Taipei Nanshan Plaza",
+                        "languageCode": "en"
+                    },
+                    "containment": "NEAR"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3442abb6e9d93249:0xd508f7b3aa02d931!3e0",
+            "placeUri": "https://maps.google.com/?cid=15350791680915855665",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442abb6e9d93249:0xd508f7b3aa02d931!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x3442abb6e9d93249:0xd508f7b3aa02d931!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x3442abb6e9d93249:0xd508f7b3aa02d931!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "110",
+            "administrativeArea": "Taipei City",
+            "locality": "Xinyi District",
+            "addressLines": [
+                "Section 5, Xinyi Rd, 7\u865f",
+                "89\u6a13"
+            ]
+        }
+    },
+    "description": "Step into the Taipei 101 Observatory, a breathtaking scenic spot perched on the 89th floor of the iconic Taipei 101 skyscraper.  As you ascend in one of the world's fastest elevators \u2013 a thrilling experience in itself \u2013 the anticipation builds.  The glass-walled cabin provides a glimpse of the city's ascent, transforming from a sprawling metropolis into a miniature landscape.\n\nUpon arrival, you're greeted by a panoramic vista that unfolds in a 360-degree sweep.  The cityscape stretches out before you, a dazzling tapestry of shimmering skyscrapers, verdant parks, and winding rivers. On a clear day, the mountains surrounding Taipei rise majestically in the distance, their peaks piercing the azure sky.  The vibrant energy of the city below is palpable, yet from this vantage point, you feel a sense of serene detachment, a bird's-eye view of bustling life.\n\nThe observatory itself is spacious and well-designed, offering multiple viewing platforms to ensure everyone gets the perfect shot.  Interactive exhibits offer insights into the engineering marvel that is Taipei 101, highlighting the building's construction and the ingenious tuned mass damper \u2013 a giant, gleaming sphere that helps stabilize"
+}

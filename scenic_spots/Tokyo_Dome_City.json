@@ -1,0 +1,973 @@
+{
+    "name": "Tokyo Dome City",
+    "tripadvisor": {
+        "location_id": "324261",
+        "name": "Tokyo Dome City",
+        "description": "A fun way to spend the day in Tokyo for both adults and children. Full of great shops and eateries as well as rollercoaster rides and live entertainment shows for children.",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g1066442-d324261-Reviews-Tokyo_Dome_City-Bunkyo_Tokyo_Tokyo_Prefecture_Kanto.html?m=66827",
+        "address_obj": {
+            "street1": "Koraku 1-3-61",
+            "city": "Bunkyo",
+            "state": "Tokyo Prefecture",
+            "country": "Japan",
+            "postalcode": "112-0004",
+            "address_string": "Koraku 1-3-61, Bunkyo 112-0004 Tokyo Prefecture"
+        },
+        "ancestors": [
+            {
+                "level": "Municipality",
+                "name": "Bunkyo",
+                "location_id": "1066442"
+            },
+            {
+                "level": "Region",
+                "name": "Tokyo",
+                "location_id": "298184"
+            },
+            {
+                "level": "State",
+                "name": "Tokyo Prefecture",
+                "location_id": "1023181"
+            },
+            {
+                "level": "Region",
+                "name": "Kanto",
+                "location_id": "298156"
+            },
+            {
+                "level": "Country",
+                "name": "Japan",
+                "location_id": "294232"
+            }
+        ],
+        "latitude": "35.70514",
+        "longitude": "139.75394",
+        "timezone": "Asia/Tokyo",
+        "phone": "+81 3-5800-9999",
+        "website": "http://www.tokyo-dome.co.jp/",
+        "write_review": "https://www.tripadvisor.com/UserReview-g1066442-d324261-Tokyo_Dome_City-Bunkyo_Tokyo_Tokyo_Prefecture_Kanto.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "1066442",
+            "ranking_string": "#1 of 4 Water &amp; Amusement Parks in Bunkyo",
+            "geo_location_name": "Bunkyo",
+            "ranking_out_of": "4",
+            "ranking": "1"
+        },
+        "rating": "4.1",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+        "num_reviews": "764",
+        "review_rating_count": {
+            "1": "5",
+            "2": "12",
+            "3": "134",
+            "4": "370",
+            "5": "243"
+        },
+        "photo_count": "852",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g1066442-d324261-m66827-Reviews-Tokyo_Dome_City-Bunkyo_Tokyo_Tokyo_Prefecture_Kanto.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "landmarks",
+                "localized_name": "Sights & Landmarks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            },
+            {
+                "name": "amusement_parks",
+                "localized_name": "Water & Amusement Parks"
+            },
+            {
+                "name": "sightseeing_tours",
+                "localized_name": "Tours"
+            },
+            {
+                "name": "shopping",
+                "localized_name": "Shopping"
+            },
+            {
+                "name": "activities",
+                "localized_name": "Activities"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Shopping",
+                "localized_name": "Shopping",
+                "categories": [
+                    {
+                        "name": "Shopping Tours",
+                        "localized_name": "Shopping Tours"
+                    }
+                ]
+            },
+            {
+                "name": "Tours",
+                "localized_name": "Tours",
+                "categories": [
+                    {
+                        "name": "Shopping Tours",
+                        "localized_name": "Shopping Tours"
+                    }
+                ]
+            },
+            {
+                "name": "Sights & Landmarks",
+                "localized_name": "Sights & Landmarks",
+                "categories": [
+                    {
+                        "name": "Points of Interest & Landmarks",
+                        "localized_name": "Points of Interest & Landmarks"
+                    }
+                ]
+            },
+            {
+                "name": "Water & Amusement Parks",
+                "localized_name": "Water & Amusement Parks",
+                "categories": [
+                    {
+                        "name": "Theme Parks",
+                        "localized_name": "Theme Parks"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [
+            {
+                "location_id": "7278769",
+                "name": "Yotsuya / Iidabashi"
+            }
+        ],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "17"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "127"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "114"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "218"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "127"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g",
+        "id": "ChIJuxkVQeCNGGARfFgbeDEPG6g",
+        "types": [
+            "amusement_center",
+            "shopping_mall",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "03-5800-9999",
+        "internationalPhoneNumber": "+81 3-5800-9999",
+        "formattedAddress": "1-ch\u014dme-3-61 K\u014draku, Bunkyo City, Tokyo 112-0004, Japan",
+        "addressComponents": [
+            {
+                "longText": "61",
+                "shortText": "61",
+                "types": [
+                    "premise"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "3",
+                "shortText": "3",
+                "types": [
+                    "sublocality_level_4",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "1-ch\u014dme",
+                "shortText": "1-ch\u014dme",
+                "types": [
+                    "sublocality_level_3",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "ja-Latn"
+            },
+            {
+                "longText": "K\u014draku",
+                "shortText": "K\u014draku",
+                "types": [
+                    "sublocality_level_2",
+                    "sublocality",
+                    "political"
+                ],
+                "languageCode": "ja-Latn"
+            },
+            {
+                "longText": "Bunkyo City",
+                "shortText": "Bunkyo City",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Tokyo",
+                "shortText": "Tokyo",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Japan",
+                "shortText": "JP",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "112-0004",
+                "shortText": "112-0004",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "8Q7XPQ42+4R",
+            "compoundCode": "PQ42+4R Bunkyo City, Tokyo, Japan"
+        },
+        "location": {
+            "latitude": 35.7053406,
+            "longitude": 139.7521112
+        },
+        "viewport": {
+            "low": {
+                "latitude": 35.7043618697085,
+                "longitude": 139.75117501970848
+            },
+            "high": {
+                "latitude": 35.70705983029149,
+                "longitude": 139.75387298029148
+            }
+        },
+        "rating": 4.2,
+        "googleMapsUri": "https://maps.google.com/?cid=12113292327885953148",
+        "websiteUri": "https://www.tokyo-dome.co.jp/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 21,
+                        "minute": 0
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T12:00:00Z"
+        },
+        "utcOffsetMinutes": 540,
+        "adrFormatAddress": "<span class=\"street-address\">1-ch\u014dme-3-61 K\u014draku, Bunkyo City</span>, <span class=\"region\">Tokyo</span> <span class=\"postal-code\">112-0004</span>, <span class=\"country-name\">Japan</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 7933,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Tokyo Dome City",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Amusement Center",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 21,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T12:00:00Z"
+        },
+        "primaryType": "amusement_center",
+        "shortFormattedAddress": "1-ch\u014dme-3-61 K\u014draku, Bunkyo City",
+        "reviews": [
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvamVqVnBBRRAB",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 5,
+                "text": {
+                    "text": "A Great All-in-One Entertainment Spot in Tokyo\n\nTokyo Dome City is a vibrant urban entertainment zone that truly has it all.\n\nFrom the iconic Tokyo Dome and relaxing LaQua spa to various hotels nearby, everything is conveniently located in one area.\n\nI especially enjoyed the wide range of restaurants, caf\u00e9s (including Starbucks), a bakery, and even a supermarket \u2014 perfect for both short visits and longer stays.\n\nThere are plenty of leisure activities, shopping stores, and entertainment options to keep everyone busy. Plus, the area is easily accessible as it's close to the metro.\n\nA great place to explore, relax, and have fun in the heart of Tokyo!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "A Great All-in-One Entertainment Spot in Tokyo\n\nTokyo Dome City is a vibrant urban entertainment zone that truly has it all.\n\nFrom the iconic Tokyo Dome and relaxing LaQua spa to various hotels nearby, everything is conveniently located in one area.\n\nI especially enjoyed the wide range of restaurants, caf\u00e9s (including Starbucks), a bakery, and even a supermarket \u2014 perfect for both short visits and longer stays.\n\nThere are plenty of leisure activities, shopping stores, and entertainment options to keep everyone busy. Plus, the area is easily accessible as it's close to the metro.\n\nA great place to explore, relax, and have fun in the heart of Tokyo!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Libi Mirkin",
+                    "uri": "https://www.google.com/maps/contrib/111600482981772199527/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAwuPJ9pC9nOsaJWrIx5vx8C8ce8xNtRMPp8gyjL3i3fQTddA0=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2025-04-19T00:03:00.113027Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvamVqVnBBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvamVqVnBBRRAB!2m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            },
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJLU96MXJRRRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Fun, clean comfortable stadiums, but the fan experience is so much fun. Everyone immersed in the game in an organized melodic fashion",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Fun, clean comfortable stadiums, but the fan experience is so much fun. Everyone immersed in the game in an organized melodic fashion",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Ben C",
+                    "uri": "https://www.google.com/maps/contrib/117874164826533839792/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV962Ws4a3XvnpDBEmsfxuJhlObyxq36q20eLE0prw3TxYtHclD=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-03-30T06:00:00.922212Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJLU96MXJRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJLU96MXJRRRAB!2m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            },
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmX2VXdnZRRRAB",
+                "relativePublishTimeDescription": "4 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Beautiful palce to hangout! Fun, many attractions here! There are also many choices of international cuisine!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Beautiful palce to hangout! Fun, many attractions here! There are also many choices of international cuisine!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Olha Chayo",
+                    "uri": "https://www.google.com/maps/contrib/115272925048818195932/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXX-330CgPDSMpl6mAyk_N9Wtapm_iFiGVp_O-1X9vTkop-THqsPQ=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-01-01T00:26:54.815813Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmX2VXdnZRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmX2VXdnZRRRAB!2m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            },
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/reviews/ChdDSUhNMG9nS0VJQ0FnTURJa1B1MGpBRRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "OMG. The Rollercoaster is a bit mad. We opted for the queue jump and time was short (and the queue long).\n\nNo entry price to this park, you pay for each of the rides as you go.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "OMG. The Rollercoaster is a bit mad. We opted for the queue jump and time was short (and the queue long).\n\nNo entry price to this park, you pay for each of the rides as you go.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Dan Brookman",
+                    "uri": "https://www.google.com/maps/contrib/101965106676755492189/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_xGLm99zgdzujRVKJHYWcABQfUfjSXqCeldgKk0VBIRtqRItC=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-04-06T08:59:47.692929Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJa1B1MGpBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJa1B1MGpBRRAB!2m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            },
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYdDUyQ2hnRRAB",
+                "relativePublishTimeDescription": "6 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Came here for the limited time Kaiju No. 8 exhibit and of you're a fan of the show I highly recommend coming here. Staff were very nice and spoke enough English to get me a ticket on site. You can get tickets online as well but those seem to require a Japanese phone number. There's also a food court next door with some cool anime related dishes that I did not indulge in.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Came here for the limited time Kaiju No. 8 exhibit and of you're a fan of the show I highly recommend coming here. Staff were very nice and spoke enough English to get me a ticket on site. You can get tickets online as well but those seem to require a Japanese phone number. There's also a food court next door with some cool anime related dishes that I did not indulge in.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Kevin Duong",
+                    "uri": "https://www.google.com/maps/contrib/110784072459403481369/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJGGGQ5WUCXr6RiSlVWOw8fnHCzwQVjOPd2pb-wfty9Cssu8Q=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2024-10-21T18:50:08.353259Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYdDUyQ2hnRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYdDUyQ2hnRRAB!2m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/photos/AXQCQNR8aSpVVXHfioYw2HmKfPc-vRRnAYnkQkff8_Le55S5B7pnXyPalw44miXu6mNdd--3FF-5XISf-SRHqkGtapDKQiqJx3zZhAi2T7RkHw9nOBWkWPPND8umAaQk1i2ybAiD1uq1QTdg27YoXdt9ENBoXLJF3ZzFX08ixhBRzMkJj0WXP2EWlq4wXJtvf_-ky_nGzABAU4k-RDB3ur5YC901QgASHv-rDApaFwZmqIDqBccHHJwjDN5wnx4_Z9FlA6_GTmWSN4GW_eTGxLEDuKD3HFf_3a85nTrj_9XQPkdQPQ",
+                "widthPx": 680,
+                "heightPx": 509,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6771\u4eac\u30c9\u30fc\u30e0\u30b7\u30c6\u30a3",
+                        "uri": "https://maps.google.com/maps/contrib/113920076418352207640",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9rWV7K-MdJSygNo5p9KRb3K-PRlhA1oxnWbl0JY8AhLYxgQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPoZmS95U0aFhgjYXvZ0OYKpWia-Oudd-ZXy_Cg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPoZmS95U0aFhgjYXvZ0OYKpWia-Oudd-ZXy_Cg!2e10!4m2!3m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            },
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/photos/AXQCQNRtsL5jCkvuOE4MT0mZ-N-KZwYT6SV6FYd2q3M8MaJcsRKLIN_vvgxZu_kn5izyP4pynIE4YWbmAm_uYJIhL7_Z-0RNGBT6c-T-NkGhMmmPMN5-S5JoAkCqM5qWq9PK_ntGKcpLmAKuUI9pRM_k0hXkuMQcVhblW9SF9rsYZo_RCOilcZW3tuYhUKdSkMPk2VxdUgZBSONiMTv6RQgteel1_-h6N8B2esrwtxNA1c_-mHZMRERBUTVmsFxRHH5uP3EaefxSxXQRmKp-JGnoJp1MMAA6hEHMaDhGo_YmeSG5wIocsXfMoS7lGSjr27cv9orOngRk_S7qEW_3scqdSehrLbx2FILW6FIKS5i5xRQGI72tVeEOGlTNn2xMq_Zc9B2r6_b2y4cgWiJtL0usHul782GjRCQPxjOZRaL1k745xg",
+                "widthPx": 4032,
+                "heightPx": 2268,
+                "authorAttributions": [
+                    {
+                        "displayName": "Yasushi Kudo",
+                        "uri": "https://maps.google.com/maps/contrib/113563571320859716765",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9_zd3vdBB96BtFYViDiCzqIZWTDQw36xuHDZv_0I9OyKvukuKng=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxj7voTQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxj7voTQ!2e10!4m2!3m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            },
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/photos/AXQCQNSvsy0BEYq2xEaUmklFrbF2w_dr4HkAk7FQnP2AKcDhRyuHe1AdiV4G2IPPVpcKQWKW9nxNL6a4Hjo-oY-R1MegT_botM8sLmlpU-gTO7p2-GvVcLsax4zZ5-shr3IW0XFv4SmaSvcfecxT82hL1HSoxq4g7mTsAGEnWk12JOzGbFhKKgWbJ_m4qACv0j1eaRjumoy1T0zhbTAK0sGlN_zz_Ite65N37tuH4NOdJFiCdZQkPpao5tbht94LlNJii6uVoCMCdjXpSsbLztRwWsrTaLsCG35H-YbTdkmc9p3WKYE8NRjAlclTmEKBgi6WOprNSU69cI1J2swHWlJOc6owJsguN7zUZqwdKO3MOx_9H_MiOgawd7TFpTjEl_HGkBK_dMwNTNSNt2f_LFyHIoE2B14dwT9-25cyIhMgOapdUw",
+                "widthPx": 4080,
+                "heightPx": 3072,
+                "authorAttributions": [
+                    {
+                        "displayName": "Dinyar Ghyara",
+                        "uri": "https://maps.google.com/maps/contrib/116277944518741781613",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXg0f36lN5TtqkbvqyqVBgGW6YVsexn4ivuZBO2DPAf0lp2xsA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICBu9XVDQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBu9XVDQ!2e10!4m2!3m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            },
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/photos/AXQCQNTDYxVO4jUrC3UxC22K0ItIXLHBcyVzDdTqhdirBSWrOJRLHbxOqrtM8xoTojR8PlT-Rnm3MMYtlqVMA6Bg8zbOVK4yJcerADx5-oHmfkoN4DWaBUNbH01QQ98aalCozEO8Hjk1ntlGBH0NVmlG_5sZEpJKQjRGF3jn5_wtRjyBeEw2oWd5vh4E3D0nEL6AGhi6Ml7ZZN8PBzY-MG9HuP5ASp_NokIsZ7eS9eVDtGDyXqlYmIPj_BL7wMNUJS1InKJSH8ScuRj9O1JttCOH14x4s9wAx4eUGOfXRc1-QdW7Uw",
+                "widthPx": 2000,
+                "heightPx": 1333,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6771\u4eac\u30c9\u30fc\u30e0\u30b7\u30c6\u30a3",
+                        "uri": "https://maps.google.com/maps/contrib/113920076418352207640",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9rWV7K-MdJSygNo5p9KRb3K-PRlhA1oxnWbl0JY8AhLYxgQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNxttLjWprvzaq-9uS0hBEKsxQZawYYd_0WjEu_&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNxttLjWprvzaq-9uS0hBEKsxQZawYYd_0WjEu_!2e10!4m2!3m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            },
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/photos/AXQCQNSvUJEW4ZaPJrU3id91jqtfRjJ_m4o_KBDmXQyYlOLxodTb0gSEI8fdzthHLXX5yQXl-Ncr_DHQ9QCx7P0actfZmV5_5z6tkyguNYpetIwuA9cObxVclbsfC4MlXsxC3yEqYcyWptkWLYjIYqO8i6PUndMLAeeK8Jn7MOyT5jpMi87pQPAMJabW4HAybchuxzx8Z-7SunY9KFXcQp55DzfkQo6cAAZOgcPb3T7JN3shQckPVPE7ZETyFN5Zlac61L9GPVGjjNU5n4IEFHFM62JgWxBK6eWObZF5dAu8kmcmI1XbAgSLsBtocMRcaXdtM_GtqO2cs6GmFc5QH9ShFdyOkNx0vfaVwAaVTnuhmhaX8dSQY5eW6jMqg9GSO3ChojBAaYVmd9hKsZvQBZ9EDf36wRUyf-F36bG0GrGD4NJpK50",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u912d\u5bcc\u540d",
+                        "uri": "https://maps.google.com/maps/contrib/103398408885830217955",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCOvqzYN36Xqi-8f-hHFV4r4SRfjinPZFOJfzqKEz1ftrtK9LZFQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhndL7ywE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhndL7ywE!2e10!4m2!3m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            },
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/photos/AXQCQNQEOhwifqg6V-xfwVz6nQBItPzzRY7GzVFvw7GZiZEHXHrNnj9Uml_zHVJJnt6FQ8dWmqkrbWpx-lh4mwVR5HK-qnx6nxok-CnIMe5DWYew_ARcfMn0aKxYe_7pnvxJz6SPIU0R-I2xKJB2dooSADQRfL2UvdZs9p4gEFmcQdXSVyOr6ak5vZPdaz_SEfTOMR3jLo5SBb_UXWppns-fipwIGkGylzAVh9ArF-cztpQgySN3Fcxc7j4NuiQcVAA0JXjk3WwhCRQ04-mpHp5NMfIKzPpwKFNFs5UNoNE3ncsU7U2oR0PozN-1W-bupETlmXwb94DO5kN5qJefTNGmaBumvS8Fd-Odb9jKXdYQG52gE7vcz3m2mo9T9dyA-M7NHul07J3v0DhsCwnA7n86L4x27M4ZzUEhOXOo2XvqqwsRBQ",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "RS-1",
+                        "uri": "https://maps.google.com/maps/contrib/113530901313533353618",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJGk6iTy0NgZdNcu4yk4LVzHlatGOPEV74UCsexyvqU2gGQaw=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxp6jRCQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxp6jRCQ!2e10!4m2!3m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            },
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/photos/AXQCQNR6tvB8ZV4csiGvp3-XoE-zFaxDu91c-hAcLcbM6SmU6ww3yyusVClWRa5lKIuxSmiWsv8cq9wUm3SSu71WkGMnySIPtCpfS5hZZpEODsVdSmwkfLGEK3w5yF-GvXLyfcisYFic7QxmQoL_0nVpbLECFOrhTahr2X305dmxJgKv0Yv9Agoz_IiIHp2iHfaQ4x0DolD9tyFG8jI_ndV9b_ZGhLktb14_p_GuvA_pkHbd42h7hMry6wwmYS9qZa5Db5rFs76rDqfN-y_TPGYqPohPB73ar7a5YMr2yVNDb8_vcSeX6ZNOBGEo_DGVdKFGN_XEWw5eZIMrHp8_4j_pThc-b7q5xV88G4pxCEDtMt_Hr8Yj5vkqvUsSNsRw74OH5oIT-bIP4JnXQipNQ4w9qiXS-DtRvPx9VZLnwQx0OLQ",
+                "widthPx": 4624,
+                "heightPx": 2608,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u559c\u9152Kish",
+                        "uri": "https://maps.google.com/maps/contrib/116961632491800039307",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTIqseIGmfWEf2lG7xJN1toLbWUru5K8oQz7Lx5Pss_ZPM_GOHDg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDh1ueXeg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh1ueXeg!2e10!4m2!3m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            },
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/photos/AXQCQNSZeUlN7JL0Ns4vzV0XM3NPiUHEgu6WsPIwib8RFI7gP_zbogScSCtLHtNZZvbZhIn-zPgPhVXJU3cATFVgB_XF05-KI81iahan2HYz-y3XqTKw8s9AfoSTywvPdnSVZI43Jkg8-o8JncAUqrhfQHhovfJ6gVXpzEVkDJPN3AnpkmG8oCQGuWQfLCF6BDs6sEbQOyjkk8PVBt38DdgDHku-3NBbnPqjUwa-Qjpr9JzFKYeX4n8J-JDICM8PMLMEMJTfrPPPADotQ4DtEByEFSwAhRyOILlYS8oUtewvbr0tNLqJis3CXCKlOHEZltR0xRrAH1DSR3glvHuIx81lsxY7-wf4nnFCP2yaj7LspGfT0xOTF8xkYL9iQnaBNf9PToWWvvQaU3qx8JVQIW_EFcNuEHmdyx6nYl0EVZmJufrBI-TA",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "daiyen pecopon",
+                        "uri": "https://maps.google.com/maps/contrib/109406473263487528061",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMO2VDvQNsaEprelpx5bbsxfafE0lFhE0cOdRqsi6s73iZ1BQY=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICBpsr1nAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBpsr1nAE!2e10!4m2!3m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            },
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/photos/AXQCQNRr0xTj2nVa1afSMAVKcGhNQZjLwmQlRE-a_gSdq9Mund1X6bkB_U9qmckgbVCXfZyyFGoJ0Qf-FyMj2Vzvbr1XvZV0iR09mrIDpnLv7JdjWyuhSZVJSW1R-eVj3ttzoO4p1wrRScrEk8ma30tTbr8uMcUaIKjAkm36v4JOx93X6IL2DxHiDSj9xXF5KkYYLKsm45O8MdQH_xVU0s0WZdLQWeGN4rXyLXKgBoI7oqIzVhW7tKrKd3dQnoDePOob5wU65iZgqjwWKQ5Ch6odTs8btYNYqjYTJEX7_fkXK71zKKwQGOjncG4U-lvs_qYzjzZkJz0lPqP1dTixCDBlVALQdudEv-FlcAOimORAyn5l5PBeF4fqrMMVzqCD4d6pIFEEa_60y5o2ZbMB3H4Qmdiz0SAJy_wkx9ltM-0XcFfw0MI",
+                "widthPx": 4800,
+                "heightPx": 3600,
+                "authorAttributions": [
+                    {
+                        "displayName": "Dae-Hee Kim (Game Play)",
+                        "uri": "https://maps.google.com/maps/contrib/105905094653260735346",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJdRypTglR-n3DYL-_IPEjmrhnDJna0MfBHwtNAUIneIUiT_Q=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_75b2iAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_75b2iAE!2e10!4m2!3m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            },
+            {
+                "name": "places/ChIJuxkVQeCNGGARfFgbeDEPG6g/photos/AXQCQNTkzE1cSqRGOvS1cjCt0znJ32mEnYKTKTtqRgN5jRcS-YjvcHQjDe7zrGuGmSGpmEV5NjDfmjkoaBSBYiKj7DQl1fxUdwQ7EtOF9BpI9ohYXqiWfS0kKcm-6dSVDWP65IlvIcY1QQ2t5koE2Wzn7Sd5Sr55T3paZ1kyiWUlWcM7idYso34jZH-wTlCJjB-arV0H6j2BeJIBYzIQJLjl0pB5zXlaTdlqAWMDudnNw0LpBWpvSs5LFU1vk5qd1-uOmnLItnqI0Lahh1f14KiqArMw964PCY7nZ0LObhDOziUfAHmkq6P_etHaxiY60TULQ3H2x53DwosQ7TNIkrt-pQtJFtHaWFjDo3OnheL4YAdXoa1e2Knout4FrO3tCWsR-VIsg5gdzrm7RkYOHsRWakUpZfZnaroVArLWNao_vqec5Zw",
+                "widthPx": 2268,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "akito ishikura",
+                        "uri": "https://maps.google.com/maps/contrib/118203567811759233659",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQ081FXNwYuYIAqckd2W-nC0lRmh4Wl-PcTPGbaT_uza_QcNH8yA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR7aChugE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR7aChugE!2e10!4m2!3m1!1s0x60188de0411519bb:0xa81b0f31781b587c"
+            }
+        ],
+        "goodForChildren": true,
+        "restroom": true,
+        "parkingOptions": {
+            "paidParkingLot": true,
+            "paidGarageParking": true
+        },
+        "subDestinations": [
+            {
+                "name": "places/ChIJv0jpVaqNGGARCA_yAaqx4T8",
+                "id": "ChIJv0jpVaqNGGARCA_yAaqx4T8"
+            },
+            {
+                "name": "places/ChIJzcrKIz-MGGARSjJ72PBlkEw",
+                "id": "ChIJzcrKIz-MGGARSjJ72PBlkEw"
+            },
+            {
+                "name": "places/ChIJ89TugkeMGGARDmSeJIiyWFA",
+                "id": "ChIJ89TugkeMGGARDmSeJIiyWFA"
+            }
+        ],
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true,
+            "wheelchairAccessibleRestroom": true,
+            "wheelchairAccessibleSeating": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJ89TugkeMGGARDmSeJIiyWFA",
+                    "placeId": "ChIJ89TugkeMGGARDmSeJIiyWFA",
+                    "displayName": {
+                        "text": "Tokyo Dome",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "stadium",
+                        "tourist_attraction"
+                    ],
+                    "spatialRelationship": "WITHIN",
+                    "straightLineDistanceMeters": 38.72503
+                },
+                {
+                    "name": "places/ChIJLbAlbziMGGARS9gqG4EcHJc",
+                    "placeId": "ChIJLbAlbziMGGARS9gqG4EcHJc",
+                    "displayName": {
+                        "text": "LaQua",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "health",
+                        "park",
+                        "point_of_interest",
+                        "spa"
+                    ],
+                    "straightLineDistanceMeters": 217.41705
+                },
+                {
+                    "name": "places/ChIJCRf6uziMGGARcsRCJYCKKUQ",
+                    "placeId": "ChIJCRf6uziMGGARcsRCJYCKKUQ",
+                    "displayName": {
+                        "text": "Tokyo Dome City Attractions",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "amusement_park",
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 221.34933
+                },
+                {
+                    "name": "places/ChIJBVDeRkaMGGARXsIjrhYCIhs",
+                    "placeId": "ChIJBVDeRkaMGGARXsIjrhYCIhs",
+                    "displayName": {
+                        "text": "Koishikawa Korakuen Garden",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "park",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 259.32803
+                },
+                {
+                    "name": "places/ChIJK9BpvDiMGGARZTPe-NWZDYw",
+                    "placeId": "ChIJK9BpvDiMGGARZTPe-NWZDYw",
+                    "displayName": {
+                        "text": "Tokyo Dome Prism Hall",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 149.0094
+                }
+            ],
+            "areas": [
+                {
+                    "name": "places/ChIJ22eHfkeMGGARu4sqyjg46ks",
+                    "placeId": "ChIJ22eHfkeMGGARu4sqyjg46ks",
+                    "displayName": {
+                        "text": "Tokyo Dome",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                },
+                {
+                    "name": "places/ChIJ4QBQojiMGGARYY319ar8ddA",
+                    "placeId": "ChIJ4QBQojiMGGARYY319ar8ddA",
+                    "displayName": {
+                        "text": "3",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                },
+                {
+                    "name": "places/ChIJOevdA0eMGGAReczcoIB8PQE",
+                    "placeId": "ChIJOevdA0eMGGAReczcoIB8PQE",
+                    "displayName": {
+                        "text": "1 Chome",
+                        "languageCode": "en"
+                    },
+                    "containment": "WITHIN"
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x60188de0411519bb:0xa81b0f31781b587c!3e0",
+            "placeUri": "https://maps.google.com/?cid=12113292327885953148",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x60188de0411519bb:0xa81b0f31781b587c!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x60188de0411519bb:0xa81b0f31781b587c!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x60188de0411519bb:0xa81b0f31781b587c!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Tokyo"
+        },
+        "postalAddress": {
+            "regionCode": "JP",
+            "languageCode": "en-US",
+            "postalCode": "112-0004",
+            "administrativeArea": "Tokyo",
+            "addressLines": [
+                "1 Chome-3-61 Koraku",
+                "Bunkyo City"
+            ]
+        }
+    },
+    "description": "Tokyo Dome City: A Vibrant Metropolis of Fun\n\nNestled in the heart of Bunkyo, Tokyo (112-0004, Koraku 1-3-61), Tokyo Dome City is a sprawling entertainment complex that pulsates with energy, offering a captivating blend of thrills, shopping, and dining experiences perfect for all ages.  Ranked #1 out of 4 Water & Amusement Parks in Bunkyo, and boasting a 4.1 TripAdvisor rating and thousands of glowing Google reviews, it's a must-visit destination for families, couples, and solo adventurers alike.\n\nImagine a scene brimming with life: the joyful shrieks of children on rollercoasters piercing the air, punctuated by the cheerful chatter of shoppers browsing vibrant storefronts.  The aroma of delicious international cuisine wafts from numerous restaurants and caf\u00e9s, a tantalizing blend of familiar favorites and exciting new tastes.  Even a supermarket is conveniently located within the complex, ensuring that hunger pangs are easily quelled.  Starbucks is also present, offering a welcome respite for coffee lovers.\n\nThe centerpiece, the iconic Tokyo Dome, looms large, a testament to architectural prowess. Whether it's a baseball game, concert, or other"
+}

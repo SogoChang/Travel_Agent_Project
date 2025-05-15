@@ -1,0 +1,549 @@
+{
+    "name": "Chigu Salt Mountain",
+    "tripadvisor": {
+        "location_id": "600511",
+        "name": "Chigu Salt Mountain",
+        "description": "The Taiwan Salt Company has turned a four-story-high pile of salt into a tourist attraction.",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13806812-d600511-Reviews-Chigu_Salt_Mountain-Qigu_Tainan.html?m=66827",
+        "address_obj": {
+            "street1": "66, YenCheng Village,",
+            "street2": "Chigu",
+            "city": "Qigu",
+            "country": "Taiwan",
+            "postalcode": "",
+            "address_string": "66, YenCheng Village, Chigu, Qigu, Tainan Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Qigu",
+                "location_id": "13806812"
+            },
+            {
+                "level": "Municipality",
+                "name": "Tainan",
+                "location_id": "293912"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "23.15411",
+        "longitude": "120.09957",
+        "timezone": "Asia/Taipei",
+        "phone": "+886 6 780 0511",
+        "website": "http://tour.tainan.gov.tw/view.aspx",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13806812-d600511-Chigu_Salt_Mountain-Qigu_Tainan.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13806812",
+            "ranking_string": "#8 of 9 things to do in Qigu",
+            "geo_location_name": "Qigu",
+            "ranking_out_of": "9",
+            "ranking": "8"
+        },
+        "rating": "3.1",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+        "num_reviews": "173",
+        "review_rating_count": {
+            "1": "12",
+            "2": "29",
+            "3": "77",
+            "4": "39",
+            "5": "16"
+        },
+        "photo_count": "249",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13806812-d600511-m66827-Reviews-Chigu_Salt_Mountain-Qigu_Tainan.html#photos",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "landmarks",
+                "localized_name": "Sights & Landmarks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Sights & Landmarks",
+                "localized_name": "Sights & Landmarks",
+                "categories": [
+                    {
+                        "name": "Points of Interest & Landmarks",
+                        "localized_name": "Points of Interest & Landmarks"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [
+            {
+                "location_id": "12240299",
+                "name": "Beimen Area II"
+            },
+            {
+                "location_id": "12240444",
+                "name": "Southwest Coast National Scenic Area"
+            }
+        ],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "2"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "39"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "22"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "47"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "37"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk",
+        "id": "ChIJk6s90JLWbTQRbLDaqWk1ugk",
+        "types": [
+            "bus_stop",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "formattedAddress": "Qigu District, Tainan City, Taiwan 724",
+        "addressComponents": [
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Qigu District",
+                "shortText": "Qigu District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Tainan City",
+                "shortText": "Tainan City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "724",
+                "shortText": "724",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QM2533X+2H",
+            "compoundCode": "533X+2H Taiwan, \u53f0\u5357\u5e02\u4e03\u80a1\u5340\u5869\u57d5\u91cc"
+        },
+        "location": {
+            "latitude": 23.152549999999998,
+            "longitude": 120.09894999999997
+        },
+        "viewport": {
+            "low": {
+                "latitude": 23.151092319708496,
+                "longitude": 120.0976009697085
+            },
+            "high": {
+                "latitude": 23.153790280291503,
+                "longitude": 120.10029893029147
+            }
+        },
+        "rating": 3.9,
+        "googleMapsUri": "https://maps.google.com/?cid=700931419947053164",
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"locality\">Qigu District</span>, <span class=\"region\">Tainan City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">724</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 157,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#7B9EB0",
+        "displayName": {
+            "text": "Qigu Salt Mountain",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Bus stop",
+            "languageCode": "en-US"
+        },
+        "primaryType": "bus_stop",
+        "reviews": [
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/reviews/ChdDSUhNMG9nS0VJQ0FnSURDMmNhaW13RRAB",
+                "relativePublishTimeDescription": "4 years ago",
+                "rating": 5,
+                "text": {
+                    "text": "I love this place so much. When the blue sky is clear you can take an amazing picture like what i did. And also cheap, if you take a public bus from tainan station (bus 99) you don\u2019t need to pay the entrance fee. \u2764\ufe0f\u2764\ufe0f",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "I love this place so much. When the blue sky is clear you can take an amazing picture like what i did. And also cheap, if you take a public bus from tainan station (bus 99) you don\u2019t need to pay the entrance fee. \u2764\ufe0f\u2764\ufe0f",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "\u5f35\u82b3\u83f2fathin aulia",
+                    "uri": "https://www.google.com/maps/contrib/111678794090957264790/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIU8UmCy65R7sTTlf61mTzqZCkUFXJPmxSU_D3_HwoN8fX8n7F=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2020-10-03T01:51:02.642205Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURDMmNhaW13RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURDMmNhaW13RRAB!2m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            },
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDaDlTTDN3RRAB",
+                "relativePublishTimeDescription": "4 years ago",
+                "rating": 5,
+                "text": {
+                    "text": "It is a good place, but it is better if the stairs is more clean so it will not make the visitor become confused of the stair",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "It is a good place, but it is better if the stairs is more clean so it will not make the visitor become confused of the stair",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Septia Riadhotussolihah",
+                    "uri": "https://www.google.com/maps/contrib/109236864885508765061/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUpzg8RMsF5Dx7KQjdN8oWh5X9sZSO7vg5gmzgpvEm2yvg4z7Mrg=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2020-09-05T13:56:07.242369Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNDaDlTTDN3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNDaDlTTDN3RRAB!2m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            },
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDNU1IWnRRRRAB",
+                "relativePublishTimeDescription": "4 years ago",
+                "rating": 4,
+                "text": {
+                    "text": "Salt Mountain is good place to visit. It\u2019s really tons of salt dumped in the middle of the field. Nice experience.. \ud83d\ude0a",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Salt Mountain is good place to visit. It\u2019s really tons of salt dumped in the middle of the field. Nice experience.. \ud83d\ude0a",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "TaiJuanderer",
+                    "uri": "https://www.google.com/maps/contrib/116908105579677466041/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0_uzcUQy3SouCaxrujJFdKSC6KCaIDLooN_3FfZMEk3p3BmaU=s128-c0x00000000-cc-rp-mo-ba6"
+                },
+                "publishTime": "2020-08-12T12:47:49.437270Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNDNU1IWnRRRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNDNU1IWnRRRRAB!2m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            },
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/reviews/ChdDSUhNMG9nS0VJQ0FnSURBbnNIaG13RRAB",
+                "relativePublishTimeDescription": "7 years ago",
+                "rating": 4,
+                "text": {
+                    "text": "It's a mountain of salt. And they have lots of little activities you can do around the area.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "It's a mountain of salt. And they have lots of little activities you can do around the area.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Chad Neely",
+                    "uri": "https://www.google.com/maps/contrib/101825832148347538548/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVxewKnp9qBSQuBtTMlh61kkwtxuEeo5HRPkCm4EahhYq1tOQlQw=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2017-08-26T23:06:37.139Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURBbnNIaG13RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBbnNIaG13RRAB!2m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            },
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4M2M3MXdBRRAB",
+                "relativePublishTimeDescription": "a year ago",
+                "rating": 2,
+                "text": {
+                    "text": "The experience here was not great, probably because we took the BUS 99 out here (which took like 2 hours), and then only to realize there's really not much to see here/do here, maybe like 30 mins and you can clear everything. The salt mountain is tiny, and the sculptures from past years are spread all over the park. The sad part is that we were stranded here for 2.5 hours because the 99 doesn't come by often (not even on the weekends). A lot of other tourists (not part of tours) got stuck with us so I would say if you do plan to come, come early and plan accordingly, just get off the bus, snap photos, and run back to the bus (I think when they drop off the bus breaks there for 15 mins before leaving again), and then head over the SiCao tunnel (which we didn't get to do). Maybe this might not be worth it at all and you should only come with a tour bus (it is just so far out that it really takes up your entire itinerary). The salty ice cream was good though, food meh.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "The experience here was not great, probably because we took the BUS 99 out here (which took like 2 hours), and then only to realize there's really not much to see here/do here, maybe like 30 mins and you can clear everything. The salt mountain is tiny, and the sculptures from past years are spread all over the park. The sad part is that we were stranded here for 2.5 hours because the 99 doesn't come by often (not even on the weekends). A lot of other tourists (not part of tours) got stuck with us so I would say if you do plan to come, come early and plan accordingly, just get off the bus, snap photos, and run back to the bus (I think when they drop off the bus breaks there for 15 mins before leaving again), and then head over the SiCao tunnel (which we didn't get to do). Maybe this might not be worth it at all and you should only come with a tour bus (it is just so far out that it really takes up your entire itinerary). The salty ice cream was good though, food meh.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Shirley Tam",
+                    "uri": "https://www.google.com/maps/contrib/116959395146944809827/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOqM0bK36lbMINC_UB3ZFboXS9zqmYr5mvKvoKSX87HR7joXVbcQ=s128-c0x00000000-cc-rp-mo"
+                },
+                "publishTime": "2023-05-24T00:19:26.745652Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4M2M3MXdBRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4M2M3MXdBRRAB!2m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/photos/AXQCQNRdJn_5k3xKiv6u4A3kRGoNjiRy3lKBGOu70L35CMz3VnIpY3MO5euzpzj5oiJr1GNdQ0mEHpujvNr-gse1Mcx4-pw-rFgofznGZbinTVRwcpnsGajwIk3b_1DSmQmHieWsaTKPJWiM82zUESdXpPFxrTj55xh6a5n5MJoaEsc_61uJ-b8fnLkc3BsCciUDUHYTB1wgt_Wwo9UJGX88jKWdm5HPruofRpPPgFxGKLnz4vbsCsawL5na1tsgOB7HqGbBAafFrdaLvxasAAHFu6vKDUGX6Cq_M5dUzfX_DW-GT4xltu3nbpSJ4DTBxE0rJ200rhqBZnmJ3XcZDon6CAyaJqP7sHlRVKM_tDAlIKSO3ZaayPBocmzEmDEo37U1c2eqnVrdS6HwYl6hmu9J5065X1aXjRNih-YaHdOw0wo",
+                "widthPx": 4800,
+                "heightPx": 3204,
+                "authorAttributions": [
+                    {
+                        "displayName": "vize white (\u767d\u5b50)",
+                        "uri": "https://maps.google.com/maps/contrib/109354161810924924052",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKNkYmBpkjlLRIhe3obp9-ELHzv6AvjmQhNIzBnlODaChfPitmn=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDc5YmVIQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDc5YmVIQ!2e10!4m2!3m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            },
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/photos/AXQCQNTztIm345JC1A4uFE99Bl7ZTLH5Nfz0kTKUWfFe112I2_GdILEh7rZEqh7e4LdL5FYAFdXjczVo88hMng-UmuJba5PRpv8n_yvwOpYOCotJx5VFewklANjl0eys7QfUTgh1p03X13gKBr7X71sQg8utFHjj-Tvyg7PBp5K8Bs64lOEb3kuckMzcaIcRKgxCt_KQ9LW5yWL2KnDUIedXiQKZloUv7_I5azZGNy2Av7Qpm0BC65AM3HjFvdtMrvryEszGNIKPX37MpcgvC3BxMmLuLUm1vXkhyW7MabcE6lh9UvR1MD83SczRGRcuYUbxfUnY6Bz50WLdkuctQ_ma4RAmyQXi3ZqDEqxYbWo0VeY4bxe365A5gs7lg6KFZPqAJPhy8tJfBNQvo2MsaSmZNFcSTPpYRZ2zQmr5M3-AJEdfvb3i",
+                "widthPx": 3968,
+                "heightPx": 2232,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u6797\u9756\u958b",
+                        "uri": "https://maps.google.com/maps/contrib/111877227005080416872",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWChYQwAXth1EGqaZCleMQWsbehNtpktA7CodKwfZyrdCDElTVTQQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOv4KimgE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOv4KimgE!2e10!4m2!3m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            },
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/photos/AXQCQNQco0Nj6ROPx4uid_tI8gkw2L2jWQ1Vh4i8YZKljroHqRZAoVE5cCHHqRb2OUcdSlK1e05OfGl4GdekSFTgVF6zPqa8BtZSq0ZSf8xJKiE3geG2L97aRjjnCa52G1qs6aUAND7yQwJu9bl9c722JLW0jq---4-13h3dFxJNA43Q1i949XfUZdFXLAdngyDmVxelj04eYXbCm6b8YlCnLudfQV9RSYx6h7Ro85TSBI0x3l9tlVr5OOdwAQxUDSYgkvIxj1R0UnGmi74zI5LCrlDAgM78Y9-SZQH2vZBjiLCYm-XndrENlyOZZ4Jg--ViOi4bAUCm4hUHs_XMlL3Mc5dch1VigdMGJ4x2_k3mYJ_wmHH4b0SxxSFl0THTROe4tGcPSncPL9uoPsG_LI79gPqdMl7jNvRDdW1Fs9FgJAKdj4mF",
+                "widthPx": 4800,
+                "heightPx": 3599,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8521\u8c4a\u57ce",
+                        "uri": "https://maps.google.com/maps/contrib/106156482267186678312",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNgiusiGdY0Qjw6eh1JpNEz-rg5Uoc_KiEzXx6e5yUTF41gEA0=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqx-fq7gE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqx-fq7gE!2e10!4m2!3m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            },
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/photos/AXQCQNT-8TKmm91eubK80dl54q16cT6jd9iEtBfzzzdtA7CYdRPRwTqZhiB1U3GZ1phYe5dKMhlXh4zKwzNIGXE2Zp0zNSf-nXoVkgvJ6eqlkwtsXfwo6JHP55unqk-fTSArohOjubnSx_dBEbmrUCGyILuDhF_VzfWuQ4UofgJ0dsSMV1cu8mIe9bJIRDvjrMJk-oBreFHvARhd7ZE4f7dhtXqI9Abz4oiwi9WKF1YboD1CCWN8X0AHGC4IhJJgWJ35xbaUIqn-p3TTS-5DaIxsbwmOLYBqwIn-fItMA2PoqgOQ5LO-TAGN9PeBXJZxOljV5MAu-nKGe1xn8r-kHSLVLwTpVZQ_UQCKPB7-iX_OMnIaAb40Y0r5pyUElkI9C5ne179EoptvV6FStaM4iILw4NjpwjyHHsa-KZkeJlnYpla6iNjs",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "TaiJuanderer",
+                        "uri": "https://maps.google.com/maps/contrib/116908105579677466041",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0_uzcUQy3SouCaxrujJFdKSC6KCaIDLooN_3FfZMEk3p3BmaU=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICC5KGG1gE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICC5KGG1gE!2e10!4m2!3m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            },
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/photos/AXQCQNQkAlfL7L2WQAXFcSpbzL31Xki7_JXK-qquxC1-OdFnAkhXKS2iI_BrLTh8Wfu7Ljg6fEjxbdh7SFpemXz70eEdAhnI-at4nXMGf8bVkXIegy2WvE870MoesuSAGjveR720c2OVOH5QOl9a47uIRSDZK7tPeRJPhZlAJkS8fp2O8b2qyjqAvLzUfWH0hRIC0gxh12XfuvJBcv7RYoVbow_wq3qpToZiMuf_UYuXtADm4QlJK_x0oyHvx_t7dtjZ2xgL83QHr8USeeNE6Q9KWoPQyLTg-j59g4k8g4dRHyVavhsukny50PULPeSAOiih8Oj3jIwrh8BLQ8mBIZ2a2R3KR-wKXxbw6VQ3ZAB9Yrsf64BBDvYbduwTtMNsSRpks8ugoHaxnHHaQHP1LVuUI32dCJBEteVVy1DQ90yjFvMs-D9v",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8000\u6a1fAndy",
+                        "uri": "https://maps.google.com/maps/contrib/100680793768032301703",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRe59Ri-EnSmizYMMYGPg7X1LHKcHZcRuvmUSuQ1jeEF7Wo1a_=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID48M2vqwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID48M2vqwE!2e10!4m2!3m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            },
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/photos/AXQCQNRTOnOe08zGASOKOAnJmUpRqk4fPiuAQvP0QRcP_n1c7N8xcVyvHM6XKEKM616UO2CSH92iyhPUHZVQKp06Po07sVMloOt2IhYZIsdh31HS6FE3oNQmryQEDmVPpAZCF977_LHAvaYNKInA2xpkE6rpD0jxlJb_AAWp7KOuA1p8fDlTQQpGOZI1YbG9VYfrIKM_9xDGKy_-C1YrhlzJzr3iKSZkq7JoNcdDEE4qLFkmdf7yme8DfW-iLqgEjr-l_EH0xE5km2V5MbF8gmT5IUvILL6XdFsfcV1n8xUB4Suh-cNBaYVhFYQjPk9AXdEkqMy3jBuxptO9PeAj3P5jFOm-DsaJjxxr1FXKAzHof_AoN0wa0RwEBCo8zROgstutrxztKnfaSWzmwR4etO__SYrHdR2otTrftYCLylaDShU9JA",
+                "widthPx": 936,
+                "heightPx": 702,
+                "authorAttributions": [
+                    {
+                        "displayName": "moonyoung Choi",
+                        "uri": "https://maps.google.com/maps/contrib/117414455521976611661",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXw1Dq1iUdcFHKJaVP86agMdQwC86FuIep628j5p0DcnMR2SpbLYA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR0-v5ag&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR0-v5ag!2e10!4m2!3m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            },
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/photos/AXQCQNRrMtFJIGOHdyHgbwljbRsQPG7CY1AjYDu5tSrFoDrPtKVdf3kl4-Cev0U6KWOb7sKQqqVxFajQqrKVkxzRfzO_sV2gr2218YlCd0akRiTxqb-5cJ9qhI945rm6HXh1xra4Pfr8w4smpxSKHjqD5FDsRMMR1hXaVctNz6nl5b6KdeeyZF-mKzTXbnGtr56m0CD0gh67xGUMxotEmnA9caoHc6caNDGit0ZOJAPRP987Y3-Js6JWfHAa_5JXNnIoairnTDuo8ds4-yVlyvyh4Ced1iZb5sw1N9YwYPG9lKZfN4nxOQvLhqTq_GGIO4mGEuhvuY9GfD1y_9dOJ3bMp1UttvPgCyOewlbsMI6G01HY2yG5olg0pXdC2WtWxogMMVIo1DS5JteFAjf2xAtmWBhEaj7ReqTlOvD_USOYIgxO4ZM1",
+                "widthPx": 4080,
+                "heightPx": 3072,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5f35\u7389\u9e9f",
+                        "uri": "https://maps.google.com/maps/contrib/111182657506821839810",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI65_0qbL7fik0jlxisDHQSC6qjV9JeJKPIFzl1IkaslMA9wg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDX5I_f8AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDX5I_f8AE!2e10!4m2!3m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            },
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/photos/AXQCQNS4ipfKHmj5v_8qWm0dESsL0IV52FZ3mDQ99UKev6YLsjpVY22SdPKVH1Ea2N-30JKkZ3fdAOKeMjH2B-99hFSsmm__EOhUdVm7COVJy5cTvEv2phFGTrLAQ-fJ6Flx8Tx7ch2i7ll6CW9_0v8YlRMDcMRl-X8e58I8M3URO4Cjv9jiesK2u9oB4U1NpJimFXKMioHQyz8u6tEL3AJScveE1uQ7-CqWnU-lY11fYnAZ1D6umU0wjT6o6AtgAJoNc4Qbt2Ag_cz0xa6D390ehNDqmg5q6H-lB22Tb1Lx8WVsIUbA0-TkXec8xcdQZxePfkUyQOFStKJijkbz7M6ojxneppnT7MH4HLQm-fIxsK3LhSPH-QnL6DAjRKKNe4wE0FakkKF5ZhOYX8Ku-ov39BkFpYhJja4gABDEx0Q0xQQxAg",
+                "widthPx": 3264,
+                "heightPx": 2448,
+                "authorAttributions": [
+                    {
+                        "displayName": "Tzu-lung Yang",
+                        "uri": "https://maps.google.com/maps/contrib/106137663125936606097",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRP1qjdeOwWSxI9DaNHHwpNlwZ6eUtK3ksv8LGWrqJxB6kej8=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICEyd3vbg&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEyd3vbg!2e10!4m2!3m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            },
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/photos/AXQCQNQCiqDHqLvWobaOhBCsxAzZdUVougcICYTPpWiMfJE0HXUEutBE8MV0hruqc_Yz7PvUvyrUDpPd8g0ytyWizK55TajkxuFZ520Vh1-S3BhNdstApl2o5gWsVJ2jmW8Zg6jLVy2nSWod9orJTL5udgipwz2EmzKxd5UPoVRBdCopr1-DXHVExRuMsjaCylojhiT_5UTj00QyJD2L6_jVHvNF229rdOzqCMKRprcFKB_BvqVRXT49cUi-iU4ASZcbgiVyIsThTao3P5XDfuQ6htQOqsQkLhGhajoIWu65JduxGV08vuSD5xXoNNkpythOvKs4ogK8DapxMlG3r0YvbKGWaCPioXUhcjGAQRaCYQFbkZm113TSbuCymAZEM2FtH8Kf6UcIKUQGnsBA_uFfZ7-AbkAGPx0w2kv-zDne7pBb3oCl",
+                "widthPx": 1477,
+                "heightPx": 1108,
+                "authorAttributions": [
+                    {
+                        "displayName": "Amjj A",
+                        "uri": "https://maps.google.com/maps/contrib/117982854679393794972",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuc1bLjA_2E4ABDvO86ym70O_lM7K9pD4D9SG5Rp3a5nyjCNh21Q=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdlNuO7AE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdlNuO7AE!2e10!4m2!3m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            },
+            {
+                "name": "places/ChIJk6s90JLWbTQRbLDaqWk1ugk/photos/AXQCQNQzKh10zZKC35p3B-umyFPnOajzXmaT_6dGvwc0qGpi1HHKMUtxcVWj0uHY6gSOKFpkKSiPalHRV54xysyDsj2qCIx-KxNyV7YL9Lq_RBw5hd4iqYH3z8OnQtTI5KSkXlp0NaqN6uoFBmK57RXLxBOrBrkxyNe6ZwFV7CaNkjFuFi97DC4IAEgo1rZBREXp4DrKvBaZtmpJDJfRZ_sTuwy53rYSg-9DKX2K-8-XAVOQ_e8Ix2K3iOR5aG_FpFwdfYQEBdrSSlLNFkif1QmWJ002clfXKMftvtKRrPSKThmDRc6ZmoMF8LrY9E33liY6LiPVW9yjhXUWUF41ypNUzX_Tkuu6LkKUZd_XRPKeysovqOOQ2MQh275R-VDM5qqt06-7kXp2UWZ64GR4-B4cNe6TdofMp1W0hI70-OpcZmxdyV11",
+                "widthPx": 4800,
+                "heightPx": 3599,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8521\u8c4a\u57ce",
+                        "uri": "https://maps.google.com/maps/contrib/106156482267186678312",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNgiusiGdY0Qjw6eh1JpNEz-rg5Uoc_KiEzXx6e5yUTF41gEA0=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqx9fi5wE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqx9fi5wE!2e10!4m2!3m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c"
+            }
+        ],
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJTRbkzL_WbTQRTrfGfckHIrc",
+                    "placeId": "ChIJTRbkzL_WbTQRTrfGfckHIrc",
+                    "displayName": {
+                        "text": "Qigu Salt Mountain",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 241.68852,
+                    "travelDistanceMeters": 358.1084
+                },
+                {
+                    "name": "places/ChIJPdOt65LWbTQRY4Ud8Jzzp1w",
+                    "placeId": "ChIJPdOt65LWbTQRY4Ud8Jzzp1w",
+                    "displayName": {
+                        "text": "Qiguyanshan-yuanqukefu Station",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 161.53508,
+                    "travelDistanceMeters": 215.33586
+                },
+                {
+                    "name": "places/ChIJByRcMsTXbTQR3_505mH59Yg",
+                    "placeId": "ChIJByRcMsTXbTQR3_505mH59Yg",
+                    "displayName": {
+                        "text": "\u4e03\u80a1\u904a\u5ba2\u4e2d\u5fc3-\u6210\u529f\u9e7d\u9ad4\u9a57\u9928",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction",
+                        "travel_agency"
+                    ],
+                    "straightLineDistanceMeters": 447.5122,
+                    "travelDistanceMeters": 613.3228
+                },
+                {
+                    "name": "places/ChIJoUK1u5LWbTQR6ixgtsFZmVg",
+                    "placeId": "ChIJoUK1u5LWbTQR6ixgtsFZmVg",
+                    "displayName": {
+                        "text": "Qi Gu Yan Shan Parking",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "parking",
+                        "point_of_interest"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 133.3463,
+                    "travelDistanceMeters": 100.84553
+                },
+                {
+                    "name": "places/ChIJy4l_CZnXbTQRuSYSbNYHKes",
+                    "placeId": "ChIJy4l_CZnXbTQRuSYSbNYHKes",
+                    "displayName": {
+                        "text": "\u516d\u865f\u5c0f\u5cf6",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "tourist_attraction"
+                    ],
+                    "straightLineDistanceMeters": 376.47665,
+                    "travelDistanceMeters": 371.73004
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x346dd692d03dab93:0x9ba3569a9dab06c!3e0",
+            "placeUri": "https://maps.google.com/?cid=700931419947053164",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346dd692d03dab93:0x9ba3569a9dab06c!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x346dd692d03dab93:0x9ba3569a9dab06c!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346dd692d03dab93:0x9ba3569a9dab06c!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        }
+    },
+    "description": "Chigu Salt Mountain, located in the Qigu District of Tainan City, Taiwan, is a unique and unexpected tourist attraction.  Imagine a colossal, four-story-high mound of glistening white salt, dominating the landscape \u2013 this is the heart of Chigu Salt Mountain.  Created by the Taiwan Salt Company, this man-made marvel offers a surprisingly photogenic and intriguing experience.  The sheer scale of the salt pile is breathtaking, the stark white contrasting sharply against the vibrant green of the surrounding fields and the deep blue of the often-clear sky.  \n\nWhile some TripAdvisor reviews suggest the site might be underwhelming for some, the Google reviews highlight its unique charm and the opportunities for stunning photographs, particularly under a clear blue sky.  Visitors can climb the gently sloping sides of the salt mountain, although some reviews mention the stairs could be cleaner.  Around the main mound, you'll find remnants of past salt-themed sculptures and installations, adding a touch of artistic flair to the landscape.  Local vendors offer salty ice cream and other treats, adding to the overall experience, although the quality of food options varies according to some reviews.\n\nThe location itself, within the Southwest Coast National Scenic Area and the Beimen Area II,"
+}

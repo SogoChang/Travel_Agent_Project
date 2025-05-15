@@ -1,0 +1,944 @@
+{
+    "name": "Ten Drum Cultural",
+    "tripadvisor": {
+        "location_id": "13542203",
+        "name": "Ten Drum Cultural",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g13806829-d13542203-Reviews-Ten_Drum_Cultural-Rende_Tainan.html?m=66827",
+        "address_obj": {
+            "street1": "No. 326, Section 2, Wenhua Road, Rende District",
+            "city": "Rende",
+            "country": "Taiwan",
+            "postalcode": "700",
+            "address_string": "No. 326, Section 2, Wenhua Road, Rende District, Rende, Tainan 700 Taiwan"
+        },
+        "ancestors": [
+            {
+                "level": "City",
+                "name": "Rende",
+                "location_id": "13806829"
+            },
+            {
+                "level": "Municipality",
+                "name": "Tainan",
+                "location_id": "293912"
+            },
+            {
+                "level": "Country",
+                "name": "Taiwan",
+                "location_id": "293910"
+            }
+        ],
+        "latitude": "22.94038",
+        "longitude": "120.23042",
+        "timezone": "Asia/Taipei",
+        "email": "tendrum2012@gmail.com",
+        "phone": "+886 6 266 2225",
+        "website": "https://www.facebook.com/tendrum.cultrue/",
+        "write_review": "https://www.tripadvisor.com/UserReview-g13806829-d13542203-Ten_Drum_Cultural-Rende_Tainan.html?m=66827",
+        "ranking_data": {
+            "geo_location_id": "13806829",
+            "ranking_string": "#2 of 10 things to do in Rende",
+            "geo_location_name": "Rende",
+            "ranking_out_of": "10",
+            "ranking": "2"
+        },
+        "rating": "4.3",
+        "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+        "num_reviews": "392",
+        "review_rating_count": {
+            "1": "7",
+            "2": "9",
+            "3": "40",
+            "4": "136",
+            "5": "200"
+        },
+        "photo_count": "718",
+        "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g13806829-d13542203-m66827-Reviews-Ten_Drum_Cultural-Rende_Tainan.html#photos",
+        "hours": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    },
+                    "close": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    },
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    },
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    },
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    },
+                    "close": {
+                        "day": 5,
+                        "time": "2130"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    },
+                    "close": {
+                        "day": 6,
+                        "time": "2130"
+                    }
+                },
+                {
+                    "open": {
+                        "day": 7,
+                        "time": "0930"
+                    },
+                    "close": {
+                        "day": 7,
+                        "time": "2100"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 09:30 - 17:00",
+                "Tuesday: 09:30 - 21:00",
+                "Wednesday: 09:30 - 21:00",
+                "Thursday: 09:30 - 21:00",
+                "Friday: 09:30 - 21:30",
+                "Saturday: 09:30 - 21:30",
+                "Sunday: 09:30 - 21:00"
+            ]
+        },
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "name": "landmarks",
+                "localized_name": "Sights & Landmarks"
+            },
+            {
+                "name": "attractions",
+                "localized_name": "Attractions"
+            }
+        ],
+        "groups": [
+            {
+                "name": "Sights & Landmarks",
+                "localized_name": "Sights & Landmarks",
+                "categories": [
+                    {
+                        "name": "Points of Interest & Landmarks",
+                        "localized_name": "Points of Interest & Landmarks"
+                    }
+                ]
+            }
+        ],
+        "neighborhood_info": [
+            {
+                "location_id": "12240349",
+                "name": "Nanguan Area"
+            }
+        ],
+        "trip_types": [
+            {
+                "name": "business",
+                "localized_name": "Business",
+                "value": "16"
+            },
+            {
+                "name": "couples",
+                "localized_name": "Couples",
+                "value": "60"
+            },
+            {
+                "name": "solo",
+                "localized_name": "Solo travel",
+                "value": "28"
+            },
+            {
+                "name": "family",
+                "localized_name": "Family",
+                "value": "154"
+            },
+            {
+                "name": "friends",
+                "localized_name": "Friends getaway",
+                "value": "94"
+            }
+        ],
+        "awards": []
+    },
+    "google": {
+        "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc",
+        "id": "ChIJA0P9eml0bjQRAFSV5Tjabuc",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "nationalPhoneNumber": "06 266 2225",
+        "internationalPhoneNumber": "+886 6 266 2225",
+        "formattedAddress": "No. 326\u865f, Section 2, Wenhua Rd, Rende District, Tainan City, Taiwan 71755",
+        "addressComponents": [
+            {
+                "longText": "326\u865f",
+                "shortText": "326\u865f",
+                "types": [
+                    "street_number"
+                ],
+                "languageCode": "en-US"
+            },
+            {
+                "longText": "Section 2, Wenhua Road",
+                "shortText": "Section 2, Wenhua Rd",
+                "types": [
+                    "route"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "\u6210\u529f\u91cc",
+                "shortText": "\u6210\u529f\u91cc",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ],
+                "languageCode": "zh-TW"
+            },
+            {
+                "longText": "Rende District",
+                "shortText": "Rende District",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Tainan City",
+                "shortText": "Tainan City",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "Taiwan",
+                "shortText": "TW",
+                "types": [
+                    "country",
+                    "political"
+                ],
+                "languageCode": "en"
+            },
+            {
+                "longText": "71755",
+                "shortText": "71755",
+                "types": [
+                    "postal_code"
+                ],
+                "languageCode": "en-US"
+            }
+        ],
+        "plusCode": {
+            "globalCode": "7QJ2W6QH+8R",
+            "compoundCode": "W6QH+8R Taiwan, \u53f0\u5357\u5e02\u4ec1\u5fb7\u5340\u6210\u529f\u91cc"
+        },
+        "location": {
+            "latitude": 22.938363199999998,
+            "longitude": 120.22961559999999
+        },
+        "viewport": {
+            "low": {
+                "latitude": 22.937100519708505,
+                "longitude": 120.2281354197085
+            },
+            "high": {
+                "latitude": 22.939798480291508,
+                "longitude": 120.23083338029149
+            }
+        },
+        "rating": 4.3,
+        "googleMapsUri": "https://maps.google.com/?cid=16676506408104317952",
+        "websiteUri": "https://tendrum.com.tw/",
+        "regularOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 20,
+                        "minute": 20
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 17,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 17,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 17,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 0
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 30
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 30
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 20,
+                        "minute": 20
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Saturday: 9:30\u202fAM\u2009\u2013\u20098:20\u202fPM",
+                "Sunday: 9:30\u202fAM\u2009\u2013\u20098:20\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T09:30:00Z"
+        },
+        "utcOffsetMinutes": 480,
+        "adrFormatAddress": "<span class=\"street-address\">No. 326\u865f, Section 2, Wenhua Rd, \u6210\u529f\u91cc</span> <span class=\"locality\">Rende District</span>, <span class=\"region\">Tainan City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">71755</span>",
+        "businessStatus": "OPERATIONAL",
+        "userRatingCount": 25385,
+        "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "iconBackgroundColor": "#13B5C7",
+        "displayName": {
+            "text": "Ten Drum Cultural Village",
+            "languageCode": "en"
+        },
+        "primaryTypeDisplayName": {
+            "text": "Tourist Attraction",
+            "languageCode": "en-US"
+        },
+        "currentOpeningHours": {
+            "openNow": true,
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    },
+                    "close": {
+                        "day": 0,
+                        "hour": 20,
+                        "minute": 20,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 18
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 1,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    },
+                    "close": {
+                        "day": 1,
+                        "hour": 17,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 19
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 2,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    },
+                    "close": {
+                        "day": 2,
+                        "hour": 17,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 20
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 3,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    },
+                    "close": {
+                        "day": 3,
+                        "hour": 17,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 21
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 4,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    },
+                    "close": {
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 15
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 5,
+                        "hour": 10,
+                        "minute": 0,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    },
+                    "close": {
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 16
+                        }
+                    }
+                },
+                {
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 30,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    },
+                    "close": {
+                        "day": 6,
+                        "hour": 20,
+                        "minute": 20,
+                        "date": {
+                            "year": 2025,
+                            "month": 5,
+                            "day": 17
+                        }
+                    }
+                }
+            ],
+            "weekdayDescriptions": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+                "Saturday: 9:30\u202fAM\u2009\u2013\u20098:20\u202fPM",
+                "Sunday: 9:30\u202fAM\u2009\u2013\u20098:20\u202fPM"
+            ],
+            "nextCloseTime": "2025-05-15T09:30:00Z"
+        },
+        "primaryType": "tourist_attraction",
+        "shortFormattedAddress": "No. 326\u865f, Section 2, Wenhua Rd",
+        "editorialSummary": {
+            "text": "Activities, taiko drumming shows & a restaurant, plus a rooftop walkway, in a former sugar mill.",
+            "languageCode": "en"
+        },
+        "reviews": [
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJejVtLS1RRRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 5,
+                "text": {
+                    "text": "Founded by the Ten Drum Art Percussion Group (\u5341\u9f13\u64ca\u6a02\u5718), the Ten Drum Cultural Village is a revitalized cultural hub created from a repurposed former sugar factory. This innovative space blends music, art, and history to celebrate and preserve local heritage. Now a prominent cultural landmark in Tainan, it serves as a bridge between the region\u2019s industrial past and its creative future, while also linking nearby museums and parks to enhance the cultural experience of southern Taiwan.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Founded by the Ten Drum Art Percussion Group (\u5341\u9f13\u64ca\u6a02\u5718), the Ten Drum Cultural Village is a revitalized cultural hub created from a repurposed former sugar factory. This innovative space blends music, art, and history to celebrate and preserve local heritage. Now a prominent cultural landmark in Tainan, it serves as a bridge between the region\u2019s industrial past and its creative future, while also linking nearby museums and parks to enhance the cultural experience of southern Taiwan.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Gassielicious",
+                    "uri": "https://www.google.com/maps/contrib/112259368491446974675/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvVqy5wDRwS0RlH-ELx17U25wNQ0FIqSGOCu0GmxElKnf2BwbR=s128-c0x00000000-cc-rp-mo-ba4"
+                },
+                "publishTime": "2025-04-05T14:48:06.535779Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJejVtLS1RRRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJejVtLS1RRRAB!2m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            },
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvdnJhLWNBEAE",
+                "relativePublishTimeDescription": "3 weeks ago",
+                "rating": 1,
+                "text": {
+                    "text": "Wouldn\u2019t come here just for it\u2026 I came for Chimei Museum and this place is recommended by local\u2026 I don\u2019t get in but I feel like that vibe is not as good\u2026 more of a low level commercial place\u2026 good for family with kids or schoolers maybe\u2026. Wouldn\u2019t recommend \u2026 ticket 500 for adults",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Wouldn\u2019t come here just for it\u2026 I came for Chimei Museum and this place is recommended by local\u2026 I don\u2019t get in but I feel like that vibe is not as good\u2026 more of a low level commercial place\u2026 good for family with kids or schoolers maybe\u2026. Wouldn\u2019t recommend \u2026 ticket 500 for adults",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Ash Y",
+                    "uri": "https://www.google.com/maps/contrib/106157565331627685733/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVFEwdzR1RxXMTh7FPo78hKS0DWXT3n5jkje0NtmmkTpbJs6yc=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-04-17T09:41:22.141793Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvdnJhLWNBEAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvdnJhLWNBEAE!2m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            },
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMHM2N053EAE",
+                "relativePublishTimeDescription": "4 months ago",
+                "rating": 5,
+                "text": {
+                    "text": "Essentially a theme park with a variety of activities. Very worth while for the price to experience many different aspects of the ten drum cultural village in Tainan. We did the zip line,  took photos at the Harry porter styled cafes,  giant swing and watched the drum percussion performance. There were several other activities that we didn't have time to try like the laser tag. Bought tickets on klook and easy to exchange at entrance.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Essentially a theme park with a variety of activities. Very worth while for the price to experience many different aspects of the ten drum cultural village in Tainan. We did the zip line,  took photos at the Harry porter styled cafes,  giant swing and watched the drum percussion performance. There were several other activities that we didn't have time to try like the laser tag. Bought tickets on klook and easy to exchange at entrance.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Alice Yan",
+                    "uri": "https://www.google.com/maps/contrib/103060819858708442822/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpVItvkrZCWnQnrUN9-AkQ3UMePaPh_LaHyU07yPsXYO9bcrvm=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2024-12-27T15:49:00.528888Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmMHM2N053EAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmMHM2N053EAE!2m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            },
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/reviews/ChZDSUhNMG9nS0VJQ0FnTURndy1HeUlREAE",
+                "relativePublishTimeDescription": "2 months ago",
+                "rating": 4,
+                "text": {
+                    "text": "If you  want a chill place to visit and do some activities you van visit this place. For me it is a little bit far but if you love Harry Potter then you can go here. I only tried the zipline and it's not scary - a beginner ride. We went during weekend so I suggest going at weekdays to avoid long lines on rides or activities.",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "If you  want a chill place to visit and do some activities you van visit this place. For me it is a little bit far but if you love Harry Potter then you can go here. I only tried the zipline and it's not scary - a beginner ride. We went during weekend so I suggest going at weekdays to avoid long lines on rides or activities.",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "Sheryll Ann",
+                    "uri": "https://www.google.com/maps/contrib/108654919323902322527/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJyK2FQk1JF_0OJiLftEQz60YLQRdqrvaPFiC23cesnCQfQ4Qs=s128-c0x00000000-cc-rp-mo-ba2"
+                },
+                "publishTime": "2025-02-27T01:19:17.722369Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURndy1HeUlREAE&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURndy1HeUlREAE!2m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            },
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvNE9HUzF3RRAB",
+                "relativePublishTimeDescription": "a month ago",
+                "rating": 4,
+                "text": {
+                    "text": "Worth a visit for the impressive drumming show. But the rest is a bit unfocused with some sugar refinery history, limited restaurants, souvenir stores, and some low-level amusement park attractions. 3-4 hours is plenty. Crowds of school kids there when I visited!",
+                    "languageCode": "en"
+                },
+                "originalText": {
+                    "text": "Worth a visit for the impressive drumming show. But the rest is a bit unfocused with some sugar refinery history, limited restaurants, souvenir stores, and some low-level amusement park attractions. 3-4 hours is plenty. Crowds of school kids there when I visited!",
+                    "languageCode": "en"
+                },
+                "authorAttribution": {
+                    "displayName": "David Hamilton",
+                    "uri": "https://www.google.com/maps/contrib/109107898431753282597/reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHDf0SOT_ahA2INWsgpU2GFe27qe2HhHE6atWrQmyQcAQKRXam=s128-c0x00000000-cc-rp-mo-ba5"
+                },
+                "publishTime": "2025-04-14T09:23:44.794282Z",
+                "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvNE9HUzF3RRAB&d=17924085&t=1",
+                "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvNE9HUzF3RRAB!2m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            }
+        ],
+        "photos": [
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/photos/AXQCQNRArGRA_FH0SGWALafVb4-f0MP11zxQPpiXyGpNed-LAqh430nf-chgaPhgicBGrbNaCea53dgQhE9Wnk0lPk32mDcyNkAU4Ut7M0uSdGSEA_XHgUX7gjcm8tq3ZyjMjJCio98mcQH8Tea83X_XW4YU-3wLrmJqzn4Ll_0ylHJ7XbECC2KYpW6XBJ8foVW1fHeab_osfRyyg3Y9zOuu0EVwASAUQHlSuNd8E7L9PsinvXqs86FUnl4oQcgnfOrD2llmgSq1_0tIIrgSnPpZ0Rwevsj-Fa7EZzwTcYKAP-KBlA",
+                "widthPx": 2048,
+                "heightPx": 1365,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5341\u9f13\u6587\u5275\u5712\u5340",
+                        "uri": "https://maps.google.com/maps/contrib/109945405301150737720",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMEHMndWnFs_u3qjQcnNRkNEds5yo4dAOCnNuy0LhvDVHNIT0=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP-VGT_gEKMXBARuTPI1idjpYPLKW5O09RiTH2r&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP-VGT_gEKMXBARuTPI1idjpYPLKW5O09RiTH2r!2e10!4m2!3m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            },
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/photos/AXQCQNTPOE5Z3rCgSCCFN9G7vaIauZiFTxRhB3g4c9qoMduVmauIVyqIe6UJciQegqy4JzAUszqHF9dqJ8LbhJYMnIz9DpKi58JNXrbkqHcQGYioilwuBiCa5kdg_6_8dRgGrVdAqRnszVEx8KvI4CrznAfwCyyJIXZMMCEL8btBvmNGUsi2czz4JgLUcGaCvQBj62osXD3jGo6EBcD6yktogeQ8FQU5QBKATGRpePzOQm_oQOGE8HtG5KdTTEzBAY6p0x7CHFPIYUwp95uIc_-1CqnfrOaJHEyeOemIeccNJG6GR6R8ms3kvogbD5EmsvqSh1RO-xDAJB_TW9xe78lIoOkrkptV8rA8SInWJiW9Gohf-fTrWV_F5zmZJ5ZIR3wnRdX30VZ9l_2hyfOcDr1cqdIK3RBghrxE9HofKEOwROGtG9MF",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u8607\u51a0\u69ae",
+                        "uri": "https://maps.google.com/maps/contrib/116116674445774361513",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ6Bj_v6gh_HbYZ3dUAknWlhVCamI-waPTfJegtj0jug_h1q60-=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4zuCEnAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4zuCEnAE!2e10!4m2!3m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            },
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/photos/AXQCQNTkK9q4loVJIPJF2kJKzGDf19n0S_ceP4ss3_NsuDdJBGwV4RcfQ5uKGTEpPXJT6rzfbtuo5-LUlwZfwtII9ucNQWsfmsWe8BOJVCyCEMYS2JFbrYJGIoYKBMHybyXWmyLSrcm_rZu31Mcw8NPCbA7sbEkqqGcz7oniJ4Ufak0-DbvIKqYobZZd5yEnNIcnWNIGwd3MB2HLdlbErh65IDYiiuNh7Ron2OjaUyrwldAf-U7Yhohd25ah0HRUgAjYhmwaO5Wgz0yF-08-f4iZDB_acuYqbMHz3Nl2HFnjoCfBXQ",
+                "widthPx": 3936,
+                "heightPx": 2624,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u5341\u9f13\u6587\u5275\u5712\u5340",
+                        "uri": "https://maps.google.com/maps/contrib/109945405301150737720",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMEHMndWnFs_u3qjQcnNRkNEds5yo4dAOCnNuy0LhvDVHNIT0=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPnQhoYzaHxxleZxOL0JwX2RBm9QiFMcwrNsbFH&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPnQhoYzaHxxleZxOL0JwX2RBm9QiFMcwrNsbFH!2e10!4m2!3m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            },
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/photos/AXQCQNT_XnRgJflK0EuIwczhcgDkd7mX2rL7QedF0ZmuGp4GdlJAhfDRx3LW00Ea3vE1LzKrfHTWSDUDexzXNd1x6sJu_VER7vlCZJ-_0SjLEQGGVrWaEbPMRS3aIUBw70YVPOQOrhjfIJreiKF3B8H7tISmKhrs2rGqK7AglAaGCy8tl760c9Q-BkT_uTbNlcQSd56Sx_psprAuBSBU98oWlYrVhWbb-aU1fiHZMsNBibcHRQcotCpzYh617pZ-ujKIg168YlAEpXstyjv04SJZM6k4KjLWQWZaRzQ9As7cJpMFu-JaAgLQZU6yjtO6jwXhqILvlezPjOqVeuvTC_7EDkRcGZHtTPjJwnV6giHJcMFN5N2hQAH7sTODH_gzgNGYMevYv5HTeUWFEv6Pv1PQGJVoq6-N8CTy62R25yqNxcEKQKIo",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u856d\u535a\u6587",
+                        "uri": "https://maps.google.com/maps/contrib/111422305904256799025",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLqRznQOQGna_w-JWfCZGZNEeBfXekg2uzXK6xyyAlGXeNDHA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu1OvzqQE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu1OvzqQE!2e10!4m2!3m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            },
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/photos/AXQCQNQkogFe5zRD5GdugOZAJZM_9xAHWRkqOSeO69o_nUjwN92Im8jKGA7KUFE19ZlzEASXK6zFepfBx3Pvsnxq9JziZXa-qY6KIxPRqMxx0k3ry3KFnAdwJOBnlx2xna2JtIK1DHhQqKpFkSJRQ3wEWmskMfqOmnHNrJMOllUodyTYwFZ8YGE8H4JNLRTkwaO7teL72OnNFMImpqxZ5UzwR-YfAEW77I3PVuZvyLjKzTFUSZBERD3UxgT6xigqRmhB1yfaZbwtaQFaHfhcU767RG-FgA5328k7TlNJsJzu4GK_Q4HBGFbp375Tw62yrgO3mx_xpYF5D0s6Le5miKcc1RO9KCYE3sVhUZBk3PomrRPM41GFJTjY9ThVToiai_OVXo9Hx78r8g6Lhl4RGcNwOdz3cNTOdy4CpcbkKtaviONTxfWA",
+                "widthPx": 3464,
+                "heightPx": 4618,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u984f\u5982\u674f",
+                        "uri": "https://maps.google.com/maps/contrib/109191061979054763328",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLSef069WX7epD4UH-bKPxnAWNC6nTqlkL68-UziGZqEd0iTQ=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDyxJalhAE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDyxJalhAE!2e10!4m2!3m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            },
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/photos/AXQCQNQE0CNOFPgX8aV98aWTh1VWOtyzCkX9TYGf5uIZQXDWR-pdv1jpuJgfH_tfUwwPzZM8Xe1SjptmnTpZcO7oU2U2vkZiq0z5ha9hgkgYmWjZdreQLU0vSFDCbX0kvu-T51fhCOrtZsrmn8PrdqAkfjnpz8jIeh_C5cuDINJqud7kAkTapwnxoU3eWJwA8XHDJ4bs3hK08QEQl5I38BaFKvHXLrWyx9Ee1uWlQ9g0wYJCBQNPqh1XclpL9d6ejtduIPwKAUZ8M4avYcCr12szOYifjGyOl8hI70TIPbeVzj7iJgeyT9AOjPseWG2ZkDFrb3b5mWyXtRHP40YxaUMkmYUNa-o48FphfuToi25Ydepcgn8UuyiXiV7Gj5ErExTkyswkHtXLMWsDLmQ5B9hdy8_QPFBDMnqKmkMmOn6XiqU",
+                "widthPx": 4000,
+                "heightPx": 3000,
+                "authorAttributions": [
+                    {
+                        "displayName": "Lucas Shih",
+                        "uri": "https://maps.google.com/maps/contrib/115235408119748142605",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW72uq1BNuKFkjeVW9j1jZp_j26sJ2bSCwoJWU4y5zZa3ZlwsjARA=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDuwaenUw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDuwaenUw!2e10!4m2!3m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            },
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/photos/AXQCQNTgMMqU2lOuJ0NXsbcYtYxc45jhONjbyNRIgF15tC4Z6AhiK6UUiXzTTxsKReD3DGl_Cwoe9uWCvCt81457FqZOnOlrjSX-zJMJiydwje1GPpojJjEYw6cORFFLYdlm9myqx7fL3D017epKal2VNBa-rjKflxVrJQHSXIc2Upq0YHl-fJGk0WE_DTht5rRE40ChdX6aKtZYd4RF-8_wZ3aP9k6f21OAcDb3q8dlgkwoIBeldKOu5W8jt4q8kg-vzcYhTGyvRk5lVBIoz-SaQ9-T6pz2Psrc2pED3yxvCHYQ1wRuOWFDhjle_MkqwbQSFKqI-wzCAWiKyr58bKfA9noYpOp0vddN7_NV6P30uW7EmeF5L9Gi3igxJHN9wOpPjJaSPO-UVGVMBxxh4Ix55l45TiwDbfwqdy06bJT2Tf-xxg",
+                "widthPx": 4640,
+                "heightPx": 3472,
+                "authorAttributions": [
+                    {
+                        "displayName": "\u674e\u5065\u9298",
+                        "uri": "https://maps.google.com/maps/contrib/106448252521398839986",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOT6nFSjJouRRiIpbSwQn5stFOAcH6TKol7BDC9RuYgElku04=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDBi5jgXw&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBi5jgXw!2e10!4m2!3m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            },
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/photos/AXQCQNQ4S5FqBQWBSTPzD7rlUAXaFVrvBvaTOIo7wTzD3yuM6Eamy-z3yYtO3F7lXiLcGbJpc5IvKA-pTSv83igAUQnpFmK26SRTtZyGIu_6UUWTaUN5nZH2PNtLBAHQMm3vlM8Vrwm41dNtApqNfJ-vp2CVUYcBDVbK21K3N1J4zBafd5y5K8f0a3bvNPSlB4DqI6KVEGybtzc80x8YM5uZkOPqgzDox-0B1ONGNmlc2Byzt9eiDDq9ye_vMzU-EHKWDdSrW2bSr3MgEgHiTkucyM_0sV2-MjCE4gZZKSZn4_XbehVMtt4CjynHpMw5VEBw1tdoI8BJnJP1h8FfVJA--3NMG24m5heaAP7NiQLJLHOqH9K2uDDj6xyuH7bHYN3DQhNOzbWGjb-AyELZQxYyFIN9wjaZSn9rto-WNdkk3g",
+                "widthPx": 4032,
+                "heightPx": 3024,
+                "authorAttributions": [
+                    {
+                        "displayName": "Duby Tang (Duby)",
+                        "uri": "https://maps.google.com/maps/contrib/114056775225778790015",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoxDlkBZRDYwwhfGtV-umYXUSWapp2N43DSj88N0uJDNXG7Yt-=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWyNTnJQ&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWyNTnJQ!2e10!4m2!3m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            },
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/photos/AXQCQNTB6fMSf0SDTAfvJAK4s0LGsQJ1JD7H9Eldkan9Z9KrHx3TaIZTaeTcyutzLOzjMNL69_UJfztP1Qw_G4OoHCGNkxbl_lT1zzFM1LkviVWieimxuVb0yCJOpgL437UCKpomL1w6y6usEQHgY33YNLGlbkm1KZsLlVKkh5PpBjxqgZrfOeI9ZhK6F4S6BNaAdaW109Kq_mpx1XRARIpK4yxwTiT-SiOmkEx4cCNrt2Kq_JbVf6PlzvHi6bgJtGbGODwny-ifuCU7hz2PektkTbDCI-zp7jXIIPXYGfSYFyDwguqJYXeDzOIv61xLaRJRmpwHBaD87OvBOYpZo4b4lqt3vKQ_5EUHnL2e2j9gfRmVt30-fWsL2z9E0KdtdvTMTbpjvl0hXv3-oB5Npo_aAcUCBNjoAYHPyrO5oyu62loAUK4",
+                "widthPx": 3024,
+                "heightPx": 4032,
+                "authorAttributions": [
+                    {
+                        "displayName": "cyi Kan",
+                        "uri": "https://maps.google.com/maps/contrib/118327720891527892834",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLW1I4sKTolg-IMeZgjBR_NZ_hjQSPdPPf0lw1Utzg0QEza1A=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICB0PP_vwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB0PP_vwE!2e10!4m2!3m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            },
+            {
+                "name": "places/ChIJA0P9eml0bjQRAFSV5Tjabuc/photos/AXQCQNRxAb9_qW20PB7qnaXXRCx05l2vE_rcPZqOdZqdGSSW0551BXfk01JYIr9z6V6Utch4nmzj7rKXAmiACp9m1GNLklkIhSipJhKMhiQzbGOjKEbkownrLXvgELS1uYOYR4udK6GNRoX6mHY9XAYIvt_E481ksh5yg2Mh-TOBmmaOR9FKiQf21PG4DJYPPqjf8-3fe32r8bB3HF-dPgiTB_zivP8OwR0e2EIk8MlG5SBjYW5oUdxKzGj7qxFRePvk7iCbIDqMpXWk5g0FO7p2WTYGx6Q3GVAdSQnKSLPjsQsGOB_d3FZXf_2A1gkt-XCETlbLf7ZwHoTVWrXB05abjI9mR00DpORs6sZi7MRZDG6qaSuRL3phOV_nBaNfR8DYO8KcsmuJAS-UO06LQmoMs5l8mifnZRxpX7pQN6aR44SLZFM",
+                "widthPx": 1620,
+                "heightPx": 995,
+                "authorAttributions": [
+                    {
+                        "displayName": "Enrico Lim (\u8fcb\u5549\u8129\u6915)",
+                        "uri": "https://maps.google.com/maps/contrib/116005181067002497670",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXACDqjxcxpItJUjzCN3CiWxo-GZ4_n-z0oP_naSrlmNOJgjCRCGg=s100-p-k-no-mo"
+                    }
+                ],
+                "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-zqvRkwE&hl=en-US",
+                "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-zqvRkwE!2e10!4m2!3m1!1s0x346e74697afd4303:0xe76eda38e5955400"
+            }
+        ],
+        "goodForChildren": true,
+        "restroom": true,
+        "parkingOptions": {
+            "paidParkingLot": true
+        },
+        "accessibilityOptions": {
+            "wheelchairAccessibleParking": true,
+            "wheelchairAccessibleEntrance": true,
+            "wheelchairAccessibleRestroom": true
+        },
+        "pureServiceAreaBusiness": false,
+        "addressDescriptor": {
+            "landmarks": [
+                {
+                    "name": "places/ChIJCZ16cGd0bjQRW_hHpDoCdPA",
+                    "placeId": "ChIJCZ16cGd0bjQRW_hHpDoCdPA",
+                    "displayName": {
+                        "text": "\u6377\u7d72\u65c5\u53f0\u5357\u864e\u5c71\u9928 Just Sleep Tainan Hushan",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "lodging",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 87.52197,
+                    "travelDistanceMeters": 164.63573
+                },
+                {
+                    "name": "places/ChIJvfxlG150bjQRWeqHwsd1oHU",
+                    "placeId": "ChIJvfxlG150bjQRWeqHwsd1oHU",
+                    "displayName": {
+                        "text": "Chimei Museum",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "straightLineDistanceMeters": 278.9707,
+                    "travelDistanceMeters": 644.0444
+                },
+                {
+                    "name": "places/ChIJh7jZaGd0bjQRQOs75rx5rsc",
+                    "placeId": "ChIJh7jZaGd0bjQRQOs75rx5rsc",
+                    "displayName": {
+                        "text": "Ten Drum Cultural and Creative Industry",
+                        "languageCode": "en"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ],
+                    "spatialRelationship": "AROUND_THE_CORNER",
+                    "straightLineDistanceMeters": 37.77055,
+                    "travelDistanceMeters": 30.265347
+                },
+                {
+                    "name": "places/ChIJvVss0A90bjQRsLf1_DLSfiM",
+                    "placeId": "ChIJvVss0A90bjQRsLf1_DLSfiM",
+                    "displayName": {
+                        "text": "\u53f0\u7cd6\u4ec1\u5fb7\u7cd6\u5ee0\u51b0\u54c1\u90e8",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 71.95831,
+                    "travelDistanceMeters": 111.19145
+                },
+                {
+                    "name": "places/ChIJaeP7mWB0bjQRpWcOjrM354M",
+                    "placeId": "ChIJaeP7mWB0bjQRpWcOjrM354M",
+                    "displayName": {
+                        "text": "\u81fa\u5357\u90fd\u6703\u516c\u5712P4\u6587\u8ce2\u505c\u8eca\u5834",
+                        "languageCode": "zh-TW"
+                    },
+                    "types": [
+                        "establishment",
+                        "parking",
+                        "point_of_interest"
+                    ],
+                    "straightLineDistanceMeters": 243.5432,
+                    "travelDistanceMeters": 549.3963
+                }
+            ]
+        },
+        "googleMapsLinks": {
+            "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x346e74697afd4303:0xe76eda38e5955400!3e0",
+            "placeUri": "https://maps.google.com/?cid=16676506408104317952",
+            "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e74697afd4303:0xe76eda38e5955400!12e1",
+            "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x346e74697afd4303:0xe76eda38e5955400!9m1!1b1",
+            "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x346e74697afd4303:0xe76eda38e5955400!10e5"
+        },
+        "timeZone": {
+            "id": "Asia/Taipei"
+        },
+        "postalAddress": {
+            "regionCode": "TW",
+            "languageCode": "en-US",
+            "postalCode": "71755",
+            "administrativeArea": "Tainan City",
+            "locality": "Rende District",
+            "addressLines": [
+                "No. 326\u865f, Section 2, Wenhua Rd"
+            ]
+        }
+    },
+    "description": "Ten Drum Cultural Village: A Rhythmic Journey Through Time\n\nNestled in the heart of Rende District, Tainan City, Taiwan (No. 326, Section 2, Wenhua Road, 700), Ten Drum Cultural Village (#2 of 10 things to do in Rende, TripAdvisor rating: 4.3) offers a captivating blend of history, art, and exhilarating entertainment.  This highly-rated attraction (392 TripAdvisor reviews, 718 photos) transforms a former sugar refinery into a vibrant cultural hub, seamlessly weaving together the region's industrial past with its creative present.  The village's repurposed buildings, with their blend of rustic charm and modern design, create a unique and visually stunning atmosphere.\n\nImagine strolling through meticulously restored structures, their aged brick walls whispering tales of bygone sugar production.  The air hums with a palpable energy, a mix of the rhythmic thrum of distant drums and the joyful chatter of visitors.  Explore the various themed areas, each offering a distinctive experience.  Perhaps you'll find yourself captivated by the mesmerizing performances of the renowned Ten Drum Art Percussion Group, their thunderous beats echoing through the open spaces.  Or"
+}

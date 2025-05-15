@@ -1,0 +1,64 @@
+# Travel Spot Selection Guide
+
+## Introduction
+
+This guide is designed to help travelers choose the most suitable scenic spots based on their travel preferences and travel pace. It provides practical advice on selecting attractions and optimizing your travel itinerary.
+
+## Types of Travel Preferences
+
+### 1. Adventure Lovers
+
+* Recommended Spots: Mountain trails, national parks, extreme sports centers, water sports areas.
+* Example Spots: Taroko Gorge (Taiwan), Yangmingshan National Park (Taipei).
+
+### 2. Cultural Explorers
+
+* Recommended Spots: Museums, historical landmarks, temples, traditional markets.
+* Example Spots: National Palace Museum (Taipei), Longshan Temple (Taipei).
+
+### 3. Nature Seekers
+
+* Recommended Spots: Botanical gardens, natural reserves, waterfalls, scenic viewpoints.
+* Example Spots: Yangmingshan National Park (Taipei), Elephant Mountain (Taipei).
+
+### 4. Food Enthusiasts
+
+* Recommended Spots: Night markets, food streets, local cuisine restaurants, culinary workshops.
+* Example Spots: Shilin Night Market (Taipei), Ningxia Night Market (Taipei).
+
+### 5. Family-Friendly Travelers
+
+* Recommended Spots: Zoos, amusement parks, aquariums, science museums.
+* Example Spots: Taipei Zoo, National Taiwan Science Education Center.
+
+### 6. Romantic Couples
+
+* Recommended Spots: Scenic viewpoints, sunset beaches, romantic restaurants, themed cafes.
+* Example Spots: Tamsui Fisherman’s Wharf (Taipei), Maokong Gondola.
+
+## Travel Pace and Itinerary Planning
+
+### 1. Relaxed Travel (3-4 spots per day)
+
+* Suitable for those who prefer a leisurely pace.
+* Example: Morning - Visit a museum, Afternoon - Enjoy a park, Evening - Stroll at a night market.
+
+### 2. Balanced Travel (5-6 spots per day)
+
+* A mix of exploration and relaxation.
+* Example: Morning - Mountain hike, Afternoon - Cultural site, Evening - Night market.
+
+### 3. Intensive Travel (7-8 spots per day)
+
+* Ideal for those who want to maximize their experience in a short time.
+* Example: Morning - Temple visit, Afternoon - Multiple museums, Evening - Food tour.
+
+## Recommendations by Duration
+
+* Half-Day Trips: Select 2-3 major attractions in close proximity.
+* Full-Day Trips: Choose 4-6 attractions, mix indoor and outdoor options.
+* Multi-Day Trips: Plan a mix of cultural, natural, and culinary experiences.
+
+## How to Use This Guide
+
+This guide can be used by the ScenicSpotRAG system to provide customized travel recommendations based on user preferences, ensuring a more personalized and satisfying travel experience.
